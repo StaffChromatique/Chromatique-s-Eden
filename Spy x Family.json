@@ -1,6 +1,7 @@
 {
   "title": "Spy × Family (Official Colored)",
-  "description": "Dans un monde fictif, un espion doit former une fausse famille pour accomplir sa mission. Mais sa fille adoptive est télépathe et sa femme est tueuse à gages.",
+  "description": "Sauvez le monde avec l'élite des agents (très) spéciaux : la famille Forger ! Une comédie d'espionnage pétillante !
+Twilight, le plus grand espion du monde, doit pour sa nouvelle mission créer une famille de toutes pièces afin de pouvoir s'introduire dans la plus prestigieuse école de l'aristocratie. Totalement dépourvu d'expérience familiale, il va adopter une petite fille en ignorant qu'elle est télépathe, et s'associer à une jeune femme timide, sans se douter qu'elle est une redoutable tueuse à gages. Ce trio atypique va devoir composer pour passer inaperçu, tout en découvrant les vraies valeurs d'une famille unie et aimante.",
   "artist": "Tatsuya Endo",
   "author": "Tatsuya Endo",
   "cover": "https://files.catbox.moe/8zcmgw.jpg",
@@ -483,7 +484,7 @@
         ]
       }
     },
-    "011": {
+    "011.1 {
       "title": "Mission Bonus",
       "volume": "2",
       "last_updated": "1757540377",
@@ -752,7 +753,38 @@
       }
     },
     "017": {
-      "title": "Mission 017.1",
+      "title": "Mission 017",
+      "volume": "3",
+      "last_updated": "1757536981",
+      "groups": {
+        "Chromatique": [
+          "https://files.catbox.moe/3qfz3m.jpg",
+          "https://files.catbox.moe/pcgtal.jpg",
+          "https://files.catbox.moe/x28h42.jpg",
+          "https://files.catbox.moe/p8nuv8.jpg",
+          "https://files.catbox.moe/6k6fe8.jpg",
+          "https://files.catbox.moe/k2ak0u.jpg",
+          "https://files.catbox.moe/czsb1m.jpg",
+          "https://files.catbox.moe/ibaias.jpg",
+          "https://files.catbox.moe/q9ogpb.jpg",
+          "https://files.catbox.moe/v3f5x0.jpg",
+          "https://files.catbox.moe/1p1m4p.jpg",
+          "https://files.catbox.moe/42ymsx.jpg",
+          "https://files.catbox.moe/sv8hc5.jpg",
+          "https://files.catbox.moe/rkev4g.jpg",
+          "https://files.catbox.moe/9r38tm.jpg",
+          "https://files.catbox.moe/59kwft.jpg",
+          "https://files.catbox.moe/0xjozh.jpg",
+          "https://files.catbox.moe/qapjhc.jpg",
+          "https://files.catbox.moe/vwzuyh.jpg",
+          "https://files.catbox.moe/mdd6gt.jpg",
+          "https://files.catbox.moe/71t6j2.jpg",
+          "https://files.catbox.moe/hbpkv6.jpg",
+        ]
+      }
+    },
+	"017.1": {
+      "title": "Extra Mission 2",
       "volume": "3",
       "last_updated": "1757536981",
       "groups": {
@@ -985,8 +1017,62 @@
         ]
       }
     },
-    "023": {
-      "title": "Mission 023.2",
+    "023.1": {
+      "title": "Mission 023",
+      "volume": "4",
+      "last_updated": "1757537486",
+      "groups": {
+        "Chromatique": [
+"https://files.catbox.moe/hndcse.jpg",
+"https://files.catbox.moe/wlnee7.jpg",
+"https://files.catbox.moe/p0t6j7.jpg",
+"https://files.catbox.moe/1p60e1.jpg",
+"https://files.catbox.moe/lvvzpr.jpg",
+"https://files.catbox.moe/e58fgg.jpg",
+"https://files.catbox.moe/n8j1n9.jpg",
+"https://files.catbox.moe/qcxp4m.jpg",
+"https://files.catbox.moe/xzuae4.jpg",
+"https://files.catbox.moe/88x9w8.jpg",
+"https://files.catbox.moe/5li0wk.jpg",
+"https://files.catbox.moe/86oqzk.jpg",
+"https://files.catbox.moe/z5l000.jpg",
+"https://files.catbox.moe/scc33w.jpg",
+"https://files.catbox.moe/clvyd2.jpg",
+"https://files.catbox.moe/szuwcy.jpg",
+"https://files.catbox.moe/ygqxty.jpg",
+"https://files.catbox.moe/127bh4.jpg",
+"https://files.catbox.moe/r4xm9h.jpg",
+"https://files.catbox.moe/9tgyoa.jpg",
+"https://files.catbox.moe/fy66si.jpg",
+"https://files.catbox.moe/n00wbb.jpg",
+"https://files.catbox.moe/3f9ro5.jpg",
+"https://files.catbox.moe/nwf3do.jpg",
+"https://files.catbox.moe/m4qsjn.jpg"
+        ]
+      }
+    },
+    "023.1": {
+      "title": "Extra Mission 1",
+      "volume": "4",
+      "last_updated": "1757537486",
+      "groups": {
+        "Chromatique": [
+"https://files.catbox.moe/hndcse.jpg",
+"https://files.catbox.moe/hgcbgi.jpg",
+"https://files.catbox.moe/lrb1v7.jpg",
+"https://files.catbox.moe/e513vx.jpg",
+"https://files.catbox.moe/y3w8zy.jpg",
+"https://files.catbox.moe/qaak4k.jpg",
+"https://files.catbox.moe/c79nko.jpg",
+"https://files.catbox.moe/44epz6.jpg",
+"https://files.catbox.moe/ydgn4v.jpg",
+"https://files.catbox.moe/foyri1.jpg",
+"https://files.catbox.moe/i63ja2.jpg"
+        ]
+      }
+    },
+    "023.2": {
+      "title": "Extra Mission 2",
       "volume": "4",
       "last_updated": "1757537486",
       "groups": {
@@ -1232,6 +1318,46 @@
       "last_updated": "1757538027",
       "groups": {
         "Chromatique": [
+"https://files.catbox.moe/hndcse.jpg",
+"https://files.catbox.moe/yxsy2l.jpg",
+"https://files.catbox.moe/akif2i.jpg",
+"https://files.catbox.moe/77csvu.jpg",
+"https://files.catbox.moe/uccf1j.jpg",
+"https://files.catbox.moe/uw5h7m.jpg",
+"https://files.catbox.moe/pukxbe.jpg",
+"https://files.catbox.moe/a24ljl.jpg",
+"https://files.catbox.moe/83s2a8.jpg",
+"https://files.catbox.moe/xl2qyc.jpg",
+"https://files.catbox.moe/pqmcek.jpg",
+"https://files.catbox.moe/6efmtz.jpg",
+"https://files.catbox.moe/nv55jp.jpg",
+"https://files.catbox.moe/quyuas.jpg",
+"https://files.catbox.moe/y8814n.jpg",
+"https://files.catbox.moe/n05tf6.jpg",
+"https://files.catbox.moe/0fnoc6.jpg",
+"https://files.catbox.moe/9qmoyq.jpg",
+"https://files.catbox.moe/99mxvt.jpg",
+"https://files.catbox.moe/10lncd.jpg",
+"https://files.catbox.moe/r8x6x3.jpg",
+"https://files.catbox.moe/x7hs28.jpg",
+"https://files.catbox.moe/hq1cuk.jpg",
+"https://files.catbox.moe/wlqz0p.jpg",
+"https://files.catbox.moe/988w1e.jpg",
+"https://files.catbox.moe/5o70jd.jpg",
+"https://files.catbox.moe/e494se.jpg",
+"https://files.catbox.moe/gfm4zw.jpg",
+"https://files.catbox.moe/4ehxyu.jpg",
+"https://files.catbox.moe/ixf1u3.jpg",
+"https://files.catbox.moe/f1jx73.jpg"
+        ]
+      }
+    },
+    "030.1": {
+      "title": "Extra Mission 3",
+      "volume": "5",
+      "last_updated": "1757538027",
+      "groups": {
+        "Chromatique": [
           "https://files.catbox.moe/hndcse.jpg",
           "https://files.catbox.moe/2u4sni.jpg",
           "https://files.catbox.moe/9c8oon.jpg",
@@ -1253,7 +1379,7 @@
           "https://files.catbox.moe/ajy4xg.jpg"
         ]
       }
-    },
+    },	
     "031": {
       "title": "Mission 031",
       "volume": "6",
@@ -1473,8 +1599,47 @@
         ]
       }
     },
+    "037": {
+      "title": "Mission 037",
+      "volume": "6",
+      "last_updated": "1757538554",
+      "groups": {
+        "Chromatique": [
+"https://files.catbox.moe/hndcse.jpg",
+"https://files.catbox.moe/4fxrfc.jpg",
+"https://files.catbox.moe/yrv7z7.jpg",
+"https://files.catbox.moe/2j2qix.jpg",
+"https://files.catbox.moe/2dqavx.jpg",
+"https://files.catbox.moe/7hrkcx.jpg",
+"https://files.catbox.moe/aizbk1.jpg",
+"https://files.catbox.moe/48jz43.jpg",
+"https://files.catbox.moe/u9wvwc.jpg",
+"https://files.catbox.moe/qdsrr6.jpg",
+"https://files.catbox.moe/f1b3pm.jpg",
+"https://files.catbox.moe/jbjab1.jpg",
+"https://files.catbox.moe/esoq5k.jpg",
+"https://files.catbox.moe/2cpzcm.jpg",
+"https://files.catbox.moe/fwnqsl.jpg",
+"https://files.catbox.moe/h3wz8d.jpg",
+"https://files.catbox.moe/o0s0rt.jpg",
+"https://files.catbox.moe/cwk3t4.jpg",
+"https://files.catbox.moe/6ro9qx.jpg",
+"https://files.catbox.moe/cbh57l.jpg",
+"https://files.catbox.moe/u7cye4.jpg",
+"https://files.catbox.moe/6cbcnv.jpg",
+"https://files.catbox.moe/wcfhl1.jpg",
+"https://files.catbox.moe/4jncrb.jpg",
+"https://files.catbox.moe/ttm2rc.jpg",
+"https://files.catbox.moe/yxul87.jpg",
+"https://files.catbox.moe/nn2oxi.jpg",
+"https://files.catbox.moe/3yiqzk.jpg",
+"https://files.catbox.moe/d4pn16.jpg",
+"https://files.catbox.moe/656n0e.jpg"
+        ]
+      }
+    },
     "037.1": {
-      "title": "Mission 037.1",
+      "title": "Extra Mission 4",
       "volume": "6",
       "last_updated": "1757538554",
       "groups": {
@@ -1493,6 +1658,6 @@
           "https://files.catbox.moe/e10drd.jpg"
         ]
       }
-    }
+    }	
   }
 }
