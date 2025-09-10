@@ -5,7 +5,7 @@
   "author": "Auteur",
   "cover": "https://exemple.com/cover.jpg",
   "chapters": {
-    "C001": {
+    "001": {
       "title": "Chapitre 001 - L'aube",
       "volume": "1",
       "last_updated": "1757531016",
@@ -737,3 +737,4 @@
   }
 
 }
+
