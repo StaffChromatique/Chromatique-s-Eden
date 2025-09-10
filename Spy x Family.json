@@ -5,44 +5,6 @@
   "author": "Tatsuya Endo",
   "cover": "https://files.catbox.moe/8zcmgw.jpg",
   "chapters": {
-    "11": {
-      "title": "Mission 011",
-      "volume": "2",
-      "last_updated": "1757540377",
-      "groups": {
-        "Chromatique": [
-          "https://files.catbox.moe/ppmx07.jpg",
-          "https://files.catbox.moe/rp13vs.jpg",
-          "https://files.catbox.moe/ddc7rx.jpg",
-          "https://files.catbox.moe/i5r90t.jpg",
-          "https://files.catbox.moe/25nnnl.jpg",
-          "https://files.catbox.moe/s4ig7t.jpg",
-          "https://files.catbox.moe/aucxof.jpg",
-          "https://files.catbox.moe/4kv25x.jpg",
-          "https://files.catbox.moe/buygq6.jpg",
-          "https://files.catbox.moe/hj74wv.jpg",
-          "https://files.catbox.moe/fhkpgq.jpg",
-          "https://files.catbox.moe/rnrq63.jpg",
-          "https://files.catbox.moe/9q4yba.jpg",
-          "https://files.catbox.moe/d7ifzw.jpg",
-          "https://files.catbox.moe/b1bgmp.jpg",
-          "https://files.catbox.moe/hwpmw3.jpg",
-          "https://files.catbox.moe/qog8wh.jpg",
-          "https://files.catbox.moe/vo02os.jpg",
-          "https://files.catbox.moe/j778ve.jpg",
-          "https://files.catbox.moe/bv9my2.jpg",
-          "https://files.catbox.moe/29bvyi.jpg",
-          "https://files.catbox.moe/vavfnr.jpg",
-          "https://files.catbox.moe/hcn7pu.jpg",
-          "https://files.catbox.moe/73ffix.jpg",
-          "https://files.catbox.moe/sj2666.jpg",
-          "https://files.catbox.moe/i0mycu.jpg",
-          "https://files.catbox.moe/ih2hkx.jpg",
-          "https://files.catbox.moe/dyl50f.jpg",
-          "https://files.catbox.moe/le0bqt.jpg"
-        ]
-      }
-    },
     "001": {
       "title": "Mission 001",
       "volume": "1",
@@ -480,6 +442,82 @@
           "https://files.catbox.moe/mtwxl6.jpg",
           "https://files.catbox.moe/6wv9q8.jpg",
           "https://files.catbox.moe/ih1gq9.jpg"
+        ]
+      }
+    },
+    "011": {
+      "title": "Mission 011",
+      "volume": "2",
+      "last_updated": "1757540377",
+      "groups": {
+        "Chromatique": [
+          "https://files.catbox.moe/ppmx07.jpg",
+          "https://files.catbox.moe/rp13vs.jpg",
+          "https://files.catbox.moe/ddc7rx.jpg",
+          "https://files.catbox.moe/i5r90t.jpg",
+          "https://files.catbox.moe/25nnnl.jpg",
+          "https://files.catbox.moe/s4ig7t.jpg",
+          "https://files.catbox.moe/aucxof.jpg",
+          "https://files.catbox.moe/4kv25x.jpg",
+          "https://files.catbox.moe/buygq6.jpg",
+          "https://files.catbox.moe/hj74wv.jpg",
+          "https://files.catbox.moe/fhkpgq.jpg",
+          "https://files.catbox.moe/rnrq63.jpg",
+          "https://files.catbox.moe/9q4yba.jpg",
+          "https://files.catbox.moe/d7ifzw.jpg",
+          "https://files.catbox.moe/b1bgmp.jpg",
+          "https://files.catbox.moe/hwpmw3.jpg",
+          "https://files.catbox.moe/qog8wh.jpg",
+          "https://files.catbox.moe/vo02os.jpg",
+          "https://files.catbox.moe/j778ve.jpg",
+          "https://files.catbox.moe/bv9my2.jpg",
+          "https://files.catbox.moe/29bvyi.jpg",
+          "https://files.catbox.moe/vavfnr.jpg",
+          "https://files.catbox.moe/hcn7pu.jpg",
+          "https://files.catbox.moe/73ffix.jpg",
+          "https://files.catbox.moe/sj2666.jpg",
+          "https://files.catbox.moe/i0mycu.jpg",
+          "https://files.catbox.moe/ih2hkx.jpg",
+          "https://files.catbox.moe/dyl50f.jpg",
+          "https://files.catbox.moe/le0bqt.jpg"
+        ]
+      }
+    },
+    "011": {
+      "title": "Mission Bonus",
+      "volume": "2",
+      "last_updated": "1757540377",
+      "groups": {
+        "Chromatique": [
+          "https://files.catbox.moe/ppmx07.jpg",
+          "https://files.catbox.moe/rp13vs.jpg",
+          "https://files.catbox.moe/ddc7rx.jpg",
+          "https://files.catbox.moe/i5r90t.jpg",
+          "https://files.catbox.moe/25nnnl.jpg",
+          "https://files.catbox.moe/s4ig7t.jpg",
+          "https://files.catbox.moe/aucxof.jpg",
+          "https://files.catbox.moe/4kv25x.jpg",
+          "https://files.catbox.moe/buygq6.jpg",
+          "https://files.catbox.moe/hj74wv.jpg",
+          "https://files.catbox.moe/fhkpgq.jpg",
+          "https://files.catbox.moe/rnrq63.jpg",
+          "https://files.catbox.moe/9q4yba.jpg",
+          "https://files.catbox.moe/d7ifzw.jpg",
+          "https://files.catbox.moe/b1bgmp.jpg",
+          "https://files.catbox.moe/hwpmw3.jpg",
+          "https://files.catbox.moe/qog8wh.jpg",
+          "https://files.catbox.moe/vo02os.jpg",
+          "https://files.catbox.moe/j778ve.jpg",
+          "https://files.catbox.moe/bv9my2.jpg",
+          "https://files.catbox.moe/29bvyi.jpg",
+          "https://files.catbox.moe/vavfnr.jpg",
+          "https://files.catbox.moe/hcn7pu.jpg",
+          "https://files.catbox.moe/73ffix.jpg",
+          "https://files.catbox.moe/sj2666.jpg",
+          "https://files.catbox.moe/i0mycu.jpg",
+          "https://files.catbox.moe/ih2hkx.jpg",
+          "https://files.catbox.moe/dyl50f.jpg",
+          "https://files.catbox.moe/le0bqt.jpg"
         ]
       }
     },
