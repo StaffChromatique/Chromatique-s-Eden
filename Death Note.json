@@ -1,9 +1,9 @@
 {
   "title": "Death Note",
-  "description": "Description de la série",
-  "artist": "Auteur/Artiste",
-  "author": "Auteur",
-  "cover": "https://files.catbox.moe/tot68f.jpg",
+  "description": "Light Yagami est un jeune lycéen de 17 ans qui possède toutes les qualités pour devenir un brillant policier comme son père, mais il s'ennuie. Les cours lui semblent trop simple, et la vie trop ennuyeuse. Un jour, il trouve le Death Note d'un Shinigami (un Dieu de la Mort). Il y est écrit que chaque nom de personne inscrit provoquera la mort de celle-ci, par crise cardiaque, ou par accident au choix de l'utilisateur.\n\nTout d'abord, Light n'y croit pas, puis il y voit une excellente occasion de débarrasser le monde des malfrats, assassins et autres bandits. Une intention que les gouvernements verront bientôt comme une menace. Ils feront alors appel à L, un célèbre détective, pour démasquer celui que ses fans appellent Kira.",
+  "artist": "Obata Takeshi / Ohba Tsugumi",
+  "author": "Obata Takeshi / Ohba Tsugumi",
+  "cover": "https://files.catbox.moe/gbyvgu.png",
   "chapters": {
     "1": {
       "title": "Ennui",
