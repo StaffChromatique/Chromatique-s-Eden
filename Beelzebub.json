@@ -5,10 +5,10 @@
   "author": "Auteur",
   "cover": "https://exemple.com/cover.jpg",
   "chapters": {
-    "1": {
-      "title": "Chapitre 001 - J’ai recueilli le diable",
+    "001": {
+      "title": "J’ai recueilli le diable",
       "volume": "1",
-      "last_updated": "1758132814",
+      "last_updated": "1758133978",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/h7qs28.jpg",
@@ -74,10 +74,10 @@
         ]
       }
     },
-    "2": {
-      "title": "Chapitre 002 - Caïd & Cub",
+    "002": {
+      "title": "Caïd & Cub",
       "volume": "1",
-      "last_updated": "1758132823",
+      "last_updated": "1758134047",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/577nvk.jpg",
@@ -110,10 +110,10 @@
         ]
       }
     },
-    "3": {
-      "title": "Chapitre 003 - Un salaud fort et dangereux",
+    "003": {
+      "title": "Un salaud fort et dangereux",
       "volume": "1",
-      "last_updated": "1758132833",
+      "last_updated": "1758134110",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/swyt00.jpg",
@@ -142,10 +142,10 @@
         ]
       }
     },
-    "4": {
-      "title": "Chapitre 004 - Fly !!",
+    "004": {
+      "title": "Fly !!",
       "volume": "1",
-      "last_updated": "1758132842",
+      "last_updated": "1758134167",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/264t46.jpg",
@@ -171,10 +171,10 @@
         ]
       }
     },
-    "5": {
-      "title": "Chapitre 005 - Comme si tu étais sa mère",
+    "005": {
+      "title": "Comme si tu étais sa mère",
       "volume": "1",
-      "last_updated": "1758132849",
+      "last_updated": "1758134218",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/3ovjf1.jpg",
@@ -200,10 +200,10 @@
         ]
       }
     },
-    "6": {
-      "title": "Chapitre 006 - Ça",
+    "006": {
+      "title": "Ça",
       "volume": "1",
-      "last_updated": "1758132856",
+      "last_updated": "1758134264",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/i8lcbr.jpg",
@@ -228,10 +228,10 @@
         ]
       }
     },
-    "7": {
-      "title": "Chapitre 007 - J’arrête la baston",
+    "007": {
+      "title": "J’arrête la baston",
       "volume": "1",
-      "last_updated": "1758132868",
+      "last_updated": "1758134312",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/ln3xvz.jpg",
@@ -257,10 +257,10 @@
         ]
       }
     },
-    "8": {
-      "title": "Chapitre 008 - Viendra Viendra pas",
+    "008": {
+      "title": "Viendra ? Viendra pas ?",
       "volume": "2",
-      "last_updated": "1758132877",
+      "last_updated": "1758134363",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/vylvv6.jpg",
@@ -287,10 +287,10 @@
         ]
       }
     },
-    "9": {
-      "title": "Chapitre 009 - Un homme",
+    "009": {
+      "title": "Un homme...",
       "volume": "2",
-      "last_updated": "1758132887",
+      "last_updated": "1758134409",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/vpk9r4.jpg",
@@ -315,10 +315,10 @@
         ]
       }
     },
-    "10": {
-      "title": "Chapitre 010 - Naissance d’un amour",
+    "010": {
+      "title": "Naissance d’un amour",
       "volume": "2",
-      "last_updated": "1758132897",
+      "last_updated": "1758134468",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/sx7l7x.jpg",
@@ -348,10 +348,10 @@
         ]
       }
     },
-    "11": {
-      "title": "Chapitre 011 - Mes premiers pas au jardin public",
+    "011": {
+      "title": "Mes premiers pas au jardin public",
       "volume": "2",
-      "last_updated": "1758132909",
+      "last_updated": "1758134516",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/oehoml.jpg",
@@ -377,10 +377,10 @@
         ]
       }
     },
-    "12": {
-      "title": "Chapitre 012 - Les jeux du Diable pour tuer le temps",
+    "012": {
+      "title": "Les jeux du Diable pour tuer le temps",
       "volume": "2",
-      "last_updated": "1758132917",
+      "last_updated": "1758134571",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/3szj05.jpg",
@@ -409,10 +409,10 @@
         ]
       }
     },
-    "13": {
-      "title": "Chapitre 013 - Les retrouvailles d’un homme et d’une femme",
+    "013": {
+      "title": "Les retrouvailles d’un homme et d’une femme",
       "volume": "2",
-      "last_updated": "1758132926",
+      "last_updated": "1758134623",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/oyckua.jpg",
@@ -437,10 +437,10 @@
         ]
       }
     },
-    "14": {
-      "title": "Chapitre 014 - Retrouvailles inéluctables",
+    "014": {
+      "title": "Retrouvailles inéluctables",
       "volume": "2",
-      "last_updated": "1758132935",
+      "last_updated": "1758134669",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/cvhfbr.jpg",
@@ -465,10 +465,10 @@
         ]
       }
     },
-    "15": {
-      "title": "Chapitre 015 - L’ouragan de l’amour",
+    "015": {
+      "title": "L’ouragan de l’amour",
       "volume": "2",
-      "last_updated": "1758132947",
+      "last_updated": "1758134718",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/yr047p.jpg",
@@ -494,10 +494,10 @@
         ]
       }
     },
-    "16": {
-      "title": "Chapitre 016 - Deux femmes",
+    "016": {
+      "title": "Deux femmes",
       "volume": "3",
-      "last_updated": "1758132955",
+      "last_updated": "1758134776",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/exh9t2.jpg",
@@ -527,10 +527,10 @@
         ]
       }
     },
-    "17": {
-      "title": "Chapitre 017 - Jamais je ne te pardonnerai",
+    "017": {
+      "title": "Jamais je ne te pardonnerai",
       "volume": "3",
-      "last_updated": "1758132962",
+      "last_updated": "1758134822",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/etqw1v.jpg",
@@ -555,10 +555,10 @@
         ]
       }
     },
-    "18": {
-      "title": "Chapitre 018 - C’est un duel",
+    "018": {
+      "title": "C’est un duel",
       "volume": "3",
-      "last_updated": "1758132972",
+      "last_updated": "1758134876",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/rm1uw8.jpg",
@@ -586,10 +586,10 @@
         ]
       }
     },
-    "19": {
-      "title": "Chapitre 019 - C’est la fin du duel",
+    "019": {
+      "title": "C’est la fin du duel",
       "volume": "3",
-      "last_updated": "1758132980",
+      "last_updated": "1758134932",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/2szuuj.jpg",
@@ -616,10 +616,10 @@
         ]
       }
     },
-    "20": {
-      "title": "Chapitre 020 - Défaite",
+    "020": {
+      "title": "Défaite",
       "volume": "3",
-      "last_updated": "1758132989",
+      "last_updated": "1758134990",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/f5rymf.jpg",
@@ -645,10 +645,10 @@
         ]
       }
     },
-    "21": {
-      "title": "Chapitre 021 - C’est ça qu’on appelle l’été !",
+    "021": {
+      "title": "C’est ça qu’on appelle l’été !",
       "volume": "3",
-      "last_updated": "1758132996",
+      "last_updated": "1758135050",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/ref27s.jpg",
@@ -673,10 +673,10 @@
         ]
       }
     },
-    "22": {
-      "title": "Chapitre 022 - C’est qu’il ne manque pas de cran, le garçon !",
+    "022": {
+      "title": "C’est qu’il ne manque pas de cran, le garçon !",
       "volume": "3",
-      "last_updated": "1758133006",
+      "last_updated": "1758135127",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/u6v5oa.jpg",
@@ -703,10 +703,10 @@
         ]
       }
     },
-    "23": {
-      "title": "Chapitre 023 - Entrée en scène !!",
+    "023": {
+      "title": "Entrée en scène !!",
       "volume": "4",
-      "last_updated": "1758133014",
+      "last_updated": "1758135181",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/dj9058.jpg",
@@ -732,10 +732,10 @@
         ]
       }
     },
-    "24": {
-      "title": "Chapitre 024 - Va-t’en",
+    "024": {
+      "title": "Va-t’en",
       "volume": "4",
-      "last_updated": "1758133024",
+      "last_updated": "1758135234",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/2ychjy.jpg",
@@ -761,10 +761,10 @@
         ]
       }
     },
-    "25": {
-      "title": "Chapitre 025 - Net et sans bavure",
+    "025": {
+      "title": "Net et sans bavure",
       "volume": "4",
-      "last_updated": "1758133032",
+      "last_updated": "1758135283",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/ih4j2e.jpg",
@@ -790,10 +790,10 @@
         ]
       }
     },
-    "26": {
-      "title": "Chapitre 026 - Le combat",
+    "026": {
+      "title": "Le combat",
       "volume": "4",
-      "last_updated": "1758133040",
+      "last_updated": "1758135335",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/paaj8j.jpg",
@@ -820,10 +820,10 @@
         ]
       }
     },
-    "27": {
-      "title": "Chapitre 027 - Je me suis bien marré",
+    "027": {
+      "title": "Je me suis bien marré",
       "volume": "4",
-      "last_updated": "1758133047",
+      "last_updated": "1758135383",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/s59xzc.jpg",
@@ -848,10 +848,10 @@
         ]
       }
     },
-    "28": {
-      "title": "Chapitre 028 - Le docteur est là",
+    "028": {
+      "title": "Le docteur est là",
       "volume": "4",
-      "last_updated": "1758133053",
+      "last_updated": "1758135446",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/xlldx1.jpg",
@@ -877,10 +877,10 @@
         ]
       }
     },
-    "29": {
-      "title": "Chapitre 029 - Ça va pas la tête !",
+    "029": {
+      "title": "Ça va pas la tête ?!",
       "volume": "4",
-      "last_updated": "1758133060",
+      "last_updated": "1758135500",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/xx9f75.jpg",
@@ -905,10 +905,10 @@
         ]
       }
     },
-    "30": {
-      "title": "Chapitre 030 - Sois des nôtres",
+    "030": {
+      "title": "Sois des nôtres",
       "volume": "4",
-      "last_updated": "1758133069",
+      "last_updated": "1758135568",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/p7l6ke.jpg",
@@ -937,10 +937,10 @@
         ]
       }
     },
-    "31": {
-      "title": "Chapitre 031 - Rassemblement général",
+    "031": {
+      "title": "Rassemblement général",
       "volume": "4",
-      "last_updated": "1758133075",
+      "last_updated": "1758135606",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/vqr9gj.jpg",
@@ -961,10 +961,10 @@
         ]
       }
     },
-    "32": {
-      "title": "Chapitre 032 - Feux d’artifice et baston  spécialités d’Ishiyama !",
+    "032": {
+      "title": "Feux d’artifice et baston : spécialités d’Ishiyama !",
       "volume": "5",
-      "last_updated": "1758133084",
+      "last_updated": "1758135657",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/veykm3.jpg",
@@ -990,10 +990,10 @@
         ]
       }
     },
-    "33": {
-      "title": "Chapitre 033 - Lequel choisir !",
+    "033": {
+      "title": "Lequel choisir ?!",
       "volume": "5",
-      "last_updated": "1758133090",
+      "last_updated": "1758135709",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/mo3i7x.jpg",
@@ -1018,10 +1018,10 @@
         ]
       }
     },
-    "34": {
-      "title": "Chapitre 034 - Mon père, c’est lui !",
+    "034": {
+      "title": "Mon père, c’est lui !",
       "volume": "5",
-      "last_updated": "1758133099",
+      "last_updated": "1758135769",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/44afdw.jpg",
@@ -1047,10 +1047,10 @@
         ]
       }
     },
-    "35": {
-      "title": "Chapitre 035 - T’en mêle pas",
+    "035": {
+      "title": "T’en mêle pas",
       "volume": "5",
-      "last_updated": "1758133107",
+      "last_updated": "1758135832",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/rax3ld.jpg",
@@ -1077,10 +1077,10 @@
         ]
       }
     },
-    "36": {
-      "title": "Chapitre 036 - J’ai gagné",
+    "036": {
+      "title": "J’ai gagné",
       "volume": "5",
-      "last_updated": "1758133115",
+      "last_updated": "1758135883",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/bg7nzh.jpg",
@@ -1105,10 +1105,10 @@
         ]
       }
     },
-    "37": {
-      "title": "Chapitre 037 - L’homme le plus fort d’Ishiyama",
+    "037": {
+      "title": "L’homme le plus fort d’Ishiyama",
       "volume": "5",
-      "last_updated": "1758133123",
+      "last_updated": "1758135947",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/ct4j5f.jpg",
@@ -1133,10 +1133,10 @@
         ]
       }
     },
-    "38": {
-      "title": "Chapitre 038 - À la fin de l’été",
+    "038": {
+      "title": "À la fin de l’été",
       "volume": "5",
-      "last_updated": "1758133130",
+      "last_updated": "1758136028",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/gxuyxl.jpg",
@@ -1162,10 +1162,10 @@
         ]
       }
     },
-    "39": {
-      "title": "Chapitre 039 - Reclus en montagne",
+    "039": {
+      "title": "Reclus en montagne",
       "volume": "5",
-      "last_updated": "1758133139",
+      "last_updated": "1758136386",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/59s9eu.jpg",
@@ -1192,10 +1192,10 @@
         ]
       }
     },
-    "40": {
-      "title": "Chapitre 040 - Le plus fort des papis",
+    "040": {
+      "title": "Le plus fort des papis",
       "volume": "6",
-      "last_updated": "1758133150",
+      "last_updated": "1758136460",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/uos9z6.jpg",
@@ -1226,10 +1226,10 @@
         ]
       }
     },
-    "41": {
-      "title": "Chapitre 041 - Faut pas s’enfer",
+    "041": {
+      "title": "Faut pas s’enfer ?",
       "volume": "6",
-      "last_updated": "1758133158",
+      "last_updated": "1758136528",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/fumqgs.jpg",
@@ -1256,10 +1256,10 @@
         ]
       }
     },
-    "42": {
-      "title": "Chapitre 042 - Il est mort, l’autre",
+    "042": {
+      "title": "Il est mort, l’autre",
       "volume": "6",
-      "last_updated": "1758133167",
+      "last_updated": "1758136585",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/n1j1pb.jpg",
@@ -1283,10 +1283,10 @@
         ]
       }
     },
-    "43": {
-      "title": "Chapitre 043 - Des ennemis, hein",
+    "043": {
+      "title": "Des ennemis, hein ?",
       "volume": "6",
-      "last_updated": "1758133174",
+      "last_updated": "1758136642",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/743hoj.jpg",
@@ -1311,10 +1311,10 @@
         ]
       }
     },
-    "44": {
-      "title": "Chapitre 044 - Angelica",
+    "044": {
+      "title": "Angelica",
       "volume": "6",
-      "last_updated": "1758133181",
+      "last_updated": "1758136722",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/l37ynm.jpg",
@@ -1337,10 +1337,10 @@
         ]
       }
     },
-    "45": {
-      "title": "Chapitre 045 - Grandis !",
+    "045": {
+      "title": "Grandis !",
       "volume": "6",
-      "last_updated": "1758133188",
+      "last_updated": "1758136816",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/jjuyxu.jpg",
@@ -1366,10 +1366,10 @@
         ]
       }
     },
-    "46": {
-      "title": "Chapitre 046 - Giant Baby Beel !!",
+    "046": {
+      "title": "Giant Baby Beel !!",
       "volume": "6",
-      "last_updated": "1758133198",
+      "last_updated": "1758136889",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/87m0fy.jpg",
@@ -1391,10 +1391,10 @@
         ]
       }
     },
-    "47": {
-      "title": "Chapitre 047 - Fin de l’aventure",
+    "047": {
+      "title": "Fin de l’aventure",
       "volume": "6",
-      "last_updated": "1758133205",
+      "last_updated": "1758136989",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/ir607f.jpg",
