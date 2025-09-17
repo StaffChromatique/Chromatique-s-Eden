@@ -1,14 +1,14 @@
 {
   "title": "Beelzebub",
-  "description": "Description de la série",
-  "artist": "Auteur/Artiste",
-  "author": "Auteur",
-  "cover": "https://exemple.com/cover.jpg",
+  "description": "Beelzebub ( べるぜバブ , Beruzebabu ? ) est un manga écrit et dessiné par Ryūhei Tamura . Il a été prépublié entre février 2009 et février 2014 dans le magazine Weekly Shōnen Jump de l'éditeur Shūeisha et a été compilé en un total de vingt-huit tomes. La version française est éditée par Kazé depuis avril 2011 , et vingt-huit tomes sont sortis en octobre 2015 .",
+  "artist": "Ryūhei Tamura",
+  "author": "Ryūhei Tamura",
+  "cover": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Beelzebub_Anime_%28Logo%29.png/250px-Beelzebub_Anime_%28Logo%29.png",
   "chapters": {
     "001": {
       "title": "J’ai recueilli le diable",
-      "volume": "1",
-      "last_updated": "1758143254",
+      "volume": "01",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -76,8 +76,8 @@
     },
     "002": {
       "title": "Caïd & Cub",
-      "volume": "1",
-      "last_updated": "1758143263",
+      "volume": "01",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -113,8 +113,8 @@
     },
     "003": {
       "title": "Un salaud fort et dangereux",
-      "volume": "1",
-      "last_updated": "1758143271",
+      "volume": "01",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -146,8 +146,8 @@
     },
     "004": {
       "title": "Fly !!",
-      "volume": "1",
-      "last_updated": "1758143277",
+      "volume": "01",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -176,8 +176,8 @@
     },
     "005": {
       "title": "Comme si tu étais sa mère",
-      "volume": "1",
-      "last_updated": "1758143284",
+      "volume": "01",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -206,8 +206,8 @@
     },
     "006": {
       "title": "Ça",
-      "volume": "1",
-      "last_updated": "1758143290",
+      "volume": "01",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -235,8 +235,8 @@
     },
     "007": {
       "title": "J’arrête la baston",
-      "volume": "1",
-      "last_updated": "1758143297",
+      "volume": "01",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -265,8 +265,8 @@
     },
     "008": {
       "title": "Viendra ? Viendra pas ?",
-      "volume": "2",
-      "last_updated": "1758143334",
+      "volume": "02",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -295,8 +295,8 @@
     },
     "009": {
       "title": "Un homme...",
-      "volume": "2",
-      "last_updated": "1758143340",
+      "volume": "02",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -324,8 +324,8 @@
     },
     "010": {
       "title": "Naissance d’un amour",
-      "volume": "2",
-      "last_updated": "1758143348",
+      "volume": "02",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -358,8 +358,8 @@
     },
     "011": {
       "title": "Mes premiers pas au jardin public",
-      "volume": "2",
-      "last_updated": "1758143354",
+      "volume": "02",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -388,8 +388,8 @@
     },
     "012": {
       "title": "Les jeux du Diable pour tuer le temps",
-      "volume": "2",
-      "last_updated": "1758143362",
+      "volume": "02",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -421,8 +421,8 @@
     },
     "013": {
       "title": "Les retrouvailles d’un homme et d’une femme",
-      "volume": "2",
-      "last_updated": "1758143369",
+      "volume": "02",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -450,8 +450,8 @@
     },
     "014": {
       "title": "Retrouvailles inéluctables",
-      "volume": "2",
-      "last_updated": "1758143375",
+      "volume": "02",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -479,8 +479,8 @@
     },
     "015": {
       "title": "L’ouragan de l’amour",
-      "volume": "2",
-      "last_updated": "1758143382",
+      "volume": "02",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -509,8 +509,8 @@
     },
     "016": {
       "title": "Deux femmes",
-      "volume": "3",
-      "last_updated": "1758143392",
+      "volume": "03",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -542,8 +542,8 @@
     },
     "017": {
       "title": "Jamais je ne te pardonnerai",
-      "volume": "3",
-      "last_updated": "1758143398",
+      "volume": "03",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -571,8 +571,8 @@
     },
     "018": {
       "title": "C’est un duel",
-      "volume": "3",
-      "last_updated": "1758143409",
+      "volume": "03",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -603,8 +603,8 @@
     },
     "019": {
       "title": "C’est la fin du duel",
-      "volume": "3",
-      "last_updated": "1758143416",
+      "volume": "03",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -634,8 +634,8 @@
     },
     "020": {
       "title": "Défaite",
-      "volume": "3",
-      "last_updated": "1758143422",
+      "volume": "03",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -664,8 +664,8 @@
     },
     "021": {
       "title": "C’est ça qu’on appelle l’été !",
-      "volume": "3",
-      "last_updated": "1758143429",
+      "volume": "03",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -693,8 +693,8 @@
     },
     "022": {
       "title": "C’est qu’il ne manque pas de cran, le garçon !",
-      "volume": "3",
-      "last_updated": "1758143437",
+      "volume": "03",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -724,8 +724,8 @@
     },
     "023": {
       "title": "Entrée en scène !!",
-      "volume": "4",
-      "last_updated": "1758143445",
+      "volume": "04",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -753,8 +753,8 @@
     },
     "024": {
       "title": "Va-t’en",
-      "volume": "4",
-      "last_updated": "1758143453",
+      "volume": "04",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -783,8 +783,8 @@
     },
     "025": {
       "title": "Net et sans bavure",
-      "volume": "4",
-      "last_updated": "1758143459",
+      "volume": "04",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -813,8 +813,8 @@
     },
     "026": {
       "title": "Le combat",
-      "volume": "4",
-      "last_updated": "1758143466",
+      "volume": "04",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -844,8 +844,8 @@
     },
     "027": {
       "title": "Je me suis bien marré",
-      "volume": "4",
-      "last_updated": "1758143476",
+      "volume": "04",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -873,8 +873,8 @@
     },
     "028": {
       "title": "Le docteur est là",
-      "volume": "4",
-      "last_updated": "1758143482",
+      "volume": "04",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -903,8 +903,8 @@
     },
     "029": {
       "title": "Ça va pas la tête ?!",
-      "volume": "4",
-      "last_updated": "1758143488",
+      "volume": "04",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -932,8 +932,8 @@
     },
     "030": {
       "title": "Sois des nôtres",
-      "volume": "4",
-      "last_updated": "1758143496",
+      "volume": "04",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -965,8 +965,8 @@
     },
     "031": {
       "title": "Rassemblement général",
-      "volume": "4",
-      "last_updated": "1758143501",
+      "volume": "04",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -990,8 +990,8 @@
     },
     "032": {
       "title": "Feux d’artifice et baston : spécialités d’Ishiyama !",
-      "volume": "5",
-      "last_updated": "1758143510",
+      "volume": "05",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1019,8 +1019,8 @@
     },
     "033": {
       "title": "Lequel choisir ?!",
-      "volume": "5",
-      "last_updated": "1758143516",
+      "volume": "05",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1048,8 +1048,8 @@
     },
     "034": {
       "title": "Mon père, c’est lui !",
-      "volume": "5",
-      "last_updated": "1758143523",
+      "volume": "05",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1078,8 +1078,8 @@
     },
     "035": {
       "title": "T’en mêle pas",
-      "volume": "5",
-      "last_updated": "1758143530",
+      "volume": "05",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1109,8 +1109,8 @@
     },
     "036": {
       "title": "J’ai gagné",
-      "volume": "5",
-      "last_updated": "1758143536",
+      "volume": "05",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1138,8 +1138,8 @@
     },
     "037": {
       "title": "L’homme le plus fort d’Ishiyama",
-      "volume": "5",
-      "last_updated": "1758143546",
+      "volume": "05",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1167,8 +1167,8 @@
     },
     "038": {
       "title": "À la fin de l’été",
-      "volume": "5",
-      "last_updated": "1758143553",
+      "volume": "05",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1197,8 +1197,8 @@
     },
     "039": {
       "title": "Reclus en montagne",
-      "volume": "5",
-      "last_updated": "1758143562",
+      "volume": "05",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1228,8 +1228,8 @@
     },
     "040": {
       "title": "Le plus fort des papis",
-      "volume": "6",
-      "last_updated": "1758143572",
+      "volume": "06",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1262,8 +1262,8 @@
     },
     "041": {
       "title": "Faut pas s’enfer ?",
-      "volume": "6",
-      "last_updated": "1758143586",
+      "volume": "06",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1293,8 +1293,8 @@
     },
     "042": {
       "title": "Il est mort, l’autre",
-      "volume": "6",
-      "last_updated": "1758143595",
+      "volume": "06",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1321,8 +1321,8 @@
     },
     "043": {
       "title": "Des ennemis, hein ?",
-      "volume": "6",
-      "last_updated": "1758143603",
+      "volume": "06",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1350,8 +1350,8 @@
     },
     "044": {
       "title": "Angelica",
-      "volume": "6",
-      "last_updated": "1758143610",
+      "volume": "06",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1377,8 +1377,8 @@
     },
     "045": {
       "title": "Grandis !",
-      "volume": "6",
-      "last_updated": "1758143616",
+      "volume": "06",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1407,8 +1407,8 @@
     },
     "046": {
       "title": "Giant Baby Beel !!",
-      "volume": "6",
-      "last_updated": "1758143622",
+      "volume": "06",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
@@ -1433,8 +1433,8 @@
     },
     "047": {
       "title": "Fin de l’aventure",
-      "volume": "6",
-      "last_updated": "1758143628",
+      "volume": "06",
+      "last_updated": "1758148792",
       "groups": {
         "Chromatique": [
           "https://files.catbox.moe/up5rdb.jpg",
