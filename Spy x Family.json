@@ -1,5 +1,5 @@
 {
-  "title": "Spy × Family",
+  "title": "Spy × Family - Edition couleur",
   "description": "Sauvez le monde avec l'élite des agents (très) spéciaux : la famille Forger ! Une comédie d'espionnage pétillante !\nTwilight, le plus grand espion du monde, doit pour sa nouvelle mission créer une famille de toutes pièces afin de pouvoir s'introduire dans la plus prestigieuse école de l'aristocratie. Totalement dépourvu d'expérience familiale, il va adopter une petite fille en ignorant qu'elle est télépathe, et s'associer à une jeune femme timide, sans se douter qu'elle est une redoutable tueuse à gages. Ce trio atypique va devoir composer pour passer inaperçu, tout en découvrant les vraies valeurs d'une famille unie et aimante.",
   "artist": "Tatsuya Endo",
   "author": "Tatsuya Endo",
@@ -7,7 +7,7 @@
   "chapters": {
     "001": {
       "title": "Mission 001",
-      "volume": "1",
+      "volume": "01",
       "last_updated": "1757535566",
       "groups": {
         "Chromatique": [
@@ -90,7 +90,7 @@
     },
     "002": {
       "title": "Mission 002",
-      "volume": "1",
+      "volume": "01",
       "last_updated": "1757535720",
       "groups": {
         "Chromatique": [
@@ -156,7 +156,7 @@
     },
     "003": {
       "title": "Mission 003",
-      "volume": "1",
+      "volume": "01",
       "last_updated": "1757535794",
       "groups": {
         "Chromatique": [
@@ -193,7 +193,7 @@
     },
     "004": {
       "title": "Mission 004",
-      "volume": "1",
+      "volume": "01",
       "last_updated": "1757535859",
       "groups": {
         "Chromatique": [
@@ -228,7 +228,7 @@
     },
     "005": {
       "title": "Mission 005",
-      "volume": "1",
+      "volume": "01",
       "last_updated": "1757535955",
       "groups": {
         "Chromatique": [
@@ -272,7 +272,7 @@
     },
     "006": {
       "title": "Mission 006",
-      "volume": "2",
+      "volume": "02",
       "last_updated": "1757536037",
       "groups": {
         "Chromatique": [
@@ -312,7 +312,7 @@
     },
     "007": {
       "title": "Mission 007",
-      "volume": "2",
+      "volume": "02",
       "last_updated": "1757536106",
       "groups": {
         "Chromatique": [
@@ -348,7 +348,7 @@
     },
     "008": {
       "title": "Mission 008",
-      "volume": "2",
+      "volume": "02",
       "last_updated": "1757536177",
       "groups": {
         "Chromatique": [
@@ -385,7 +385,7 @@
     },
     "009": {
       "title": "Mission 009",
-      "volume": "2",
+      "volume": "02",
       "last_updated": "1757536241",
       "groups": {
         "Chromatique": [
@@ -419,7 +419,7 @@
     },
     "010": {
       "title": "Mission 010",
-      "volume": "2",
+      "volume": "02",
       "last_updated": "1757536287",
       "groups": {
         "Chromatique": [
@@ -447,7 +447,7 @@
     },
     "011": {
       "title": "Mission 011",
-      "volume": "2",
+      "volume": "02",
       "last_updated": "1757540377",
       "groups": {
         "Chromatique": [
@@ -485,7 +485,7 @@
     },
     "011.1": {
       "title": "Mission Bonus",
-      "volume": "2",
+      "volume": "02",
       "last_updated": "1757540377",
       "groups": {
         "Chromatique": [
@@ -523,7 +523,7 @@
     },
     "011.2": {
       "title": "Extra Mission 1",
-      "volume": "2",
+      "volume": "02",
       "last_updated": "1757536473",
       "groups": {
         "Chromatique": [
@@ -569,7 +569,7 @@
     },
     "012": {
       "title": "Mission 012",
-      "volume": "3",
+      "volume": "03",
       "last_updated": "1757536559",
       "groups": {
         "Chromatique": [
@@ -610,7 +610,7 @@
     },
     "013": {
       "title": "Mission 013",
-      "volume": "3",
+      "volume": "03",
       "last_updated": "1757536614",
       "groups": {
         "Chromatique": [
@@ -640,7 +640,7 @@
     },
     "014": {
       "title": "Mission 014",
-      "volume": "3",
+      "volume": "03",
       "last_updated": "1757536697",
       "groups": {
         "Chromatique": [
@@ -682,7 +682,7 @@
     },
     "015": {
       "title": "Mission 015",
-      "volume": "3",
+      "volume": "03",
       "last_updated": "1757536763",
       "groups": {
         "Chromatique": [
@@ -717,7 +717,7 @@
     },
     "016": {
       "title": "Mission 016",
-      "volume": "3",
+      "volume": "03",
       "last_updated": "1757536831",
       "groups": {
         "Chromatique": [
@@ -753,7 +753,7 @@
     },
     "017": {
       "title": "Mission 017",
-      "volume": "3",
+      "volume": "03",
       "last_updated": "1757536981",
       "groups": {
         "Chromatique": [
@@ -784,7 +784,7 @@
     },
     "017.1": {
       "title": "Extra Mission 2",
-      "volume": "3",
+      "volume": "03",
       "last_updated": "1757536981",
       "groups": {
         "Chromatique": [
@@ -830,7 +830,7 @@
     },
     "018": {
       "title": "Mission 018",
-      "volume": "4",
+      "volume": "04",
       "last_updated": "1757537075",
       "groups": {
         "Chromatique": [
@@ -875,7 +875,7 @@
     },
     "019": {
       "title": "Mission 019",
-      "volume": "4",
+      "volume": "04",
       "last_updated": "1757537133",
       "groups": {
         "Chromatique": [
@@ -907,7 +907,7 @@
     },
     "020": {
       "title": "Mission 020",
-      "volume": "4",
+      "volume": "04",
       "last_updated": "1757537188",
       "groups": {
         "Chromatique": [
@@ -938,7 +938,7 @@
     },
     "021": {
       "title": "Mission 021",
-      "volume": "4",
+      "volume": "04",
       "last_updated": "1757537275",
       "groups": {
         "Chromatique": [
@@ -980,7 +980,7 @@
     },
     "022": {
       "title": "Mission 022",
-      "volume": "4",
+      "volume": "04",
       "last_updated": "1757537358",
       "groups": {
         "Chromatique": [
@@ -1018,7 +1018,7 @@
     },
     "023": {
       "title": "Mission 023",
-      "volume": "4",
+      "volume": "04",
       "last_updated": "1757537486",
       "groups": {
         "Chromatique": [
@@ -1052,7 +1052,7 @@
     },
     "023.1": {
       "title": "Extra Mission 1",
-      "volume": "4",
+      "volume": "04",
       "last_updated": "1757537486",
       "groups": {
         "Chromatique": [
@@ -1072,7 +1072,7 @@
     },
     "023.2": {
       "title": "Extra Mission 2",
-      "volume": "4",
+      "volume": "04",
       "last_updated": "1757537486",
       "groups": {
         "Chromatique": [
@@ -1097,7 +1097,7 @@
     },
     "024": {
       "title": "Mission 024",
-      "volume": "5",
+      "volume": "05",
       "last_updated": "1757537582",
       "groups": {
         "Chromatique": [
@@ -1140,7 +1140,7 @@
     },
     "025": {
       "title": "Mission 025",
-      "volume": "5",
+      "volume": "05",
       "last_updated": "1757537649",
       "groups": {
         "Chromatique": [
@@ -1176,7 +1176,7 @@
     },
     "026": {
       "title": "Mission 026",
-      "volume": "5",
+      "volume": "05",
       "last_updated": "1757537711",
       "groups": {
         "Chromatique": [
@@ -1210,7 +1210,7 @@
     },
     "027": {
       "title": "Mission 027",
-      "volume": "5",
+      "volume": "05",
       "last_updated": "1757537778",
       "groups": {
         "Chromatique": [
@@ -1246,7 +1246,7 @@
     },
     "028": {
       "title": "Mission 028",
-      "volume": "5",
+      "volume": "05",
       "last_updated": "1757537838",
       "groups": {
         "Chromatique": [
@@ -1279,7 +1279,7 @@
     },
     "029": {
       "title": "Mission 029",
-      "volume": "5",
+      "volume": "05",
       "last_updated": "1757537901",
       "groups": {
         "Chromatique": [
@@ -1313,7 +1313,7 @@
     },
     "030": {
       "title": "Mission 030.1",
-      "volume": "5",
+      "volume": "05",
       "last_updated": "1757538027",
       "groups": {
         "Chromatique": [
@@ -1353,7 +1353,7 @@
     },
     "030.1": {
       "title": "Extra Mission 3",
-      "volume": "5",
+      "volume": "05",
       "last_updated": "1757538027",
       "groups": {
         "Chromatique": [
@@ -1381,7 +1381,7 @@
     },
     "031": {
       "title": "Mission 031",
-      "volume": "6",
+      "volume": "06",
       "last_updated": "1757538104",
       "groups": {
         "Chromatique": [
@@ -1421,7 +1421,7 @@
     },
     "032": {
       "title": "Mission 032",
-      "volume": "6",
+      "volume": "06",
       "last_updated": "1757538182",
       "groups": {
         "Chromatique": [
@@ -1461,7 +1461,7 @@
     },
     "033": {
       "title": "Mission 033",
-      "volume": "6",
+      "volume": "06",
       "last_updated": "1757538260",
       "groups": {
         "Chromatique": [
@@ -1501,7 +1501,7 @@
     },
     "034": {
       "title": "Mission 034",
-      "volume": "6",
+      "volume": "06",
       "last_updated": "1757538325",
       "groups": {
         "Chromatique": [
@@ -1535,7 +1535,7 @@
     },
     "035": {
       "title": "Mission 035",
-      "volume": "6",
+      "volume": "06",
       "last_updated": "1757538387",
       "groups": {
         "Chromatique": [
@@ -1568,7 +1568,7 @@
     },
     "036": {
       "title": "Mission 036",
-      "volume": "6",
+      "volume": "06",
       "last_updated": "1757538444",
       "groups": {
         "Chromatique": [
@@ -1600,7 +1600,7 @@
     },
     "037": {
       "title": "Mission 037",
-      "volume": "6",
+      "volume": "06",
       "last_updated": "1757538554",
       "groups": {
         "Chromatique": [
@@ -1639,7 +1639,7 @@
     },
     "037.1": {
       "title": "Extra Mission 4",
-      "volume": "6",
+      "volume": "06",
       "last_updated": "1757538554",
       "groups": {
         "Chromatique": [
