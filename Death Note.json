@@ -1,0 +1,873 @@
+{
+  "title": "Death Note - Edition couleur",
+  "description": "Light Yagami est un jeune lycéen de 17 ans qui possède toutes les qualités pour devenir un brillant policier comme son père, mais il s'ennuie. Les cours lui semblent trop simple, et la vie trop ennuyeuse. Un jour, il trouve le Death Note d'un Shinigami (un Dieu de la Mort). Il y est écrit que chaque nom de personne inscrit provoquera la mort de celle-ci, par crise cardiaque, ou par accident au choix de l'utilisateur. Tout d'abord, Light n'y croit pas, puis il y voit une excellente occasion de débarrasser le monde des malfrats, assassins et autres bandits. Une intention que les gouvernements verront bientôt comme une menace. Ils feront alors appel à L, un célèbre détective, pour démasquer celui que ses fans appellent Kira.",
+  "artist": "Takeshi Obata",
+  "author": "Takeshi Obata",
+  "cover": "https://cdn.imgchest.com/files/bada215b1214.png",
+  "chapters": {
+    "100": {
+      "title": "Face-à-face",
+      "volume": "12",
+      "last_updated": "1775395340",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqno354n"
+      }
+    },
+    "101": {
+      "title": "Incitation",
+      "volume": "12",
+      "last_updated": "1775395347",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7od9p9lyp"
+      }
+    },
+    "102": {
+      "title": "Patience",
+      "volume": "12",
+      "last_updated": "1775395353",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3x9x67k"
+      }
+    },
+    "103": {
+      "title": "Déclaration",
+      "volume": "12",
+      "last_updated": "1775395345",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prvpvj4o"
+      }
+    },
+    "104": {
+      "title": "Réponse",
+      "volume": "12",
+      "last_updated": "1775395350",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2opow78"
+      }
+    },
+    "105": {
+      "title": "Impossible",
+      "volume": "12",
+      "last_updated": "1775395351",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ll9p937x"
+      }
+    },
+    "106": {
+      "title": "Désir meurtrier",
+      "volume": "12",
+      "last_updated": "1775395351",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xd5d34l"
+      }
+    },
+    "107": {
+      "title": "Rideau",
+      "volume": "12",
+      "last_updated": "1775395352",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j59p9978"
+      }
+    },
+    "108": {
+      "title": "Fin",
+      "volume": "12",
+      "last_updated": "1775395354",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmvpvx72"
+      }
+    },
+    "004": {
+      "title": "Courant électrique",
+      "volume": "01",
+      "last_updated": "1775395183",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j59pd378"
+      }
+    },
+    "018": {
+      "title": "Regards",
+      "volume": "03",
+      "last_updated": "1775395184",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3x95a7k"
+      }
+    },
+    "005": {
+      "title": "Globe oculaire",
+      "volume": "01",
+      "last_updated": "1775395186",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xd5pz4l"
+      }
+    },
+    "016": {
+      "title": "À la verticale",
+      "volume": "02",
+      "last_updated": "1775395187",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prvpg34o"
+      }
+    },
+    "009": {
+      "title": "Trou",
+      "volume": "02",
+      "last_updated": "1775395188",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2opx378"
+      }
+    },
+    "014": {
+      "title": "Tentation",
+      "volume": "02",
+      "last_updated": "1775395189",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3vkgxyp"
+      }
+    },
+    "012": {
+      "title": "Dieu",
+      "volume": "02",
+      "last_updated": "1775395191",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732ra9g4r"
+      }
+    },
+    "019": {
+      "title": "Humiliation",
+      "volume": "03",
+      "last_updated": "1775395192",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gze9dq7j"
+      }
+    },
+    "023": {
+      "title": "Course effrénée",
+      "volume": "03",
+      "last_updated": "1775395192",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7br59wmy5"
+      }
+    },
+    "013": {
+      "title": "Attente",
+      "volume": "02",
+      "last_updated": "1775395193",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zld2957j"
+      }
+    },
+    "022": {
+      "title": "Malheur",
+      "volume": "03",
+      "last_updated": "1775395194",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45j3vxny5"
+      }
+    },
+    "010": {
+      "title": "Rassemblement",
+      "volume": "02",
+      "last_updated": "1775395195",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmvp9d72"
+      }
+    },
+    "011": {
+      "title": "Un",
+      "volume": "02",
+      "last_updated": "1775395196",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r3nx24b"
+      }
+    },
+    "015": {
+      "title": "Téléphone",
+      "volume": "02",
+      "last_updated": "1775395197",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5jpkp7q"
+      }
+    },
+    "020": {
+      "title": "Initiative",
+      "volume": "03",
+      "last_updated": "1775395198",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24ad39pd4l"
+      }
+    },
+    "006": {
+      "title": "Manipulation",
+      "volume": "01",
+      "last_updated": "1775395199",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ll9pxx7x"
+      }
+    },
+    "007": {
+      "title": "Cible",
+      "volume": "01",
+      "last_updated": "1775395200",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qpnazyx"
+      }
+    },
+    "008": {
+      "title": "Femme",
+      "volume": "02",
+      "last_updated": "1775395201",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8lp6x7x"
+      }
+    },
+    "025": {
+      "title": "Imbécile",
+      "volume": "03",
+      "last_updated": "1775395202",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqnoeb4n"
+      }
+    },
+    "017": {
+      "title": "Poubelles",
+      "volume": "03",
+      "last_updated": "1775395203",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewak3myd"
+      }
+    },
+    "003": {
+      "title": "Enfants",
+      "volume": "01",
+      "last_updated": "1775395204",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mj9pm97d"
+      }
+    },
+    "024": {
+      "title": "Renaissance",
+      "volume": "03",
+      "last_updated": "1775395205",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvg2pdby8"
+      }
+    },
+    "002": {
+      "title": "L",
+      "volume": "01",
+      "last_updated": "1775395206",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7od9pz2yp"
+      }
+    },
+    "021": {
+      "title": "Intentions cachées",
+      "volume": "03",
+      "last_updated": "1775395206",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mvnzb7n"
+      }
+    },
+    "029": {
+      "title": "Arme",
+      "volume": "04",
+      "last_updated": "1775395220",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2opz378"
+      }
+    },
+    "028": {
+      "title": "Jugement",
+      "volume": "04",
+      "last_updated": "1775395223",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7od9pg2yp"
+      }
+    },
+    "031": {
+      "title": "Facile",
+      "volume": "04",
+      "last_updated": "1775395226",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ll9pkx7x"
+      }
+    },
+    "032": {
+      "title": "Pari",
+      "volume": "04",
+      "last_updated": "1775395228",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmvpqd72"
+      }
+    },
+    "040": {
+      "title": "Partenaires",
+      "volume": "05",
+      "last_updated": "1775395229",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mj9pn97d"
+      }
+    },
+    "036": {
+      "title": "Père et fils",
+      "volume": "05",
+      "last_updated": "1775395230",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3x9za7k"
+      }
+    },
+    "027": {
+      "title": "Flamme amoureuse",
+      "volume": "04",
+      "last_updated": "1775395230",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8lpvx7x"
+      }
+    },
+    "001": {
+      "title": "Ennui",
+      "volume": "01",
+      "last_updated": "1775395231",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7br59gmy5"
+      }
+    },
+    "038": {
+      "title": "Atteinte",
+      "volume": "05",
+      "last_updated": "1775395232",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732rapg4r"
+      }
+    },
+    "041": {
+      "title": "Matsuda",
+      "volume": "05",
+      "last_updated": "1775395233",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gze9lq7j"
+      }
+    },
+    "037": {
+      "title": "8 personnes",
+      "volume": "05",
+      "last_updated": "1775395234",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3vk2xyp"
+      }
+    },
+    "039": {
+      "title": "Séparation",
+      "volume": "05",
+      "last_updated": "1775395240",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45j3v8ny5"
+      }
+    },
+    "043": {
+      "title": "Noir",
+      "volume": "05",
+      "last_updated": "1775395241",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zld2357j"
+      }
+    },
+    "026": {
+      "title": "Renversement",
+      "volume": "04",
+      "last_updated": "1775395243",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j59p3378"
+      }
+    },
+    "049": {
+      "title": "Plante",
+      "volume": "06",
+      "last_updated": "1775395246",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qpnxzyx"
+      }
+    },
+    "047": {
+      "title": "Précipitation",
+      "volume": "06",
+      "last_updated": "1775395247",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xd5lz4l"
+      }
+    },
+    "030": {
+      "title": "Bombe",
+      "volume": "04",
+      "last_updated": "1775395248",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24ad39gd4l"
+      }
+    },
+    "033": {
+      "title": "Déplacement",
+      "volume": "04",
+      "last_updated": "1775395249",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mvnab7n"
+      }
+    },
+    "046": {
+      "title": "Inadapté",
+      "volume": "06",
+      "last_updated": "1775395250",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prvpq34o"
+      }
+    },
+    "045": {
+      "title": "Folie",
+      "volume": "06",
+      "last_updated": "1775395251",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7br59pmy5"
+      }
+    },
+    "048": {
+      "title": "Échange",
+      "volume": "06",
+      "last_updated": "1775395252",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7od9pl2yp"
+      }
+    },
+    "034": {
+      "title": "Le grand saut",
+      "volume": "04",
+      "last_updated": "1775395252",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvg2p6by8"
+      }
+    },
+    "042": {
+      "title": "Paradis",
+      "volume": "05",
+      "last_updated": "1775395253",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqno2b4n"
+      }
+    },
+    "035": {
+      "title": "Page blanche",
+      "volume": "05",
+      "last_updated": "1775395259",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2opr378"
+      }
+    },
+    "044": {
+      "title": "Successeur",
+      "volume": "06",
+      "last_updated": "1775395259",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5jpvp7q"
+      }
+    },
+    "050": {
+      "title": "Yotsuba",
+      "volume": "06",
+      "last_updated": "1775395260",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j59pw378"
+      }
+    },
+    "054": {
+      "title": "À l’intérieur",
+      "volume": "07",
+      "last_updated": "1775395268",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732rajg4r"
+      }
+    },
+    "051": {
+      "title": "Erreur",
+      "volume": "06",
+      "last_updated": "1775395269",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmvpdd72"
+      }
+    },
+    "058": {
+      "title": "Sentiments",
+      "volume": "07",
+      "last_updated": "1775395270",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gze9rq7j"
+      }
+    },
+    "055": {
+      "title": "Création",
+      "volume": "07",
+      "last_updated": "1775395271",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewakpmyd"
+      }
+    },
+    "056": {
+      "title": "Étreinte",
+      "volume": "07",
+      "last_updated": "1775395274",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45j3vdny5"
+      }
+    },
+    "057": {
+      "title": "Deux choix",
+      "volume": "07",
+      "last_updated": "1775395277",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24ad39kd4l"
+      }
+    },
+    "059": {
+      "title": "Zéro",
+      "volume": "07",
+      "last_updated": "1775395279",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvg2peby8"
+      }
+    },
+    "063": {
+      "title": "Cible",
+      "volume": "08",
+      "last_updated": "1775395282",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqnolb4n"
+      }
+    },
+    "053": {
+      "title": "Cri",
+      "volume": "07",
+      "last_updated": "1775395283",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8lprx7x"
+      }
+    },
+    "061": {
+      "title": "Deuxième",
+      "volume": "07",
+      "last_updated": "1775395285",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5jpgp7q"
+      }
+    },
+    "066": {
+      "title": "Mort",
+      "volume": "08",
+      "last_updated": "1775395288",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2opw378"
+      }
+    },
+    "065": {
+      "title": "Responsabilité",
+      "volume": "08",
+      "last_updated": "1775395289",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prvpz34o"
+      }
+    },
+    "052": {
+      "title": "In extremis",
+      "volume": "06",
+      "last_updated": "1775395294",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mj9p297d"
+      }
+    },
+    "068": {
+      "title": "Découverte",
+      "volume": "08",
+      "last_updated": "1775395295",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmvpzd72"
+      }
+    },
+    "072": {
+      "title": "Vérification",
+      "volume": "09",
+      "last_updated": "1775395296",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xd5334l"
+      }
+    },
+    "067": {
+      "title": "Bouton",
+      "volume": "08",
+      "last_updated": "1775395297",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j59pv378"
+      }
+    },
+    "062": {
+      "title": "Décision",
+      "volume": "08",
+      "last_updated": "1775395298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mvnjb7n"
+      }
+    },
+    "069": {
+      "title": "Vol",
+      "volume": "08",
+      "last_updated": "1775395298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ll9prx7x"
+      }
+    },
+    "070": {
+      "title": "Frisson",
+      "volume": "08",
+      "last_updated": "1775395299",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xd53z4l"
+      }
+    },
+    "064": {
+      "title": "Angle droit",
+      "volume": "08",
+      "last_updated": "1775395302",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7od9pj2yp"
+      }
+    },
+    "060": {
+      "title": "Enlèvement",
+      "volume": "07",
+      "last_updated": "1775395304",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qpngzyx"
+      }
+    },
+    "073": {
+      "title": "Le tout pour le tout",
+      "volume": "09",
+      "last_updated": "1775395305",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3vk8lyp"
+      }
+    },
+    "074": {
+      "title": "Un jeu inspiré",
+      "volume": "09",
+      "last_updated": "1775395307",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3x9a67k"
+      }
+    },
+    "075": {
+      "title": "Reconnaissance",
+      "volume": "09",
+      "last_updated": "1775395308",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j59pv978"
+      }
+    },
+    "077": {
+      "title": "Utilisation",
+      "volume": "09",
+      "last_updated": "1775395311",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8lpgq7x"
+      }
+    },
+    "071": {
+      "title": "Contact",
+      "volume": "09",
+      "last_updated": "1775395313",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmvpzx72"
+      }
+    },
+    "078": {
+      "title": "Prédiction",
+      "volume": "09",
+      "last_updated": "1775395314",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gze9xk7j"
+      }
+    },
+    "076": {
+      "title": "Salutations",
+      "volume": "09",
+      "last_updated": "1775395315",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732rawo4r"
+      }
+    },
+    "081": {
+      "title": "Avertissement",
+      "volume": "10",
+      "last_updated": "1775395317",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5jp267q"
+      }
+    },
+    "079": {
+      "title": "Mensonge",
+      "volume": "09",
+      "last_updated": "1775395320",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24ad39ve4l"
+      }
+    },
+    "080": {
+      "title": "Nettoyage",
+      "volume": "10",
+      "last_updated": "1775395326",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvg2pwky8"
+      }
+    },
+    "083": {
+      "title": "Élimination",
+      "volume": "10",
+      "last_updated": "1775395327",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7od9pelyp"
+      }
+    },
+    "086": {
+      "title": "Japon",
+      "volume": "10",
+      "last_updated": "1775395329",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j59pq978"
+      }
+    },
+    "084": {
+      "title": "Coïncidence",
+      "volume": "10",
+      "last_updated": "1775395329",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xd5b34l"
+      }
+    },
+    "087": {
+      "title": "Demain",
+      "volume": "10",
+      "last_updated": "1775395330",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmvp8x72"
+      }
+    },
+    "092": {
+      "title": "Nuit",
+      "volume": "11",
+      "last_updated": "1775395332",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gze92k7j"
+      }
+    },
+    "091": {
+      "title": "Arrêt",
+      "volume": "11",
+      "last_updated": "1775395333",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewakqzyd"
+      }
+    },
+    "088": {
+      "title": "Conversation",
+      "volume": "10",
+      "last_updated": "1775395335",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mj9p3a7d"
+      }
+    },
+    "094": {
+      "title": "Dehors",
+      "volume": "11",
+      "last_updated": "1775395336",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r3nqw4b"
+      }
+    },
+    "093": {
+      "title": "Décision",
+      "volume": "11",
+      "last_updated": "1775395336",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zld2wl7j"
+      }
+    },
+    "096": {
+      "title": "Par ailleurs",
+      "volume": "11",
+      "last_updated": "1775395337",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qpnl2yx"
+      }
+    },
+    "090": {
+      "title": "Annonce",
+      "volume": "11",
+      "last_updated": "1775395338",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732rabo4r"
+      }
+    },
+    "095": {
+      "title": "Convaincu",
+      "volume": "11",
+      "last_updated": "1775395338",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45j3v2vy5"
+      }
+    },
+    "097": {
+      "title": "De tout",
+      "volume": "11",
+      "last_updated": "1775395339",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvg2pvky8"
+      }
+    },
+    "089": {
+      "title": "Âmes sœurs",
+      "volume": "11",
+      "last_updated": "1775395342",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3vkxlyp"
+      }
+    },
+    "098": {
+      "title": "Tout le monde",
+      "volume": "11",
+      "last_updated": "1775395344",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mvnd87n"
+      }
+    },
+    "099": {
+      "title": "Deux",
+      "volume": "12",
+      "last_updated": "1775395348",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5jpm67q"
+      }
+    },
+    "082": {
+      "title": "En personne",
+      "volume": "10",
+      "last_updated": "1775395388",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqnox54n"
+      }
+    },
+    "085": {
+      "title": "Élection",
+      "volume": "10",
+      "last_updated": "1775395389",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prvpkj4o"
+      }
+    }
+  }
+}
