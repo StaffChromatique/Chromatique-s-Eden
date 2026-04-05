@@ -6,7 +6,7 @@
   "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Spy_Family_vol_1.jpg/250px-Spy_Family_vol_1.jpg",
   "chapters": {
     "011.1": {
-      "title": "Mission 011",
+      "title": "Mission Bonus",
       "last_updated": "1775391416",
       "groups": {
         "Scanlation": "/proxy/api/imgchest/chapter/na7k2oq6b78"
@@ -45,7 +45,7 @@
       },
       "volume": "02"
     },
-    "011.0": {
+    "011": {
       "title": "Mission 011",
       "last_updated": "1775391474",
       "groups": {
@@ -86,7 +86,7 @@
       "volume": "01"
     },
     "011.2": {
-      "title": "Mission 011",
+      "title": "Extra Mission 1",
       "last_updated": "1775391479",
       "groups": {
         "Scanlation": "/proxy/api/imgchest/chapter/6eyr3vzegyp"
@@ -109,7 +109,7 @@
       },
       "volume": "01"
     },
-    "017.0": {
+    "017": {
       "title": "Mission 015",
       "last_updated": "1775391453",
       "groups": {
@@ -134,7 +134,7 @@
       "volume": "04"
     },
     "023.1": {
-      "title": "Mission 020",
+      "title": "Extra Mission 1",
       "last_updated": "1775391466",
       "groups": {
         "Scanlation": "/proxy/api/imgchest/chapter/n87w8l2kg7x"
@@ -157,7 +157,7 @@
       },
       "volume": "03"
     },
-    "023.0": {
+    "023": {
       "title": "Mission 020",
       "last_updated": "1775391471",
       "groups": {
@@ -198,7 +198,7 @@
       "volume": "04"
     },
     "023.2": {
-      "title": "Mission 020",
+      "title": "Extra Mission 2",
       "last_updated": "1775391482",
       "groups": {
         "Scanlation": "/proxy/api/imgchest/chapter/lqyewao8qyd"
@@ -214,7 +214,7 @@
       "volume": "03"
     },
     "017.1": {
-      "title": "Mission 015",
+      "title": "Extra Mission 2",
       "last_updated": "1775391492",
       "groups": {
         "Scanlation": "/proxy/api/imgchest/chapter/md7od93mryp"
@@ -230,7 +230,7 @@
       "volume": "04"
     },
     "037.1": {
-      "title": "Mission 031",
+      "title": "Extra Mission 4",
       "last_updated": "1775391498",
       "groups": {
         "Scanlation": "/proxy/api/imgchest/chapter/ljyqmvend72"
@@ -238,7 +238,7 @@
       "volume": "06"
     },
     "030.1": {
-      "title": "Mission 025",
+      "title": "Extra Mission 3",
       "last_updated": "1775391499",
       "groups": {
         "Scanlation": "/proxy/api/imgchest/chapter/ne7br5oejy5"
@@ -317,7 +317,7 @@
       },
       "volume": "06"
     },
-    "030.0": {
+    "030": {
       "title": "Mission 025",
       "last_updated": "1775391513",
       "groups": {
@@ -341,7 +341,7 @@
       },
       "volume": "06"
     },
-    "037.0": {
+    "037": {
       "title": "Mission 031",
       "last_updated": "1775391516",
       "groups": {
