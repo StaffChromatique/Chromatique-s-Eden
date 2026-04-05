@@ -1,0 +1,2089 @@
+{
+  "title": "Kenshin le vagabond",
+  "description": "Kenshin le vagabond ( るろうに剣心, Rurōni Kenshin? ) est un manga de Nobuhiro Watsuki. Il est prépublié entre 1994 et 1999 dans le magazine Weekly Shōnen Jump de l'éditeur Shūeisha, et est compilé en un total de vingt-huit volumes. La version française est publiée en intégralité par Glénat.",
+  "artist": "Nobuhiro Watsuki",
+  "author": "Nobuhiro Watsuki",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/20px-Flag_of_Japan.svg.png",
+  "chapters": {
+    "255": {
+      "title": "Conclusion – Vers une nouvelle génération",
+      "last_updated": "1775427886",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/vj4j5kw8x78"
+      },
+      "volume": "22"
+    },
+    "008": {
+      "title": "Un nouveau venu",
+      "last_updated": "1775427888",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xal294l"
+      },
+      "volume": "01"
+    },
+    "099": {
+      "title": "À tombeau ouvert !",
+      "last_updated": "1775427892",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/na7k2mw8b78"
+      },
+      "volume": "10"
+    },
+    "028": {
+      "title": "L’issue du combat",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/wl7llgmoq7x"
+      },
+      "volume": "03"
+    },
+    "001": {
+      "title": "Kenshin, dit Battosaï Himura",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/6eyr3vwbkyp"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Un vagabond dans la ville",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9p4nqndow4n"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Yahiko Myojin, descendant de samouraïs de Tokyo",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/vj4j592p578"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Pour un nouveau départ de l’école de l’esprit vivant",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/pg732rxqv4r"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "Un esprit combatif",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/agyvg28pwy8"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "La confrontation avec Sanosuké Sagara",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xdv5n4l"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "Le symbole du Mal",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/vj4j592z578"
+      },
+      "volume": "01"
+    },
+    "008.1": {
+      "title": "Le Vagabond – Chronique d’un expert en sabre à l’ère Meiji",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ljyqmv3pe72"
+      },
+      "volume": "01"
+    },
+    "009": {
+      "title": "Le chapeau noir",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/md7od9rpayp"
+      },
+      "volume": "02"
+    },
+    "010": {
+      "title": "Le cœur à sens unique",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/lqyewa5rxyd"
+      },
+      "volume": "02"
+    },
+    "011": {
+      "title": "Ruban et caprices",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/dl7prvmp84o"
+      },
+      "volume": "02"
+    },
+    "012": {
+      "title": "Les deux assassins",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/a846qpbngyx"
+      },
+      "volume": "02"
+    },
+    "013": {
+      "title": "L’origine des patriotes",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9q5q7d"
+      },
+      "volume": "02"
+    },
+    "014": {
+      "title": "Épilogue au clair de lune",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/wl7ll9j867x"
+      },
+      "volume": "02"
+    },
+    "015": {
+      "title": "En fuite",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/xny8r3knp4b"
+      },
+      "volume": "02"
+    },
+    "016": {
+      "title": "Megumi, Kanryu et…",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ljyqmv3be72"
+      },
+      "volume": "02"
+    },
+    "017": {
+      "title": "L’attaque de l’Oniwabanshu",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qb4zldvbg7j"
+      },
+      "volume": "02"
+    },
+    "018": {
+      "title": "L’ardeur de l’équipe Kenshin",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ne7br5z9ky5"
+      },
+      "volume": "02"
+    },
+    "019": {
+      "title": "La fille d’Aizu",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/wl7ll9jp67x"
+      },
+      "volume": "02"
+    },
+    "020": {
+      "title": "La raison d’agir",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9ryd3x8dd7k"
+      },
+      "volume": "02"
+    },
+    "021": {
+      "title": "La tempête",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/o24ad3e9g4l"
+      },
+      "volume": "03"
+    },
+    "022": {
+      "title": "L’invasion de la résidence de Kanryu",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/m9yx5japm7q"
+      },
+      "volume": "03"
+    },
+    "023": {
+      "title": "Hannya le ninja",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/na7k2olpk78"
+      },
+      "volume": "03"
+    },
+    "024": {
+      "title": "Hannya et Shikijo",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9249mvbnv7n"
+      },
+      "volume": "03"
+    },
+    "025": {
+      "title": "Le combat des plus forts",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9qpb7d"
+      },
+      "volume": "03"
+    },
+    "026": {
+      "title": "Aoshi Shinomori, le chef",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/n87w8l55z7x"
+      },
+      "volume": "03"
+    },
+    "027": {
+      "title": "Un combat acharné",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/lqyewa553yd"
+      },
+      "volume": "03"
+    },
+    "028.1": {
+      "title": "Le Vagabond – Chronique d’un expert en sabre à l’ère Meiji",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/a846qpbbwyx"
+      },
+      "volume": "03"
+    },
+    "029": {
+      "title": "Première destinée, Megumi",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/bp45j3bb2y5"
+      },
+      "volume": "04"
+    },
+    "030": {
+      "title": "Seconde destinée, Aoshi",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/o24ad3ee34l"
+      },
+      "volume": "04"
+    },
+    "031": {
+      "title": "Le combat de Yahiko (1re partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qb4zldvv37j"
+      },
+      "volume": "04"
+    },
+    "032": {
+      "title": "Le combat de Yahiko (2e partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9249mvbb27n"
+      },
+      "volume": "04"
+    },
+    "033": {
+      "title": "Le combat de Yahiko (3e partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9p4nqnddz4n"
+      },
+      "volume": "04"
+    },
+    "034": {
+      "title": "Le kenjutsu à l’ère Meiji",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/agyvg2889y8"
+      },
+      "volume": "04"
+    },
+    "035": {
+      "title": "Raijuta",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/wl7ll9jjp7x"
+      },
+      "volume": "04"
+    },
+    "036": {
+      "title": "La technique secrète",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/m9yx5jaa37q"
+      },
+      "volume": "04"
+    },
+    "037": {
+      "title": "Raijuta",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/dl7prvmm64o"
+      },
+      "volume": "04"
+    },
+    "038": {
+      "title": "Le talent de Yutaro",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9ryd3x88w7k"
+      },
+      "volume": "04"
+    },
+    "039": {
+      "title": "L’affrontement",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/na7k2ollq78"
+      },
+      "volume": "04"
+    },
+    "040": {
+      "title": "L’homme idéal",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9qqb7d"
+      },
+      "volume": "05"
+    },
+    "041": {
+      "title": "Une autre technique secrète",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ne7br5zzny5"
+      },
+      "volume": "05"
+    },
+    "042": {
+      "title": "Tu ne le sais pas",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xdvvj4l"
+      },
+      "volume": "05"
+    },
+    "043": {
+      "title": "La fin du combat",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ljyqmv33o72"
+      },
+      "volume": "05"
+    },
+    "044": {
+      "title": "Inutile de s’en faire",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/vj4j5922278"
+      },
+      "volume": "05"
+    },
+    "045": {
+      "title": "Sanosuké et son estampe (1re partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/md7od9rrdyp"
+      },
+      "volume": "05"
+    },
+    "046": {
+      "title": "Sanosuké et son estampe (2e partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/6eyr3vwweyp"
+      },
+      "volume": "05"
+    },
+    "047": {
+      "title": "Sanosuké et son estampe (3e partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/pg732rxxz4r"
+      },
+      "volume": "05"
+    },
+    "048": {
+      "title": "La résurrection du loup",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/n87w8l5oz7x"
+      },
+      "volume": "05"
+    },
+    "049": {
+      "title": "Le loup sauvage",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/lqyewa5b3yd"
+      },
+      "volume": "05"
+    },
+    "050": {
+      "title": "Le complot",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qb4zldvo37j"
+      },
+      "volume": "05"
+    },
+    "051": {
+      "title": "Face à face",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/xny8r3kjo4b"
+      },
+      "volume": "06"
+    },
+    "052": {
+      "title": "Le loup montre les crocs",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/o24ad3eb34l"
+      },
+      "volume": "06"
+    },
+    "053": {
+      "title": "Le réveil",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/a846qpb2wyx"
+      },
+      "volume": "06"
+    },
+    "054": {
+      "title": "Arrêter le combat",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/agyvg28o9y8"
+      },
+      "volume": "06"
+    },
+    "055": {
+      "title": "Toshimichi Okubo",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9p4nqndbz4n"
+      },
+      "volume": "06"
+    },
+    "056": {
+      "title": "Le matin du 14 mai 1878",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9249mvbq27n"
+      },
+      "volume": "06"
+    },
+    "057": {
+      "title": "L’après-midi du 14 mai 1878",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ne7br5zbny5"
+      },
+      "volume": "06"
+    },
+    "058": {
+      "title": "Vers Kyoto (1re partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/na7k2olbq78"
+      },
+      "volume": "06"
+    },
+    "059": {
+      "title": "Vers Kyoto (2e partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9ryd3x8bw7k"
+      },
+      "volume": "06"
+    },
+    "060": {
+      "title": "Les sentiments de Megumi et Kaoru",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xdv6j4l"
+      },
+      "volume": "06"
+    },
+    "061": {
+      "title": "Un homme sans pitié",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ljyqmv3oo72"
+      },
+      "volume": "06"
+    },
+    "062": {
+      "title": "Sur le chemin de Kyoto",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/vj4j592b278"
+      },
+      "volume": "06"
+    },
+    "063": {
+      "title": "Misao Makimachi",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/wl7ll9jbp7x"
+      },
+      "volume": "07"
+    },
+    "064": {
+      "title": "Le jeu du chat et de la souris",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/n87w8l53z7x"
+      },
+      "volume": "07"
+    },
+    "065": {
+      "title": "Chacun son chemin",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/6eyr3vwoeyp"
+      },
+      "volume": "07"
+    },
+    "066": {
+      "title": "Le village abandonné",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/pg732rxvz4r"
+      },
+      "volume": "07"
+    },
+    "067": {
+      "title": "Naissance d’un petit diable",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9qob7d"
+      },
+      "volume": "07"
+    },
+    "068": {
+      "title": "Portrait d’un homme ambitieux",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qb4zldvz37j"
+      },
+      "volume": "07"
+    },
+    "069": {
+      "title": "Tactique de combat",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/xny8r3kdo4b"
+      },
+      "volume": "07"
+    },
+    "070": {
+      "title": "Sojiro, le sabre divin",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/o24ad3er34l"
+      },
+      "volume": "07"
+    },
+    "071": {
+      "title": "De nouveau vers Kyoto",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/bp45j3bl2y5"
+      },
+      "volume": "07"
+    },
+    "072": {
+      "title": "Rencontre en forêt (1re partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/agyvg28k9y8"
+      },
+      "volume": "07"
+    },
+    "073": {
+      "title": "Rencontre en forêt (2e partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/m9yx5jaw37q"
+      },
+      "volume": "07"
+    },
+    "074": {
+      "title": "L’arrivée à Kyoto",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9p4nqnd9z4n"
+      },
+      "volume": "07"
+    },
+    "075": {
+      "title": "À la recherche du sabre à lame inversée",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9249mvbr27n"
+      },
+      "volume": "08"
+    },
+    "076": {
+      "title": "Les dix sabres",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ne7br5zmny5"
+      },
+      "volume": "08"
+    },
+    "077": {
+      "title": "Prélude d’un combat mortel",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/md7od9rndyp"
+      },
+      "volume": "08"
+    },
+    "078": {
+      "title": "Cho, membre des dix sabres",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/na7k2ol6q78"
+      },
+      "volume": "08"
+    },
+    "079": {
+      "title": "Le sabre à lame souple",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xdv9j4l"
+      },
+      "volume": "08"
+    },
+    "080": {
+      "title": "Garder le sabre au fourreau",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/wl7ll9jvp7x"
+      },
+      "volume": "08"
+    },
+    "081": {
+      "title": "Le souhait de Shakku",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/vj4j592a278"
+      },
+      "volume": "08"
+    },
+    "082": {
+      "title": "Le rapprochement",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9qxb7d"
+      },
+      "volume": "08"
+    },
+    "083": {
+      "title": "Seijuro Hiko",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/lqyewa5x3yd"
+      },
+      "volume": "08"
+    },
+    "084": {
+      "title": "Maître et disciple",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9ryd3x8ww7k"
+      },
+      "volume": "08"
+    },
+    "085": {
+      "title": "Sentiments mitigés",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qb4zldvx37j"
+      },
+      "volume": "08"
+    },
+    "086": {
+      "title": "Aoshi et Okina",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/pg732rxnz4r"
+      },
+      "volume": "08"
+    },
+    "087": {
+      "title": "La réunion des diables",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/n87w8l5az7x"
+      },
+      "volume": "09"
+    },
+    "088": {
+      "title": "Prélude à la chute",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qe4gze6nr7j"
+      },
+      "volume": "09"
+    },
+    "089": {
+      "title": "Aoshi contre Okina",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/bp45j3bg2y5"
+      },
+      "volume": "09"
+    },
+    "090": {
+      "title": "La fin d’un combat sanglant",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/a846qpb8wyx"
+      },
+      "volume": "09"
+    },
+    "091": {
+      "title": "La décision de Misao",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/o24ad3e534l"
+      },
+      "volume": "09"
+    },
+    "092": {
+      "title": "Coq et balai",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/m9yx5ja637q"
+      },
+      "volume": "09"
+    },
+    "093": {
+      "title": "Celui que l’on nomme Usui",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/agyvg2859y8"
+      },
+      "volume": "09"
+    },
+    "094": {
+      "title": "Le début de l’initiation",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9249mvb627n"
+      },
+      "volume": "09"
+    },
+    "095": {
+      "title": "Même au péril de ma vie…",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xdvkj4l"
+      },
+      "volume": "09"
+    },
+    "096": {
+      "title": "En errant entre la vie et la mort…",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/na7k2oljq78"
+      },
+      "volume": "09"
+    },
+    "097": {
+      "title": "Le rassemblement des dix sabres",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ne7br5zany5"
+      },
+      "volume": "09"
+    },
+    "098": {
+      "title": "Un autre but",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/md7od9rmdyp"
+      },
+      "volume": "09"
+    },
+    "099.1": {
+      "title": "Le croissant de lune à l’époque des guerres",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/wl7ll9jqp7x"
+      },
+      "volume": "10"
+    },
+    "100": {
+      "title": "L’incendie de Kyoto (première partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xdvk94l"
+      },
+      "volume": "10"
+    },
+    "101": {
+      "title": "L’incendie de Kyoto (deuxième partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/agyvg283jy8"
+      },
+      "volume": "10"
+    },
+    "102": {
+      "title": "L’incendie de Kyoto (troisième partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/wl7ll9jqq7x"
+      },
+      "volume": "10"
+    },
+    "103": {
+      "title": "À l’aube",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/xny8r3kg54b"
+      },
+      "volume": "10"
+    },
+    "104": {
+      "title": "Les larmes",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/wl7ll9jnq7x"
+      },
+      "volume": "10"
+    },
+    "105": {
+      "title": "Une nuit splendide",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/o24ad3ew24l"
+      },
+      "volume": "10"
+    },
+    "106": {
+      "title": "La vipère",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/vj4j592lx78"
+      },
+      "volume": "10"
+    },
+    "107": {
+      "title": "La colère divine",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9qbn7d"
+      },
+      "volume": "10"
+    },
+    "108": {
+      "title": "Différence de force",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/6eyr3vwqgyp"
+      },
+      "volume": "10"
+    },
+    "109": {
+      "title": "Sûr de sa force",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/lqyewa58qyd"
+      },
+      "volume": "11"
+    },
+    "110": {
+      "title": "Un monde difficile à sauver",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9ryd3x8vl7k"
+      },
+      "volume": "11"
+    },
+    "111": {
+      "title": "Le langage des poings",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/bp45j3bwqy5"
+      },
+      "volume": "11"
+    },
+    "112": {
+      "title": "La progression",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qe4gze6aj7j"
+      },
+      "volume": "11"
+    },
+    "113": {
+      "title": "Les yeux du cœur d’Usui et ceux de Saito",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/n87w8l5kg7x"
+      },
+      "volume": "11"
+    },
+    "114": {
+      "title": "Les crocs meurtriers",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/lqyewabwxyd"
+      },
+      "volume": "11"
+    },
+    "115": {
+      "title": "L’heure de tenir ses promesses",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qb4zldvgd7j"
+      },
+      "volume": "11"
+    },
+    "116": {
+      "title": "La revanche",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/o24ad3rx24l"
+      },
+      "volume": "11"
+    },
+    "117": {
+      "title": "La violente offensive d’Aoshi",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9p4nqndpm4n"
+      },
+      "volume": "11"
+    },
+    "118": {
+      "title": "À deux doigts de la mort",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/a846qpjroyx"
+      },
+      "volume": "11"
+    },
+    "119": {
+      "title": "L’heure d’ouvrir les yeux",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/wl7ll9bxq7x"
+      },
+      "volume": "11"
+    },
+    "120": {
+      "title": "L’éclat du dragon céleste",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/xny8r3kb54b"
+      },
+      "volume": "11"
+    },
+    "121": {
+      "title": "Attaque et défense de l’Aoiya",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/m9yx5jwxq7q"
+      },
+      "volume": "12"
+    },
+    "122": {
+      "title": "Le combat d’un jeune garçon",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9249mvb8m7n"
+      },
+      "volume": "12"
+    },
+    "123": {
+      "title": "Le combat d’une jeune fille",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/bp45j3baqy5"
+      },
+      "volume": "12"
+    },
+    "124": {
+      "title": "L’ombre du désespoir",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/o24ad3ez24l"
+      },
+      "volume": "12"
+    },
+    "125": {
+      "title": "L’apparition !!",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qe4gze6oj7j"
+      },
+      "volume": "12"
+    },
+    "126": {
+      "title": "Le géant contre le surhomme (début)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/pg732rnkj4r"
+      },
+      "volume": "12"
+    },
+    "127": {
+      "title": "Le géant contre le surhomme (fin)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xd6z94l"
+      },
+      "volume": "12"
+    },
+    "128": {
+      "title": "La mobilisation de Sojiro",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/6eyr3vwpgyp"
+      },
+      "volume": "12"
+    },
+    "129": {
+      "title": "La technique “Shukuchi”",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xdvw94l"
+      },
+      "volume": "12"
+    },
+    "130": {
+      "title": "Le passé de Sojiro – Rencontre au clair de lune",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/o24ad35x24l"
+      },
+      "volume": "12"
+    },
+    "131": {
+      "title": "Le passé de Sojiro – Une atmosphère orageuse",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/n87w8l5wg7x"
+      },
+      "volume": "12"
+    },
+    "132": {
+      "title": "Le passé de Sojiro – Un visage souriant sous une pluie de grêle",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/pg732rxzj4r"
+      },
+      "volume": "12"
+    },
+    "133": {
+      "title": "Un cœur brisé",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/lqyewa59qyd"
+      },
+      "volume": "13"
+    },
+    "134": {
+      "title": "L’éclat du dragon céleste (deuxième partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9249mvbom7n"
+      },
+      "volume": "13"
+    },
+    "135": {
+      "title": "Certains se réunissent, d’autres partent",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/agyvg28mjy8"
+      },
+      "volume": "13"
+    },
+    "136": {
+      "title": "Quand avons-nous commencé à nous battre ?",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/m9yx5jazq7q"
+      },
+      "volume": "13"
+    },
+    "137": {
+      "title": "La pâture",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ne7br5z8jy5"
+      },
+      "volume": "13"
+    },
+    "138": {
+      "title": "La providence",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/a846qp8royx"
+      },
+      "volume": "13"
+    },
+    "139": {
+      "title": "Un grand éclat de rire",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/na7k2ol3b78"
+      },
+      "volume": "13"
+    },
+    "140": {
+      "title": "Un destin encore incertain",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9ryd3xbll7k"
+      },
+      "volume": "13"
+    },
+    "141": {
+      "title": "Les flammes d’un sabre à double tranchant",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9ozn7d"
+      },
+      "volume": "13"
+    },
+    "142": {
+      "title": "La phase finale",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/a846qp2royx"
+      },
+      "volume": "13"
+    },
+    "143": {
+      "title": "L’éclat du dragon céleste (troisième partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/wl7ll9jeq7x"
+      },
+      "volume": "13"
+    },
+    "144": {
+      "title": "Yumi, une preuve d’amour",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/6eyr3vorgyp"
+      },
+      "volume": "13"
+    },
+    "145": {
+      "title": "Celui que la nouvelle ère choisira",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/n87w8lozg7x"
+      },
+      "volume": "14"
+    },
+    "146": {
+      "title": "La détermination de Hôji",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/pg732rvkj4r"
+      },
+      "volume": "14"
+    },
+    "147": {
+      "title": "L’histoire de Kyoto (Épilogue 1 – première partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/xny8r3jp54b"
+      },
+      "volume": "14"
+    },
+    "148": {
+      "title": "L’histoire de Kyoto (Épilogue 2 – deuxième partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/vj4j592rx78"
+      },
+      "volume": "14"
+    },
+    "149": {
+      "title": "L’histoire de Kyoto (Épilogue 3 – un matin au début de l’été)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qb4zldo6d7j"
+      },
+      "volume": "14"
+    },
+    "150": {
+      "title": "L’histoire de Kyoto (Épilogue 4 – un après-midi au début de l’été)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/lqyewabjqyd"
+      },
+      "volume": "14"
+    },
+    "151": {
+      "title": "L’histoire de Kyoto (Épilogue 5 – In the blue sky)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/bp45j3gkqy5"
+      },
+      "volume": "14"
+    },
+    "152": {
+      "title": "A-t-il toujours une balafre en forme de croix ?",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/bp45j39kqy5"
+      },
+      "volume": "14"
+    },
+    "153": {
+      "title": "L’homme au bras-canon",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/agyvg2ozjy8"
+      },
+      "volume": "14"
+    },
+    "154": {
+      "title": "Le signal de la vengeance",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/dl7prvogp4o"
+      },
+      "volume": "14"
+    },
+    "155": {
+      "title": "Une vengeance humaine",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qe4gzebdj7j"
+      },
+      "volume": "14"
+    },
+    "156": {
+      "title": "Les camarades",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9249mvqxm7n"
+      },
+      "volume": "14"
+    },
+    "157": {
+      "title": "L’impatience de Yahiko",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/vj4j59bj578"
+      },
+      "volume": "14"
+    },
+    "158": {
+      "title": "Deux tempêtes se déchaînent !",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/m9yx5joxq7q"
+      },
+      "volume": "15"
+    },
+    "159": {
+      "title": "L’invincible carapace d’acier",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9p4nqnbgm4n"
+      },
+      "volume": "15"
+    },
+    "160": {
+      "title": "L’homme aux armes cachées",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/md7od9ozryp"
+      },
+      "volume": "15"
+    },
+    "161": {
+      "title": "Le temps des questions",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qe4gzebzo7j"
+      },
+      "volume": "15"
+    },
+    "162": {
+      "title": "Souvenirs au coucher du soleil",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9on97d"
+      },
+      "volume": "15"
+    },
+    "163": {
+      "title": "Le prélude de la mort",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qb4zldolg7j"
+      },
+      "volume": "15"
+    },
+    "164": {
+      "title": "Illusion et réalité",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ljyqmvogn72"
+      },
+      "volume": "15"
+    },
+    "165": {
+      "title": "Récit de souvenirs – L’assassin",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/a846qp2xzyx"
+      },
+      "volume": "15"
+    },
+    "166": {
+      "title": "Récit de souvenirs – La naissance de Battosaï",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/xny8r3j8p4b"
+      },
+      "volume": "15"
+    },
+    "167": {
+      "title": "Récit de souvenirs – Un couple sous une pluie de sang",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/vj4j59bdx78"
+      },
+      "volume": "15"
+    },
+    "168": {
+      "title": "Récit de souvenirs – Tomoé Yukishiro",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/pg732rv3v4r"
+      },
+      "volume": "15"
+    },
+    "169": {
+      "title": "Récit de souvenirs – La folie",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/dl7prvojp4o"
+      },
+      "volume": "15"
+    },
+    "170": {
+      "title": "Récit de souvenirs – Les grands bouleversements de 1864",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ne7br5bwjy5"
+      },
+      "volume": "16"
+    },
+    "171": {
+      "title": "Une courte pause",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/lqyewabvmyd"
+      },
+      "volume": "16"
+    },
+    "172": {
+      "title": "Récit de souvenirs – À la campagne",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qe4gzeblq7j"
+      },
+      "volume": "16"
+    },
+    "173": {
+      "title": "Récit de souvenirs – La visite d’Enishi",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qb4zldo357j"
+      },
+      "volume": "16"
+    },
+    "174": {
+      "title": "Récit de souvenirs – La neige, si blanche…",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/xny8r3jz24b"
+      },
+      "volume": "16"
+    },
+    "175": {
+      "title": "Récit de souvenirs – La forêt des entraves",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9249mvqab7n"
+      },
+      "volume": "16"
+    },
+    "176": {
+      "title": "Récit de souvenirs – Les Yaminobu",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/m9yx5jovp7q"
+      },
+      "volume": "16"
+    },
+    "177": {
+      "title": "Récit de souvenirs – Un combat acharné",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/agyvg2o6by8"
+      },
+      "volume": "16"
+    },
+    "178": {
+      "title": "Récit de souvenirs – La cicatrice cruciforme",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ne7br5bpmy5"
+      },
+      "volume": "16"
+    },
+    "179": {
+      "title": "Récit de souvenirs – Et le temps s’écoula…",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9ryd3xbod7k"
+      },
+      "volume": "16"
+    },
+    "180": {
+      "title": "Au fil de la nuit…",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xd6lz4l"
+      },
+      "volume": "16"
+    },
+    "181": {
+      "title": "Une lueur d’espoir",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/6eyr3vo3kyp"
+      },
+      "volume": "16"
+    },
+    "182": {
+      "title": "La déclaration (1)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/dl7prvoq34o"
+      },
+      "volume": "17"
+    },
+    "183": {
+      "title": "La déclaration (2)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/a846qp2zgyx"
+      },
+      "volume": "17"
+    },
+    "184": {
+      "title": "Le feu d’artifice",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9ryd3xbpa7k"
+      },
+      "volume": "17"
+    },
+    "185": {
+      "title": "Face au canon Armstrong",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/m9yx5jolm7q"
+      },
+      "volume": "17"
+    },
+    "186": {
+      "title": "La nouvelle carapace invincible",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/agyvg2oawy8"
+      },
+      "volume": "17"
+    },
+    "187": {
+      "title": "Le cours de la bataille",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9xzn7d"
+      },
+      "volume": "17"
+    },
+    "188": {
+      "title": "L’artiste de la mécanique",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qe4gzeg2q7j"
+      },
+      "volume": "17"
+    },
+    "189": {
+      "title": "Triple bataille (Chapitre 1 – 1re partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9ojq7d"
+      },
+      "volume": "17"
+    },
+    "190": {
+      "title": "Triple bataille (Chapitre 1 – 2e partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/pg732rv2v4r"
+      },
+      "volume": "17"
+    },
+    "191": {
+      "title": "Triple bataille (Chapitre 2 – 1re partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ne7br5boky5"
+      },
+      "volume": "17"
+    },
+    "192": {
+      "title": "Triple bataille (Chapitre 2 – 2e partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/na7k2obqk78"
+      },
+      "volume": "17"
+    },
+    "193": {
+      "title": "Triple bataille (Chapitre 2 – 3e partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/md7od9o3ayp"
+      },
+      "volume": "17"
+    },
+    "194": {
+      "title": "Triple bataille (Chapitre 3 – 1re partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9orq7d"
+      },
+      "volume": "18"
+    },
+    "195": {
+      "title": "Triple bataille (Chapitre 3 – 2e partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/6eyr3vozkyp"
+      },
+      "volume": "18"
+    },
+    "196": {
+      "title": "Le loup à la cigarette",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/wl7ll9bd67x"
+      },
+      "volume": "18"
+    },
+    "197": {
+      "title": "Le retour du loup",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ljyqmvoee72"
+      },
+      "volume": "18"
+    },
+    "198": {
+      "title": "Personne ne peut le vaincre",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/n87w8lo237x"
+      },
+      "volume": "18"
+    },
+    "199": {
+      "title": "La clémence",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/lqyewaboxyd"
+      },
+      "volume": "18"
+    },
+    "200": {
+      "title": "Un duel prédestiné",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qe4gzebko7j"
+      },
+      "volume": "18"
+    },
+    "201": {
+      "title": "Un autre de mes talents",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/xny8r3jwp4b"
+      },
+      "volume": "18"
+    },
+    "202": {
+      "title": "Une vieille histoire",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/a846qp2mgyx"
+      },
+      "volume": "18"
+    },
+    "203": {
+      "title": "Un dénouement évident pour un duel attendu depuis quinze ans",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/agyvg2obwy8"
+      },
+      "volume": "18"
+    },
+    "204": {
+      "title": "La conscience du crime et du châtiment",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9p4nqnbaw4n"
+      },
+      "volume": "18"
+    },
+    "205": {
+      "title": "Le vrai objectif de la vengeance humaine",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xd6jn4l"
+      },
+      "volume": "18"
+    },
+    "206": {
+      "title": "Grisaille dans les ténèbres",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/6eyr3vobkyp"
+      },
+      "volume": "19"
+    },
+    "207": {
+      "title": "Aggravation mortelle de la situation",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/dl7prvob84o"
+      },
+      "volume": "19"
+    },
+    "208": {
+      "title": "La fin d’un rêve",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/md7od9okayp"
+      },
+      "volume": "19"
+    },
+    "209": {
+      "title": "Adieu",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/pg732rvqv4r"
+      },
+      "volume": "19"
+    },
+    "210": {
+      "title": "Le vieillard à l’identité inconnue",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/vj4j59bz578"
+      },
+      "volume": "19"
+    },
+    "211": {
+      "title": "Mais elle n’est pas nulle !",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/wl7ll9b867x"
+      },
+      "volume": "19"
+    },
+    "212": {
+      "title": "Début de l’action",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/na7k2obgk78"
+      },
+      "volume": "19"
+    },
+    "213": {
+      "title": "Les conditions de l’échange",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qb4zldobg7j"
+      },
+      "volume": "19"
+    },
+    "214": {
+      "title": "La crise d’Enishi",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/lqyewabrxyd"
+      },
+      "volume": "19"
+    },
+    "215": {
+      "title": "Trois jours de démarches",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ljyqmvobe72"
+      },
+      "volume": "19"
+    },
+    "216": {
+      "title": "Les hommes en noir (1re partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9o5q7d"
+      },
+      "volume": "19"
+    },
+    "217": {
+      "title": "Les hommes en noir (2e partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/o24ad3b9g4l"
+      },
+      "volume": "19"
+    },
+    "218": {
+      "title": "La démence en liberté",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/n87w8lob37x"
+      },
+      "volume": "19"
+    },
+    "219": {
+      "title": "Le vrai combat de Yahiko (1re partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/bp45j39vxy5"
+      },
+      "volume": "20"
+    },
+    "220": {
+      "title": "Le vrai combat de Yahiko (2e partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/agyvg2opwy8"
+      },
+      "volume": "20"
+    },
+    "221": {
+      "title": "Le vrai combat de Yahiko (3e partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/xny8r3jnp4b"
+      },
+      "volume": "20"
+    },
+    "222": {
+      "title": "Le vrai combat de Yahiko (4e partie)",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9249mvqnv7n"
+      },
+      "volume": "20"
+    },
+    "223": {
+      "title": "Rêve, réalité et illusion",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/md7od9opayp"
+      },
+      "volume": "20"
+    },
+    "224": {
+      "title": "La vérité",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9p4nqnbow4n"
+      },
+      "volume": "20"
+    },
+    "225": {
+      "title": "À ce moment-là, un souffle de vent",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ne7br5b9ky5"
+      },
+      "volume": "20"
+    },
+    "226": {
+      "title": "D’un samouraï à un shizoku",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/vj4j59bp578"
+      },
+      "volume": "20"
+    },
+    "227": {
+      "title": "Plus que quatre jours, plus qu’un seul homme",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/na7k2obpk78"
+      },
+      "volume": "20"
+    },
+    "228": {
+      "title": "Le dos d’un homme – Le retour du mercenaire bagarreur",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/dl7prvop84o"
+      },
+      "volume": "20"
+    },
+    "229": {
+      "title": "Le dos d’un homme – Deux êtres semblables",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xd65n4l"
+      },
+      "volume": "20"
+    },
+    "230": {
+      "title": "Le dos d’un homme – Portrait de famille",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9ryd3xb9d7k"
+      },
+      "volume": "20"
+    },
+    "231": {
+      "title": "Le dos d’un homme – Acte de provocation",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/n87w8lop37x"
+      },
+      "volume": "20"
+    },
+    "232": {
+      "title": "Le dos d’un homme – Le symbole du mal",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/6eyr3vokkyp"
+      },
+      "volume": "21"
+    },
+    "233": {
+      "title": "Le dos d’un homme – Le cri de la montagne",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/xny8r3jkp4b"
+      },
+      "volume": "21"
+    },
+    "234": {
+      "title": "Le dos d’un homme – Tout ce que raconte cette silhouette de dos",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9opq7d"
+      },
+      "volume": "21"
+    },
+    "235": {
+      "title": "La blancheur de la neige que j’ai vue ce jour-là",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/lqyewabkxyd"
+      },
+      "volume": "21"
+    },
+    "236": {
+      "title": "Débarquement",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/pg732rvav4r"
+      },
+      "volume": "21"
+    },
+    "237": {
+      "title": "Désaccord",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qb4zldo2g7j"
+      },
+      "volume": "21"
+    },
+    "238": {
+      "title": "L’apparition des sushin",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/bp45j39bxy5"
+      },
+      "volume": "21"
+    },
+    "239": {
+      "title": "Le combat contre les sushin : Saitô contre Seiryû",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ne7br5bzky5"
+      },
+      "volume": "21"
+    },
+    "240": {
+      "title": "Le combat contre les sushin : Aoshi contre Suzaku",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/a846qp2bgyx"
+      },
+      "volume": "21"
+    },
+    "241": {
+      "title": "Le combat contre les sushin : Sanosuké contre Byakko",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/agyvg2o8wy8"
+      },
+      "volume": "21"
+    },
+    "242": {
+      "title": "Le combat contre les sushin : Yahiko contre Genbu",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9249mvqbv7n"
+      },
+      "volume": "21"
+    },
+    "243": {
+      "title": "Tigre et dragon de nouveau face à face",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/m9yx5joam7q"
+      },
+      "volume": "21"
+    },
+    "244": {
+      "title": "Violent duel au sabre",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9p4nqnbdw4n"
+      },
+      "volume": "21"
+    },
+    "245": {
+      "title": "Le Hiten Mitsurugi neutralisé",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/dl7prvom84o"
+      },
+      "volume": "22"
+    },
+    "246": {
+      "title": "La réponse",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/md7od9orayp"
+      },
+      "volume": "22"
+    },
+    "247": {
+      "title": "Nerfs en folie",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9ryd3xb8w7k"
+      },
+      "volume": "22"
+    },
+    "248": {
+      "title": "Furie",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xd6vn4l"
+      },
+      "volume": "22"
+    },
+    "249": {
+      "title": "Un nouveau pas",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qb4zldoo37j"
+      },
+      "volume": "22"
+    },
+    "250": {
+      "title": "Le retour du sourire",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xd6vj4l"
+      },
+      "volume": "22"
+    },
+    "251": {
+      "title": "HURRY GO ROUND",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/pg732rvxz4r"
+      },
+      "volume": "22"
+    },
+    "252": {
+      "title": "Le vent d’automne",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ljyqmvo3e72"
+      },
+      "volume": "22"
+    },
+    "253": {
+      "title": "Des jours paisibles comme au printemps",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/vj4j59b2278"
+      },
+      "volume": "22"
+    },
+    "254": {
+      "title": "Le cours du temps",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ljyqmvo3o72"
+      },
+      "volume": "22"
+    },
+    "255.1": {
+      "title": "Le sabre à lame inversée de Yahiko",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/n87w8looz7x"
+      },
+      "volume": "22"
+    },
+    "255.2": {
+      "title": "Cerisier au printemps",
+      "last_updated": "1775427903",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9oqb7d"
+      },
+      "volume": "22"
+    }
+  }
+}
