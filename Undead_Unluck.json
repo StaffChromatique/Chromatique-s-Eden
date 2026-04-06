@@ -1,497 +1,497 @@
 {
-  "title": "Undead Unluck",
-  "description": "Undead Unluck ( アンデッドアンラック, Andeddo Anrakku? ) est un shōnen manga écrit et dessiné par Tozuka Yoshifumi. Il a été prépublié entre le 20 janvier 2020 et le 27 janvier 2025 dans le Weekly Shōnen Jump, puis publié en volumes reliés par l'éditeur japonais Shūeisha. La version française est éditée par Kana depuis septembre 2021.",
+  "title": "Undead Unluck - Edition couleur",
+  "description": "Alors que Fûko, une jeune fille introvertie, est déterminée à se donner la mort, un homme immortel complètement déjanté apparaît devant elle. Il s'agit d'un Undead qui souhaite rester avec elle dans le but de se servir du mauvais sort qui frappe tous ceux qui entrent en contact avec la peau de la jeune fille afin de mourir. Cependant, ils vont très vite subir les attaques des membres d'une mystérieuse organisation répondant au nom de « l'Union »..",
   "artist": "Tozuka Yoshifumi",
   "author": "Tozuka Yoshifumi",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Undead_Unluck_Logo.png/250px-Undead_Unluck_Logo.png",
+  "cover": "https://cdn.imgchest.com/files/7870d1acf7b3.jpg",
   "chapters": {
     "001": {
       "title": "L’immortel et la guignarde",
+      "volume": "01",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyew25lkyd"
-      },
-      "volume": "01"
+      }
     },
     "002": {
       "title": "UNION",
+      "volume": "01",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx3kk72"
-      },
-      "volume": "01"
+      }
     },
     "003": {
       "title": "Qu’est-ce que tu annules ?",
+      "volume": "01",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846qwb3vyx"
-      },
-      "volume": "01"
+      }
     },
     "004": {
       "title": "L’utilisation de ma poisse",
+      "volume": "01",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24adqe2w4l"
-      },
-      "volume": "01"
+      }
     },
     "005": {
       "title": "Qu’est-ce que tu préfères ?",
+      "volume": "01",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mwbka7n"
-      },
-      "volume": "01"
+      }
     },
     "006": {
       "title": "Tu n’as pas changé d’un iota",
+      "volume": "01",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llgjwo7x"
-      },
-      "volume": "01"
+      }
     },
     "007": {
       "title": "Le changement, c’est maintenant !!",
+      "volume": "01",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m82n7k"
-      },
-      "volume": "01"
+      }
     },
     "008": {
       "title": "Tu m’aimes encore même si j’ai changé ?",
+      "volume": "02",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732gxo34r"
-      },
-      "volume": "02"
+      }
     },
     "009": {
       "title": "On est des annulateurs",
+      "volume": "02",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brdz6vy5"
-      },
-      "volume": "02"
+      }
     },
     "010": {
       "title": "Le costume que je veux porter",
+      "volume": "02",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2mlkm78"
-      },
-      "volume": "02"
+      }
     },
     "011": {
       "title": "Longing",
+      "volume": "02",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odwrb9yp"
-      },
-      "volume": "02"
+      }
     },
     "012": {
       "title": "SPOIL",
+      "volume": "02",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zlevpv7j"
-      },
-      "volume": "02"
+      }
     },
     "013": {
       "title": "La vengeance",
+      "volume": "02",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwdzl4n"
-      },
-      "volume": "02"
+      }
     },
     "014": {
       "title": "Les rêves",
+      "volume": "02",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rank7q"
-      },
-      "volume": "02"
+      }
     },
     "015": {
       "title": "La vérité",
+      "volume": "02",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jpbmgy5"
-      },
-      "volume": "02"
+      }
     },
     "016": {
       "title": "Victhor",
+      "volume": "02",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwqej7d"
-      },
-      "volume": "02"
+      }
     },
     "017": {
       "title": "L’examen",
+      "volume": "03",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj6mb7j"
-      },
-      "volume": "03"
+      }
     },
     "018": {
       "title": "Le retour",
+      "volume": "03",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr39wn6yp"
-      },
-      "volume": "03"
+      }
     },
     "019": {
       "title": "Les résultats",
+      "volume": "03",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgq8nzy8"
-      },
-      "volume": "03"
+      }
     },
     "020": {
       "title": "Personne ne doit toucher à cette planète !",
+      "volume": "03",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w8d5nb7x"
-      },
-      "volume": "03"
+      }
     },
     "021": {
       "title": "Tant que tu seras là, je ne t’abandonnerai pas",
+      "volume": "03",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xavo84l"
-      },
-      "volume": "03"
+      }
     },
     "022": {
       "title": "Je me demande ce qui est préférable",
+      "volume": "03",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7premnk4o"
-      },
-      "volume": "03"
+      }
     },
     "023": {
       "title": "Tes blessures ne pourront pas guérir tant que je ne serai pas mort",
+      "volume": "03",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyew25dkyd"
-      },
-      "volume": "03"
+      }
     },
     "024": {
       "title": "Des gens irremplaçables",
+      "volume": "03",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k2me78"
-      },
-      "volume": "03"
+      }
     },
     "025": {
       "title": "Quand nos corps seront de nouveaux normaux",
+      "volume": "03",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zlev5v7j"
-      },
-      "volume": "03"
+      }
     },
     "026": {
       "title": "Ne serait-ce qu’un doigt...",
+      "volume": "04",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj6qb7j"
-      },
-      "volume": "04"
+      }
     },
     "027": {
       "title": "C’est toi qui vas mourir",
+      "volume": "04",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jpbogy5"
-      },
-      "volume": "04"
+      }
     },
     "028": {
       "title": "Le projectile écarlate",
+      "volume": "04",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846qwbovyx"
-      },
-      "volume": "04"
+      }
     },
     "029": {
       "title": "L’Under",
+      "volume": "04",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwdkl4n"
-      },
-      "volume": "04"
+      }
     },
     "030": {
       "title": "Alors, veuillez...",
+      "volume": "04",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgq8jzy8"
-      },
-      "volume": "04"
+      }
     },
     "031": {
       "title": "REVOLUTION",
+      "volume": "04",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx5radk7q"
-      },
-      "volume": "04"
+      }
     },
     "032": {
       "title": "UNBELIEVABLE",
+      "volume": "04",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mwbla7n"
-      },
-      "volume": "04"
+      }
     },
     "033": {
       "title": "La poisse avec nous",
+      "volume": "04",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brdznvy5"
-      },
-      "volume": "04"
+      }
     },
     "034": {
       "title": "Le monde existera toujours",
+      "volume": "04",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prem5k4o"
-      },
-      "volume": "04"
+      }
     },
     "035": {
       "title": "Ce monde...",
+      "volume": "05",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k2n578"
-      },
-      "volume": "05"
+      }
     },
     "036": {
       "title": "Je n’étais pas toute seule",
+      "volume": "05",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xavnn4l"
-      },
-      "volume": "05"
+      }
     },
     "037": {
       "title": "Undead + Unluck",
+      "volume": "05",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llgj5o7x"
-      },
-      "volume": "05"
+      }
     },
     "038": {
       "title": "Un anno",
+      "volume": "05",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx35e72"
-      },
-      "volume": "05"
+      }
     },
     "039": {
       "title": "Je peux dessiner un manga même sans la main gauche",
+      "volume": "05",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732gx6v4r"
-      },
-      "volume": "05"
+      }
     },
     "040": {
       "title": "Andy ?",
+      "volume": "05",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2ml5m78"
-      },
-      "volume": "05"
+      }
     },
     "041": {
       "title": "J’me fiche de la douleur",
+      "volume": "05",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k2ne78"
-      },
-      "volume": "05"
+      }
     },
     "042": {
       "title": "Tant que je n’oublierai pas...",
+      "volume": "05",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xavn84l"
-      },
-      "volume": "05"
+      }
     },
     "043": {
       "title": "L’échéance",
+      "volume": "05",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx35k72"
-      },
-      "volume": "05"
+      }
     },
     "044": {
       "title": "Undead VS Undead",
+      "volume": "06",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jpbnxy5"
-      },
-      "volume": "06"
+      }
     },
     "045": {
       "title": "Projectiles de la poisse",
+      "volume": "06",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj6po7j"
-      },
-      "volume": "06"
+      }
     },
     "046": {
       "title": "Revoyons-nous dans le présent",
+      "volume": "06",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llgj567x"
-      },
-      "volume": "06"
+      }
     },
     "047": {
       "title": "Akira Kunô",
+      "volume": "06",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m8nd7k"
-      },
-      "volume": "06"
+      }
     },
     "048": {
       "title": "Une histoire que je ne connais pas",
+      "volume": "06",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr39w5kyp"
-      },
-      "volume": "06"
+      }
     },
     "049": {
       "title": "Il est à nous !",
+      "volume": "06",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w8d5q37x"
-      },
-      "volume": "06"
+      }
     },
     "050": {
       "title": "A vous de jouer !",
+      "volume": "06",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx5raqm7q"
-      },
-      "volume": "06"
+      }
     },
     "051": {
       "title": "Les héros",
+      "volume": "06",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24adqemg4l"
-      },
-      "volume": "06"
+      }
     },
     "052": {
       "title": "Ma déclaration",
+      "volume": "06",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brdz3ky5"
-      },
-      "volume": "06"
+      }
     },
     "053": {
       "title": "Tu as du thé ?",
+      "volume": "07",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyew25nxyd"
-      },
-      "volume": "07"
+      }
     },
     "054": {
       "title": "Notre espoir",
+      "volume": "07",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zlevmg7j"
-      },
-      "volume": "07"
+      }
     },
     "055": {
       "title": "Utilise ta règle",
+      "volume": "07",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgq8lwy8"
-      },
-      "volume": "07"
+      }
     },
     "056": {
       "title": "Parce que tu me fais confiance",
+      "volume": "07",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8rvk9p4b"
-      },
-      "volume": "07"
+      }
     },
     "057": {
       "title": "Vitalité",
+      "volume": "07",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mwb9v7n"
-      },
-      "volume": "07"
+      }
     },
     "058": {
       "title": "Les yeux du dragon",
+      "volume": "07",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846qwb9gyx"
-      },
-      "volume": "07"
+      }
     },
     "059": {
       "title": "Tetsuzankô",
+      "volume": "07",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwd6w4n"
-      },
-      "volume": "07"
+      }
     },
     "060": {
       "title": "La vérité",
+      "volume": "07",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odwrvayp"
-      },
-      "volume": "07"
+      }
     },
     "061": {
       "title": "Intérêt",
+      "volume": "07",
       "last_updated": "1775484311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prem684o"
-      },
-      "volume": "07"
+      }
     }
   }
 }
