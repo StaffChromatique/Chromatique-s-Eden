@@ -3,8 +3,48 @@
   "description": "Dragon Ball Super est un shōnen manga écrit par Akira Toriyama et dessiné par Toyotarō, prépublié mensuellement dans le magazine V Jump.",
   "artist": "Toyotarō",
   "author": "Akira Toriyama",
-  "cover": "",
+  "cover": "https://cdn.imgchest.com/files/04c1809e2d39.jpg",
   "chapters": {
+    "100": {
+      "title": "Explosion ! — Lumière de la mort !",
+      "volume": "23",
+      "last_updated": "1775495594",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kbxx78"
+      }
+    },
+    "101": {
+      "title": "Carmin et Soldat 15",
+      "volume": "24",
+      "last_updated": "1775498052",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwjvoyx"
+      }
+    },
+    "102": {
+      "title": "Son Goku contre Son Gohan",
+      "volume": "24",
+      "last_updated": "1775495553",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2b9qyd"
+      }
+    },
+    "103": {
+      "title": "Un héritage vers l'avenir",
+      "volume": "24",
+      "last_updated": "1775495810",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxojn72"
+      }
+    },
+    "104": {
+      "title": "La naissance de Saiyamen X",
+      "volume": "24",
+      "last_updated": "1775495631",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxl9n72"
+      }
+    },
     "001": {
       "title": "Le rêve prémonitoire du dieu de la destruction",
       "volume": "01",
@@ -827,46 +867,6 @@
       "last_updated": "1775499983",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xakvn4l"
-      }
-    },
-    "100": {
-      "title": "Explosion ! — Lumière de la mort !",
-      "volume": "23",
-      "last_updated": "1775495594",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kbxx78"
-      }
-    },
-    "101": {
-      "title": "Carmin et Soldat 15",
-      "volume": "24",
-      "last_updated": "1775498052",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/a846qwjvoyx"
-      }
-    },
-    "102": {
-      "title": "Son Goku contre Son Gohan",
-      "volume": "24",
-      "last_updated": "1775495553",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2b9qyd"
-      }
-    },
-    "103": {
-      "title": "Un héritage vers l'avenir",
-      "volume": "24",
-      "last_updated": "1775495810",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxojn72"
-      }
-    },
-    "104": {
-      "title": "La naissance de Saiyamen X",
-      "volume": "24",
-      "last_updated": "1775495631",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxl9n72"
       }
     }
   }
