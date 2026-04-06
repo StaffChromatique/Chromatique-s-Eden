@@ -1,385 +1,385 @@
 {
   "title": "Beelzebub - Edition couleur",
-  "description": "Oga Tatsumi, le plus fort des délinquants de 1ere année, voit apparaitre un bébé devant lui en pleine bagarre. Il s'avère que ce bébé est en réalité le \"grand\" Beelzebub, le fils du Roi des Démons. Le jeune homme apprend par la suite que le bébé a été envoyé par son père pour détruire l'humanité! Oga se verra alors attribuer de force le rôle de parent de cet étrange bambin par sa nourrice, Hilda, et sera forcé de devenir le plus puissant des hommes pour aider le bébé dans sa tâche.",
+  "description": "Oga Tatsumi, le plus fort des délinquants de 1ere année, voit apparaitre un bébé devant lui en pleine bagarre. Il s'avère que ce bébé est en réalité le \"grand\" Beelzebub, le fils du Roi des Démons. Le jeune homme apprend par la suite que le bébé a été envoyé par son père pour détruire l'humanité! Oga se verra alors attribuer de force le rôle de parent de cet étrange bambin par sa nourrice, Hilda, et sera forcé de devenir le plus puissant des hommes pour aider le bébé dans sa tâche.\n\nNote : Cette version est un upscale des tomes de SEPH974, par la Team Chromatique.",
   "artist": "Ryūhei Tamura",
   "author": "Ryūhei Tamura",
   "cover": "https://cdn.imgchest.com/files/fb53198994a9.png",
   "chapters": {
     "029": {
       "title": "Ça va pas la tête ?!",
+      "volume": "04",
       "last_updated": "1775398036",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad3egd4l"
-      },
-      "volume": "04"
+      }
     },
     "036": {
       "title": "J’ai gagné",
+      "volume": "05",
       "last_updated": "1775398037",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846qpbxzyx"
-      },
-      "volume": "05"
+      }
     },
     "022": {
       "title": "C’est qu’il ne manque pas de cran, le garçon !",
+      "volume": "03",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvg286by8"
-      },
-      "volume": "03"
+      }
     },
     "001": {
       "title": "J’ai recueilli le diable",
+      "volume": "01",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqnodz4n"
-      },
-      "volume": "01"
+      }
     },
     "002": {
       "title": "Caïd & Cub",
+      "volume": "01",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7od9prdyp"
-      },
-      "volume": "01"
+      }
     },
     "003": {
       "title": "Un salaud fort et dangereux",
+      "volume": "01",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvg2po9y8"
-      },
-      "volume": "01"
+      }
     },
     "004": {
       "title": "Fly !!",
+      "volume": "01",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846qpn2wyx"
-      },
-      "volume": "01"
+      }
     },
     "005": {
       "title": "Comme si tu étais sa mère",
+      "volume": "01",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7ll9pjp7x"
-      },
-      "volume": "01"
+      }
     },
     "006": {
       "title": "Ça",
+      "volume": "01",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w8lpoz7x"
-      },
-      "volume": "01"
+      }
     },
     "007": {
       "title": "J’arrête la baston",
+      "volume": "01",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prvpm64o"
-      },
-      "volume": "01"
+      }
     },
     "008": {
       "title": "Viendra ? Viendra pas ?",
+      "volume": "02",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45j3v92y5"
-      },
-      "volume": "02"
+      }
     },
     "009": {
       "title": "Un homme...",
+      "volume": "02",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j59p2278"
-      },
-      "volume": "02"
+      }
     },
     "010": {
       "title": "Naissance d’un amour",
+      "volume": "02",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewakb3yd"
-      },
-      "volume": "02"
+      }
     },
     "011": {
       "title": "Mes premiers pas au jardin public",
+      "volume": "02",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3x98w7k"
-      },
-      "volume": "02"
+      }
     },
     "012": {
       "title": "Les jeux du Diable pour tuer le temps",
+      "volume": "02",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3vkweyp"
-      },
-      "volume": "02"
+      }
     },
     "013": {
       "title": "Les retrouvailles d’un homme et d’une femme",
+      "volume": "02",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7br59zny5"
-      },
-      "volume": "02"
+      }
     },
     "014": {
       "title": "Retrouvailles inéluctables",
+      "volume": "02",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xd5vj4l"
-      },
-      "volume": "02"
+      }
     },
     "015": {
       "title": "L’ouragan de l’amour",
+      "volume": "02",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gze9br7j"
-      },
-      "volume": "02"
+      }
     },
     "016": {
       "title": "Deux femmes",
+      "volume": "03",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx5jpo37q"
-      },
-      "volume": "03"
+      }
     },
     "017": {
       "title": "Jamais je ne te pardonnerai",
+      "volume": "03",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmvp3o72"
-      },
-      "volume": "03"
+      }
     },
     "018": {
       "title": "C’est un duel",
+      "volume": "03",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8r3njo4b"
-      },
-      "volume": "03"
+      }
     },
     "019": {
       "title": "C’est la fin du duel",
+      "volume": "03",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732raxz4r"
-      },
-      "volume": "03"
+      }
     },
     "020": {
       "title": "Défaite",
+      "volume": "03",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mvnb27n"
-      },
-      "volume": "03"
+      }
     },
     "021": {
       "title": "C’est ça qu’on appelle l’été !",
+      "volume": "03",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2oplq78"
-      },
-      "volume": "03"
+      }
     },
     "023": {
       "title": "Entrée en scène !!",
+      "volume": "04",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqnobz4n"
-      },
-      "volume": "04"
+      }
     },
     "024": {
       "title": "Va-t’en",
+      "volume": "04",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mj9pqb7d"
-      },
-      "volume": "04"
+      }
     },
     "025": {
       "title": "Net et sans bavure",
+      "volume": "04",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad39b34l"
-      },
-      "volume": "04"
+      }
     },
     "026": {
       "title": "Le combat",
+      "volume": "04",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7ll9pbp7x"
-      },
-      "volume": "04"
+      }
     },
     "027": {
       "title": "Je me suis bien marré",
+      "volume": "04",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7br59mny5"
-      },
-      "volume": "04"
+      }
     },
     "028": {
       "title": "Le docteur est là",
+      "volume": "04",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j59pb278"
-      },
-      "volume": "04"
+      }
     },
     "030": {
       "title": "Sois des nôtres",
+      "volume": "04",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3x9bw7k"
-      },
-      "volume": "04"
+      }
     },
     "031": {
       "title": "Rassemblement général",
+      "volume": "04",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvg2pk9y8"
-      },
-      "volume": "04"
+      }
     },
     "032": {
       "title": "Feux d’artifice et baston : spécialités d’Ishiyama !",
+      "volume": "05",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmvpoo72"
-      },
-      "volume": "05"
+      }
     },
     "033": {
       "title": "Lequel choisir ?!",
+      "volume": "05",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zld2z37j"
-      },
-      "volume": "05"
+      }
     },
     "034": {
       "title": "Mon père, c’est lui !",
+      "volume": "05",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8r3ndo4b"
-      },
-      "volume": "05"
+      }
     },
     "035": {
       "title": "T’en mêle pas",
+      "volume": "05",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732ravz4r"
-      },
-      "volume": "05"
+      }
     },
     "037": {
       "title": "L’homme le plus fort d’Ishiyama",
+      "volume": "05",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3vkoeyp"
-      },
-      "volume": "05"
+      }
     },
     "038": {
       "title": "À la fin de l’été",
+      "volume": "05",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mvnr27n"
-      },
-      "volume": "05"
+      }
     },
     "039": {
       "title": "Reclus en montagne",
+      "volume": "05",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mj9pob7d"
-      },
-      "volume": "05"
+      }
     },
     "040": {
       "title": "Le plus fort des papis",
+      "volume": "06",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad39r34l"
-      },
-      "volume": "06"
+      }
     },
     "041": {
       "title": "Faut pas s’enfer ?",
+      "volume": "06",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prvp264o"
-      },
-      "volume": "06"
+      }
     },
     "042": {
       "title": "Il est mort, l’autre",
+      "volume": "06",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w8lp3z7x"
-      },
-      "volume": "06"
+      }
     },
     "043": {
       "title": "Des ennemis, hein ?",
+      "volume": "06",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewake3yd"
-      },
-      "volume": "06"
+      }
     },
     "044": {
       "title": "Angelica",
+      "volume": "06",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xd59j4l"
-      },
-      "volume": "06"
+      }
     },
     "045": {
       "title": "Grandis !",
+      "volume": "06",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846qpnjwyx"
-      },
-      "volume": "06"
+      }
     },
     "046": {
       "title": "Giant Baby Beel !!",
+      "volume": "06",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx5jpw37q"
-      },
-      "volume": "06"
+      }
     },
     "047": {
       "title": "Fin de l’aventure",
+      "volume": "06",
       "last_updated": "1775398047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2op6q78"
-      },
-      "volume": "06"
+      }
     }
   }
 }
