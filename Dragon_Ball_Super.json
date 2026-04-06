@@ -1,0 +1,33 @@
+{
+  "title": "Dragon Ball Super",
+  "description": "Dragon Ball Super ( ドラゴンボール 超, Doragon bōru sūpā? ) est un manga écrit par Akira Toriyama et illustré par Toyotarō, adapté du manga Dragon Ball d' Akira Toriyama et prépublié dans le V Jump entre juin 2015 et mars 2024. Depuis le décès de Toriyama, le manga est rentré dans une pause indéfinie et est compilé en vingt-quatre volumes à ce jour par la Shūeisha. Tout comme l'œuvre originale, la version française est publiée par Glénat.",
+  "artist": "Toyotarō",
+  "author": "",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/250px-Dragon_Ball_Super.png",
+  "chapters": {
+    "015.1": {
+      "title": "Le rêve prémonitoire du dieu de la destruction",
+      "last_updated": "1775500201",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqjggz4n"
+      },
+      "volume": "002"
+    },
+    "028.1": {
+      "title": "La défaite de Goku",
+      "last_updated": "1775500201",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx58xx37q"
+      },
+      "volume": "005"
+    },
+    "036.1": {
+      "title": "La fureur de Beerus",
+      "last_updated": "1775500201",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mpxx27n"
+      },
+      "volume": "007"
+    }
+  }
+}
