@@ -1,0 +1,521 @@
+{
+  "title": "Parasite",
+  "description": "Parasite ( 寄生獣, Kiseijū? , litt. « bêtes parasites » ) est une série japonaise de mangas écrit et dessiné par Hitoshi Iwaaki. Il est prépublié entre novembre 1988 et décembre 1994 dans les magazines Morning Open Shūkan puis Afternoon de l'éditeur Kōdansha, et est compilé en un total de dix volumes. La version française est éditée en intégralité par Glénat entre novembre 2002 et août 2004.",
+  "artist": "Hitoshi Iwaaki",
+  "author": "Moare Ohta",
+  "cover": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Parasite_manga_fr.png/250px-Logo_Parasite_manga_fr.png",
+  "chapters": {
+    "001": {
+      "title": "Invasion",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdzbny5"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Le monstre",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgjbp7x"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Contact",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx3oo72"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Envie de meurtre",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732gxvz4r"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "Envie d’apprendre",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2ml6q78"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "Tamiya Yoko",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xav6j4l"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "Raid",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k2b278"
+      },
+      "volume": "01"
+    },
+    "008": {
+      "title": "Espèce",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdzmny5"
+      },
+      "volume": "02"
+    },
+    "009": {
+      "title": "La mère",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwrndyp"
+      },
+      "volume": "02"
+    },
+    "010": {
+      "title": "La différence",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew25e3yd"
+      },
+      "volume": "02"
+    },
+    "011": {
+      "title": "Séparation",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlevz37j"
+      },
+      "volume": "02"
+    },
+    "012": {
+      "title": "Le cœur percé",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwbr27n"
+      },
+      "volume": "02"
+    },
+    "013": {
+      "title": "Sans verser une larme",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvkdo4b"
+      },
+      "volume": "02"
+    },
+    "014": {
+      "title": "Compagnons",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpbl2y5"
+      },
+      "volume": "02"
+    },
+    "015": {
+      "title": "30% en moins",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwbjwyx"
+      },
+      "volume": "03"
+    },
+    "016": {
+      "title": "La fin du voyage",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d53z7x"
+      },
+      "volume": "03"
+    },
+    "017": {
+      "title": "Transfiguration",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k2a278"
+      },
+      "volume": "03"
+    },
+    "018": {
+      "title": "Humanité",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39woeyp"
+      },
+      "volume": "03"
+    },
+    "019": {
+      "title": "Shimada Hideo",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m8bw7k"
+      },
+      "volume": "03"
+    },
+    "020": {
+      "title": "Prémices",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xav994l"
+      },
+      "volume": "03"
+    },
+    "021": {
+      "title": "Observations",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqer34l"
+      },
+      "volume": "04"
+    },
+    "022": {
+      "title": "Fissures",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgq8k9y8"
+      },
+      "volume": "04"
+    },
+    "023": {
+      "title": "Confusion et massacre",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5raw37q"
+      },
+      "volume": "04"
+    },
+    "024": {
+      "title": "Le coup final",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwdbz4n"
+      },
+      "volume": "04"
+    },
+    "025": {
+      "title": "L’ondée",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwd9z4n"
+      },
+      "volume": "04"
+    },
+    "026": {
+      "title": "Une fille rêvait",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prem264o"
+      },
+      "volume": "04"
+    },
+    "027": {
+      "title": "Exercice",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgjvq7x"
+      },
+      "volume": "05"
+    },
+    "028": {
+      "title": "Les jours heureux",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx3ln72"
+      },
+      "volume": "05"
+    },
+    "029": {
+      "title": "Kana",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39wegyp"
+      },
+      "volume": "05"
+    },
+    "030": {
+      "title": "Le super pouvoir",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m8kl7k"
+      },
+      "volume": "05"
+    },
+    "031": {
+      "title": "Larmes de sang",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlevxd7j"
+      },
+      "volume": "05"
+    },
+    "032": {
+      "title": "Tamura Reiko",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d5ag7x"
+      },
+      "volume": "05"
+    },
+    "033": {
+      "title": "Le témoin",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj6nj7j"
+      },
+      "volume": "06"
+    },
+    "034": {
+      "title": "De fer et de verre",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew25xqyd"
+      },
+      "volume": "06"
+    },
+    "035": {
+      "title": "Problème d’anthroponymie",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5ra6q7q"
+      },
+      "volume": "06"
+    },
+    "036": {
+      "title": "Vieux démons",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvka54b"
+      },
+      "volume": "06"
+    },
+    "037": {
+      "title": "La cantine",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpbgqy5"
+      },
+      "volume": "06"
+    },
+    "038": {
+      "title": "Hostilités",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqe524l"
+      },
+      "volume": "06"
+    },
+    "039": {
+      "title": "Les assassins",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwb8oyx"
+      },
+      "volume": "07"
+    },
+    "040": {
+      "title": "Tour de contrôle",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgq85jy8"
+      },
+      "volume": "07"
+    },
+    "041": {
+      "title": "L’être parfait",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwdrm4n"
+      },
+      "volume": "07"
+    },
+    "042": {
+      "title": "Famille réduite, première partie",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prem3p4o"
+      },
+      "volume": "07"
+    },
+    "043": {
+      "title": "Famille réduite, seconde partie",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xavk94l"
+      },
+      "volume": "07"
+    },
+    "044": {
+      "title": "Impatiemment",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k2lx78"
+      },
+      "volume": "07"
+    },
+    "045": {
+      "title": "Risque calculé",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx3wn72"
+      },
+      "volume": "07"
+    },
+    "046": {
+      "title": "Les parcs d’à côté",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwrmryp"
+      },
+      "volume": "08"
+    },
+    "047": {
+      "title": "Avoir un enfant",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwqbn7d"
+      },
+      "volume": "08"
+    },
+    "048": {
+      "title": "Le retour",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgjqq7x"
+      },
+      "volume": "08"
+    },
+    "049": {
+      "title": "Entrevue",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m8gl7k"
+      },
+      "volume": "08"
+    },
+    "050": {
+      "title": "Tranchant",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732gxmj4r"
+      },
+      "volume": "08"
+    },
+    "051": {
+      "title": "Le chemin",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39wqgyp"
+      },
+      "volume": "08"
+    },
+    "052": {
+      "title": "Encadrement",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew258qyd"
+      },
+      "volume": "09"
+    },
+    "053": {
+      "title": "Ouverture des hostilités",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvkg54b"
+      },
+      "volume": "09"
+    },
+    "054": {
+      "title": "Opression",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqew24l"
+      },
+      "volume": "09"
+    },
+    "055": {
+      "title": "Parasites",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgq83jy8"
+      },
+      "volume": "09"
+    },
+    "056": {
+      "title": "Des têtes vont tomber",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5raeq7q"
+      },
+      "volume": "09"
+    },
+    "057": {
+      "title": "Héroïques",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39orgyp"
+      },
+      "volume": "09"
+    },
+    "058": {
+      "title": "Migy",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx3nn72"
+      },
+      "volume": "09"
+    },
+    "059": {
+      "title": "La veille",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwb8m7n"
+      },
+      "volume": "10"
+    },
+    "060": {
+      "title": "Préparatifs",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d5wg7x"
+      },
+      "volume": "10"
+    },
+    "061": {
+      "title": "Grotesque",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2ml3b78"
+      },
+      "volume": "10"
+    },
+    "062": {
+      "title": "Au petit matin",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8dozg7x"
+      },
+      "volume": "10"
+    },
+    "063": {
+      "title": "Retour à la normale",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732gvkj4r"
+      },
+      "volume": "10"
+    },
+    "064": {
+      "title": "Pour toi",
+      "last_updated": "1775485298",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvjp54b"
+      },
+      "volume": "10"
+    }
+  }
+}
