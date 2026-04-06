@@ -1,0 +1,617 @@
+{
+  "title": "Undead Unluck",
+  "description": "Undead Unluck ( アンデッドアンラック, Andeddo Anrakku? ) est un shōnen manga écrit et dessiné par Tozuka Yoshifumi. Il a été prépublié entre le 20 janvier 2020 et le 27 janvier 2025 dans le Weekly Shōnen Jump, puis publié en volumes reliés par l'éditeur japonais Shūeisha. La version française est éditée par Kana depuis septembre 2021.",
+  "artist": "Tozuka Yoshifumi",
+  "author": "Tozuka Yoshifumi",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Undead_Unluck_Logo.png/250px-Undead_Unluck_Logo.png",
+  "chapters": {
+    "19": {
+      "title": "Les résultats",
+      "last_updated": "1775411742",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/6eyr3vqb6yp"
+      },
+      "volume": "03"
+    },
+    "5": {
+      "title": "Qu’est-ce que tu préfères ?",
+      "last_updated": "1775411746",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/ej7mj9b5j7d"
+      },
+      "volume": "01"
+    },
+    "15": {
+      "title": "La vérité",
+      "last_updated": "1775411748",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qb4zldgbv7j"
+      },
+      "volume": "02"
+    },
+    "11": {
+      "title": "Longing",
+      "last_updated": "1775411750",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/agyvg23pzy8"
+      },
+      "volume": "02"
+    },
+    "6": {
+      "title": "Tu n’as pas changé d’un iota",
+      "last_updated": "1775411751",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/xny8r3gwd4b"
+      },
+      "volume": "01"
+    },
+    "25": {
+      "title": "Quand nos corps seront de nouveaux normaux",
+      "last_updated": "1775411752",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/n87w8lkbb7x"
+      },
+      "volume": "03"
+    },
+    "14": {
+      "title": "Les rêves",
+      "last_updated": "1775411754",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/lqyewa8rkyd"
+      },
+      "volume": "02"
+    },
+    "18": {
+      "title": "Le retour",
+      "last_updated": "1775411755",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/qe4gzea3b7j"
+      },
+      "volume": "03"
+    },
+    "21": {
+      "title": "Tant que tu seras là, je ne t’abandonnerai pas",
+      "last_updated": "1775411758",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/m9yx5jepk7q"
+      },
+      "volume": "03"
+    },
+    "23": {
+      "title": "Tes blessures ne pourront pas guérir tant que je ne serai pas mort",
+      "last_updated": "1775411759",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/dl7prvlpk4o"
+      },
+      "volume": "03"
+    },
+    "13": {
+      "title": "La vengeance",
+      "last_updated": "1775411761",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/9249mv8na7n"
+      },
+      "volume": "02"
+    },
+    "10": {
+      "title": "Le costume que je veux porter",
+      "last_updated": "1775411762",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xdr584l"
+      },
+      "volume": "02"
+    },
+    "7": {
+      "title": "Le changement, c’est maintenant !!",
+      "last_updated": "1775411763",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/md7od92p9yp"
+      },
+      "volume": "01"
+    },
+    "9": {
+      "title": "On est des annulateurs",
+      "last_updated": "1775411764",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/wl7ll9npo7x"
+      },
+      "volume": "02"
+    },
+    "22": {
+      "title": "Je me demande ce qui est préférable",
+      "last_updated": "1775411769",
+      "groups": {
+        "Scanlation": "/proxy/api/imgchest/chapter/5xy2xdr5n4l"
+      },
+      "volume": "03"
+    },
+    "023": {
+      "title": "",
+      "last_updated": "1775483444",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew25dkyd"
+      },
+      "volume": "03"
+    },
+    "025": {
+      "title": "",
+      "last_updated": "1775483449",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlev5v7j"
+      },
+      "volume": "03"
+    },
+    "017": {
+      "title": "",
+      "last_updated": "1775483461",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj6mb7j"
+      },
+      "volume": "03"
+    },
+    "015": {
+      "title": "",
+      "last_updated": "1775483467",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpbmgy5"
+      },
+      "volume": "02"
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1775483468",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqe2w4l"
+      },
+      "volume": "01"
+    },
+    "019": {
+      "title": "",
+      "last_updated": "1775483468",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgq8nzy8"
+      },
+      "volume": "03"
+    },
+    "005": {
+      "title": "",
+      "last_updated": "1775483469",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwbka7n"
+      },
+      "volume": "01"
+    },
+    "009": {
+      "title": "",
+      "last_updated": "1775483470",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdz6vy5"
+      },
+      "volume": "02"
+    },
+    "014": {
+      "title": "",
+      "last_updated": "1775483471",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rank7q"
+      },
+      "volume": "02"
+    },
+    "013": {
+      "title": "",
+      "last_updated": "1775483471",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwdzl4n"
+      },
+      "volume": "02"
+    },
+    "022": {
+      "title": "",
+      "last_updated": "1775483473",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7premnk4o"
+      },
+      "volume": "03"
+    },
+    "011": {
+      "title": "",
+      "last_updated": "1775483476",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwrb9yp"
+      },
+      "volume": "02"
+    },
+    "007": {
+      "title": "",
+      "last_updated": "1775483476",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m82n7k"
+      },
+      "volume": "01"
+    },
+    "010": {
+      "title": "",
+      "last_updated": "1775483477",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mlkm78"
+      },
+      "volume": "02"
+    },
+    "006": {
+      "title": "",
+      "last_updated": "1775483477",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgjwo7x"
+      },
+      "volume": "01"
+    },
+    "012": {
+      "title": "",
+      "last_updated": "1775483479",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlevpv7j"
+      },
+      "volume": "02"
+    },
+    "021": {
+      "title": "",
+      "last_updated": "1775483480",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xavo84l"
+      },
+      "volume": "03"
+    },
+    "018": {
+      "title": "",
+      "last_updated": "1775483480",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39wn6yp"
+      },
+      "volume": "03"
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1775483481",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwb3vyx"
+      },
+      "volume": "01"
+    },
+    "024": {
+      "title": "",
+      "last_updated": "1775483482",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k2me78"
+      },
+      "volume": "03"
+    },
+    "026": {
+      "title": "",
+      "last_updated": "1775483483",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj6qb7j"
+      },
+      "volume": "04"
+    },
+    "027": {
+      "title": "",
+      "last_updated": "1775483483",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpbogy5"
+      },
+      "volume": "04"
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1775483484",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx3kk72"
+      },
+      "volume": "01"
+    },
+    "008": {
+      "title": "",
+      "last_updated": "1775483488",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732gxo34r"
+      },
+      "volume": "02"
+    },
+    "028": {
+      "title": "",
+      "last_updated": "1775483488",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwbovyx"
+      },
+      "volume": "04"
+    },
+    "020": {
+      "title": "",
+      "last_updated": "1775483490",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d5nb7x"
+      },
+      "volume": "03"
+    },
+    "016": {
+      "title": "",
+      "last_updated": "1775483493",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwqej7d"
+      },
+      "volume": "02"
+    },
+    "031": {
+      "title": "",
+      "last_updated": "1775483493",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5radk7q"
+      },
+      "volume": "04"
+    },
+    "032": {
+      "title": "",
+      "last_updated": "1775483494",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwbla7n"
+      },
+      "volume": "04"
+    },
+    "033": {
+      "title": "",
+      "last_updated": "1775483496",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdznvy5"
+      },
+      "volume": "04"
+    },
+    "029": {
+      "title": "",
+      "last_updated": "1775483502",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwdkl4n"
+      },
+      "volume": "04"
+    },
+    "030": {
+      "title": "",
+      "last_updated": "1775483505",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgq8jzy8"
+      },
+      "volume": "04"
+    },
+    "034": {
+      "title": "",
+      "last_updated": "1775483506",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prem5k4o"
+      },
+      "volume": "04"
+    },
+    "040": {
+      "title": "",
+      "last_updated": "1775483507",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2ml5m78"
+      },
+      "volume": "05"
+    },
+    "042": {
+      "title": "",
+      "last_updated": "1775483507",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xavn84l"
+      },
+      "volume": "05"
+    },
+    "041": {
+      "title": "",
+      "last_updated": "1775483509",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k2ne78"
+      },
+      "volume": "05"
+    },
+    "037": {
+      "title": "",
+      "last_updated": "1775483510",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgj5o7x"
+      },
+      "volume": "05"
+    },
+    "043": {
+      "title": "",
+      "last_updated": "1775483511",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx35k72"
+      },
+      "volume": "05"
+    },
+    "036": {
+      "title": "",
+      "last_updated": "1775483517",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xavnn4l"
+      },
+      "volume": "05"
+    },
+    "046": {
+      "title": "",
+      "last_updated": "1775483519",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgj567x"
+      },
+      "volume": "06"
+    },
+    "035": {
+      "title": "",
+      "last_updated": "1775483525",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k2n578"
+      },
+      "volume": "05"
+    },
+    "047": {
+      "title": "",
+      "last_updated": "1775483528",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m8nd7k"
+      },
+      "volume": "06"
+    },
+    "048": {
+      "title": "",
+      "last_updated": "1775483529",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39w5kyp"
+      },
+      "volume": "06"
+    },
+    "039": {
+      "title": "",
+      "last_updated": "1775483529",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732gx6v4r"
+      },
+      "volume": "05"
+    },
+    "038": {
+      "title": "",
+      "last_updated": "1775483530",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx35e72"
+      },
+      "volume": "05"
+    },
+    "049": {
+      "title": "",
+      "last_updated": "1775483535",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d5q37x"
+      },
+      "volume": "06"
+    },
+    "045": {
+      "title": "",
+      "last_updated": "1775483541",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj6po7j"
+      },
+      "volume": "06"
+    },
+    "053": {
+      "title": "",
+      "last_updated": "1775483541",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew25nxyd"
+      },
+      "volume": "07"
+    },
+    "050": {
+      "title": "",
+      "last_updated": "1775483541",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5raqm7q"
+      },
+      "volume": "06"
+    },
+    "051": {
+      "title": "",
+      "last_updated": "1775483542",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqemg4l"
+      },
+      "volume": "06"
+    },
+    "058": {
+      "title": "",
+      "last_updated": "1775483542",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwb9gyx"
+      },
+      "volume": "07"
+    },
+    "044": {
+      "title": "",
+      "last_updated": "1775483542",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpbnxy5"
+      },
+      "volume": "06"
+    },
+    "055": {
+      "title": "",
+      "last_updated": "1775483543",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgq8lwy8"
+      },
+      "volume": "07"
+    },
+    "057": {
+      "title": "",
+      "last_updated": "1775483543",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwb9v7n"
+      },
+      "volume": "07"
+    },
+    "061": {
+      "title": "",
+      "last_updated": "1775483543",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prem684o"
+      },
+      "volume": "07"
+    },
+    "056": {
+      "title": "",
+      "last_updated": "1775483543",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvk9p4b"
+      },
+      "volume": "07"
+    },
+    "052": {
+      "title": "",
+      "last_updated": "1775483543",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdz3ky5"
+      },
+      "volume": "06"
+    },
+    "059": {
+      "title": "",
+      "last_updated": "1775483543",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwd6w4n"
+      },
+      "volume": "07"
+    },
+    "054": {
+      "title": "",
+      "last_updated": "1775483544",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlevmg7j"
+      },
+      "volume": "07"
+    },
+    "060": {
+      "title": "",
+      "last_updated": "1775483544",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwrvayp"
+      },
+      "volume": "07"
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1775483550",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew25lkyd"
+      },
+      "volume": "01"
+    }
+  }
+}
