@@ -1,449 +1,449 @@
 {
   "title": "Bleach",
-  "description": "Bleach est le verbe anglais pour dire « blanchir » ou « décolorer »; bleach est aussi le nom anglais de l’ eau de Javel.",
+  "description": "L'histoire de Bleach se déroule dans une version alternative de notre monde où des shinigami, les faucheurs des âmes[3], protègent l'espèce humaine et les âmes des morts des hollows, forme bestiale des âmes perdues.\n\nCette lutte incessante, invisible aux yeux d'une très large majorité d'humains, se fait notamment à l'aide de Zanpakutō, des sabres spirituels liés à leurs maîtres qui peuvent se transformer.\n\nCette réalité alternative est constituée de plusieurs mondes parallèles parmi lesquels, outre la Terre, se trouvent entre autres la Soul Society, le monde des shinigamis (alias le paradis), le Hueco Mundo, le monde des hollows (les âmes torturées) et l'Enfer (là où vont les mauvais esprits qui ont accompli des actes néfastes dans leur vie terrestre).\n\nNote : Bleach est disponible chez Chromatique en couleurs uniquement à partir du tome 55. Les tomes 1 à 54 ne sont donc pas disponibles ici et nous vous invitons à effectuer vos propres recherches car nous ne partagerons aucun lien vers ces tomes.",
   "artist": "",
   "author": "",
   "cover": "",
   "chapters": {
     "633": {
       "title": "Friend 3",
+      "volume": "070",
       "last_updated": "1775505356",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7ll2xw37x"
-      },
-      "volume": "070"
+      }
     },
     "634": {
       "title": "Friend 4",
+      "volume": "070",
       "last_updated": "1775505341",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl89557j"
-      },
-      "volume": "070"
+      }
     },
     "635": {
       "title": "Hooded Enigma",
+      "volume": "070",
       "last_updated": "1775505335",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewg3dmyd"
-      },
-      "volume": "070"
+      }
     },
     "636": {
       "title": "Sensitive Monster",
+      "volume": "070",
       "last_updated": "1775505352",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5gdm978"
-      },
-      "volume": "070"
+      }
     },
     "637": {
       "title": "Baby, Hold Your Hand",
+      "volume": "070",
       "last_updated": "1775505346",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7ll2xwx7x"
-      },
-      "volume": "070"
+      }
     },
     "638": {
       "title": "Le comble du grotesque, suintant de malfaisance",
+      "volume": "070",
       "last_updated": "1775505340",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqjevb4n"
-      },
-      "volume": "070"
+      }
     },
     "639": {
       "title": "Baby, Hold Your Hand 2",
+      "volume": "070",
       "last_updated": "1775505341",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gz5dmq7j"
-      },
-      "volume": "070"
+      }
     },
     "640": {
       "title": "Baby, Hold Your Hand 3 [Mad Lullaby no.7]",
+      "volume": "070",
       "last_updated": "1775505358",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmr9kd72"
-      },
-      "volume": "070"
+      }
     },
     "641": {
       "title": "Baby, Hold Your Hand 4 [When I am sleeping]",
+      "volume": "070",
       "last_updated": "1775505339",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad8p2d4l"
-      },
-      "volume": "070"
+      }
     },
     "642": {
       "title": "Baby, Hold Your Hand 5 [Eyes Are Open]",
+      "volume": "070",
       "last_updated": "1775505351",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2x8po34l"
-      },
-      "volume": "070"
-    },
-    "642.1": {
-      "title": "HS 520.5 - Walk under two letters",
-      "last_updated": "1775505315",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/pg73259dg4r"
-      },
-      "volume": "070"
+      }
     },
     "643": {
       "title": "Baby, Hold Your Hand 6 [Waiting for Love]",
+      "volume": "071",
       "last_updated": "1775505353",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q5a3zyx"
-      },
-      "volume": "071"
+      }
     },
     "644": {
       "title": "Baby, Hold Your Hand 7 [Never Ending My Dream]",
+      "volume": "071",
       "last_updated": "1775505348",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prdja34o"
-      },
-      "volume": "071"
+      }
     },
     "645": {
       "title": "Don't Chase a Shadow",
+      "volume": "071",
       "last_updated": "1775505347",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2x8poz4l"
-      },
-      "volume": "071"
+      }
     },
     "646": {
       "title": "The Second Eye",
+      "volume": "071",
       "last_updated": "1775505347",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odqga2yp"
-      },
-      "volume": "071"
+      }
     },
     "647": {
       "title": "The Theatre Suicide",
+      "volume": "071",
       "last_updated": "1775505344",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5gdm378"
-      },
-      "volume": "071"
+      }
     },
     "648": {
       "title": "The Theatre Suicide Scene 2",
+      "volume": "071",
       "last_updated": "1775505342",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvg9dxby8"
-      },
-      "volume": "071"
+      }
     },
     "649": {
       "title": "The Theatre Suicide Scene 3",
+      "volume": "071",
       "last_updated": "1775505343",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx58k9p7q"
-      },
-      "volume": "071"
+      }
     },
     "650": {
       "title": "The Theatre Suicide Scene 4",
+      "volume": "071",
       "last_updated": "1775505350",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2vza378"
-      },
-      "volume": "071"
+      }
     },
     "651": {
       "title": "The Theatre Suicide Scene 5",
+      "volume": "071",
       "last_updated": "1775505349",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brkwlmy5"
-      },
-      "volume": "071"
+      }
     },
     "652": {
       "title": "The Theatre Suicide Scene 6",
+      "volume": "071",
       "last_updated": "1775505343",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8r5xe24b"
-      },
-      "volume": "071"
+      }
     },
     "653": {
       "title": "The Theatre Suicide Scene 7 : Deux épingles à cheveux, une seule silhouette",
+      "volume": "072",
       "last_updated": "1775505359",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45j5xmny5"
-      },
-      "volume": "072"
+      }
     },
     "654": {
       "title": "Deadman Standing",
+      "volume": "072",
       "last_updated": "1775505352",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmr9kx72"
-      },
-      "volume": "072"
+      }
     },
     "655": {
       "title": "The Miracle",
+      "volume": "072",
       "last_updated": "1775505336",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w8x69x7x"
-      },
-      "volume": "072"
+      }
     },
     "656": {
       "title": "God of Thunder",
+      "volume": "072",
       "last_updated": "1775505350",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mpz2b7n"
-      },
-      "volume": "072"
+      }
     },
     "657": {
       "title": "God of Thunder 2",
+      "volume": "072",
       "last_updated": "1775505353",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd365267k"
-      },
-      "volume": "072"
+      }
     },
     "658": {
       "title": "Fatal Matters Are Cold",
+      "volume": "072",
       "last_updated": "1775505369",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w8x6nq7x"
-      },
-      "volume": "072"
+      }
     },
     "659": {
       "title": "There Will Be Frost",
+      "volume": "072",
       "last_updated": "1775505371",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewg3lzyd"
-      },
-      "volume": "072"
+      }
     },
     "660": {
       "title": "The Visible Answer",
+      "volume": "072",
       "last_updated": "1775505375",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl89pl7j"
-      },
-      "volume": "072"
+      }
     },
     "661": {
       "title": "My Last Words",
+      "volume": "072",
       "last_updated": "1775505387",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45j5xovy5"
-      },
-      "volume": "072"
+      }
     },
     "662": {
       "title": "God of Thunder 3",
+      "volume": "072",
       "last_updated": "1775505376",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q5ao2yx"
-      },
-      "volume": "072"
+      }
     },
     "663": {
       "title": "God of Thunder 4",
+      "volume": "072",
       "last_updated": "1775505380",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8r5x6w4b"
-      },
-      "volume": "072"
+      }
     },
     "664": {
       "title": "The Gift",
+      "volume": "073",
       "last_updated": "1775505385",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvg9dnky8"
-      },
-      "volume": "073"
+      }
     },
     "665": {
       "title": "The Princess Dissection",
+      "volume": "073",
       "last_updated": "1775505373",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad8p6e4l"
-      },
-      "volume": "073"
+      }
     },
     "666": {
       "title": "Vide, marionnette, néant",
+      "volume": "073",
       "last_updated": "1775505377",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx58kn67q"
-      },
-      "volume": "073"
+      }
     },
     "667": {
       "title": "Bigger, Louder, Stronger",
+      "volume": "073",
       "last_updated": "1775505401",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd365n67k"
-      },
-      "volume": "073"
+      }
     },
     "668": {
       "title": "Bigger, Faster, Stronger",
+      "volume": "073",
       "last_updated": "1775505385",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjlmva7d"
-      },
-      "volume": "073"
+      }
     },
     "669": {
       "title": "Lame II",
+      "volume": "073",
       "last_updated": "1775505386",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3mg5lyp"
-      },
-      "volume": "073"
+      }
     },
     "670": {
       "title": "The Perfect Crimson",
+      "volume": "073",
       "last_updated": "1775505385",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmr95x72"
-      },
-      "volume": "073"
+      }
     },
     "671": {
       "title": "The Perfect Crimson 2",
+      "volume": "073",
       "last_updated": "1775505380",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqjez54n"
-      },
-      "volume": "073"
+      }
     },
     "672": {
       "title": "Son of Darkness",
+      "volume": "073",
       "last_updated": "1775505379",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mpzk87n"
-      },
-      "volume": "073"
+      }
     },
     "673": {
       "title": "Father",
+      "volume": "073",
       "last_updated": "1775505388",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732596o4r"
-      },
-      "volume": "073"
+      }
     },
     "674": {
       "title": "Father 2",
+      "volume": "073",
       "last_updated": "1775505383",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brkwngy5"
-      },
-      "volume": "073"
+      }
     },
     "675": {
       "title": "Blood for My Bone",
+      "volume": "074",
       "last_updated": "1775505387",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prdj5j4o"
-      },
-      "volume": "074"
+      }
     },
     "676": {
       "title": "Horn of Salvation",
+      "volume": "074",
       "last_updated": "1775505384",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2vz5w78"
-      },
-      "volume": "074"
+      }
     },
     "677": {
       "title": "Horn of Salvation 2",
+      "volume": "074",
       "last_updated": "1775505384",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2x8pn34l"
-      },
-      "volume": "074"
+      }
     },
     "678": {
       "title": "The Future Black",
+      "volume": "074",
       "last_updated": "1775505388",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7ll2x537x"
-      },
-      "volume": "074"
+      }
     },
     "679": {
       "title": "THE END",
+      "volume": "074",
       "last_updated": "1775505391",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w8x6qq7x"
-      },
-      "volume": "074"
+      }
     },
     "680": {
       "title": "THE END 2",
+      "volume": "074",
       "last_updated": "1775505388",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl89ml7j"
-      },
-      "volume": "074"
+      }
     },
     "681": {
       "title": "The End Two World",
+      "volume": "074",
       "last_updated": "1775505388",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gz5dpk7j"
-      },
-      "volume": "074"
+      }
     },
     "682": {
       "title": "The Two Sided World End",
+      "volume": "074",
       "last_updated": "1775505390",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8r5x2w4b"
-      },
-      "volume": "074"
+      }
     },
     "683": {
       "title": "The Dark Side of Two World Ends",
+      "volume": "074",
       "last_updated": "1775505395",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad8pne4l"
-      },
-      "volume": "074"
+      }
     },
     "684": {
       "title": "The Blade",
+      "volume": "074",
       "last_updated": "1775505396",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q5a62yx"
-      },
-      "volume": "074"
+      }
     },
     "685": {
       "title": "Une fin parfaite",
+      "volume": "074",
       "last_updated": "1775505396",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx58kd67q"
-      },
-      "volume": "074"
+      }
     },
     "686": {
       "title": "Death & Strawberry",
+      "volume": "074",
       "last_updated": "1775505406",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brkw3gy5"
-      },
-      "volume": "074"
+      }
+    },
+    "642.1": {
+      "title": "HS 520.5 - Walk under two letters",
+      "volume": "070",
+      "last_updated": "1775505315",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg73259dg4r"
+      }
     }
   }
 }
