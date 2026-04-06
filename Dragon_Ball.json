@@ -1,0 +1,4161 @@
+{
+  "title": "Dragon Ball",
+  "description": "Dragon Ball ( ドラゴンボール, Doragon Bōru? , litt. Dragon Ball ) est un manga d' Akira Toriyama prépublié dans le magazine Weekly Shōnen Jump du 20 novembre 1984 au 23 mai 1995 et édité par Shūeisha en 42 volumes reliés du 10 septembre 1985 au 4 août 1995. Glénat publie l'édition française depuis février 1993.",
+  "artist": "Akira Toriyama",
+  "author": "Akira Toriyama",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dragon_Ball_manga_1st_Japanese_edition_logo.sv.png/250px-Dragon_Ball_manga_1st_Japanese_edition_logo.sv.png",
+  "chapters": {
+    "002": {
+      "title": "Tu n'as pas de boules !!",
+      "last_updated": "1775467167",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rq2k7q"
+      },
+      "volume": "01"
+    },
+    "018": {
+      "title": "On a volé les Dragon Balls !!",
+      "last_updated": "1775467171",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mw9ga7n"
+      },
+      "volume": "02"
+    },
+    "009": {
+      "title": "Attention aux Dragon Balls !",
+      "last_updated": "1775467175",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd3vvy5"
+      },
+      "volume": "01"
+    },
+    "022": {
+      "title": "La transformation de Goku",
+      "last_updated": "1775467175",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqw6xl4n"
+      },
+      "volume": "02"
+    },
+    "010": {
+      "title": "Stratégie de bandits",
+      "last_updated": "1775467177",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwvx9yp"
+      },
+      "volume": "01"
+    },
+    "011": {
+      "title": "Le mont Fry Pan et Gyumao",
+      "last_updated": "1775467178",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mnem78"
+      },
+      "volume": "01"
+    },
+    "015": {
+      "title": "Chi Shinchu, la boule à sept étoiles",
+      "last_updated": "1775467179",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llg6ro7x"
+      },
+      "volume": "02"
+    },
+    "003": {
+      "title": "Goku va à la mer",
+      "last_updated": "1775467180",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xag384l"
+      },
+      "volume": "01"
+    },
+    "019": {
+      "title": "Le dragon apparaît enfin !",
+      "last_updated": "1775467180",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pre69k4o"
+      },
+      "volume": "02"
+    },
+    "020": {
+      "title": "Faites un vœu à Shenron !!",
+      "last_updated": "1775467181",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k6ve78"
+      },
+      "volume": "02"
+    },
+    "023": {
+      "title": "La Dragon Team se sépare",
+      "last_updated": "1775467183",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39686yp"
+      },
+      "volume": "02"
+    },
+    "007": {
+      "title": "Yamcha et Puerh",
+      "last_updated": "1775467184",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx6zk72"
+      },
+      "volume": "01"
+    },
+    "024": {
+      "title": "L'entraînement de Kamé Sennin",
+      "last_updated": "1775467185",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3mean7k"
+      },
+      "volume": "02"
+    },
+    "006": {
+      "title": "Oolong contre Son Goku",
+      "last_updated": "1775467185",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjw6kj7d"
+      },
+      "volume": "01"
+    },
+    "016": {
+      "title": "Les oreilles de lapin",
+      "last_updated": "1775467186",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g8w34r"
+      },
+      "volume": "02"
+    },
+    "021": {
+      "title": "La pleine lune",
+      "last_updated": "1775467187",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rv9od4b"
+      },
+      "volume": "02"
+    },
+    "004": {
+      "title": "Le Kinto-Un de Kamé Sennin",
+      "last_updated": "1775467187",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqmvw4l"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "Voilà Oolong !",
+      "last_updated": "1775467188",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpnzgy5"
+      },
+      "volume": "01"
+    },
+    "014": {
+      "title": "Le Kamé Hamé Ha de Kamé Sennin !!",
+      "last_updated": "1775467188",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2z6kyd"
+      },
+      "volume": "02"
+    },
+    "008": {
+      "title": "Le redoutable Yamcha !!",
+      "last_updated": "1775467189",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqlvzy8"
+      },
+      "volume": "01"
+    },
+    "013": {
+      "title": "L'éventail de Kamé Sennin",
+      "last_updated": "1775467189",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8djgb7x"
+      },
+      "volume": "01"
+    },
+    "012": {
+      "title": "À la recherche de Kamé Sennin",
+      "last_updated": "1775467190",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qw9kvyx"
+      },
+      "volume": "01"
+    },
+    "025": {
+      "title": "Voilà quelqu'un !! Un rival ?",
+      "last_updated": "1775467191",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj8xb7j"
+      },
+      "volume": "02"
+    },
+    "017": {
+      "title": "Les pouvoirs magiques du patron",
+      "last_updated": "1775467191",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rqmk7q"
+      },
+      "volume": "02"
+    },
+    "026": {
+      "title": "Une mystérieuse jeune fille",
+      "last_updated": "1775467195",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd32vy5"
+      },
+      "volume": "02"
+    },
+    "028": {
+      "title": "Le début de l'entraînement",
+      "last_updated": "1775467196",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mndm78"
+      },
+      "volume": "03"
+    },
+    "030": {
+      "title": "Livraison de lait",
+      "last_updated": "1775467197",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llg63o7x"
+      },
+      "volume": "03"
+    },
+    "029": {
+      "title": "À la recherche de la pierre \"tortue\"",
+      "last_updated": "1775467197",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xagb84l"
+      },
+      "volume": "03"
+    },
+    "031": {
+      "title": "Le rude entraînement de Kamé Sennin",
+      "last_updated": "1775467198",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k6qe78"
+      },
+      "volume": "03"
+    },
+    "027": {
+      "title": "Quand Lunch éternue",
+      "last_updated": "1775467199",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwve9yp"
+      },
+      "volume": "03"
+    },
+    "035": {
+      "title": "Répartition des matchs !!",
+      "last_updated": "1775467199",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3mejn7k"
+      },
+      "volume": "03"
+    },
+    "032": {
+      "title": "Le début du Tenkaichi Budokai !!",
+      "last_updated": "1775467200",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx68k72"
+      },
+      "volume": "03"
+    },
+    "034": {
+      "title": "On est invincibles !",
+      "last_updated": "1775467201",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr396x6yp"
+      },
+      "volume": "03"
+    },
+    "033": {
+      "title": "Les résultats de l'entraînement !!",
+      "last_updated": "1775467201",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjw63j7d"
+      },
+      "volume": "03"
+    },
+    "036": {
+      "title": "1er match",
+      "last_updated": "1775467207",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8djeb7x"
+      },
+      "volume": "03"
+    },
+    "037": {
+      "title": "2e match",
+      "last_updated": "1775467208",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2zqkyd"
+      },
+      "volume": "03"
+    },
+    "038": {
+      "title": "3e match",
+      "last_updated": "1775467210",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlerwv7j"
+      },
+      "volume": "03"
+    },
+    "049": {
+      "title": "Jackie Chun (Muten Roshi) contre-attaque",
+      "last_updated": "1775467217",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rv9qd4b"
+      },
+      "volume": "04"
+    },
+    "042": {
+      "title": "Une lutte acharnée !",
+      "last_updated": "1775467221",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpn2gy5"
+      },
+      "volume": "04"
+    },
+    "045": {
+      "title": "Combat en plein ciel !",
+      "last_updated": "1775467224",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qw9lvyx"
+      },
+      "volume": "04"
+    },
+    "046": {
+      "title": "La grande finale",
+      "last_updated": "1775467226",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgql2zy8"
+      },
+      "volume": "04"
+    },
+    "048": {
+      "title": "Son Goku le petit singe qui copie tout",
+      "last_updated": "1775467228",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rqjk7q"
+      },
+      "volume": "04"
+    },
+    "039": {
+      "title": "4e match",
+      "last_updated": "1775467229",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mw9va7n"
+      },
+      "volume": "03"
+    },
+    "043": {
+      "title": "Le mystérieux Jacky Chun",
+      "last_updated": "1775467231",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd35vy5"
+      },
+      "volume": "04"
+    },
+    "047": {
+      "title": "Kamé Hamé Ha",
+      "last_updated": "1775467235",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwv99yp"
+      },
+      "volume": "04"
+    },
+    "044": {
+      "title": "Son Goku contre Nam",
+      "last_updated": "1775467236",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pre6vk4o"
+      },
+      "volume": "04"
+    },
+    "041": {
+      "title": "Krilin contre Jackie Chun",
+      "last_updated": "1775467237",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqw6nl4n"
+      },
+      "volume": "04"
+    },
+    "001": {
+      "title": "Bulma et Son Goku",
+      "last_updated": "1775467239",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlerjv7j"
+      },
+      "volume": "01"
+    },
+    "050": {
+      "title": "Goku en très mauvaise posture !!",
+      "last_updated": "1775467239",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xagd84l"
+      },
+      "volume": "04"
+    },
+    "052": {
+      "title": "Jusqu'au point culminant !!",
+      "last_updated": "1775467242",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llg69o7x"
+      },
+      "volume": "04"
+    },
+    "056": {
+      "title": "La guerre pour les Dragon Balls",
+      "last_updated": "1775467242",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k69e78"
+      },
+      "volume": "05"
+    },
+    "051": {
+      "title": "Panique au Tenkaichi Budokai !!",
+      "last_updated": "1775467245",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx6vk72"
+      },
+      "volume": "04"
+    },
+    "040": {
+      "title": "Goku et sa queue",
+      "last_updated": "1775467246",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mnom78"
+      },
+      "volume": "03"
+    },
+    "053": {
+      "title": "Climax",
+      "last_updated": "1775467246",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr396v6yp"
+      },
+      "volume": "04"
+    },
+    "057": {
+      "title": "À l'attaque de la Muscle Tower !!",
+      "last_updated": "1775467249",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjw69j7d"
+      },
+      "volume": "05"
+    },
+    "062": {
+      "title": "La situation est critique ! Technique de dédoublement",
+      "last_updated": "1775467251",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlerdv7j"
+      },
+      "volume": "05"
+    },
+    "061": {
+      "title": "Technique ninja ! Une riposte de quatre tatamis et demi !!",
+      "last_updated": "1775467252",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8djlb7x"
+      },
+      "volume": "05"
+    },
+    "063": {
+      "title": "Le cyborg C-8",
+      "last_updated": "1775467253",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj8eb7j"
+      },
+      "volume": "05"
+    },
+    "060": {
+      "title": "Murasaki le ninja !!",
+      "last_updated": "1775467254",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rv93d4b"
+      },
+      "volume": "05"
+    },
+    "058": {
+      "title": "La terrible Muscle Tower",
+      "last_updated": "1775467254",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpn3gy5"
+      },
+      "volume": "05"
+    },
+    "055": {
+      "title": "Le Ruban Rouge",
+      "last_updated": "1775467255",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2zakyd"
+      },
+      "volume": "05"
+    },
+    "054": {
+      "title": "Je repars à l'aventure !!",
+      "last_updated": "1775467257",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g8r34r"
+      },
+      "volume": "04"
+    },
+    "064": {
+      "title": "4e étage, frissons garantis avec Boing !!",
+      "last_updated": "1775467258",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqm3w4l"
+      },
+      "volume": "05"
+    },
+    "059": {
+      "title": "Le démon du 2e étage !!",
+      "last_updated": "1775467259",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qw9pvyx"
+      },
+      "volume": "05"
+    },
+    "065": {
+      "title": "Comment l'emporter sur Boing",
+      "last_updated": "1775467260",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqlqzy8"
+      },
+      "volume": "05"
+    },
+    "069": {
+      "title": "Bulma et Son Gokû, 2e partie",
+      "last_updated": "1775467261",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pre6ek4o"
+      },
+      "volume": "06"
+    },
+    "068": {
+      "title": "Chez Bulma, dans la capitale de l'ouest",
+      "last_updated": "1775467262",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd3dvy5"
+      },
+      "volume": "06"
+    },
+    "066": {
+      "title": "Les derniers instants de la Muscle Tower !!",
+      "last_updated": "1775467262",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rqrk7q"
+      },
+      "volume": "05"
+    },
+    "067": {
+      "title": "Vers l'ouest…",
+      "last_updated": "1775467263",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqw6wl4n"
+      },
+      "volume": "06"
+    },
+    "070": {
+      "title": "La grosse gaffe de Bulma !!",
+      "last_updated": "1775467264",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mnmm78"
+      },
+      "volume": "06"
+    },
+    "071": {
+      "title": "Kamé House est découverte !!",
+      "last_updated": "1775467265",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xaga84l"
+      },
+      "volume": "06"
+    },
+    "072": {
+      "title": "Le commandant Blue passe à l'attaque",
+      "last_updated": "1775467265",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k6ke78"
+      },
+      "volume": "06"
+    },
+    "073": {
+      "title": "L'erreur du commandant Blue",
+      "last_updated": "1775467268",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k6k578"
+      },
+      "volume": "06"
+    },
+    "075": {
+      "title": "Le gardien du port pirate",
+      "last_updated": "1775467269",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx6xk72"
+      },
+      "volume": "06"
+    },
+    "077": {
+      "title": "Les yeux scintillants de Blue",
+      "last_updated": "1775467269",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx6xe72"
+      },
+      "volume": "06"
+    },
+    "076": {
+      "title": "À la découverte du trésor",
+      "last_updated": "1775467270",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3memd7k"
+      },
+      "volume": "06"
+    },
+    "074": {
+      "title": "Le piège des pirates",
+      "last_updated": "1775467270",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3969kyp"
+      },
+      "volume": "06"
+    },
+    "080": {
+      "title": "Les trois Dragon Balls volées",
+      "last_updated": "1775467271",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8djd37x"
+      },
+      "volume": "07"
+    },
+    "079": {
+      "title": "Fuir ou s'enfuir !!",
+      "last_updated": "1775467272",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g8gv4r"
+      },
+      "volume": "07"
+    },
+    "078": {
+      "title": "La grande évasion !!",
+      "last_updated": "1775467272",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjw6wq7d"
+      },
+      "volume": "06"
+    },
+    "083": {
+      "title": "Le Dragon Radar est volé",
+      "last_updated": "1775467273",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlereg7j"
+      },
+      "volume": "07"
+    },
+    "081": {
+      "title": "Poursuite au village Pingouin !",
+      "last_updated": "1775467274",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2z2xyd"
+      },
+      "volume": "07"
+    },
+    "082": {
+      "title": "Le Dragon Radar est cassé",
+      "last_updated": "1775467275",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rv95p4b"
+      },
+      "volume": "07"
+    },
+    "084": {
+      "title": "Les protecteurs du sanctuaire Karin",
+      "last_updated": "1775467276",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj8jo7j"
+      },
+      "volume": "07"
+    },
+    "085": {
+      "title": "\"Tao Pai Pai\", le tueur à gages",
+      "last_updated": "1775467276",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpn5xy5"
+      },
+      "volume": "07"
+    },
+    "086": {
+      "title": "La technique fatale de Tao Pai Pai : le Dodonpa",
+      "last_updated": "1775467277",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqm8g4l"
+      },
+      "volume": "07"
+    },
+    "087": {
+      "title": "La tour Karin",
+      "last_updated": "1775467280",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qw95gyx"
+      },
+      "volume": "07"
+    },
+    "088": {
+      "title": "Maître Karin, le sage de la tour Karin",
+      "last_updated": "1775467282",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgql9wy8"
+      },
+      "volume": "07"
+    },
+    "089": {
+      "title": "Les effets de l'élixir sacré",
+      "last_updated": "1775467287",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mw9pv7n"
+      },
+      "volume": "07"
+    },
+    "091": {
+      "title": "La grande bataille du sanctuaire !!",
+      "last_updated": "1775467295",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd3kky5"
+      },
+      "volume": "08"
+    },
+    "097": {
+      "title": "La dernière Dragon Ball",
+      "last_updated": "1775467297",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pre6d84o"
+      },
+      "volume": "08"
+    },
+    "093": {
+      "title": "Son Goku passe à l'attaque",
+      "last_updated": "1775467300",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mnvk78"
+      },
+      "volume": "08"
+    },
+    "092": {
+      "title": "La fin de Tao Pai Pai",
+      "last_updated": "1775467301",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xag8n4l"
+      },
+      "volume": "08"
+    },
+    "094": {
+      "title": "L'assaut éclair de Son Goku !",
+      "last_updated": "1775467302",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llg6267x"
+      },
+      "volume": "08"
+    },
+    "095": {
+      "title": "La mort du général Red !",
+      "last_updated": "1775467303",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k6g578"
+      },
+      "volume": "08"
+    },
+    "090": {
+      "title": "La revanche de Son Goku",
+      "last_updated": "1775467304",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwvqayp"
+      },
+      "volume": "08"
+    },
+    "098": {
+      "title": "Baba la voyante",
+      "last_updated": "1775467305",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3me6d7k"
+      },
+      "volume": "08"
+    },
+    "096": {
+      "title": "Victoire totale !!",
+      "last_updated": "1775467307",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx6re72"
+      },
+      "volume": "08"
+    },
+    "099": {
+      "title": "Les cinq guerriers",
+      "last_updated": "1775467310",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjw6lq7d"
+      },
+      "volume": "08"
+    },
+    "102": {
+      "title": "L'entrée en scène de Son Goku",
+      "last_updated": "1775467314",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8djx37x"
+      },
+      "volume": "09"
+    },
+    "103": {
+      "title": "Son Goku est très fort",
+      "last_updated": "1775467314",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2zgxyd"
+      },
+      "volume": "09"
+    },
+    "104": {
+      "title": "Le rayon Ackmight",
+      "last_updated": "1775467316",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj85o7j"
+      },
+      "volume": "09"
+    },
+    "109": {
+      "title": "Le nouveau défi de la bande de Pilaf",
+      "last_updated": "1775467317",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpnqxy5"
+      },
+      "volume": "09"
+    },
+    "100": {
+      "title": "Un combat à grande effusion de sang",
+      "last_updated": "1775467318",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g85v4r"
+      },
+      "volume": "08"
+    },
+    "105": {
+      "title": "Le 5e homme",
+      "last_updated": "1775467319",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqmjg4l"
+      },
+      "volume": "09"
+    },
+    "108": {
+      "title": "Son Gohan",
+      "last_updated": "1775467319",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rv9mp4b"
+      },
+      "volume": "09"
+    },
+    "106": {
+      "title": "Deux adversaires surpuissants",
+      "last_updated": "1775467320",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qw9dgyx"
+      },
+      "volume": "09"
+    },
+    "110": {
+      "title": "La grande stratégie de Pilaf",
+      "last_updated": "1775467323",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqlrwy8"
+      },
+      "volume": "09"
+    },
+    "107": {
+      "title": "La queue de Goku",
+      "last_updated": "1775467324",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqw68w4n"
+      },
+      "volume": "09"
+    },
+    "112": {
+      "title": "Fonce, Son Goku !",
+      "last_updated": "1775467326",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rq3m7q"
+      },
+      "volume": "09"
+    },
+    "116": {
+      "title": "Mise en place du tableau des matchs",
+      "last_updated": "1775467327",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pre6884o"
+      },
+      "volume": "10"
+    },
+    "101": {
+      "title": "Les toilettes des démons",
+      "last_updated": "1775467328",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd3qky5"
+      },
+      "volume": "09"
+    },
+    "114": {
+      "title": "Lutte acharnée pour les éliminatoires",
+      "last_updated": "1775467330",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mn8k78"
+      },
+      "volume": "10"
+    },
+    "120": {
+      "title": "Quoi ? Le Dodonpa ?",
+      "last_updated": "1775467330",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xag2n4l"
+      },
+      "volume": "10"
+    },
+    "113": {
+      "title": "Le 22e Tenkaichi Budokai",
+      "last_updated": "1775467331",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwv8ayp"
+      },
+      "volume": "10"
+    },
+    "119": {
+      "title": "La rancœur de la pleine lune",
+      "last_updated": "1775467332",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llg6o67x"
+      },
+      "volume": "10"
+    },
+    "117": {
+      "title": "Le Kamé Hamé Ha de Yamcha",
+      "last_updated": "1775467334",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k68578"
+      },
+      "volume": "10"
+    },
+    "115": {
+      "title": "Lutte acharnée pour les éliminatoires, 2e partie",
+      "last_updated": "1775467335",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx62e72"
+      },
+      "volume": "10"
+    },
+    "118": {
+      "title": "Yamcha se fait écraser !!",
+      "last_updated": "1775467335",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr396lkyp"
+      },
+      "volume": "10"
+    },
+    "122": {
+      "title": "Entrée en scène de Son Goku !!",
+      "last_updated": "1775467336",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjw68q7d"
+      },
+      "volume": "10"
+    },
+    "111": {
+      "title": "Le retour de Shenron !!",
+      "last_updated": "1775467337",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8djm37x"
+      },
+      "volume": "09"
+    },
+    "123": {
+      "title": "Combat de forces égales !!",
+      "last_updated": "1775467338",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g8lv4r"
+      },
+      "volume": "10"
+    },
+    "125": {
+      "title": "Son Goku contre Krilin",
+      "last_updated": "1775467339",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2zmxyd"
+      },
+      "volume": "11"
+    },
+    "131": {
+      "title": "Ten Shin Han souffre !",
+      "last_updated": "1775467345",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rv9ep4b"
+      },
+      "volume": "11"
+    },
+    "129": {
+      "title": "Haikyuken et puissance de combat",
+      "last_updated": "1775467346",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj8wo7j"
+      },
+      "volume": "11"
+    },
+    "124": {
+      "title": "Le jeune Ten Shin Han",
+      "last_updated": "1775467346",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlerng7j"
+      },
+      "volume": "11"
+    },
+    "130": {
+      "title": "Ten Shin Han s'énerve !",
+      "last_updated": "1775467347",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpnmxy5"
+      },
+      "volume": "11"
+    },
+    "128": {
+      "title": "Le plus grand combat que la Terre ait porté !!",
+      "last_updated": "1775467349",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqlxwy8"
+      },
+      "volume": "11"
+    },
+    "133": {
+      "title": "Les dernières tactiques de chacun !!",
+      "last_updated": "1775467352",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mw92v7n"
+      },
+      "volume": "11"
+    },
+    "126": {
+      "title": "Son Goku, une force de la nature !!",
+      "last_updated": "1775467354",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqw6vw4n"
+      },
+      "volume": "11"
+    },
+    "127": {
+      "title": "Les stratégies de Krilin et Goku",
+      "last_updated": "1775467355",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd3lky5"
+      },
+      "volume": "11"
+    },
+    "136": {
+      "title": "Le terrible roi démon Piccolo !",
+      "last_updated": "1775467360",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pre6a84o"
+      },
+      "volume": "12"
+    },
+    "121": {
+      "title": "La tactique de Krilin",
+      "last_updated": "1775467363",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xagqn4l"
+      },
+      "volume": "10"
+    },
+    "142": {
+      "title": "Le roi démon Piccolo descend vous voir !!",
+      "last_updated": "1775467366",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llg6a67x"
+      },
+      "volume": "12"
+    },
+    "132": {
+      "title": "Le Kikoho, héritage maudit de Tsuru Sennin !!",
+      "last_updated": "1775467367",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k6e578"
+      },
+      "volume": "11"
+    },
+    "140": {
+      "title": "Tambourine arrive !",
+      "last_updated": "1775467369",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmx6ae72"
+      },
+      "volume": "12"
+    },
+    "138": {
+      "title": "L'étrange personnage qui avait une boule",
+      "last_updated": "1775467370",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3meqd7k"
+      },
+      "volume": "12"
+    },
+    "137": {
+      "title": "La résurrection de Son Goku",
+      "last_updated": "1775467373",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8dj937x"
+      },
+      "volume": "12"
+    },
+    "139": {
+      "title": "La proie de Yajirobé",
+      "last_updated": "1775467374",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr396akyp"
+      },
+      "volume": "12"
+    },
+    "145": {
+      "title": "La décision de Muten Roshi",
+      "last_updated": "1775467375",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjw6aq7d"
+      },
+      "volume": "12"
+    },
+    "144": {
+      "title": "La défaite totale de Son Goku !!",
+      "last_updated": "1775467376",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rv96p4b"
+      },
+      "volume": "12"
+    },
+    "134": {
+      "title": "La fin du tournoi ! Et ensuite…",
+      "last_updated": "1775467378",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g8dv4r"
+      },
+      "volume": "11"
+    },
+    "141": {
+      "title": "Son Goku explose !!",
+      "last_updated": "1775467380",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zler5g7j"
+      },
+      "volume": "12"
+    },
+    "149": {
+      "title": "La conquête du monde",
+      "last_updated": "1775467381",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqlnwy8"
+      },
+      "volume": "13"
+    },
+    "135": {
+      "title": "La mort de Krilin et un effroyable complot",
+      "last_updated": "1775467383",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpnoxy5"
+      },
+      "volume": "12"
+    },
+    "152": {
+      "title": "Son Goku se met en route !!",
+      "last_updated": "1775467384",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rqnm7q"
+      },
+      "volume": "13"
+    },
+    "147": {
+      "title": "Le roi démon Piccolo va-t-il pouvoir rajeunir ?!",
+      "last_updated": "1775467385",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqm6g4l"
+      },
+      "volume": "13"
+    },
+    "146": {
+      "title": "Le dernier Mafuba de Kamé Sennin !!",
+      "last_updated": "1775467387",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qw9ogyx"
+      },
+      "volume": "12"
+    },
+    "156": {
+      "title": "Colère noire !!",
+      "last_updated": "1775467390",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqw6zw4n"
+      },
+      "volume": "13"
+    },
+    "151": {
+      "title": "L'élixir divin !!!",
+      "last_updated": "1775467391",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd36ky5"
+      },
+      "volume": "13"
+    },
+    "157": {
+      "title": "L'affrontement des immortels !!",
+      "last_updated": "1775467392",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pre6n84o"
+      },
+      "volume": "13"
+    },
+    "148": {
+      "title": "Va voir maître Karin !",
+      "last_updated": "1775467393",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xagon4l"
+      },
+      "volume": "13"
+    },
+    "150": {
+      "title": "Les tourments de Maître Karin",
+      "last_updated": "1775467394",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mnkk78"
+      },
+      "volume": "13"
+    },
+    "143": {
+      "title": "Son Goku contre le roi démon Piccolo",
+      "last_updated": "1775467395",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llg6w67x"
+      },
+      "volume": "12"
+    },
+    "160": {
+      "title": "L'ultime pari de Son Goku !",
+      "last_updated": "1775467397",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k6m578"
+      },
+      "volume": "14"
+    },
+    "166": {
+      "title": "Plusieurs retrouvailles",
+      "last_updated": "1775467409",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k6m278"
+      },
+      "volume": "14"
+    },
+    "161": {
+      "title": "La victoire de Son Goku !!",
+      "last_updated": "1775467412",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3me2w7k"
+      },
+      "volume": "14"
+    },
+    "173": {
+      "title": "Krilin VS Daemon Junior, issue du combat !!",
+      "last_updated": "1775467414",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjw6eb7d"
+      },
+      "volume": "15"
+    },
+    "179": {
+      "title": "Les deux points faibles",
+      "last_updated": "1775467416",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8djqz7x"
+      },
+      "volume": "15"
+    },
+    "155": {
+      "title": "Son Goku contre-attaque",
+      "last_updated": "1775467507",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd3nny5"
+      },
+      "volume": "13"
+    },
+    "167": {
+      "title": "Un Tenkaichi Budokai plein de surprises",
+      "last_updated": "1775467569",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g86z4r"
+      },
+      "volume": "14"
+    },
+    "171": {
+      "title": "Le mariage de Son Goku",
+      "last_updated": "1775467570",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8djjz7x"
+      },
+      "volume": "15"
+    },
+    "185": {
+      "title": "Le Super Kamé Hamé Ha",
+      "last_updated": "1775467589",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj88r7j"
+      },
+      "volume": "16"
+    },
+    "159": {
+      "title": "Duel sur la plaine dévastée !!",
+      "last_updated": "1775470645",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwjlq7d"
+      },
+      "volume": "14"
+    },
+    "187": {
+      "title": "La technique d'agrandissement de Piccolo Daimaô",
+      "last_updated": "1775470661",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2wgxyd"
+      },
+      "volume": "16"
+    },
+    "190": {
+      "title": "Tiens bon, Son Gokû !!",
+      "last_updated": "1775470662",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjz5o7j"
+      },
+      "volume": "16"
+    },
+    "189": {
+      "title": "Le dernier pari du Daimaô !!",
+      "last_updated": "1775470663",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlel8g7j"
+      },
+      "volume": "16"
+    },
+    "188": {
+      "title": "Le combat de Son Gokû",
+      "last_updated": "1775470664",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvrmp4b"
+      },
+      "volume": "16"
+    },
+    "191": {
+      "title": "Le décompte jusqu'à 10",
+      "last_updated": "1775470678",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwq8w4n"
+      },
+      "volume": "16"
+    },
+    "192": {
+      "title": "Tout est perdu !",
+      "last_updated": "1775470680",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdrqky5"
+      },
+      "volume": "16"
+    },
+    "193": {
+      "title": "Le point culminant du Tenka Ichi Budôkai !!",
+      "last_updated": "1775470681",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2m28k78"
+      },
+      "volume": "16"
+    },
+    "196": {
+      "title": "Kakarotto",
+      "last_updated": "1775470698",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxm2e72"
+      },
+      "volume": "17"
+    },
+    "197": {
+      "title": "Le passé de Son Gokû !!",
+      "last_updated": "1775470702",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m3rd7k"
+      },
+      "volume": "17"
+    },
+    "163": {
+      "title": "Le Sanctuaire",
+      "last_updated": "1775470704",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g2lv4r"
+      },
+      "volume": "14"
+    },
+    "195": {
+      "title": "Le mystérieux guerrier extraterrestre",
+      "last_updated": "1775470707",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr393lkyp"
+      },
+      "volume": "17"
+    },
+    "198": {
+      "title": "Un ennemi commun",
+      "last_updated": "1775470712",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2wmxyd"
+      },
+      "volume": "17"
+    },
+    "199": {
+      "title": "Duel contre Raditz",
+      "last_updated": "1775470722",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjzwo7j"
+      },
+      "volume": "17"
+    },
+    "201": {
+      "title": "Le dernier atout de Piccolo",
+      "last_updated": "1775470733",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvrep4b"
+      },
+      "volume": "17"
+    },
+    "203": {
+      "title": "Le dernier recours de Son Gokû !!",
+      "last_updated": "1775470744",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqd2g4l"
+      },
+      "volume": "17"
+    },
+    "205": {
+      "title": "Combat dans l'autre monde !!",
+      "last_updated": "1775470748",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwm2v7n"
+      },
+      "volume": "18"
+    },
+    "202": {
+      "title": "Makankô Sappô",
+      "last_updated": "1775470751",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5r59m7q"
+      },
+      "volume": "17"
+    },
+    "204": {
+      "title": "Adieu Son Gokû",
+      "last_updated": "1775470759",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwqvw4n"
+      },
+      "volume": "17"
+    },
+    "206": {
+      "title": "Son Gohan et Piccolo Daimaô",
+      "last_updated": "1775470768",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prera84o"
+      },
+      "volume": "17"
+    },
+    "208": {
+      "title": "Drame sous la pleine lune",
+      "last_updated": "1775470774",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwdaayp"
+      },
+      "volume": "18"
+    },
+    "207": {
+      "title": "Les complaintes de Son Gohan",
+      "last_updated": "1775470786",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgla67x"
+      },
+      "volume": "18"
+    },
+    "210": {
+      "title": "Entraînement intensif pour le père et le fils",
+      "last_updated": "1775470789",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k5e578"
+      },
+      "volume": "18"
+    },
+    "209": {
+      "title": "Un an passé chacun de leur côté",
+      "last_updated": "1775470791",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxmae72"
+      },
+      "volume": "18"
+    },
+    "175": {
+      "title": "\"Shen\"",
+      "last_updated": "1775470798",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m3qd7k"
+      },
+      "volume": "15"
+    },
+    "211": {
+      "title": "Son Gokû, un mort qui s'entraîne à fond avec maître Kaiô !",
+      "last_updated": "1775470803",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr393akyp"
+      },
+      "volume": "18"
+    },
+    "194": {
+      "title": "Le cadeau des Dragon Balls",
+      "last_updated": "1775470808",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwjaq7d"
+      },
+      "volume": "16"
+    },
+    "212": {
+      "title": "Les Saïyens approchent !!",
+      "last_updated": "1775470810",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g2dv4r"
+      },
+      "volume": "18"
+    },
+    "213": {
+      "title": "Les Saïyens arrivent !!",
+      "last_updated": "1775470813",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d8937x"
+      },
+      "volume": "18"
+    },
+    "181": {
+      "title": "L'erreur d'un dieu",
+      "last_updated": "1775470814",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjzmo7j"
+      },
+      "volume": "15"
+    },
+    "214": {
+      "title": "Le tournoi de Végéta",
+      "last_updated": "1775470816",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvr6p4b"
+      },
+      "volume": "18"
+    },
+    "178": {
+      "title": "La technique fatale de Ten Shin Han !",
+      "last_updated": "1775470817",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqd6g4l"
+      },
+      "volume": "15"
+    },
+    "169": {
+      "title": "Ten Shin Han et Tao Pai Pai",
+      "last_updated": "1775470819",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwqogyx"
+      },
+      "volume": "14"
+    },
+    "176": {
+      "title": "Son Goku VS Ten Shin Han",
+      "last_updated": "1775470820",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqgnwy8"
+      },
+      "volume": "15"
+    },
+    "177": {
+      "title": "Vitesse",
+      "last_updated": "1775470824",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5r5nm7q"
+      },
+      "volume": "15"
+    },
+    "215": {
+      "title": "La prémonition de Yamcha",
+      "last_updated": "1775470829",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwqzw4n"
+      },
+      "volume": "18"
+    },
+    "174": {
+      "title": "Yamcha VS Shen",
+      "last_updated": "1775470832",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prern84o"
+      },
+      "volume": "15"
+    },
+    "154": {
+      "title": "L'erreur de calcul de Ten Shin Han",
+      "last_updated": "1775470833",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2m2kk78"
+      },
+      "volume": "13"
+    },
+    "200": {
+      "title": "Une terreur sans précédent",
+      "last_updated": "1775470835",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xaxon4l"
+      },
+      "volume": "17"
+    },
+    "216": {
+      "title": "Des guerriers terrifiés",
+      "last_updated": "1775470836",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llglw67x"
+      },
+      "volume": "18"
+    },
+    "217": {
+      "title": "Dépêche-toi, Son Gokû !",
+      "last_updated": "1775470837",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxmke72"
+      },
+      "volume": "18"
+    },
+    "218": {
+      "title": "Le dernier Kikôhô",
+      "last_updated": "1775470839",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwdbayp"
+      },
+      "volume": "18"
+    },
+    "220": {
+      "title": "Une faible lueur",
+      "last_updated": "1775470840",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m32d7k"
+      },
+      "volume": "19"
+    },
+    "219": {
+      "title": "Trois heures et pas plus",
+      "last_updated": "1775470842",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k5m578"
+      },
+      "volume": "19"
+    },
+    "223": {
+      "title": "Piccolo et Gohan",
+      "last_updated": "1775470844",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr393nkyp"
+      },
+      "volume": "19"
+    },
+    "222": {
+      "title": "Son Gokû se rapproche !!",
+      "last_updated": "1775470845",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwjeq7d"
+      },
+      "volume": "19"
+    },
+    "221": {
+      "title": "Le rat acculé mord le chat",
+      "last_updated": "1775470847",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2wlxyd"
+      },
+      "volume": "19"
+    },
+    "224": {
+      "title": "La froide colère de Son Gokû",
+      "last_updated": "1775470848",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g2ov4r"
+      },
+      "volume": "19"
+    },
+    "225": {
+      "title": "Nappa pieds et poings liés !!",
+      "last_updated": "1775470850",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlelpg7j"
+      },
+      "volume": "19"
+    },
+    "226": {
+      "title": "Le mystère du Kaiô-Ken",
+      "last_updated": "1775470852",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvr2p4b"
+      },
+      "volume": "19"
+    },
+    "228": {
+      "title": "L'heure du duel !!",
+      "last_updated": "1775470854",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqdng4l"
+      },
+      "volume": "19"
+    },
+    "227": {
+      "title": "Le Prince entre en action !!",
+      "last_updated": "1775470855",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpj6xy5"
+      },
+      "volume": "19"
+    },
+    "229": {
+      "title": "Le combat décisif qui fait trembler la planète !!",
+      "last_updated": "1775470857",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwq6gyx"
+      },
+      "volume": "19"
+    },
+    "230": {
+      "title": "Le danger du triple Kaiô-Ken !",
+      "last_updated": "1775470862",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5r5dm7q"
+      },
+      "volume": "19"
+    },
+    "232": {
+      "title": "\"Lune\"",
+      "last_updated": "1775470864",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwmlv7n"
+      },
+      "volume": "20"
+    },
+    "231": {
+      "title": "Combat dans la zone rouge !",
+      "last_updated": "1775470866",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwqkw4n"
+      },
+      "volume": "20"
+    },
+    "233": {
+      "title": "Le Genki Dama ? Ou pas ?!",
+      "last_updated": "1775470869",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwd5ayp"
+      },
+      "volume": "20"
+    },
+    "234": {
+      "title": "Que va devenir le Genki Dama ?!",
+      "last_updated": "1775470871",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prer584o"
+      },
+      "volume": "20"
+    },
+    "238": {
+      "title": "Le devenir du Genki Dama !!",
+      "last_updated": "1775470873",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2m25k78"
+      },
+      "volume": "20"
+    },
+    "236": {
+      "title": "Vaine résistance",
+      "last_updated": "1775470877",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgl567x"
+      },
+      "volume": "20"
+    },
+    "235": {
+      "title": "Son Gokû n'a plus qu'un souffle de vie !!",
+      "last_updated": "1775470880",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k5n578"
+      },
+      "volume": "20"
+    },
+    "153": {
+      "title": "La détermination de Ten Shin Han !!",
+      "last_updated": "1775470882",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgl5p7x"
+      },
+      "volume": "13"
+    },
+    "239": {
+      "title": "Des guerriers en lambeaux",
+      "last_updated": "1775470883",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xaxnj4l"
+      },
+      "volume": "20"
+    },
+    "158": {
+      "title": "Son Goku en détresse !!",
+      "last_updated": "1775470884",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xaxnn4l"
+      },
+      "volume": "13"
+    },
+    "237": {
+      "title": "Encore un Genki Dama !!",
+      "last_updated": "1775470886",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxm5e72"
+      },
+      "volume": "20"
+    },
+    "172": {
+      "title": "Krilin VS Daemon Junior",
+      "last_updated": "1775470888",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxm5o72"
+      },
+      "volume": "15"
+    },
+    "240": {
+      "title": "La dernière chance !!",
+      "last_updated": "1775470889",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m3nw7k"
+      },
+      "volume": "20"
+    },
+    "241": {
+      "title": "La requête de Son Gokû",
+      "last_updated": "1775470891",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2wz3yd"
+      },
+      "volume": "20"
+    },
+    "183": {
+      "title": "Échauffement",
+      "last_updated": "1775470893",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k5n278"
+      },
+      "volume": "16"
+    },
+    "168": {
+      "title": "Huit gagnants qualifiés !!",
+      "last_updated": "1775470895",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvr9o4b"
+      },
+      "volume": "14"
+    },
+    "242": {
+      "title": "Triste tombée de rideau",
+      "last_updated": "1775470897",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlelr37j"
+      },
+      "volume": "20"
+    },
+    "165": {
+      "title": "Le retour de Shenron !!",
+      "last_updated": "1775470899",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwjvb7d"
+      },
+      "volume": "14"
+    },
+    "180": {
+      "title": "Piccolo Daimaô vs Kami-sama",
+      "last_updated": "1775470900",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjz8r7j"
+      },
+      "volume": "15"
+    },
+    "182": {
+      "title": "La confrontation fatale ! Gokû vs Piccolo",
+      "last_updated": "1775470902",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d8jz7x"
+      },
+      "volume": "15"
+    },
+    "245": {
+      "title": "Décollage immédiat, direction Namek !",
+      "last_updated": "1775470903",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwq9wyx"
+      },
+      "volume": "21"
+    },
+    "246": {
+      "title": "Végéta, le retour !!",
+      "last_updated": "1775470904",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqgl9y8"
+      },
+      "volume": "21"
+    },
+    "170": {
+      "title": "La lutte désespérée du tueur Tao Pai Pai",
+      "last_updated": "1775470906",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpjn2y5"
+      },
+      "volume": "14"
+    },
+    "243": {
+      "title": "En route pour Namek !",
+      "last_updated": "1775470909",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqdm34l"
+      },
+      "volume": "20"
+    },
+    "248": {
+      "title": "De mystérieux étrangers",
+      "last_updated": "1775470911",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwq6z4n"
+      },
+      "volume": "21"
+    },
+    "249": {
+      "title": "Les super pouvoirs de Végéta",
+      "last_updated": "1775470913",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prer664o"
+      },
+      "volume": "21"
+    },
+    "247": {
+      "title": "Des nuages noirs s'amassent sur Namek",
+      "last_updated": "1775470914",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwm927n"
+      },
+      "volume": "21"
+    },
+    "244": {
+      "title": "On a trouvé un vaisseau !",
+      "last_updated": "1775470916",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5r5q37q"
+      },
+      "volume": "21"
+    },
+    "250": {
+      "title": "Son Gokû, le retour !!",
+      "last_updated": "1775470917",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwdvdyp"
+      },
+      "volume": "21"
+    },
+    "251": {
+      "title": "Le vaisseau de Son Gokû",
+      "last_updated": "1775470919",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xaxgj4l"
+      },
+      "volume": "21"
+    },
+    "252": {
+      "title": "Des Nameks terrifiés",
+      "last_updated": "1775470920",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgl6p7x"
+      },
+      "volume": "21"
+    },
+    "253": {
+      "title": "Lutte acharnée au village",
+      "last_updated": "1775470922",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxm6o72"
+      },
+      "volume": "21"
+    },
+    "255": {
+      "title": "Son Gohan s'énerve !",
+      "last_updated": "1775470924",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3936eyp"
+      },
+      "volume": "21"
+    },
+    "254": {
+      "title": "La résistance des Nameks",
+      "last_updated": "1775470925",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwj6b7d"
+      },
+      "volume": "21"
+    },
+    "256": {
+      "title": "La mort aux trousses !",
+      "last_updated": "1775470927",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlell37j"
+      },
+      "volume": "21"
+    },
+    "260": {
+      "title": "Le dernier Dragon Ball",
+      "last_updated": "1775470930",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjzzr7j"
+      },
+      "volume": "22"
+    },
+    "259": {
+      "title": "Le sixième Dragon Ball",
+      "last_updated": "1775470933",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvrro4b"
+      },
+      "volume": "22"
+    },
+    "258": {
+      "title": "Danger omniprésent !",
+      "last_updated": "1775470934",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqdd34l"
+      },
+      "volume": "22"
+    },
+    "261": {
+      "title": "Maître Kaiô troublé",
+      "last_updated": "1775470936",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwqqwyx"
+      },
+      "volume": "22"
+    },
+    "257": {
+      "title": "Dodoria mort de peur",
+      "last_updated": "1775470937",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpjj2y5"
+      },
+      "volume": "22"
+    },
+    "262": {
+      "title": "Végéta et Zabon",
+      "last_updated": "1775470939",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqgg9y8"
+      },
+      "volume": "22"
+    },
+    "263": {
+      "title": "La force cachée de Zabon",
+      "last_updated": "1775470941",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5r5537q"
+      },
+      "volume": "22"
+    },
+    "264": {
+      "title": "Chez le Grand Chef",
+      "last_updated": "1775470943",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwmm27n"
+      },
+      "volume": "22"
+    },
+    "265": {
+      "title": "Sept Dragon Balls en perpétuel déplacement",
+      "last_updated": "1775470946",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdrrny5"
+      },
+      "volume": "22"
+    },
+    "267": {
+      "title": "Horribles retrouvailles",
+      "last_updated": "1775470948",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prerr64o"
+      },
+      "volume": "22"
+    },
+    "266": {
+      "title": "Le sourire de Végéta, la colère de Freezer",
+      "last_updated": "1775470951",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwdddyp"
+      },
+      "volume": "22"
+    },
+    "268": {
+      "title": "Végéta prend le dessus",
+      "last_updated": "1775470954",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2m22q78"
+      },
+      "volume": "22"
+    },
+    "271": {
+      "title": "Le Commando Ginyû approche",
+      "last_updated": "1775470956",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xaxxj4l"
+      },
+      "volume": "23"
+    },
+    "272": {
+      "title": "Dépêchez-vous de réunir à temps les sept Dragon Balls !",
+      "last_updated": "1775470957",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgllp7x"
+      },
+      "volume": "23"
+    },
+    "273": {
+      "title": "Le terrible Commando Ginyû",
+      "last_updated": "1775470959",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k55278"
+      },
+      "volume": "23"
+    },
+    "269": {
+      "title": "Les Dragon Balls de Gohan et Végéta",
+      "last_updated": "1775470960",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxmmo72"
+      },
+      "volume": "22"
+    },
+    "276": {
+      "title": "Végéta au désespoir",
+      "last_updated": "1775470963",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3933eyp"
+      },
+      "volume": "23"
+    },
+    "275": {
+      "title": "L'attaque éclair de Végéta !!",
+      "last_updated": "1775470964",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwjjb7d"
+      },
+      "volume": "23"
+    },
+    "270": {
+      "title": "Prémices d'une grande bataille",
+      "last_updated": "1775470966",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m33w7k"
+      },
+      "volume": "23"
+    },
+    "277": {
+      "title": "Freezer ravi",
+      "last_updated": "1775470967",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g22z4r"
+      },
+      "volume": "23"
+    },
+    "274": {
+      "title": "Les pouvoirs de Ghourd",
+      "last_updated": "1775470970",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d82z7x"
+      },
+      "volume": "23"
+    },
+    "278": {
+      "title": "La mort de Son Gohan ?!",
+      "last_updated": "1775470975",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2wo3yd"
+      },
+      "volume": "23"
+    },
+    "279": {
+      "title": "Le mystérieux Son Gokû",
+      "last_updated": "1775470978",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlelq37j"
+      },
+      "volume": "23"
+    },
+    "280": {
+      "title": "Super Saïyen ?!",
+      "last_updated": "1775470981",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjzkr7j"
+      },
+      "volume": "23"
+    },
+    "284": {
+      "title": "La fierté du capitaine Ginyû",
+      "last_updated": "1775470982",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvr8o4b"
+      },
+      "volume": "24"
+    },
+    "283": {
+      "title": "Le capitaine Ginyû s'en mêle !",
+      "last_updated": "1775470986",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwqzwyx"
+      },
+      "volume": "24"
+    },
+    "286": {
+      "title": "Nail, le guerrier Namek",
+      "last_updated": "1775470988",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5r5l37q"
+      },
+      "volume": "24"
+    },
+    "281": {
+      "title": "Duel contre Jeese et Butta !!",
+      "last_updated": "1775470990",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqga9y8"
+      },
+      "volume": "23"
+    },
+    "282": {
+      "title": "Végéta se pose des questions",
+      "last_updated": "1775470993",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwm527n"
+      },
+      "volume": "24"
+    },
+    "291": {
+      "title": "Freezer hors de lui !!",
+      "last_updated": "1775470995",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prerw64o"
+      },
+      "volume": "24"
+    },
+    "290": {
+      "title": "La défaite de Ginyû !!",
+      "last_updated": "1775470998",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdrony5"
+      },
+      "volume": "24"
+    },
+    "289": {
+      "title": "La regrettable erreur de Ginyû !!",
+      "last_updated": "1775471004",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwqmz4n"
+      },
+      "volume": "24"
+    },
+    "292": {
+      "title": "Je t'invoque, Shenron local !!",
+      "last_updated": "1775471011",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwd3dyp"
+      },
+      "volume": "24"
+    },
+    "293": {
+      "title": "Les trois vœux",
+      "last_updated": "1775471019",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2m2qq78"
+      },
+      "volume": "24"
+    },
+    "301": {
+      "title": "Une escalade sans fin !!",
+      "last_updated": "1775471024",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m3ow7k"
+      },
+      "volume": "25"
+    },
+    "287": {
+      "title": "Body Change",
+      "last_updated": "1775471028",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xaxmj4l"
+      },
+      "volume": "24"
+    },
+    "296": {
+      "title": "La transformation de Freezer !!",
+      "last_updated": "1775471030",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxmeo72"
+      },
+      "volume": "25"
+    },
+    "288": {
+      "title": "Gokû ?! Ou Ginyû ?!",
+      "last_updated": "1775471033",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgldp7x"
+      },
+      "volume": "24"
+    },
+    "295": {
+      "title": "Une montée en puissance inattendue",
+      "last_updated": "1775471038",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k5j278"
+      },
+      "volume": "25"
+    },
+    "297": {
+      "title": "Gohan perd la tête !!",
+      "last_updated": "1775471043",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr393zeyp"
+      },
+      "volume": "25"
+    },
+    "300": {
+      "title": "La confiance de Piccolo",
+      "last_updated": "1775471052",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwjrb7d"
+      },
+      "volume": "25"
+    },
+    "285": {
+      "title": "Le grand chef en danger",
+      "last_updated": "1775471054",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g23z4r"
+      },
+      "volume": "24"
+    },
+    "302": {
+      "title": "La deuxième transformation de Freezer",
+      "last_updated": "1775471060",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d8bz7x"
+      },
+      "volume": "25"
+    },
+    "298": {
+      "title": "Gohan en piteux état",
+      "last_updated": "1775471068",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2wr3yd"
+      },
+      "volume": "25"
+    },
+    "299": {
+      "title": "La résurrection du guerrier",
+      "last_updated": "1775471074",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvrwo4b"
+      },
+      "volume": "25"
+    },
+    "303": {
+      "title": "Freezer assure sa victoire !!",
+      "last_updated": "1775471076",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpjr2y5"
+      },
+      "volume": "25"
+    },
+    "294": {
+      "title": "Le dernier vœu",
+      "last_updated": "1775471079",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjz3r7j"
+      },
+      "volume": "25"
+    },
+    "304": {
+      "title": "La naissance du Super Saïyen ou du Super Freezer ?!",
+      "last_updated": "1775471082",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqdl34l"
+      },
+      "volume": "25"
+    },
+    "309": {
+      "title": "Ni l'un ni l'autre ne céderont !",
+      "last_updated": "1775471084",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwqmwyx"
+      },
+      "volume": "26"
+    },
+    "305": {
+      "title": "Freezer ou Végéta ?!",
+      "last_updated": "1775471087",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqgb9y8"
+      },
+      "volume": "25"
+    },
+    "312": {
+      "title": "Le monstrueux Freezer",
+      "last_updated": "1775471090",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5r5b37q"
+      },
+      "volume": "26"
+    },
+    "310": {
+      "title": "Jaugeage",
+      "last_updated": "1775471093",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwme27n"
+      },
+      "volume": "26"
+    },
+    "307": {
+      "title": "L'amorce du combat final !!",
+      "last_updated": "1775471096",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwqaz4n"
+      },
+      "volume": "26"
+    },
+    "306": {
+      "title": "Son Gokû… le retour !!",
+      "last_updated": "1775471098",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdrjny5"
+      },
+      "volume": "26"
+    },
+    "308": {
+      "title": "La mort de Végéta !!",
+      "last_updated": "1775471100",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwdkdyp"
+      },
+      "volume": "26"
+    },
+    "313": {
+      "title": "Tout miser sur le Kaiô-Ken niveau 20",
+      "last_updated": "1775471105",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prerb64o"
+      },
+      "volume": "26"
+    },
+    "311": {
+      "title": "Duel à mains nues",
+      "last_updated": "1775471115",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2m2gq78"
+      },
+      "volume": "26"
+    },
+    "314": {
+      "title": "L'ultime choix de Son Gokû",
+      "last_updated": "1775471122",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xaxjj4l"
+      },
+      "volume": "26"
+    },
+    "321": {
+      "title": "Freezer tente le tout pour le tout, à pleine puissance !",
+      "last_updated": "1775471126",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgl8p7x"
+      },
+      "volume": "27"
+    },
+    "320": {
+      "title": "Namek disparaît en même temps que l'espoir",
+      "last_updated": "1775471133",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k5z278"
+      },
+      "volume": "27"
+    },
+    "316": {
+      "title": "Que toute la rancune de l'univers transperce Freezer !!",
+      "last_updated": "1775471137",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k5zx78"
+      },
+      "volume": "26"
+    },
+    "318": {
+      "title": "Le Super Saïyen de la légende",
+      "last_updated": "1775471139",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgl8q7x"
+      },
+      "volume": "27"
+    },
+    "327": {
+      "title": "La fin de tout",
+      "last_updated": "1775471142",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxmbn72"
+      },
+      "volume": "27"
+    },
+    "325": {
+      "title": "Son Gokû abandonne la partie",
+      "last_updated": "1775471145",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m39l7k"
+      },
+      "volume": "27"
+    },
+    "322": {
+      "title": "L'ultime manche du combat !",
+      "last_updated": "1775471148",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwjpn7d"
+      },
+      "volume": "27"
+    },
+    "326": {
+      "title": "Vaine victoire",
+      "last_updated": "1775471151",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g2aj4r"
+      },
+      "volume": "27"
+    },
+    "333": {
+      "title": "Son Gokû est revenu",
+      "last_updated": "1775471156",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2wkqyd"
+      },
+      "volume": "28"
+    },
+    "334": {
+      "title": "Le garçon venu du futur",
+      "last_updated": "1775471160",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlel2d7j"
+      },
+      "volume": "28"
+    },
+    "317": {
+      "title": "La vie ou la mort…",
+      "last_updated": "1775471163",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxmbo72"
+      },
+      "volume": "26"
+    },
+    "336": {
+      "title": "Se donner à fond dans trois ans",
+      "last_updated": "1775471167",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvrn54b"
+      },
+      "volume": "28"
+    },
+    "338": {
+      "title": "Des cyborgs sur la ville…",
+      "last_updated": "1775471172",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpjvqy5"
+      },
+      "volume": "28"
+    },
+    "323": {
+      "title": "Les deux vœux",
+      "last_updated": "1775471175",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjz9j7j"
+      },
+      "volume": "27"
+    },
+    "339": {
+      "title": "Yamcha à deux doigts d'y rester !!",
+      "last_updated": "1775471177",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqd924l"
+      },
+      "volume": "28"
+    },
+    "337": {
+      "title": "Le rassemblement des guerriers",
+      "last_updated": "1775471179",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwqnoyx"
+      },
+      "volume": "28"
+    },
+    "343": {
+      "title": "L'arrivée de Végéta",
+      "last_updated": "1775471180",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwmnm7n"
+      },
+      "volume": "29"
+    },
+    "324": {
+      "title": "Affrontement silencieux",
+      "last_updated": "1775471182",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdr9jy5"
+      },
+      "volume": "27"
+    },
+    "329": {
+      "title": "Gokû ne reviendra pas",
+      "last_updated": "1775471184",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prerpp4o"
+      },
+      "volume": "27"
+    },
+    "331": {
+      "title": "Le mystérieux jeune homme",
+      "last_updated": "1775471186",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqgpjy8"
+      },
+      "volume": "28"
+    },
+    "348": {
+      "title": "Au laboratoire !!…",
+      "last_updated": "1775471189",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llglpq7x"
+      },
+      "volume": "29"
+    },
+    "340": {
+      "title": "La rancune de l'armée du Red Ribon envers Son Gokû",
+      "last_updated": "1775471192",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2m2pb78"
+      },
+      "volume": "28"
+    },
+    "351": {
+      "title": "Le mystérieux C-16",
+      "last_updated": "1775471195",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5k5px78"
+      },
+      "volume": "29"
+    },
+    "349": {
+      "title": "C-17 et C-18 se réveillent",
+      "last_updated": "1775471198",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m38l7k"
+      },
+      "volume": "29"
+    },
+    "347": {
+      "title": "Trunks a des doutes",
+      "last_updated": "1775471199",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxmpn72"
+      },
+      "volume": "29"
+    },
+    "342": {
+      "title": "La défaite de Gokû !",
+      "last_updated": "1775471201",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xax594l"
+      },
+      "volume": "29"
+    },
+    "357": {
+      "title": "Les informations de Bulma",
+      "last_updated": "1775471203",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d85g7x"
+      },
+      "volume": "30"
+    },
+    "352": {
+      "title": "Végéta contre C-18",
+      "last_updated": "1775471204",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g2xj4r"
+      },
+      "volume": "29"
+    },
+    "355": {
+      "title": "La décision de Piccolo",
+      "last_updated": "1775471208",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlelvd7j"
+      },
+      "volume": "30"
+    },
+    "366": {
+      "title": "L'entraînement des Saïyens",
+      "last_updated": "1775471213",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwqboyx"
+      },
+      "volume": "31"
+    },
+    "362": {
+      "title": "Duel à Ginger Town",
+      "last_updated": "1775471217",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqg8jy8"
+      },
+      "volume": "30"
+    },
+    "372": {
+      "title": "C-16 se bat avec l'énergie du désespoir !!",
+      "last_updated": "1775471224",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prermp4o"
+      },
+      "volume": "31"
+    },
+    "359": {
+      "title": "Kami-sama l'avait vu !!",
+      "last_updated": "1775471227",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xaxv94l"
+      },
+      "volume": "30"
+    },
+    "360": {
+      "title": "L'union du dieu et du démon",
+      "last_updated": "1775471229",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxm3n72"
+      },
+      "volume": "30"
+    },
+    "186": {
+      "title": "Remue-ménage sur la surface de combat !!",
+      "last_updated": "1775473845",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prewn84o"
+      },
+      "volume": "16"
+    },
+    "184": {
+      "title": "Le véritable combat",
+      "last_updated": "1775473848",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odw3bayp"
+      },
+      "volume": "16"
+    },
+    "379": {
+      "title": "Cell n'aura jamais son corps parfait ?!",
+      "last_updated": "1775473862",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kjm578"
+      },
+      "volume": "32"
+    },
+    "377": {
+      "title": "Son Gokû et Son Gohan",
+      "last_updated": "1775473865",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgdw67x"
+      },
+      "volume": "32"
+    },
+    "374": {
+      "title": "Première confrontation entre Gokû et Cell",
+      "last_updated": "1775473867",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxeke72"
+      },
+      "volume": "31"
+    },
+    "378": {
+      "title": "Super Végéta",
+      "last_updated": "1775473880",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwreq7d"
+      },
+      "volume": "32"
+    },
+    "380": {
+      "title": "Sauve-toi, C-18 !!",
+      "last_updated": "1775473883",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39znkyp"
+      },
+      "volume": "32"
+    },
+    "382": {
+      "title": "Cell obtient le corps parfait !!",
+      "last_updated": "1775473886",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g3ov4r"
+      },
+      "volume": "32"
+    },
+    "381": {
+      "title": "Cell sauvé par la curiosité de Végéta",
+      "last_updated": "1775473888",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d2n37x"
+      },
+      "volume": "32"
+    },
+    "383": {
+      "title": "Retournement de situation !!",
+      "last_updated": "1775473896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjkqo7j"
+      },
+      "volume": "32"
+    },
+    "384": {
+      "title": "La technique secrète de Végéta",
+      "last_updated": "1775473899",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rv82p4b"
+      },
+      "volume": "32"
+    },
+    "385": {
+      "title": "Trunks passe à l'action",
+      "last_updated": "1775473903",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpe6xy5"
+      },
+      "volume": "32"
+    },
+    "386": {
+      "title": "Super Trunks dépasse son père !",
+      "last_updated": "1775473907",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqong4l"
+      },
+      "volume": "32"
+    },
+    "390": {
+      "title": "Gokû et Gohan sortent déjà",
+      "last_updated": "1775473919",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mw5lv7n"
+      },
+      "volume": "33"
+    },
+    "388": {
+      "title": "Cell a une idée",
+      "last_updated": "1775473923",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwmkw4n"
+      },
+      "volume": "33"
+    },
+    "392": {
+      "title": "L'armée royale attaque",
+      "last_updated": "1775473939",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odw35ayp"
+      },
+      "volume": "33"
+    },
+    "391": {
+      "title": "Petite pause avant le tournoi",
+      "last_updated": "1775473942",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mq5k78"
+      },
+      "volume": "33"
+    },
+    "393": {
+      "title": "Le nouveau Kami-sama",
+      "last_updated": "1775473954",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kjn578"
+      },
+      "volume": "33"
+    },
+    "394": {
+      "title": "Le début du Cell Game",
+      "last_updated": "1775473962",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39z5kyp"
+      },
+      "volume": "33"
+    },
+    "396": {
+      "title": "Le boulet du Cell Game ?!",
+      "last_updated": "1775473975",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g36v4r"
+      },
+      "volume": "33"
+    },
+    "389": {
+      "title": "Un terrifiant message",
+      "last_updated": "1775474271",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwr6b7d"
+      },
+      "volume": "33"
+    },
+    "397": {
+      "title": "Cell vs Son Gokû !!",
+      "last_updated": "1775474288",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2ow3yd"
+      },
+      "volume": "33"
+    },
+    "315": {
+      "title": "Dernière chance ! Le Genki Dama géant",
+      "last_updated": "1775474297",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zleql37j"
+      },
+      "volume": "26"
+    },
+    "367": {
+      "title": "Piccolo réincarné contre C-17",
+      "last_updated": "1775474300",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rv8ro4b"
+      },
+      "volume": "31"
+    },
+    "370": {
+      "title": "La lutte désespérée du nouveau Piccolo",
+      "last_updated": "1775474304",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpej2y5"
+      },
+      "volume": "31"
+    },
+    "330": {
+      "title": "Freezer père et fils atterrissent sur Terre",
+      "last_updated": "1775474308",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjkzr7j"
+      },
+      "volume": "28"
+    },
+    "335": {
+      "title": "Message de terreur",
+      "last_updated": "1775474310",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqag9y8"
+      },
+      "volume": "28"
+    },
+    "345": {
+      "title": "La fuite de C-20 !",
+      "last_updated": "1775474312",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwzqwyx"
+      },
+      "volume": "29"
+    },
+    "399": {
+      "title": "Duel à haut niveau",
+      "last_updated": "1775474314",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mw5m27n"
+      },
+      "volume": "34"
+    },
+    "398": {
+      "title": "Son Gokû à pleine puissance",
+      "last_updated": "1775474316",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rl537q"
+      },
+      "volume": "34"
+    },
+    "363": {
+      "title": "Le mystère s'éclaircit",
+      "last_updated": "1775474319",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prewr64o"
+      },
+      "volume": "30"
+    },
+    "402": {
+      "title": "La conduite étrange de Son Gokû",
+      "last_updated": "1775474323",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdorny5"
+      },
+      "volume": "34"
+    },
+    "401": {
+      "title": "Un Kamé Hamé Ha puissance maximum",
+      "last_updated": "1775474326",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgdlp7x"
+      },
+      "volume": "34"
+    },
+    "369": {
+      "title": "Les cyborgs contre Cell",
+      "last_updated": "1775474329",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mq2q78"
+      },
+      "volume": "31"
+    },
+    "405": {
+      "title": "Son Gohan va-t-il s'énerver ?",
+      "last_updated": "1775474331",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kj5278"
+      },
+      "volume": "34"
+    },
+    "319": {
+      "title": "Freezer connaît pour la première fois l'humiliation et le désespoir",
+      "last_updated": "1775474334",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxemo72"
+      },
+      "volume": "27"
+    },
+    "404": {
+      "title": "En avant, super Son Gohan !",
+      "last_updated": "1775474338",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odw3ddyp"
+      },
+      "volume": "34"
+    },
+    "375": {
+      "title": "Végéta, Trunks, en avant !!",
+      "last_updated": "1775474341",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xamxj4l"
+      },
+      "volume": "31"
+    },
+    "403": {
+      "title": "Le guerrier qui a surpassé Gokû",
+      "last_updated": "1775474344",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwrjb7d"
+      },
+      "volume": "34"
+    },
+    "406": {
+      "title": "L'arme secrète de C-16",
+      "last_updated": "1775474349",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d22z7x"
+      },
+      "volume": "34"
+    },
+    "407": {
+      "title": "L'enfer des Cell Juniors",
+      "last_updated": "1775474353",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g32z4r"
+      },
+      "volume": "34"
+    },
+    "376": {
+      "title": "Végéta très sûr de lui !",
+      "last_updated": "1775474362",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39z3eyp"
+      },
+      "volume": "32"
+    },
+    "400": {
+      "title": "La défaite ou la mort !",
+      "last_updated": "1775474367",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2oo3yd"
+      },
+      "volume": "34"
+    },
+    "373": {
+      "title": "Empêchez Cell d'avoir le corps parfait !",
+      "last_updated": "1775474373",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjkkr7j"
+      },
+      "volume": "31"
+    },
+    "356": {
+      "title": "Les conditions de Kami-sama",
+      "last_updated": "1775474378",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqoo34l"
+      },
+      "volume": "30"
+    },
+    "408": {
+      "title": "Son Gohan explose !!",
+      "last_updated": "1775474383",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpee2y5"
+      },
+      "volume": "34"
+    },
+    "413": {
+      "title": "La douleur de Son Gohan",
+      "last_updated": "1775474388",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mw5527n"
+      },
+      "volume": "35"
+    },
+    "410": {
+      "title": "Le Kamé Hamé Ha ultime",
+      "last_updated": "1775474392",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwzzwyx"
+      },
+      "volume": "35"
+    },
+    "411": {
+      "title": "Cell dans ses derniers retranchements",
+      "last_updated": "1775474394",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rll37q"
+      },
+      "volume": "35"
+    },
+    "412": {
+      "title": "La fin du Cell Game",
+      "last_updated": "1775474398",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwmmz4n"
+      },
+      "volume": "35"
+    },
+    "415": {
+      "title": "Le message de Son Gokû",
+      "last_updated": "1775474402",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7preww64o"
+      },
+      "volume": "35"
+    },
+    "416": {
+      "title": "Kamé Hamé Ha contre Kamé Hamé Ha, l'affrontement final",
+      "last_updated": "1775474407",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odw33dyp"
+      },
+      "volume": "35"
+    },
+    "414": {
+      "title": "Un retournement de situation inattendu",
+      "last_updated": "1775474414",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdoony5"
+      },
+      "volume": "35"
+    },
+    "417": {
+      "title": "Le dénouement",
+      "last_updated": "1775474423",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xammj4l"
+      },
+      "volume": "35"
+    },
+    "409": {
+      "title": "Le vrai combat peut commencer",
+      "last_updated": "1775474429",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mqqq78"
+      },
+      "volume": "35"
+    },
+    "368": {
+      "title": "Cell se rapproche à pas de loup",
+      "last_updated": "1775474434",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgddp7x"
+      },
+      "volume": "31"
+    },
+    "419": {
+      "title": "Deuxième fin",
+      "last_updated": "1775474438",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kjj278"
+      },
+      "volume": "35"
+    },
+    "328": {
+      "title": "La planète Namek s'éteint",
+      "last_updated": "1775474446",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g33z4r"
+      },
+      "volume": "27"
+    },
+    "422": {
+      "title": "Gohan complètement épuisé",
+      "last_updated": "1775474450",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d2bz7x"
+      },
+      "volume": "36"
+    },
+    "421": {
+      "title": "Au lycée de Satan City",
+      "last_updated": "1775474453",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3moow7k"
+      },
+      "volume": "36"
+    },
+    "425": {
+      "title": "Démasqué !!",
+      "last_updated": "1775474457",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2or3yd"
+      },
+      "volume": "36"
+    },
+    "420": {
+      "title": "La paix règne enfin sur le futur…",
+      "last_updated": "1775474462",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwrrb7d"
+      },
+      "volume": "35"
+    },
+    "426": {
+      "title": "Le Tenka Ichi Budôkai",
+      "last_updated": "1775474468",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zleqb37j"
+      },
+      "volume": "36"
+    },
+    "418": {
+      "title": "Adieu, valeureux guerriers",
+      "last_updated": "1775474478",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjk3r7j"
+      },
+      "volume": "35"
+    },
+    "430": {
+      "title": "Le rassemblement de la Dragon Team !!",
+      "last_updated": "1775474483",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rv8wo4b"
+      },
+      "volume": "36"
+    },
+    "428": {
+      "title": "Videl et le Bukû Jutsu",
+      "last_updated": "1775474488",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqab9y8"
+      },
+      "volume": "36"
+    },
+    "434": {
+      "title": "Trunks vs Son Goten, 2",
+      "last_updated": "1775474491",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rlb37q"
+      },
+      "volume": "37"
+    },
+    "433": {
+      "title": "Trunks vs Son Goten",
+      "last_updated": "1775474494",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwzmwyx"
+      },
+      "volume": "36"
+    },
+    "437": {
+      "title": "Deux mystérieux individus",
+      "last_updated": "1775474502",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mw5e27n"
+      },
+      "volume": "37"
+    },
+    "427": {
+      "title": "Début de l'entraînement !!",
+      "last_updated": "1775474518",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwmaz4n"
+      },
+      "volume": "36"
+    },
+    "435": {
+      "title": "Le vainqueur de la « catégorie enfants » !",
+      "last_updated": "1775474524",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdojny5"
+      },
+      "volume": "37"
+    },
+    "431": {
+      "title": "Les éliminatoires",
+      "last_updated": "1775474526",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odw3kdyp"
+      },
+      "volume": "36"
+    },
+    "441": {
+      "title": "Videl en piteux état",
+      "last_updated": "1775474528",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xamjj4l"
+      },
+      "volume": "37"
+    },
+    "424": {
+      "title": "Videl à la rescousse !!",
+      "last_updated": "1775474529",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgd8p7x"
+      },
+      "volume": "36"
+    },
+    "436": {
+      "title": "Les efforts désespérés de Mister Satan !",
+      "last_updated": "1775474530",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mqgq78"
+      },
+      "volume": "37"
+    },
+    "429": {
+      "title": "Le Tenka Ichi Budôkai approche",
+      "last_updated": "1775474532",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kjz278"
+      },
+      "volume": "36"
+    },
+    "440": {
+      "title": "L'identité inattendue de Shin",
+      "last_updated": "1775474533",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3modw7k"
+      },
+      "volume": "37"
+    },
+    "446": {
+      "title": "Le sorcier Babidi",
+      "last_updated": "1775474534",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxebo72"
+      },
+      "volume": "38"
+    },
+    "448": {
+      "title": "Qui ne risque rien n'a rien…",
+      "last_updated": "1775474535",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g3qz4r"
+      },
+      "volume": "38"
+    },
+    "447": {
+      "title": "Babidi savait tout",
+      "last_updated": "1775474536",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwr5b7d"
+      },
+      "volume": "38"
+    },
+    "443": {
+      "title": "Le plan d'attaque est lancé",
+      "last_updated": "1775474537",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39zbeyp"
+      },
+      "volume": "37"
+    },
+    "449": {
+      "title": "Comme un jeu vidéo",
+      "last_updated": "1775474537",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2ok3yd"
+      },
+      "volume": "38"
+    },
+    "445": {
+      "title": "Un terrifiant mystère",
+      "last_updated": "1775474538",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d2pz7x"
+      },
+      "volume": "37"
+    },
+    "451": {
+      "title": "Le repas de Yakon, la créature magique",
+      "last_updated": "1775474539",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjk9r7j"
+      },
+      "volume": "38"
+    },
+    "453": {
+      "title": "L'issue de la finale",
+      "last_updated": "1775474539",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rv8no4b"
+      },
+      "volume": "38"
+    },
+    "454": {
+      "title": "Le vainqueur du tournoi !!",
+      "last_updated": "1775474540",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpev2y5"
+      },
+      "volume": "38"
+    },
+    "455": {
+      "title": "Découverte d'un cœur vicié",
+      "last_updated": "1775474541",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwznwyx"
+      },
+      "volume": "38"
+    },
+    "452": {
+      "title": "L'entrée en scène de Dabra !!",
+      "last_updated": "1775474541",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqap9y8"
+      },
+      "volume": "38"
+    },
+    "456": {
+      "title": "Le duel fatidique, Son Gokû contre Végéta",
+      "last_updated": "1775474542",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mw5n27n"
+      },
+      "volume": "38"
+    },
+    "459": {
+      "title": "Compte à rebours",
+      "last_updated": "1775474542",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdo9ny5"
+      },
+      "volume": "38"
+    },
+    "442": {
+      "title": "Gohan s'énerve !!",
+      "last_updated": "1775474543",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odw3pdyp"
+      },
+      "volume": "37"
+    },
+    "438": {
+      "title": "Le choix des adversaires !",
+      "last_updated": "1775474544",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prewp64o"
+      },
+      "volume": "37"
+    },
+    "450": {
+      "title": "Niveau 2 : Yakon",
+      "last_updated": "1775474545",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xam5j4l"
+      },
+      "volume": "38"
+    },
+    "395": {
+      "title": "Le grand rassemblement !",
+      "last_updated": "1775474545",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mqpq78"
+      },
+      "volume": "33"
+    },
+    "460": {
+      "title": "L'apparition de Majin Boo ?!",
+      "last_updated": "1775474546",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgdpp7x"
+      },
+      "volume": "39"
+    },
+    "466": {
+      "title": "La fin du sorcier",
+      "last_updated": "1775474547",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kjp278"
+      },
+      "volume": "39"
+    },
+    "439": {
+      "title": "Les combats de Krilin et Piccolo",
+      "last_updated": "1775474547",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxepo72"
+      },
+      "volume": "37"
+    },
+    "423": {
+      "title": "La naissance d'un nouveau héros !!",
+      "last_updated": "1775474548",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgdpq7x"
+      },
+      "volume": "36"
+    },
+    "463": {
+      "title": "Une puissance écrasante",
+      "last_updated": "1775474548",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kjpx78"
+      },
+      "volume": "39"
+    },
+    "464": {
+      "title": "L'ultime combat désespéré de Végéta",
+      "last_updated": "1775474549",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxepn72"
+      },
+      "volume": "39"
+    },
+    "458": {
+      "title": "Deux combats acharnés",
+      "last_updated": "1775474550",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xam594l"
+      },
+      "volume": "38"
+    },
+    "467": {
+      "title": "Adieu, guerrier à la fierté inégalée",
+      "last_updated": "1775474550",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39zwgyp"
+      },
+      "volume": "39"
+    },
+    "462": {
+      "title": "La menace de Majin Boo",
+      "last_updated": "1775474551",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwrqn7d"
+      },
+      "volume": "39"
+    },
+    "332": {
+      "title": "Un deuxième Super Saïyen",
+      "last_updated": "1775474551",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3mo8l7k"
+      },
+      "volume": "28"
+    },
+    "444": {
+      "title": "De l'énergie volée",
+      "last_updated": "1775474552",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d25g7x"
+      },
+      "volume": "37"
+    },
+    "387": {
+      "title": "L'équilibre d'une super puissance",
+      "last_updated": "1775474552",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g3xj4r"
+      },
+      "volume": "32"
+    },
+    "465": {
+      "title": "Majin Boo en colère",
+      "last_updated": "1775474553",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zleqvd7j"
+      },
+      "volume": "39"
+    },
+    "474": {
+      "title": "Son Gokû dépasse les limites !! Le Super Saïyen 3",
+      "last_updated": "1775474553",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rv8k54b"
+      },
+      "volume": "40"
+    },
+    "473": {
+      "title": "Son Gokû face à face avec Majin Boo !",
+      "last_updated": "1775474554",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpebqy5"
+      },
+      "volume": "40"
+    },
+    "472": {
+      "title": "La Z Sword",
+      "last_updated": "1775474554",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjk6j7j"
+      },
+      "volume": "39"
+    },
+    "478": {
+      "title": "Sur les traces de Son Gohan",
+      "last_updated": "1775474554",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwzboyx"
+      },
+      "volume": "40"
+    },
+    "475": {
+      "title": "Majin Boo dévoilé sa vraie valeur",
+      "last_updated": "1775474555",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqa8jy8"
+      },
+      "volume": "40"
+    },
+    "457": {
+      "title": "La fierté de Végéta",
+      "last_updated": "1775474556",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rlaq7q"
+      },
+      "volume": "38"
+    },
+    "471": {
+      "title": "L'heure de l'entraînement",
+      "last_updated": "1775474556",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwmdm4n"
+      },
+      "volume": "39"
+    },
+    "483": {
+      "title": "Majin Boo et ses amis",
+      "last_updated": "1775474556",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prewmp4o"
+      },
+      "volume": "40"
+    },
+    "476": {
+      "title": "Les dernières heures de Son Gokû",
+      "last_updated": "1775474557",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdozjy5"
+      },
+      "volume": "40"
+    },
+    "468": {
+      "title": "Le cauchemar recommence",
+      "last_updated": "1775474557",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xamv94l"
+      },
+      "volume": "39"
+    },
+    "481": {
+      "title": "La dernière arme secrète de l'armée terrienne !!",
+      "last_updated": "1775474558",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mqlb78"
+      },
+      "volume": "40"
+    },
+    "480": {
+      "title": "La fusion enfin réussie !!",
+      "last_updated": "1775474558",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgdjq7x"
+      },
+      "volume": "40"
+    },
+    "477": {
+      "title": "Le départ de Son Gokû",
+      "last_updated": "1775474559",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mw5bm7n"
+      },
+      "volume": "40"
+    },
+    "484": {
+      "title": "La créature née de la colère",
+      "last_updated": "1775474559",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kj2x78"
+      },
+      "volume": "40"
+    },
+    "371": {
+      "title": "C-16 se met en marche !",
+      "last_updated": "1775474560",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxe3n72"
+      },
+      "volume": "31"
+    },
+    "485": {
+      "title": "Deux Majin Boo… Et ensuite…",
+      "last_updated": "1775474560",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3mobl7k"
+      },
+      "volume": "40"
+    },
+    "486": {
+      "title": "Le redoutable nouveau visage de Majin Boo",
+      "last_updated": "1775474561",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39zogyp"
+      },
+      "volume": "41"
+    },
+    "488": {
+      "title": "Trunks et Goten entrent dans la salle de l'esprit et du temps",
+      "last_updated": "1775474561",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwron7d"
+      },
+      "volume": "41"
+    },
+    "489": {
+      "title": "Gotenks très sûr de lui !!",
+      "last_updated": "1775474561",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g3vj4r"
+      },
+      "volume": "41"
+    },
+    "350": {
+      "title": "C-17, C-18… et C-16",
+      "last_updated": "1775474562",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8d2og7x"
+      },
+      "volume": "29"
+    },
+    "491": {
+      "title": "Technique fatale ! Kamikazé Attack",
+      "last_updated": "1775474562",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2obqyd"
+      },
+      "volume": "41"
+    },
+    "494": {
+      "title": "Courage, Super Gotenks",
+      "last_updated": "1775474562",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjkbj7j"
+      },
+      "volume": "41"
+    },
+    "492": {
+      "title": "Enfermés dans une dimension parallèle",
+      "last_updated": "1775474563",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rv8j54b"
+      },
+      "volume": "41"
+    },
+    "482": {
+      "title": "Tout est prêt pour la super fusion !!",
+      "last_updated": "1775474563",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqob24l"
+      },
+      "volume": "40"
+    },
+    "498": {
+      "title": "Le comportement inquiétant de Majin Boo",
+      "last_updated": "1775474564",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpe9qy5"
+      },
+      "volume": "41"
+    },
+    "499": {
+      "title": "Le piège",
+      "last_updated": "1775474564",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwz2oyx"
+      },
+      "volume": "41"
+    },
+    "495": {
+      "title": "La super fusion, c'est surpuissant !!",
+      "last_updated": "1775474564",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqaojy8"
+      },
+      "volume": "41"
+    },
+    "479": {
+      "title": "La Z Sword et l'autre Kaiô Shin",
+      "last_updated": "1775474565",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mw5qm7n"
+      },
+      "volume": "40"
+    },
+    "493": {
+      "title": "Évasion de la dimension parallèle",
+      "last_updated": "1775474565",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwmbm4n"
+      },
+      "volume": "41"
+    },
+    "365": {
+      "title": "Son Gokû se réveille",
+      "last_updated": "1775474565",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rloq7q"
+      },
+      "volume": "31"
+    },
+    "470": {
+      "title": "La vengeance de Babidi se met en place !!",
+      "last_updated": "1775474566",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdobjy5"
+      },
+      "volume": "39"
+    },
+    "490": {
+      "title": "Gotenks de plus en plus sûr de lui !!",
+      "last_updated": "1775474566",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prewop4o"
+      },
+      "volume": "41"
+    },
+    "487": {
+      "title": "Massacre de l'humanité",
+      "last_updated": "1775474567",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mqbb78"
+      },
+      "volume": "41"
+    },
+    "503": {
+      "title": "La dernière fusion de Son Gokû !!",
+      "last_updated": "1775474567",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odw3oryp"
+      },
+      "volume": "42"
+    },
+    "506": {
+      "title": "Gokû et Végéta à l'intérieur de Boo",
+      "last_updated": "1775474567",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xam694l"
+      },
+      "volume": "42"
+    },
+    "344": {
+      "title": "Des cyborgs en panique",
+      "last_updated": "1775474568",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kjbx78"
+      },
+      "volume": "29"
+    },
+    "510": {
+      "title": "Végéta et Kakarotto",
+      "last_updated": "1775474568",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxeon72"
+      },
+      "volume": "42"
+    },
+    "461": {
+      "title": "C'est lui, Majin Boo ?!",
+      "last_updated": "1775474568",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3mowl7k"
+      },
+      "volume": "39"
+    },
+    "507": {
+      "title": "Boo et le Boo à l'intérieur de Boo",
+      "last_updated": "1775474569",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39zjgyp"
+      },
+      "volume": "42"
+    },
+    "511": {
+      "title": "Végéta risque sa vie",
+      "last_updated": "1775474569",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwrxn7d"
+      },
+      "volume": "42"
+    },
+    "518": {
+      "title": "Dix ans plus tard…",
+      "last_updated": "1775474569",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732g3nj4r"
+      },
+      "volume": "42"
+    },
+    "514": {
+      "title": "Message aux terriens ressuscités",
+      "last_updated": "1775474570",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2oeqyd"
+      },
+      "volume": "42"
+    },
+    "501": {
+      "title": "L'entrée en scène du sauveur tant attendu ?!",
+      "last_updated": "1775474570",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzjkgj7j"
+      },
+      "volume": "41"
+    },
+    "516": {
+      "title": "L'issue du combat",
+      "last_updated": "1775474570",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rv8d54b"
+      },
+      "volume": "42"
+    },
+    "504": {
+      "title": "Le papa fusionné le plus fort du monde",
+      "last_updated": "1775474571",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpelqy5"
+      },
+      "volume": "42"
+    },
+    "505": {
+      "title": "Végetto tente la provocation",
+      "last_updated": "1775474571",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwzjoyx"
+      },
+      "volume": "42"
+    },
+    "517": {
+      "title": "Le dénouement, et la suite…",
+      "last_updated": "1775474572",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqakjy8"
+      },
+      "volume": "42"
+    },
+    "508": {
+      "title": "Majin Boo à l'état brut",
+      "last_updated": "1775474572",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqor24l"
+      },
+      "volume": "42"
+    },
+    "509": {
+      "title": "Un match avec l'univers comme enjeu",
+      "last_updated": "1775474572",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rlwq7q"
+      },
+      "volume": "42"
+    },
+    "496": {
+      "title": "Une situation plus que désespérée !!",
+      "last_updated": "1775474573",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwm9m4n"
+      },
+      "volume": "41"
+    },
+    "519": {
+      "title": "Bye bye Dragon World",
+      "last_updated": "1775474573",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mw5rm7n"
+      },
+      "volume": "42"
+    },
+    "515": {
+      "title": "Pas assez d'énergie pour le Genki Dama",
+      "last_updated": "1775474586",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xam994l"
+      },
+      "volume": "42"
+    },
+    "469": {
+      "title": "Un maigre espoir",
+      "last_updated": "1775476623",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwepa7n"
+      },
+      "volume": "39"
+    },
+    "432": {
+      "title": "Deux petits combattants super puissants",
+      "last_updated": "1775476630",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwajl4n"
+      },
+      "volume": "36"
+    },
+    "497": {
+      "title": "Son Gohan contre-attaque !!",
+      "last_updated": "1775476631",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdjkvy5"
+      },
+      "volume": "41"
+    },
+    "513": {
+      "title": "L'idée de Végéta",
+      "last_updated": "1775477485",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7preb684o"
+      },
+      "volume": "42"
+    },
+    "500": {
+      "title": "Retournement de situation",
+      "last_updated": "1775477491",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xajgn4l"
+      },
+      "volume": "41"
+    },
+    "502": {
+      "title": "La fusion aux Potalas va-t-elle avoir lieu ?!",
+      "last_updated": "1775477492",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mgnk78"
+      },
+      "volume": "41"
+    },
+    "512": {
+      "title": "La fin du Super Saïyen 3",
+      "last_updated": "1775477821",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adqlo34l"
+      },
+      "volume": "42"
+    },
+    "164": {
+      "title": "L'arrivée du Tout-Puissant",
+      "last_updated": "1775477822",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqba9y8"
+      },
+      "volume": "14"
+    },
+    "162": {
+      "title": "Le secret du Nyoï Bo",
+      "last_updated": "1775477822",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwmzwyx"
+      },
+      "volume": "14"
+    },
+    "346": {
+      "title": "Le retour de Trunks",
+      "last_updated": "1775477823",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rbl37q"
+      },
+      "volume": "29"
+    },
+    "358": {
+      "title": "Mauvais présage",
+      "last_updated": "1775477823",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwe527n"
+      },
+      "volume": "30"
+    },
+    "353": {
+      "title": "Végéta tient ses promesses",
+      "last_updated": "1775477825",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwamz4n"
+      },
+      "volume": "29"
+    },
+    "341": {
+      "title": "Qu'arrive-t-il à Son Gokû ?",
+      "last_updated": "1775477826",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prebw64o"
+      },
+      "volume": "28"
+    },
+    "364": {
+      "title": "Cell hilare",
+      "last_updated": "1775477826",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brdjony5"
+      },
+      "volume": "30"
+    },
+    "354": {
+      "title": "Les cyborgs ont l'avantage",
+      "last_updated": "1775477827",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwk3dyp"
+      },
+      "volume": "30"
+    },
+    "361": {
+      "title": "L'apparition de la créature mystère !!",
+      "last_updated": "1775477827",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llg8dp7x"
+      },
+      "volume": "30"
+    }
+  }
+}
