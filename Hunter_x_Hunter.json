@@ -1,0 +1,361 @@
+{
+  "title": "Hunter x Hunter",
+  "description": "Hunter × Hunter ( ハンター×ハンター, Hantā × Hantā? , litt. « Chasseur × Chasseur », souvent abrégé HxH ) est un manga écrit et dessiné par Yoshihiro Togashi. Il est prépublié depuis mars 1998 dans l' hebdomadaire Weekly Shōnen Jump de l'éditeur Shūeisha, et est compilé en trente-huit tomes. La version française est publiée aux éditions Kana.",
+  "artist": "Yoshihiro Togashi",
+  "author": "Yoshihiro Togashi",
+  "cover": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Logo_Hunter_x_Hunter.svg/langfr-250px-Logo_Hunter_x_Hunter.svg.png",
+  "chapters": {
+    "001": {
+      "title": "Le jour du départ",
+      "last_updated": "1775585186",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8xagx7x"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Dans la tempête",
+      "last_updated": "1775585159",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zl8xj57j"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "L'ultime choix",
+      "last_updated": "1775585147",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvg95eby8"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Le raton-renard monstrueux",
+      "last_updated": "1775585152",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd36kaa7k"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "1er tour : début des épreuves (1)",
+      "last_updated": "1775585141",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx586gp7q"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "1er tour : début des épreuves (2)",
+      "last_updated": "1775585150",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2vjw378"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "À chacun ses raisons",
+      "last_updated": "1775585149",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjldk97d"
+      },
+      "volume": "01"
+    },
+    "008": {
+      "title": "Un adversaire de plus",
+      "last_updated": "1775585150",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7325ewg4r"
+      },
+      "volume": "01"
+    },
+    "009": {
+      "title": "Bataille dans le brouillard",
+      "last_updated": "1775585095",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd36kpa7k"
+      },
+      "volume": "02"
+    },
+    "010": {
+      "title": "Une épreuve inattendue",
+      "last_updated": "1775585148",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prd3z34o"
+      },
+      "volume": "02"
+    },
+    "011": {
+      "title": "Un résultat évident",
+      "last_updated": "1775585151",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2x8k3z4l"
+      },
+      "volume": "02"
+    },
+    "012": {
+      "title": "La visite du président",
+      "last_updated": "1775585148",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5glv378"
+      },
+      "volume": "02"
+    },
+    "013": {
+      "title": "Un jeu en pleine nuit (1)",
+      "last_updated": "1775585134",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8xarx7x"
+      },
+      "volume": "02"
+    },
+    "014": {
+      "title": "Un jeu en pleine nuit (2)",
+      "last_updated": "1775585142",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24ad85kd4l"
+      },
+      "volume": "02"
+    },
+    "015": {
+      "title": "Chemin des décisions par la majorité",
+      "last_updated": "1775585139",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewgxpmyd"
+      },
+      "volume": "02"
+    },
+    "016": {
+      "title": "Les jurés",
+      "last_updated": "1775585140",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r5al24b"
+      },
+      "volume": "02"
+    },
+    "017": {
+      "title": "Deux choix identiques",
+      "last_updated": "1775585144",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846q58gzyx"
+      },
+      "volume": "02"
+    },
+    "018": {
+      "title": "Deux atouts",
+      "last_updated": "1775585153",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brkaxmy5"
+      },
+      "volume": "03"
+    },
+    "019": {
+      "title": "Le piège des choix à la majorité",
+      "last_updated": "1775585146",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gz5nrq7j"
+      },
+      "volume": "03"
+    },
+    "020": {
+      "title": "Gamble time",
+      "last_updated": "1775585144",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45j5gdny5"
+      },
+      "volume": "03"
+    },
+    "021": {
+      "title": "Jeu décisif",
+      "last_updated": "1775585143",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zl8xk57j"
+      },
+      "volume": "03"
+    },
+    "022": {
+      "title": "Le dernier problème",
+      "last_updated": "1775585146",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mp6jb7n"
+      },
+      "volume": "03"
+    },
+    "023": {
+      "title": "Deux ennemis",
+      "last_updated": "1775585148",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqjrlb4n"
+      },
+      "volume": "03"
+    },
+    "024": {
+      "title": "Entraînement spécial",
+      "last_updated": "1775585153",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odqmj2yp"
+      },
+      "volume": "03"
+    },
+    "025": {
+      "title": "Le deuxième jour",
+      "last_updated": "1775585151",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ll2qrx7x"
+      },
+      "volume": "03"
+    },
+    "026": {
+      "title": "La veille du combat final",
+      "last_updated": "1775585152",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewgx6myd"
+      },
+      "volume": "03"
+    },
+    "027": {
+      "title": "Une situation explosive",
+      "last_updated": "1775585172",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mp6gb7n"
+      },
+      "volume": "04"
+    },
+    "028": {
+      "title": "Une dette de taille",
+      "last_updated": "1775585180",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prd3934o"
+      },
+      "volume": "04"
+    },
+    "029": {
+      "title": "Et Kirua…",
+      "last_updated": "1775585184",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3mexxyp"
+      },
+      "volume": "04"
+    },
+    "030": {
+      "title": "Le piège grouillant",
+      "last_updated": "1775585180",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ll2q3x7x"
+      },
+      "volume": "04"
+    },
+    "031": {
+      "title": "In extremis",
+      "last_updated": "1775585179",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5glq378"
+      },
+      "volume": "04"
+    },
+    "032": {
+      "title": "La dernière épreuve… ?",
+      "last_updated": "1775585182",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmrw8d72"
+      },
+      "volume": "04"
+    },
+    "033": {
+      "title": "Le dernier tour !",
+      "last_updated": "1775585185",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd36kja7k"
+      },
+      "volume": "04"
+    },
+    "034": {
+      "title": "Premier candidat certifié ! ?",
+      "last_updated": "1775585185",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8xaex7x"
+      },
+      "volume": "04"
+    },
+    "035": {
+      "title": "Ombre et lumière (1)",
+      "last_updated": "1775585185",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjld397d"
+      },
+      "volume": "04"
+    },
+    "036": {
+      "title": "Ombre et lumière (2)",
+      "last_updated": "1775585194",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mp6db7n"
+      },
+      "volume": "05"
+    },
+    "037": {
+      "title": "Ombre et lumière (3)",
+      "last_updated": "1775585191",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846q58lzyx"
+      },
+      "volume": "05"
+    },
+    "038": {
+      "title": "Jin Freecss",
+      "last_updated": "1775585196",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqjr3b4n"
+      },
+      "volume": "05"
+    },
+    "039": {
+      "title": "Les intrus",
+      "last_updated": "1775585192",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx586mp7q"
+      },
+      "volume": "05"
+    },
+    "040": {
+      "title": "La famille Zoldik (1)",
+      "last_updated": "1775585190",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brka2my5"
+      },
+      "volume": "05"
+    },
+    "041": {
+      "title": "La famille Zoldik (2)",
+      "last_updated": "1775585192",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2x8kdz4l"
+      },
+      "volume": "05"
+    },
+    "042": {
+      "title": "La famille Zoldik (3)",
+      "last_updated": "1775585193",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odqme2yp"
+      },
+      "volume": "05"
+    },
+    "043": {
+      "title": "La famille Zoldik (4)",
+      "last_updated": "1775585192",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2x8kd34l"
+      },
+      "volume": "05"
+    },
+    "044": {
+      "title": "Le tournoi céleste",
+      "last_updated": "1775585191",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5gl9378"
+      },
+      "volume": "05"
+    }
+  }
+}
