@@ -1,89 +1,89 @@
 {
   "title": "Kuroko's Basket - Extra Game",
-  "description": "",
+  "description": "Cette histoire est une courte sequel de l'oeuvre originale ; elle se déroule donc après la victoire de Seirin lors de la Winter Cup.\n\nUne équipe de streetball all-star américaine nommée Jabberwock est invitée au Japon pour affronter, à l'occasion d'un match amical, l'équipe universitaire japonaise Strky. Cependant, la confrontation prend une tout autre tournure lorsque les joueurs et même le public nippons sont ouvertement moqués par ces nouveaux arrivants. Ceux-ci ont infligé une cuisante défaite à leurs adversaires, qui s'en vont tête basse et la fierté meurtrie. Aida Kagetora, témoin de ce triste spectacle, exige des Jabberwock un match revanche qui se tiendra la semaine prochaine, contre une autre équipe japonaise entraînée par ses soins, appelée Vorpal Swords. Cette dernière est constituée de la fameuse Génération des Miracles, ainsi que de Kuroko et Kagami...",
   "artist": "",
   "author": "",
-  "cover": "",
+  "cover": "https://cdn.imgchest.com/files/2bb46f4289bc.jpg",
   "chapters": {
     "001": {
       "title": "1er Quart-temps : On va leur en mettre plein la vue !",
+      "volume": "001",
       "last_updated": "1775592115",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx58z367q"
-      },
-      "volume": "001"
+      }
     },
     "002": {
       "title": "2e Quart-temps : Faites vos prières !",
+      "volume": "001",
       "last_updated": "1775592122",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mpo387n"
-      },
-      "volume": "001"
+      }
     },
     "003": {
       "title": "3e Quart-temps : On va vous montrer",
+      "volume": "001",
       "last_updated": "1775592112",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad8zje4l"
-      },
-      "volume": "001"
+      }
     },
     "004": {
       "title": "4e Quart-temps : Il reste une dernière carte à jouer",
+      "volume": "001",
       "last_updated": "1775592117",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqj5854n"
-      },
-      "volume": "001"
+      }
     },
     "004.1": {
       "title": "Kuroko's Basket \"Après la Winter Cup\"",
+      "volume": "001",
       "last_updated": "1775592060",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewg9mzyd"
-      },
-      "volume": "001"
+      }
     },
     "005": {
       "title": "5e Quart-temps : C'est à nous de jouer !",
+      "volume": "002",
       "last_updated": "1775592120",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q5vd2yx"
-      },
-      "volume": "002"
+      }
     },
     "006": {
       "title": "6e Quart-temps : À coup de trois points",
+      "volume": "002",
       "last_updated": "1775592113",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brk8lgy5"
-      },
-      "volume": "002"
+      }
     },
     "007": {
       "title": "7e Quart-temps : Plutôt crever que de les laisser gagner !!",
+      "volume": "002",
       "last_updated": "1775592117",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45j5aqvy5"
-      },
-      "volume": "002"
+      }
     },
     "008": {
       "title": "Dernier Quart-temps : Ce match, on va le gagner !!",
+      "volume": "002",
       "last_updated": "1775592116",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvg9mrky8"
-      },
-      "volume": "002"
+      }
     },
     "009": {
       "title": "Kuroko's Basket \"Après la Winter Cup\"",
+      "volume": "002",
       "last_updated": "1775592058",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl8anl7j"
-      },
-      "volume": "002"
+      }
     }
   }
 }
