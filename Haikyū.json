@@ -1,0 +1,65 @@
+{
+  "title": "Haikyū!!",
+  "description": "Haikyū! ! ( ハイキュー! ! ? ) est un manga écrit et dessiné par Haruichi Furudate. Il est prépublié de février 2012 à juillet 2020 dans le magazine Weekly Shōnen Jump de l'éditeur Shūeisha, et est compilé en un total de quarante-cinq tomes. La version française est éditée en intégralité par Kazé entre janvier 2014 et juin 2022.",
+  "artist": "Haruichi Furudate",
+  "author": "Haruichi Furudate",
+  "cover": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Haiky%C5%AB%21%21_Logo.svg/langfr-500px-Haiky%C5%AB%21%21_Logo.svg.png",
+  "chapters": {
+    "001": {
+      "title": "La fin et le début",
+      "last_updated": "1775591179",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5grwx78"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Le club de volley du lycée Karasuno",
+      "last_updated": "1775591129",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2x8wl94l"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Naïveté",
+      "last_updated": "1775591137",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ll2emq7x"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Le meilleur allié",
+      "last_updated": "1775591122",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmrndn72"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "\"Le roi du Terrain\"",
+      "last_updated": "1775591110",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brk8xjy5"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "De l'histoire ancienne",
+      "last_updated": "1775591114",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqj5lm4n"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "Les mots de \"celui qui n'a rien\"",
+      "last_updated": "1775591126",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odq6jryp"
+      },
+      "volume": "01"
+    }
+  }
+}
