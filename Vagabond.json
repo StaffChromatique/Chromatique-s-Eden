@@ -1,89 +1,89 @@
 {
   "title": "Vagabond",
-  "description": "Vagabond ( バガボンド, Bagabondo? ) est un manga de Takehiko Inoue, prépublié dans le magazine Morning depuis 1998 et toujours en cours de parution au Japon. Plus de trente volumes ont vu le jour aux éditions Kōdansha, et ont tous été régulièrement traduits en français aux éditions Tonkam. L'histoire est basée sur le roman Musashi, de Eiji Yoshikawa [ 1 ].",
+  "description": "En 1600 a lieu la terrible bataille de Sekigahara, qui assied le pouvoir du shôgun Tokugawa. Parmi les combattants se trouve Musashi, le fils d'un grand samurai, qui est prêt à tout pour survivre.\n\nAlors qu'il revient dans son village natal, il est pourchassé pour avoir déserté, et se trouve rejeté par les habitants. Commence alors pour lui une longue errance, avec un unique objectif : améliorer sa maitrise de la lame, et devenir le meilleur samurai du Japon.",
   "artist": "Takehiko Inoue",
   "author": "Takehiko Inoue",
-  "cover": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_Vagabond.png/250px-Logo_Vagabond.png",
+  "cover": "https://cdn.imgchest.com/files/89fc3edeae2c.jpg",
   "chapters": {
     "001": {
       "title": "Takezo Shinmen",
+      "volume": "001",
       "last_updated": "1775581462",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmrlxx72"
-      },
-      "volume": "001"
+      }
     },
     "002": {
       "title": "Akemi",
+      "volume": "001",
       "last_updated": "1775581431",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg7325ngo4r"
-      },
-      "volume": "001"
+      }
     },
     "003": {
       "title": "Oko",
+      "volume": "001",
       "last_updated": "1775581425",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjlxwa7d"
-      },
-      "volume": "001"
+      }
     },
     "004": {
       "title": "La Bande des pillards",
+      "volume": "001",
       "last_updated": "1775581425",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gz5gjk7j"
-      },
-      "volume": "001"
+      }
     },
     "005": {
       "title": "Jeux sanglants",
+      "volume": "001",
       "last_updated": "1775581441",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8r5dvw4b"
-      },
-      "volume": "001"
+      }
     },
     "006": {
       "title": "Les Désarrois de Matahachi Honi'Den, 17 ans",
+      "volume": "001",
       "last_updated": "1775581445",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewge2zyd"
-      },
-      "volume": "001"
+      }
     },
     "007": {
       "title": "L'Adieu à Takezo",
+      "volume": "001",
       "last_updated": "1775581433",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl8zel7j"
-      },
-      "volume": "001"
+      }
     },
     "008": {
       "title": "Au village de Miyamoto",
+      "volume": "001",
       "last_updated": "1775581440",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w8x3dq7x"
-      },
-      "volume": "001"
+      }
     },
     "009": {
       "title": "La Fiancée",
+      "volume": "001",
       "last_updated": "1775581422",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd36wm67k"
-      },
-      "volume": "001"
+      }
     },
     "010": {
       "title": "Ceux qui restent",
+      "volume": "001",
       "last_updated": "1775581426",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3mj9lyp"
-      },
-      "volume": "001"
+      }
     }
   }
 }
