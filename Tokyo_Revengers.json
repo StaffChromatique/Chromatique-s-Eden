@@ -1,281 +1,281 @@
 {
-  "title": "Tokyo Revengers",
-  "description": "Tokyo Revengers ( 東京卍リベンジャーズ, Tōkyō Ribenjāzu? ) est un manga de type shōnen écrit et dessiné par Ken Wakui ( 和久井健? ). Il est prépublié dans le Weekly Shōnen Magazine de l'éditeur Kōdansha entre 2017 et 2022 et comporte un total de 31 tomes. La version française est publiée par les éditions Glénat depuis 2018.",
+  "title": "Tokyo Revengers - Edition couleur",
+  "description": "En regardant les informations, Takemichi Hanagaki apprend que sa petite amie, Hinata Tachibana, qui était à l'école avec lui, est décédée. La seule petite amie qu'il ait eu vient d'être tuée par un groupe infâme connu sous le nom de Tokyo Manjikai.\nAu plus fort de sa vie, il fait un bond dans le temps, de douze ans en arrière, au moment où il était dans la même école qu'Hinata...",
   "artist": "Ken Wakui",
   "author": "Yukinori Kawaguchi",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tokyo_Revengers_logo.svg/langfr-250px-Tokyo_Revengers_logo.svg.png",
+  "cover": "https://cdn.imgchest.com/files/ae9eb9d9fe82.jpg",
   "chapters": {
     "001": {
       "title": "Reborn",
+      "volume": "01",
       "last_updated": "1775767016",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzm5qj7j"
-      },
-      "volume": "01"
+      }
     },
     "002": {
       "title": "Resist",
+      "volume": "01",
       "last_updated": "1775767013",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7lla2wq7x"
-      },
-      "volume": "01"
+      }
     },
     "003": {
       "title": "Resolve",
+      "volume": "01",
       "last_updated": "1775766962",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmarkn72"
-      },
-      "volume": "01"
+      }
     },
     "004": {
       "title": "Relieve",
+      "volume": "01",
       "last_updated": "1775766952",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5egmx78"
-      },
-      "volume": "01"
+      }
     },
     "005": {
       "title": "Revolve",
+      "volume": "01",
       "last_updated": "1775766953",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl58pd7j"
-      },
-      "volume": "01"
+      }
     },
     "006": {
       "title": "Return",
+      "volume": "02",
       "last_updated": "1775766954",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq8nz4l"
-      },
-      "volume": "02"
+      }
     },
     "007": {
       "title": "Rejoin",
+      "volume": "02",
       "last_updated": "1775766951",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brlk6jy5"
-      },
-      "volume": "02"
+      }
     },
     "008": {
       "title": "Reseparate",
+      "volume": "02",
       "last_updated": "1775766930",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3amngyp"
-      },
-      "volume": "02"
+      }
     },
     "009": {
       "title": "Releap",
+      "volume": "02",
       "last_updated": "1775766942",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pradnp4o"
-      },
-      "volume": "02"
+      }
     },
     "010": {
       "title": "Reply",
+      "volume": "02",
       "last_updated": "1775766949",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2avkb78"
-      },
-      "volume": "02"
+      }
     },
     "011": {
       "title": "Reburn",
+      "volume": "02",
       "last_updated": "1775766909",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmaran72"
-      },
-      "volume": "02"
+      }
     },
     "012": {
       "title": "Remind",
+      "volume": "02",
       "last_updated": "1775766953",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq8o94l"
-      },
-      "volume": "02"
+      }
     },
     "012.1": {
       "title": "",
+      "volume": "02",
       "last_updated": "1775766941",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx598nq7q"
-      },
-      "volume": "02"
+      }
     },
     "013": {
       "title": "Regret",
+      "volume": "02",
       "last_updated": "1775766941",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad28624l"
-      },
-      "volume": "02"
+      }
     },
     "014": {
       "title": "Resort",
+      "volume": "02",
       "last_updated": "1775766950",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgx9njy8"
-      },
-      "volume": "02"
+      }
     },
     "015": {
       "title": "Revive",
+      "volume": "03",
       "last_updated": "1775766992",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q35ooyx"
-      },
-      "volume": "03"
+      }
     },
     "016": {
       "title": "Reignition",
+      "volume": "03",
       "last_updated": "1775766931",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89xng7x"
-      },
-      "volume": "03"
+      }
     },
     "017": {
       "title": "Redivide",
+      "volume": "03",
       "last_updated": "1775766936",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdglqyd"
-      },
-      "volume": "03"
+      }
     },
     "018": {
       "title": "Rechange",
+      "volume": "03",
       "last_updated": "1775766950",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvjzm4n"
-      },
-      "volume": "03"
+      }
     },
     "019": {
       "title": "Restart",
+      "volume": "03",
       "last_updated": "1775766934",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732d5oj4r"
-      },
-      "volume": "03"
+      }
     },
     "020": {
       "title": "Reinspire",
+      "volume": "03",
       "last_updated": "1775766939",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8re5654b"
-      },
-      "volume": "03"
+      }
     },
     "021": {
       "title": "Revolt",
+      "volume": "03",
       "last_updated": "1775766952",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7lla25x7x"
-      },
-      "volume": "03"
+      }
     },
     "022": {
       "title": "Reconflict",
+      "volume": "03",
       "last_updated": "1775766932",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjalen7d"
-      },
-      "volume": "03"
+      }
     },
     "023": {
       "title": "Reseek",
+      "volume": "03",
       "last_updated": "1775766940",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jm5oqy5"
-      },
-      "volume": "03"
+      }
     },
     "024": {
       "title": "Revoke",
+      "volume": "04",
       "last_updated": "1775766951",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m2pkm7n"
-      },
-      "volume": "04"
+      }
     },
     "025": {
       "title": "Rerise",
+      "volume": "04",
       "last_updated": "1775766960",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5egn378"
-      },
-      "volume": "04"
+      }
     },
     "026": {
       "title": "Realize",
+      "volume": "04",
       "last_updated": "1775766965",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3am5xyp"
-      },
-      "volume": "04"
+      }
     },
     "027": {
       "title": "Regain",
+      "volume": "04",
       "last_updated": "1775767002",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjalv97d"
-      },
-      "volume": "04"
+      }
     },
     "028": {
       "title": "Reel",
+      "volume": "04",
       "last_updated": "1775766990",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732d56g4r"
-      },
-      "volume": "04"
+      }
     },
     "029": {
       "title": "Respect",
+      "volume": "04",
       "last_updated": "1775766961",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89xqx7x"
-      },
-      "volume": "04"
+      }
     },
     "030": {
       "title": "Recept",
+      "volume": "04",
       "last_updated": "1775766991",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl58m57j"
-      },
-      "volume": "04"
+      }
     },
     "031": {
       "title": "Recognize",
+      "volume": "04",
       "last_updated": "1775766990",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8re5224b"
-      },
-      "volume": "04"
+      }
     },
     "032": {
       "title": "Rebuild",
+      "volume": "04",
       "last_updated": "1775766973",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jm56ny5"
-      },
-      "volume": "04"
+      }
     },
     "033": {
       "title": "Revenge",
+      "volume": "04",
       "last_updated": "1775767002",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad28nd4l"
-      },
-      "volume": "04"
+      }
     }
   }
 }
