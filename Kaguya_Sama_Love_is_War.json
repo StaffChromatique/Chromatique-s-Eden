@@ -5,484 +5,484 @@
   "author": "Akasaka Aka",
   "cover": "https://cdn.imgchest.com/files/5abd3cbd53ac.png",
   "chapters": {
-    "003": {
-      "title": "Kaguya ne sait pas grand chose",
+    "001": {
+      "title": "Je veux qu'il m'invite au cinéma",
       "volume": "01",
-      "last_updated": "1775481133",
+      "last_updated": "1775488367",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kpj578"
-      }
-    },
-    "012": {
-      "title": "Kaguya veut embrasser",
-      "volume": "02",
-      "last_updated": "1775481138",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qb4zle2b37j"
-      }
-    },
-    "005": {
-      "title": "Kaguya veut manger",
-      "volume": "01",
-      "last_updated": "1775481139",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxpee72"
-      }
-    },
-    "015": {
-      "title": "Kaguya veut bien faire",
-      "volume": "02",
-      "last_updated": "1775481140",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxpeo72"
-      }
-    },
-    "016": {
-      "title": "Kaguya veut adorer",
-      "volume": "02",
-      "last_updated": "1775481141",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mpqk78"
-      }
-    },
-    "008": {
-      "title": "Kaguya veut marcher",
-      "volume": "01",
-      "last_updated": "1775481143",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m9ow7k"
-      }
-    },
-    "010": {
-      "title": "Kaguya veut échanger",
-      "volume": "01",
-      "last_updated": "1775481145",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xa5mn4l"
-      }
-    },
-    "007": {
-      "title": "Kaguya veut qu'on devine",
-      "volume": "01",
-      "last_updated": "1775481146",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgpdp7x"
-      }
-    },
-    "024": {
-      "title": "Kaguya veut qu'on la remarque",
-      "volume": "03",
-      "last_updated": "1775481148",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgpd67x"
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwprb7d"
       }
     },
     "002": {
       "title": "Je veux jouer au pouilleux",
       "volume": "01",
-      "last_updated": "1775481150",
+      "last_updated": "1775488350",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kpj278"
       }
     },
-    "017": {
-      "title": "Le BDE veut bien faire",
-      "volume": "02",
-      "last_updated": "1775481151",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/n87w8dpbz7x"
-      }
-    },
-    "014": {
-      "title": "Miyuki Shirogane veut s'enfuir",
-      "volume": "02",
-      "last_updated": "1775481152",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xa5mj4l"
-      }
-    },
-    "006": {
-      "title": "Miyuki Shirogane veut se cacher",
+    "003": {
+      "title": "Kaguya ne sait pas grand chose",
       "volume": "01",
-      "last_updated": "1775481154",
+      "last_updated": "1775488333",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/pg732ga3z4r"
-      }
-    },
-    "022": {
-      "title": "Miyuki Shirogane veut montrer ce qu'il sait faire",
-      "volume": "03",
-      "last_updated": "1775481155",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39kzeyp"
-      }
-    },
-    "018": {
-      "title": "Kaguya veut recevoir",
-      "volume": "02",
-      "last_updated": "1775481156",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj93r7j"
-      }
-    },
-    "025": {
-      "title": "Miyuki Shirogane veut travailler",
-      "volume": "03",
-      "last_updated": "1775481157",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqpb9y8"
-      }
-    },
-    "021": {
-      "title": "Chika Fujiwara veut se faire manger",
-      "volume": "03",
-      "last_updated": "1775481158",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/md7odwp3ayp"
-      }
-    },
-    "009": {
-      "title": "Le BDE veut jouer un mauvais tour",
-      "volume": "01",
-      "last_updated": "1775481159",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpvr2y5"
-      }
-    },
-    "019": {
-      "title": "Miyuki Shirogane veut parler",
-      "volume": "02",
-      "last_updated": "1775481161",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9249mwne27n"
-      }
-    },
-    "013": {
-      "title": "Miyuki Shirogane ne l'a pas encore fait",
-      "volume": "02",
-      "last_updated": "1775481162",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd9jny5"
-      }
-    },
-    "023": {
-      "title": "Yû Ishigami veut survivre",
-      "volume": "03",
-      "last_updated": "1775481163",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rpb37q"
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kpj578"
       }
     },
     "004": {
       "title": "Miyuki Shirogane veut répondre",
       "volume": "01",
-      "last_updated": "1775481165",
+      "last_updated": "1775488365",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24adq9l34l"
       }
     },
-    "020": {
-      "title": "Kaguya veut qu'on lui tienne",
-      "volume": "02",
-      "last_updated": "1775481166",
+    "005": {
+      "title": "Kaguya veut manger",
+      "volume": "01",
+      "last_updated": "1775488339",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvnwo4b"
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxpee72"
       }
     },
-    "001": {
-      "title": "Je veux qu'il m'invite au cinéma",
+    "006": {
+      "title": "Miyuki Shirogane veut se cacher",
       "volume": "01",
-      "last_updated": "1775481167",
+      "last_updated": "1775488354",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwprb7d"
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732ga3z4r"
+      }
+    },
+    "007": {
+      "title": "Fujiwara veut s'évader",
+      "volume": "01",
+      "last_updated": "1775488346",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgpdp7x"
+      }
+    },
+    "008": {
+      "title": "Kaguya veut qu'on devine",
+      "volume": "01",
+      "last_updated": "1775488343",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m9ow7k"
+      }
+    },
+    "009": {
+      "title": "Kaguya veut marcher",
+      "volume": "01",
+      "last_updated": "1775488359",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpvr2y5"
+      }
+    },
+    "010": {
+      "title": "Le BDE veut jouer un mauvais tour",
+      "volume": "01",
+      "last_updated": "1775488345",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xa5mn4l"
       }
     },
     "011": {
-      "title": "Kaguya veut être dissuadée",
+      "title": "Kaguya veut échanger",
       "volume": "02",
-      "last_updated": "1775481167",
+      "last_updated": "1775488367",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyew2kr3yd"
       }
     },
-    "026": {
-      "title": "Kaguya veut supporter",
+    "012": {
+      "title": "Kaguya veut être dissuadée",
+      "volume": "02",
+      "last_updated": "1775488338",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zle2b37j"
+      }
+    },
+    "013": {
+      "title": "Kaguya veut embrasser",
+      "volume": "02",
+      "last_updated": "1775488362",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd9jny5"
+      }
+    },
+    "014": {
+      "title": "Miyuki Shirogane ne l'a pas encore fait",
+      "volume": "02",
+      "last_updated": "1775488352",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xa5mj4l"
+      }
+    },
+    "015": {
+      "title": "Miyuki Shirogane veut s'enfuir",
+      "volume": "02",
+      "last_updated": "1775488340",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxpeo72"
+      }
+    },
+    "016": {
+      "title": "Kaguya veut bien faire",
+      "volume": "02",
+      "last_updated": "1775488341",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mpqk78"
+      }
+    },
+    "017": {
+      "title": "Kaguya veut adorer",
+      "volume": "02",
+      "last_updated": "1775488351",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8dpbz7x"
+      }
+    },
+    "018": {
+      "title": "Le BDE veut bien faire",
+      "volume": "02",
+      "last_updated": "1775488356",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj93r7j"
+      }
+    },
+    "019": {
+      "title": "Kaguya veut recevoir",
+      "volume": "02",
+      "last_updated": "1775488361",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mwne27n"
+      }
+    },
+    "020": {
+      "title": "Miyuki Shirogane veut parler",
+      "volume": "02",
+      "last_updated": "1775488366",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rvnwo4b"
+      }
+    },
+    "021": {
+      "title": "Kaguya veut qu'on lui tienne",
       "volume": "03",
-      "last_updated": "1775481168",
+      "last_updated": "1775488358",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwp3ayp"
+      }
+    },
+    "022": {
+      "title": "Chika Fujiwara veut se faire manger",
+      "volume": "03",
+      "last_updated": "1775488355",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr39kzeyp"
+      }
+    },
+    "023": {
+      "title": "Miyuki Shirogane veut montrer ce qu'il sait faire",
+      "volume": "03",
+      "last_updated": "1775488363",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rpb37q"
+      }
+    },
+    "024": {
+      "title": "Yû Ishigami veut survivre",
+      "volume": "03",
+      "last_updated": "1775488348",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgpd67x"
+      }
+    },
+    "025": {
+      "title": "Kaguya veut qu'on la remarque",
+      "volume": "03",
+      "last_updated": "1775488357",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgqpb9y8"
+      }
+    },
+    "026": {
+      "title": "Miyuki Shirogane veut travailler",
+      "volume": "03",
+      "last_updated": "1775488368",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kpz278"
       }
     },
-    "028": {
-      "title": "Ai Hayasaka veut défendre",
-      "volume": "03",
-      "last_updated": "1775481168",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m9dw7k"
-      }
-    },
     "027": {
-      "title": "Kaguya veut qu'on la rejoigne",
+      "title": "Kaguya veut supporter",
       "volume": "03",
-      "last_updated": "1775481169",
+      "last_updated": "1775488369",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxpbo72"
       }
     },
-    "030": {
-      "title": "Chika Fujiwara veut tester",
+    "028": {
+      "title": "Kaguya veut qu'on la rejoigne",
       "volume": "03",
-      "last_updated": "1775481169",
+      "last_updated": "1775488368",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwp5b7d"
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m9dw7k"
       }
     },
     "029": {
-      "title": "Miyuki Shirogane ne peut pas perdre",
+      "title": "Ai Hayasaka veut défendre",
       "volume": "03",
-      "last_updated": "1775481170",
+      "last_updated": "1775488370",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr39kbeyp"
       }
     },
-    "032": {
-      "title": "Miyuki Shirogane veut chanter",
-      "volume": "04",
-      "last_updated": "1775481170",
+    "030": {
+      "title": "Miyuki Shirogane ne peut pas perdre",
+      "volume": "03",
+      "last_updated": "1775488369",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj99r7j"
-      }
-    },
-    "035": {
-      "title": "A propos de Kaguya Shinomiya (1ère partie)",
-      "volume": "04",
-      "last_updated": "1775481170",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2kk3yd"
-      }
-    },
-    "034": {
-      "title": "Chika Fujiwara veut rendre visite",
-      "volume": "04",
-      "last_updated": "1775481170",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/n87w8dppz7x"
-      }
-    },
-    "037": {
-      "title": "Kaguya veut pardonner",
-      "volume": "04",
-      "last_updated": "1775481171",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/o24adq9934l"
-      }
-    },
-    "036": {
-      "title": "Kaguya ne pardonne pas",
-      "volume": "04",
-      "last_updated": "1775481171",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpvv2y5"
-      }
-    },
-    "033": {
-      "title": "Kaguya veut raccompagner",
-      "volume": "04",
-      "last_updated": "1775481171",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qb4zle2237j"
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwp5b7d"
       }
     },
     "031": {
-      "title": "Kaguya veut qu'on la déteste",
+      "title": "Chika Fujiwara veut tester",
       "volume": "04",
-      "last_updated": "1775481173",
+      "last_updated": "1775488373",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732gaqz4r"
       }
     },
-    "040": {
-      "title": "Miyuki Shirogane veut la voir",
+    "032": {
+      "title": "Kaguya veut qu'on la déteste",
       "volume": "04",
-      "last_updated": "1775481186",
+      "last_updated": "1775488370",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd99ny5"
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzj99r7j"
+      }
+    },
+    "033": {
+      "title": "Miyuki Shirogane veut chanter",
+      "volume": "04",
+      "last_updated": "1775488371",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zle2237j"
+      }
+    },
+    "034": {
+      "title": "Kaguya veut raccompagner",
+      "volume": "04",
+      "last_updated": "1775488370",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8dppz7x"
+      }
+    },
+    "035": {
+      "title": "Chika Fujiwara veut rendre visite",
+      "volume": "04",
+      "last_updated": "1775488370",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyew2kk3yd"
+      }
+    },
+    "036": {
+      "title": "A propos de Kaguya Shinomiya (1ère partie)",
+      "volume": "04",
+      "last_updated": "1775488371",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jpvv2y5"
+      }
+    },
+    "037": {
+      "title": "Kaguya ne pardonne pas",
+      "volume": "04",
+      "last_updated": "1775488371",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adq9934l"
       }
     },
     "038": {
-      "title": "Kaguya veut se faire appeler",
+      "title": "Kaguya veut pardonner",
       "volume": "04",
-      "last_updated": "1775481191",
+      "last_updated": "1775488391",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3m99w7k"
       }
     },
     "039": {
-      "title": "Miyuki Shirogane veut sortir",
+      "title": "Kaguya veut se faire appeler",
       "volume": "04",
-      "last_updated": "1775481192",
+      "last_updated": "1775488392",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xa55j4l"
       }
     },
-    "042": {
-      "title": "Chika Fujiwara veut vraiment manger",
-      "volume": "05",
-      "last_updated": "1775481197",
+    "040": {
+      "title": "Miyuki Shirogane veut sortir",
+      "volume": "04",
+      "last_updated": "1775488386",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rpp37q"
-      }
-    },
-    "049": {
-      "title": "Kaguya veut célébrer",
-      "volume": "05",
-      "last_updated": "1775481200",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/md7odwppdyp"
-      }
-    },
-    "043": {
-      "title": "Je n'entends pas le feu d'artifice (1ère partie)",
-      "volume": "05",
-      "last_updated": "1775481200",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwooz4n"
-      }
-    },
-    "047": {
-      "title": "Le BDE n'y croit pas",
-      "volume": "05",
-      "last_updated": "1775481201",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/dl7prepp64o"
-      }
-    },
-    "046": {
-      "title": "Kaguya veut choisir",
-      "volume": "05",
-      "last_updated": "1775481204",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kpp278"
-      }
-    },
-    "044": {
-      "title": "Je n'entends pas le feu d'artifice (2ème partie)",
-      "volume": "05",
-      "last_updated": "1775481205",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxppo72"
-      }
-    },
-    "048": {
-      "title": "Miyuki Shirogane veut préparer",
-      "volume": "05",
-      "last_updated": "1775481206",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwppb7d"
-      }
-    },
-    "050": {
-      "title": "Nagisa Kashiwagi ne veut plus regarder",
-      "volume": "05",
-      "last_updated": "1775481208",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/pg732gaaz4r"
-      }
-    },
-    "045": {
-      "title": "Kaguya ne veut pas l'esquiver",
-      "volume": "05",
-      "last_updated": "1775481209",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgppp7x"
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd99ny5"
       }
     },
     "041": {
-      "title": "Ai Hayasaka veut se baigner",
+      "title": "Miyuki Shirogane veut la voir",
       "volume": "05",
-      "last_updated": "1775481212",
+      "last_updated": "1775488412",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2mppq78"
       }
     },
-    "057": {
-      "title": "Kaguya veut se marier",
-      "volume": "06",
-      "last_updated": "1775481247",
+    "042": {
+      "title": "Ai Hayasaka veut se baigner",
+      "volume": "05",
+      "last_updated": "1775488397",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/a846qwnbwyx"
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5rpp37q"
       }
     },
-    "054": {
-      "title": "Chika Fujiwara veut vérifier",
-      "volume": "06",
-      "last_updated": "1775481250",
+    "043": {
+      "title": "Chika Fujiwara veut vraiment manger",
+      "volume": "05",
+      "last_updated": "1775488400",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwodz4n"
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwooz4n"
       }
     },
-    "059": {
-      "title": "Le 67e bureau des élèves",
-      "volume": "06",
-      "last_updated": "1775481250",
+    "044": {
+      "title": "Je n'entends pas le feu d'artifice (1ère partie)",
+      "volume": "05",
+      "last_updated": "1775488405",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/dl7prepm64o"
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmxppo72"
       }
     },
-    "052": {
-      "title": "Kaguya veut demander",
-      "volume": "06",
-      "last_updated": "1775481250",
+    "045": {
+      "title": "Je n'entends pas le feu d'artifice (2ème partie)",
+      "volume": "05",
+      "last_updated": "1775488409",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/md7odwprdyp"
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgppp7x"
       }
     },
-    "060": {
-      "title": "Kaguya ne veut pas appeler",
-      "volume": "06",
-      "last_updated": "1775481251",
+    "046": {
+      "title": "Kaguya ne veut pas l'esquiver",
+      "volume": "05",
+      "last_updated": "1775488404",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mplq78"
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kpp278"
       }
     },
-    "056": {
-      "title": "Miyuki Shirogane veut contempler",
-      "volume": "06",
-      "last_updated": "1775481251",
+    "047": {
+      "title": "Kaguya veut choisir",
+      "volume": "05",
+      "last_updated": "1775488401",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xa5vj4l"
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prepp64o"
       }
     },
-    "055": {
-      "title": "C'est ainsi que Yû Ishigami ferma les yeux (1ère partie)",
-      "volume": "06",
-      "last_updated": "1775481251",
+    "048": {
+      "title": "Le BDE n'y croit pas",
+      "volume": "05",
+      "last_updated": "1775488406",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgpjp7x"
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjwppb7d"
       }
     },
-    "058": {
-      "title": "Ai Hayasaka veut séduire",
-      "volume": "06",
-      "last_updated": "1775481252",
+    "049": {
+      "title": "Miyuki Shirogane veut préparer",
+      "volume": "05",
+      "last_updated": "1775488400",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd9zny5"
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwppdyp"
       }
     },
-    "053": {
-      "title": "Kaguya veut offrir",
-      "volume": "06",
-      "last_updated": "1775481252",
+    "050": {
+      "title": "Kaguya veut célébrer",
+      "volume": "05",
+      "last_updated": "1775488408",
       "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kp2278"
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732gaaz4r"
       }
     },
     "051": {
       "title": "Nagisa Kashiwagi ne veut plus regarder",
       "volume": "06",
-      "last_updated": "1775481257",
+      "last_updated": "1775488457",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mwnb27n"
+      }
+    },
+    "052": {
+      "title": "Kaguya veut demander",
+      "volume": "06",
+      "last_updated": "1775488450",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odwprdyp"
+      }
+    },
+    "053": {
+      "title": "Kaguya veut offrir",
+      "volume": "06",
+      "last_updated": "1775488452",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5kp2278"
+      }
+    },
+    "054": {
+      "title": "Chika Fujiwara veut vérifier",
+      "volume": "06",
+      "last_updated": "1775488450",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqwodz4n"
+      }
+    },
+    "055": {
+      "title": "C'est ainsi que Yû Ishigami ferma les yeux (1ère partie)",
+      "volume": "06",
+      "last_updated": "1775488451",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llgpjp7x"
+      }
+    },
+    "056": {
+      "title": "Miyuki Shirogane veut contempler",
+      "volume": "06",
+      "last_updated": "1775488451",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xa5vj4l"
+      }
+    },
+    "057": {
+      "title": "Kaguya veut se marier",
+      "volume": "06",
+      "last_updated": "1775488447",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qwnbwyx"
+      }
+    },
+    "058": {
+      "title": "Ai Hayasaka veut séduire",
+      "volume": "06",
+      "last_updated": "1775488452",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brd9zny5"
+      }
+    },
+    "059": {
+      "title": "Le 67e bureau des élèves",
+      "volume": "06",
+      "last_updated": "1775488450",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prepm64o"
+      }
+    },
+    "060": {
+      "title": "Kaguya ne veut pas appeler",
+      "volume": "06",
+      "last_updated": "1775488451",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2mplq78"
       }
     }
   }
