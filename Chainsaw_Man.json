@@ -1,785 +1,785 @@
 {
-  "title": "Chainsaw Man",
-  "description": "Chainsaw Man ( チェンソーマン, Chensō Man? , litt. « L'Homme-tronçonneuse » ) est un shōnen manga écrit et dessiné par Tatsuki Fujimoto. La première partie est prépubliée dans le magazine Weekly Shōnen Jump de l'éditeur Shūeisha entre décembre 2018 et décembre 2020, et la deuxième partie, entre juillet 2022 et mars 2026 est prépubliée dans le Shōnen Jump+ du même éditeur. La première partie est compilée en un total de onze volumes reliés. La version française a été éditée par Kazé puis est passée sous le label Crunchyroll.",
+  "title": "Chainsaw Man - Edition couleur",
+  "description": "Pour rembourser ses dettes, Denji, jeune homme dans la dèche la plus totale, est exploité en tant que Devil Hunter avec son chien-démon-tronçonneuse, \"Pochita\". Mais suite à une cruelle trahison, il voit enfin une possibilité de se tirer des bas-fonds où il croupit ! Devenu surpuissant après sa fusion avec Pochita, Denji est recruté par une organisation et part à la chasse aux démons...",
   "artist": "Tatsuki Fujimoto",
   "author": "Tatsuki Fujimoto",
-  "cover": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Chainsaw_Man.png/250px-Chainsaw_Man.png",
+  "cover": "https://cdn.imgchest.com/files/e77b60ff36f0.jpg",
   "chapters": {
     "001": {
       "title": "Chien et tronçonneuse",
+      "volume": "01",
       "last_updated": "1775851825",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjek3n7d"
-      },
-      "volume": "01"
+      }
     },
     "002": {
       "title": "Le destin de Pochita",
+      "volume": "01",
       "last_updated": "1775851766",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3n8vgyp"
-      },
-      "volume": "01"
+      }
     },
     "003": {
       "title": "Arrivée à Tokyo",
+      "volume": "01",
       "last_updated": "1775851750",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zlpjwd7j"
-      },
-      "volume": "01"
+      }
     },
     "004": {
       "title": "Power",
+      "volume": "01",
       "last_updated": "1775851753",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqzx3m4n"
-      },
-      "volume": "01"
+      }
     },
     "005": {
       "title": "Comment tâter des seins",
+      "volume": "01",
       "last_updated": "1775851744",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewl6qqyd"
-      },
-      "volume": "01"
+      }
     },
     "006": {
       "title": "Manipulation",
+      "volume": "01",
       "last_updated": "1775851745",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8r6oq54b"
-      },
-      "volume": "01"
+      }
     },
     "007": {
       "title": "Le destin de Nyaako",
+      "volume": "01",
       "last_updated": "1775851752",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mkgdm7n"
-      },
-      "volume": "01"
+      }
     },
     "008": {
       "title": "Tronçonneuse VS chauve-souris",
+      "volume": "02",
       "last_updated": "1775851759",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjek9n7d"
-      },
-      "volume": "02"
+      }
     },
     "009": {
       "title": "Sauvetage",
+      "volume": "02",
       "last_updated": "1775851752",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2kedb78"
-      },
-      "volume": "02"
+      }
     },
     "010": {
       "title": "Glap",
+      "volume": "02",
       "last_updated": "1775851748",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45joz2qy5"
-      },
-      "volume": "02"
+      }
     },
     "011": {
       "title": "Compromis",
+      "volume": "02",
       "last_updated": "1775851751",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx5n2mq7q"
-      },
-      "volume": "02"
+      }
     },
     "012": {
       "title": "Pelotage",
+      "volume": "02",
       "last_updated": "1775851751",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd32axl7k"
-      },
-      "volume": "02"
+      }
     },
     "013": {
       "title": "Le Démon-Flingue",
+      "volume": "02",
       "last_updated": "1775851737",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzqx2j7j"
-      },
-      "volume": "02"
+      }
     },
     "014": {
       "title": "Éro-kiss",
+      "volume": "02",
       "last_updated": "1775851753",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732owrj4r"
-      },
-      "volume": "02"
+      }
     },
     "015": {
       "title": "Un étage sans fin",
+      "volume": "02",
       "last_updated": "1775851754",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llwr3q7x"
-      },
-      "volume": "02"
+      }
     },
     "016": {
       "title": "Le goût de l'inédit",
+      "volume": "02",
       "last_updated": "1775851760",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w8nglg7x"
-      },
-      "volume": "02"
+      }
     },
     "017": {
       "title": "Tuer Denji !",
+      "volume": "03",
       "last_updated": "1775851747",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w8ngeg7x"
-      },
-      "volume": "03"
+      }
     },
     "018": {
       "title": "Chainsaw VS éternité",
+      "volume": "03",
       "last_updated": "1775851749",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5mvqx78"
-      },
-      "volume": "03"
+      }
     },
     "019": {
       "title": "Prix nobel",
+      "volume": "03",
       "last_updated": "1775851735",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad6va24l"
-      },
-      "volume": "03"
+      }
     },
     "020": {
       "title": "Beuverie",
+      "volume": "03",
       "last_updated": "1775851746",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xo3b94l"
-      },
-      "volume": "03"
+      }
     },
     "021": {
       "title": "Le goût d'un baiser",
+      "volume": "03",
       "last_updated": "1775851743",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgnwvjy8"
-      },
-      "volume": "03"
+      }
     },
     "022": {
       "title": "Chupa Chups, goût cola",
+      "volume": "03",
       "last_updated": "1775851746",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odbxeryp"
-      },
-      "volume": "03"
+      }
     },
     "023": {
       "title": "Coups de feu",
+      "volume": "03",
       "last_updated": "1775851742",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846qokloyx"
-      },
-      "volume": "03"
+      }
     },
     "024": {
       "title": "Malédiction",
+      "volume": "03",
       "last_updated": "1775851743",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prn9kp4o"
-      },
-      "volume": "03"
+      }
     },
     "025": {
       "title": "Ghost-Snake-Chainsaw",
+      "volume": "03",
       "last_updated": "1775851754",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkz8n72"
-      },
-      "volume": "03"
+      }
     },
     "026": {
       "title": "Puissant est le flingue",
+      "volume": "04",
       "last_updated": "1775851786",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgnw2jy8"
-      },
-      "volume": "04"
+      }
     },
     "027": {
       "title": "Depuis Kyoto",
+      "volume": "04",
       "last_updated": "1775851763",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx5n2jq7q"
-      },
-      "volume": "04"
+      }
     },
     "028": {
       "title": "Secrets et mensonges",
+      "volume": "04",
       "last_updated": "1775851788",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odbx9ryp"
-      },
-      "volume": "04"
+      }
     },
     "029": {
       "title": "20 sur 20",
+      "volume": "04",
       "last_updated": "1775851791",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prn9vp4o"
-      },
-      "volume": "04"
+      }
     },
     "030": {
       "title": "Amochés, lessivés",
+      "volume": "04",
       "last_updated": "1775851794",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2keob78"
-      },
-      "volume": "04"
+      }
     },
     "031": {
       "title": "Top futur",
+      "volume": "04",
       "last_updated": "1775851785",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7br6v5jy5"
-      },
-      "volume": "04"
+      }
     },
     "032": {
       "title": "Encore et encore",
+      "volume": "04",
       "last_updated": "1775851799",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llwr9q7x"
-      },
-      "volume": "04"
+      }
     },
     "033": {
       "title": "Début de l'opération",
+      "volume": "04",
       "last_updated": "1775851824",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5mv9x78"
-      },
-      "volume": "04"
+      }
     },
     "034": {
       "title": "Rassemblement général",
+      "volume": "04",
       "last_updated": "1775854211",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2kdzq78"
-      },
-      "volume": "04"
+      }
     },
     "035": {
       "title": "Mineur",
+      "volume": "05",
       "last_updated": "1775851834",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llwrgx7x"
-      },
-      "volume": "05"
+      }
     },
     "036": {
       "title": "Katana VS Chainsaw",
+      "volume": "05",
       "last_updated": "1775851823",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd32ama7k"
-      },
-      "volume": "05"
+      }
     },
     "037": {
       "title": "Train-Tête-Chainsaw",
+      "volume": "05",
       "last_updated": "1775854208",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llw3xp7x"
-      },
-      "volume": "05"
+      }
     },
     "038": {
       "title": "Vengeance facile !",
+      "volume": "05",
       "last_updated": "1775851850",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8r6ov24b"
-      },
-      "volume": "05"
+      }
     },
     "039": {
       "title": "Larmes assurées",
+      "volume": "05",
       "last_updated": "1775851832",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zlpje57j"
-      },
-      "volume": "05"
+      }
     },
     "040": {
       "title": "Amour-Fleur-Chainsaw",
+      "volume": "05",
       "last_updated": "1775854209",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prnkj64o"
-      },
-      "volume": "05"
+      }
     },
     "041": {
       "title": "Avant la tempête",
+      "volume": "05",
       "last_updated": "1775854210",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xobpj4l"
-      },
-      "volume": "05"
+      }
     },
     "042": {
       "title": "Apprendre à nager",
+      "volume": "05",
       "last_updated": "1775851828",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5mvk378"
-      },
-      "volume": "05"
+      }
     },
     "043": {
       "title": "Jane s'est endormie dans l'église",
+      "volume": "05",
       "last_updated": "1775851862",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad6vqd4l"
-      },
-      "volume": "05"
+      }
     },
     "044": {
       "title": "Bam Bam Bam",
+      "volume": "06",
       "last_updated": "1775851831",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3n89xyp"
-      },
-      "volume": "06"
+      }
     },
     "045": {
       "title": "Belle journée pour sauter",
+      "volume": "06",
       "last_updated": "1775851823",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjekw97d"
-      },
-      "volume": "06"
+      }
     },
     "046": {
       "title": "La mélodie du massacre",
+      "volume": "06",
       "last_updated": "1775851830",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzqxjq7j"
-      },
-      "volume": "06"
+      }
     },
     "047": {
       "title": "Pas de bol avec les filles",
+      "volume": "06",
       "last_updated": "1775854206",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgnvd9y8"
-      },
-      "volume": "06"
+      }
     },
     "048": {
       "title": "Boum Boum Boum",
+      "volume": "06",
       "last_updated": "1775851829",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846qokwzyx"
-      },
-      "volume": "06"
+      }
     },
     "049": {
       "title": "Shark hurricane",
+      "volume": "06",
       "last_updated": "1775851833",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgnwqby8"
-      },
-      "volume": "06"
+      }
     },
     "050": {
       "title": "Sharknado",
+      "volume": "06",
       "last_updated": "1775851826",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx5n2rp7q"
-      },
-      "volume": "06"
+      }
     },
     "051": {
       "title": "Dark diving",
+      "volume": "06",
       "last_updated": "1775851831",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mkgwb7n"
-      },
-      "volume": "06"
+      }
     },
     "052": {
       "title": "Amour déçu-Fleurs-Chainsaw",
+      "volume": "06",
       "last_updated": "1775851836",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7br6vdmy5"
-      },
-      "volume": "06"
+      }
     },
     "053": {
       "title": "En rêve",
+      "volume": "07",
       "last_updated": "1775851842",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqzxwb4n"
-      },
-      "volume": "07"
+      }
     },
     "054": {
       "title": "Pour aller à Enoshima",
+      "volume": "07",
       "last_updated": "1775851836",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odbxw2yp"
-      },
-      "volume": "07"
+      }
     },
     "055": {
       "title": "Let's go",
+      "volume": "07",
       "last_updated": "1775851838",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prn9e34o"
-      },
-      "volume": "07"
+      }
     },
     "056": {
       "title": "Malédiction et première fois",
+      "volume": "07",
       "last_updated": "1775851838",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xo38z4l"
-      },
-      "volume": "07"
+      }
     },
     "057": {
       "title": "Quand soudain",
+      "volume": "07",
       "last_updated": "1775851837",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2kem378"
-      },
-      "volume": "07"
+      }
     },
     "058": {
       "title": "Yûtarô kurose",
+      "volume": "07",
       "last_updated": "1775851835",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5mvg378"
-      },
-      "volume": "07"
+      }
     },
     "059": {
       "title": "Tohu-bohu",
+      "volume": "07",
       "last_updated": "1775854212",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5mqd278"
-      },
-      "volume": "07"
+      }
     },
     "060": {
       "title": "Quanxi et ses hominidémones massacrent 49 personnes",
+      "volume": "07",
       "last_updated": "1775854209",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7br62wny5"
-      },
-      "volume": "07"
+      }
     },
     "061": {
       "title": "La fille des infos",
+      "volume": "07",
       "last_updated": "1775851862",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd32a6a7k"
-      },
-      "volume": "07"
+      }
     },
     "062": {
       "title": "Méga tohu-bohu",
+      "volume": "08",
       "last_updated": "1775854211",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mkdz27n"
-      },
-      "volume": "08"
+      }
     },
     "063": {
       "title": "Voyage en enfer",
+      "volume": "08",
       "last_updated": "1775851848",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zlpj857j"
-      },
-      "volume": "08"
+      }
     },
     "064": {
       "title": "Welcome to hell",
+      "volume": "08",
       "last_updated": "1775851848",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzqx5q7j"
-      },
-      "volume": "08"
+      }
     },
     "065": {
       "title": "Le démon-ténèbres",
+      "volume": "08",
       "last_updated": "1775851852",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45joz5ny5"
-      },
-      "volume": "08"
+      }
     },
     "066": {
       "title": "Ouaf !",
+      "volume": "08",
       "last_updated": "1775851859",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad6v8d4l"
-      },
-      "volume": "08"
+      }
     },
     "067": {
       "title": "Le premier devil hunter",
+      "volume": "08",
       "last_updated": "1775854208",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqz3ez4n"
-      },
-      "volume": "08"
+      }
     },
     "068": {
       "title": "Dark Power",
+      "volume": "08",
       "last_updated": "1775851868",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgnw9by8"
-      },
-      "volume": "08"
+      }
     },
     "069": {
       "title": "Shinning Power",
+      "volume": "08",
       "last_updated": "1775854206",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odbegdyp"
-      },
-      "volume": "08"
+      }
     },
     "070": {
       "title": "Cueillette",
+      "volume": "08",
       "last_updated": "1775851892",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7br6vkmy5"
-      },
-      "volume": "08"
+      }
     },
     "071": {
       "title": "Bain",
+      "volume": "09",
       "last_updated": "1775851904",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xo32z4l"
-      },
-      "volume": "09"
+      }
     },
     "072": {
       "title": "Tous ensemble",
+      "volume": "09",
       "last_updated": "1775851900",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zlpjn57j"
-      },
-      "volume": "09"
+      }
     },
     "073": {
       "title": "Au bout du quotidien",
+      "volume": "09",
       "last_updated": "1775851884",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mkgpb7n"
-      },
-      "volume": "09"
+      }
     },
     "074": {
       "title": "Ce que disent les vagues",
+      "volume": "09",
       "last_updated": "1775851889",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odbxq2yp"
-      },
-      "volume": "09"
+      }
     },
     "075": {
       "title": "9.12",
+      "volume": "09",
       "last_updated": "1775851886",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prn9d34o"
-      },
-      "volume": "09"
+      }
     },
     "076": {
       "title": "N'ouvre pas",
+      "volume": "09",
       "last_updated": "1775851893",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5mv8378"
-      },
-      "volume": "09"
+      }
     },
     "077": {
       "title": "Ding Dong Ding",
+      "volume": "09",
       "last_updated": "1775851894",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w8ngmx7x"
-      },
-      "volume": "09"
+      }
     },
     "078": {
       "title": "Bataille de boules de neige",
+      "volume": "09",
       "last_updated": "1775851888",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llwrox7x"
-      },
-      "volume": "09"
+      }
     },
     "079": {
       "title": "Baseball",
+      "volume": "09",
       "last_updated": "1775851896",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd32ara7k"
-      },
-      "volume": "09"
+      }
     },
     "080": {
       "title": "Moi vouloir être chien",
+      "volume": "10",
       "last_updated": "1775854210",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx5nmk37q"
-      },
-      "volume": "10"
+      }
     },
     "081": {
       "title": "La papatte",
+      "volume": "10",
       "last_updated": "1775851891",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkz2d72"
-      },
-      "volume": "10"
+      }
     },
     "082": {
       "title": "Bien manger le matin",
+      "volume": "10",
       "last_updated": "1775851892",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2kev378"
-      },
-      "volume": "10"
+      }
     },
     "083": {
       "title": "Mort-Résurrection-Chainsaw",
+      "volume": "10",
       "last_updated": "1775851893",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewl6mmyd"
-      },
-      "volume": "10"
+      }
     },
     "084": {
       "title": "Le héros de l'enfer",
+      "volume": "10",
       "last_updated": "1775851894",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8r6om24b"
-      },
-      "volume": "10"
+      }
     },
     "085": {
       "title": "Tripes et tripes et colégram",
+      "volume": "10",
       "last_updated": "1775851905",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad6vjd4l"
-      },
-      "volume": "10"
+      }
     },
     "086": {
       "title": "Chainsaw rendez-vous",
+      "volume": "10",
       "last_updated": "1775851898",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jozqny5"
-      },
-      "volume": "10"
+      }
     },
     "087": {
       "title": "Chainsaw Man vs les terrifiantes armes humaines",
+      "volume": "10",
       "last_updated": "1775851898",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzqxwq7j"
-      },
-      "volume": "10"
+      }
     },
     "088": {
       "title": "Star Chainsaw",
+      "volume": "10",
       "last_updated": "1775851902",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx5n23p7q"
-      },
-      "volume": "10"
+      }
     },
     "089": {
       "title": "Courage, Chainsaw Man!",
+      "volume": "11",
       "last_updated": "1775851904",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgnwrby8"
-      },
-      "volume": "11"
+      }
     },
     "090": {
       "title": "Super-Power",
+      "volume": "11",
       "last_updated": "1775854178",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mkg3b7n"
-      },
-      "volume": "11"
+      }
     },
     "091": {
       "title": "Power-Power-Power",
+      "volume": "11",
       "last_updated": "1775851907",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqzx8b4n"
-      },
-      "volume": "11"
+      }
     },
     "092": {
       "title": "Zombie - Sang - Tronçonneuse",
+      "volume": "11",
       "last_updated": "1775851901",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prn9834o"
-      },
-      "volume": "11"
+      }
     },
     "093": {
       "title": "Toi et les films pourris",
+      "volume": "11",
       "last_updated": "1775851905",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xo3qz4l"
-      },
-      "volume": "11"
+      }
     },
     "094": {
       "title": "Chainsaw Man vs armes humaines",
+      "volume": "11",
       "last_updated": "1775851903",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odbx82yp"
-      },
-      "volume": "11"
+      }
     },
     "095": {
       "title": "Chainsaw Man vs Démon-Domination",
+      "volume": "11",
       "last_updated": "1775851910",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llwrax7x"
-      },
-      "volume": "11"
+      }
     },
     "096": {
       "title": "Ce goût-là",
+      "volume": "11",
       "last_updated": "1775851910",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkzad72"
-      },
-      "volume": "11"
+      }
     },
     "097": {
       "title": "I-love-Chainsaw",
+      "volume": "11",
       "last_updated": "1775851916",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd32aqa7k"
-      },
-      "volume": "11"
+      }
     }
   }
 }
