@@ -1,12 +1,13 @@
 {
   "title": "Kimagure Orange Road",
-  "description": "Kimagure Orange Road ( きまぐれオレンジ☆ロード, Kimagure Orenji Rōdo? ), typographié Kimagure Orange☆Road, est un manga romantique écrit et dessiné par Izumi Matsumoto. Il a été prépublié dans le magazine Weekly Shōnen Jump entre 1984 et 1987, et a été compilé en un total de 18 volumes. La version française est publiée par J'ai lu sous le titre Les Tribulations de Orange Road puis réédité sous le nom original par Tonkam à partir de juin 2011.",
+  "description": "La famille de Kyôsuke Kasuga vient d'emménager dans un nouvel appartement, dans un nouveau quartier, dans une nouvelle ville. Une fois de plus... Eh oui, Kyôsuke, l'aîné, partage avec ses sœurs jumelles, Manami et Kurumi, des pouvoirs paranormaux : téléportation, télékinésie, parfois rêves prémonitoires, voyages dans le temps... C'est un héritage de leur mère : toute sa famille possède des pouvoirs plus ou moins étendus.\n\nIl fait la connaissance de Madoka Ayukawa, jeune fille à la réputation sulfureuse, puis d'Hikaru Hiyama, amie d'enfance de Madoka.",
   "artist": "Izumi Matsumoto",
   "author": "Kenji Terada",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/20px-Flag_of_Japan.svg.png",
+  "cover": "https://cdn.imgchest.com/files/f824290f0aa2.jpg",
   "chapters": {
     "001": {
       "title": "Un chapeau de paille rouge !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prnzl84o"
@@ -14,6 +15,7 @@
     },
     "002": {
       "title": "Tir au panier et coup de blues !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xolrn4l"
@@ -21,6 +23,7 @@
     },
     "003": {
       "title": "Secret de lèvres !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx5ngem7q"
@@ -28,6 +31,7 @@
     },
     "004": {
       "title": "Joues tristes !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzqrno7j"
@@ -35,6 +39,7 @@
     },
     "005": {
       "title": "Rhapsodie au bord du lac !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zlpkxg7j"
@@ -42,6 +47,7 @@
     },
     "006": {
       "title": "Distance amoureuse !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2kw9k78"
@@ -49,6 +55,7 @@
     },
     "007": {
       "title": "Rumeurs dangereuses !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7br6xeky5"
@@ -56,6 +63,7 @@
     },
     "008": {
       "title": "Travail secret !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jodwxy5"
@@ -63,6 +71,7 @@
     },
     "009": {
       "title": "Premier examen !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249mkj8v7n"
@@ -70,6 +79,7 @@
     },
     "010": {
       "title": "Shopping boogie !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewlpxxyd"
@@ -77,6 +87,7 @@
     },
     "011": {
       "title": "La bague du doute !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w8nra37x"
@@ -84,6 +95,7 @@
     },
     "012": {
       "title": "Alcool blues !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgne3wy8"
@@ -91,6 +103,7 @@
     },
     "013": {
       "title": "Sentiment trouble !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqzlpw4n"
@@ -98,6 +111,7 @@
     },
     "014": {
       "title": "Deux photos !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846qogegyx"
@@ -105,6 +119,7 @@
     },
     "015": {
       "title": "Jealousy Rain !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad6kwg4l"
@@ -112,6 +127,7 @@
     },
     "016": {
       "title": "Malheureux amour à sens unique !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8r6lgp4b"
@@ -119,6 +135,7 @@
     },
     "017": {
       "title": "Attention, Kurumi !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd32pkd7k"
@@ -126,6 +143,7 @@
     },
     "018": {
       "title": "Ticket Trouble !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mje2dq7d"
@@ -133,6 +151,7 @@
     },
     "019": {
       "title": "Panique à la plage !",
+      "volume": "",
       "last_updated": "1775854918",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3ndekyp"
