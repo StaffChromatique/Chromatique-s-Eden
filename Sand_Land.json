@@ -1,0 +1,121 @@
+{
+  "title": "Sand Land",
+  "description": "Sand Land ( サンドランド, Sando rando? ) est un manga d' Akira Toriyama, prépublié au Japon dans le Weekly Shōnen Jump #23 à #36/37 en 2000 et édité en français en 2002 par Glénat dans un volume unique. En octobre 2024, Glénat a ressorti le manga en Perfect Edition. L'action se déroule dans The World, l' univers d'Akira Toriyama. Il est entièrement dessiné par Akira Toriyama (y compris les décors et les tanks) contrairement aux autres séries où des assistants aidaient l'auteur pour une question de temps. On note tout particulièrement l'effort réalisé pour dessiner les tanks.",
+  "artist": "Akira Toriyama",
+  "author": "Akira Toriyama",
+  "cover": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Sand_Land_Logo.png/250px-Sand_Land_Logo.png",
+  "chapters": {
+    "001": {
+      "title": "Le départ",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlpj637j"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "La bande de malfrats",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732ojzz4r"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Le tank",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xolwj4l"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Le réservoir volant",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mje2gb7d"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "La vérité sur un sombre secret",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3ndpeyp"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "Le porte-bonheur de Lao",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odbj6dyp"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "Bataille de chars",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llwmep7x"
+      },
+      "volume": "01"
+    },
+    "008": {
+      "title": "Le général Shiba et le général Ares",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqzl5z4n"
+      },
+      "volume": "01"
+    },
+    "009": {
+      "title": "Ce que cachait la tempête de sable",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd32pvw7k"
+      },
+      "volume": "01"
+    },
+    "010": {
+      "title": "La fontaine mirage",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5mwr278"
+      },
+      "volume": "01"
+    },
+    "011": {
+      "title": "Le mystère de la source",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7br6x8ny5"
+      },
+      "volume": "01"
+    },
+    "012": {
+      "title": "Beelzébub le démon",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkdno72"
+      },
+      "volume": "01"
+    },
+    "013": {
+      "title": "Vers la bataille finale",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8ngzz7x"
+      },
+      "volume": "01"
+    },
+    "013.1": {
+      "title": "Le fleuve",
+      "last_updated": "1775854896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mje3kn7d"
+      },
+      "volume": "01"
+    }
+  }
+}
