@@ -1,5657 +1,5657 @@
 {
-  "title": "Naruto",
+  "title": "Naruto - Edition couleur",
   "description": "Naruto ( ナルト? ) est un shōnen manga écrit et dessiné par Masashi Kishimoto. Naruto est prépublié dans l'hebdomadaire Weekly Shōnen Jump de l'éditeur Shūeisha entre septembre 1999 et novembre 2014. La série a été compilée en 72 tomes. La version française du manga est publiée par Kana entre 2002 et novembre 2016.",
   "artist": "Masashi Kishimoto",
   "author": "Masashi Kishimoto",
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/langfr-250px-Naruto_logo.svg.png",
   "chapters": {
-    "001": {
-      "title": "Naruto Uzumaki !!",
-      "last_updated": "1775769896",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/dl7pra8984o"
-      },
-      "volume": "01"
-    },
-    "002": {
-      "title": "Konoha-Maru !!",
-      "last_updated": "1775769843",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmw2r7j"
-      },
-      "volume": "01"
-    },
-    "003": {
-      "title": "Sasuke Uchiwa !!",
-      "last_updated": "1775769847",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/lqyewdmq3yd"
-      },
-      "volume": "01"
-    },
-    "004": {
-      "title": "Kakashi Hatake !!",
-      "last_updated": "1775769835",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/md7oda8xayp"
-      },
-      "volume": "01"
-    },
-    "005": {
-      "title": "L'inattention est la pire ennemie !",
-      "last_updated": "1775769841",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/a846q3dlwyx"
-      },
-      "volume": "01"
-    },
-    "006": {
-      "title": "Non ! Pas Sasuke !",
-      "last_updated": "1775769836",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8v278"
-      },
-      "volume": "01"
-    },
-    "007": {
-      "title": "La Conclusion de Kakashi",
-      "last_updated": "1775769837",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/pg732dlwz4r"
-      },
-      "volume": "01"
-    },
-    "008": {
-      "title": "Recalés !!",
-      "last_updated": "1775769839",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/o24ad2ja34l"
-      },
-      "volume": "01"
-    },
-    "009": {
-      "title": "Un client embarrassant",
-      "last_updated": "1775769838",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq23n4l"
-      },
-      "volume": "01"
-    },
-    "010": {
-      "title": "Au suivant !",
-      "last_updated": "1775769833",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8v578"
-      },
-      "volume": "01"
-    },
-    "011": {
-      "title": "Débarquement !",
-      "last_updated": "1775769840",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/xny8remqo4b"
-      },
-      "volume": "01"
-    },
-    "012": {
-      "title": "C'est la fin !",
-      "last_updated": "1775769834",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/n87w89mez7x"
-      },
-      "volume": "01"
-    },
-    "013": {
-      "title": "Un vrai ninja !",
-      "last_updated": "1775769839",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq23j4l"
-      },
-      "volume": "01"
-    },
-    "014": {
-      "title": "La Botte secrète",
-      "last_updated": "1775769840",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/bp45jmq22y5"
-      },
-      "volume": "01"
-    },
-    "015": {
-      "title": "Le Sharingan est de retour !",
-      "last_updated": "1775769831",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/wl7llaorp7x"
-      },
-      "volume": "01"
-    },
-    "016": {
-      "title": "Qui es-tu ?",
-      "last_updated": "1775769832",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/wl7llaor67x"
-      },
-      "volume": "01"
-    },
-    "017": {
-      "title": "Les Préparatifs avant la bataille…",
-      "last_updated": "1775769831",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/na7k2a8ek78"
-      },
-      "volume": "01"
-    },
-    "017.1": {
-      "title": "BONUS : Les origines de Naruto !!",
-      "last_updated": "1775769887",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqma2ze72"
-      },
-      "volume": "01"
-    },
-    "018": {
-      "title": "Début de l'entraînement !",
-      "last_updated": "1775769868",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/m9yx593m37q"
-      },
-      "volume": "02"
-    },
-    "019": {
-      "title": "Le Symbole du courage !",
-      "last_updated": "1775769846",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3al8eyp"
-      },
-      "volume": "02"
-    },
-    "020": {
-      "title": "Le Héros du pays !",
-      "last_updated": "1775769849",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5nw37j"
-      },
-      "volume": "02"
-    },
-    "021": {
-      "title": "Rencontre dans la forêt…",
-      "last_updated": "1775769845",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qraw7k"
-      },
-      "volume": "02"
-    },
-    "022": {
-      "title": "Apparition d'un redoutable ennemi !!",
-      "last_updated": "1775769842",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqma2zo72"
-      },
-      "volume": "02"
-    },
-    "023": {
-      "title": "Deux attaques-surprises !!",
-      "last_updated": "1775769848",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ej7mja8kb7d"
-      },
-      "volume": "02"
-    },
-    "024": {
-      "title": "Vitesse !",
-      "last_updated": "1775769848",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/agyvgxrv9y8"
-      },
-      "volume": "02"
-    },
-    "025": {
-      "title": "Se battre pour ses rêves !!",
-      "last_updated": "1775769879",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/na7k2a8dq78"
-      },
-      "volume": "02"
-    },
-    "026": {
-      "title": "Le Sharingan inefficace !!",
-      "last_updated": "1775769875",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq2bj4l"
-      },
-      "volume": "02"
-    },
-    "027": {
-      "title": "Le Réveil de la bête.",
-      "last_updated": "1775769876",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/wl7llao3p7x"
-      },
-      "volume": "02"
-    },
-    "028": {
-      "title": "Kyûbi, le démon-renard à 9 queues…!",
-      "last_updated": "1775769877",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8q278"
-      },
-      "volume": "02"
-    },
-    "029": {
-      "title": "L'Être cher… !",
-      "last_updated": "1775769882",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qrjw7k"
-      },
-      "volume": "02"
-    },
-    "030": {
-      "title": "L'Avenir…!",
-      "last_updated": "1775769871",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqma28o72"
-      },
-      "volume": "02"
-    },
-    "031": {
-      "title": "À chacun son combat…!",
-      "last_updated": "1775769878",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/n87w89mlz7x"
-      },
-      "volume": "02"
-    },
-    "032": {
-      "title": "Une arme nommée « Shinobi »…",
-      "last_updated": "1775769884",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/pg732dlbz4r"
-      },
-      "volume": "02"
-    },
-    "033": {
-      "title": "Le Pont des héros ?",
-      "last_updated": "1775769878",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ej7mja83b7d"
-      },
-      "volume": "02"
-    },
-    "034": {
-      "title": "Des intrus ?!",
-      "last_updated": "1775769880",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5nd37j"
-      },
-      "volume": "02"
-    },
-    "035": {
-      "title": "Iruka vs Kakashi ?!",
-      "last_updated": "1775769883",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/lqyewdma3yd"
-      },
-      "volume": "02"
-    },
-    "036": {
-      "title": "La Détresse de Sakura…",
-      "last_updated": "1775769881",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/xny8rem3o4b"
-      },
-      "volume": "02"
-    },
-    "036.1": {
-      "title": "BONUS : Le village et son histoire",
-      "last_updated": "1775769880",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmwer7j"
-      },
-      "volume": "02"
-    },
-    "037": {
-      "title": "Sharingan vs Taijutsu… !",
-      "last_updated": "1775769903",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/bp45jmq32y5"
-      },
-      "volume": "03"
-    },
-    "038": {
-      "title": "Start… !",
-      "last_updated": "1775769887",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/a846q3dpwyx"
-      },
-      "volume": "03"
-    },
-    "039": {
-      "title": "Les Rivaux !",
-      "last_updated": "1775769883",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/agyvgxr29y8"
-      },
-      "volume": "03"
-    },
-    "040": {
-      "title": "La Première Épreuve !!",
-      "last_updated": "1775769891",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqv8nz4n"
-      },
-      "volume": "03"
-    },
-    "041": {
-      "title": "La Tentation du démon… !?",
-      "last_updated": "1775769892",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9249m23v27n"
-      },
-      "volume": "03"
-    },
-    "042": {
-      "title": "Chacun son combat… !",
-      "last_updated": "1775769886",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/m9yx593j37q"
-      },
-      "volume": "03"
-    },
-    "043": {
-      "title": "La Dixième Question…",
-      "last_updated": "1775769916",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qrxw7k"
-      },
-      "volume": "03"
-    },
-    "044": {
-      "title": "Mise à l'épreuve… !",
-      "last_updated": "1775769900",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/md7oda89dyp"
-      },
-      "volume": "03"
-    },
-    "045": {
-      "title": "La Seconde Épreuve !!",
-      "last_updated": "1775769905",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/na7k2a8oq78"
-      },
-      "volume": "03"
-    },
-    "046": {
-      "title": "Le Mot de passe… !!",
-      "last_updated": "1775769914",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3alveyp"
-      },
-      "volume": "03"
-    },
-    "047": {
-      "title": "Le Prédateur !!",
-      "last_updated": "1775769917",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ej7mja89b7d"
-      },
-      "volume": "03"
-    },
-    "048": {
-      "title": "La Cible !",
-      "last_updated": "1775769921",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/pg732dlrz4r"
-      },
-      "volume": "03"
-    },
-    "049": {
-      "title": "Le Poltron… !!",
-      "last_updated": "1775769924",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/n87w89mdz7x"
-      },
-      "volume": "03"
-    },
-    "050": {
-      "title": "À moi de jouer !!",
-      "last_updated": "1775769931",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/bp45jmqp2y5"
-      },
-      "volume": "03"
-    },
-    "051": {
-      "title": "Le Fauve resplendissant… !!",
-      "last_updated": "1775769927",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/xny8remvo4b"
-      },
-      "volume": "03"
-    },
-    "052": {
-      "title": "La Condition d'utilisation !!",
-      "last_updated": "1775769930",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/o24ad2jq34l"
-      },
-      "volume": "03"
-    },
-    "053": {
-      "title": "La Détermination de Sakura !!",
-      "last_updated": "1775769925",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5ne37j"
-      },
-      "volume": "03"
-    },
-    "054": {
-      "title": "Sakura et Ino",
-      "last_updated": "1775769919",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmwjr7j"
-      },
-      "volume": "03"
-    },
-    "054.1": {
-      "title": "BONUS : Les anecdotes de Konoha : CHEZ ICHIRAKU...",
-      "last_updated": "1775769902",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/lqyewdm23yd"
-      },
-      "volume": "03"
-    },
-    "055": {
-      "title": "Offensive générale !!",
-      "last_updated": "1775769951",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/agyvgxrq9y8"
-      },
-      "volume": "04"
-    },
-    "056": {
-      "title": "De nouveaux pouvoirs !!",
-      "last_updated": "1775769933",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9249m23w27n"
-      },
-      "volume": "04"
-    },
-    "057": {
-      "title": "Dix heures avant l'échéance !!",
-      "last_updated": "1775769931",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/m9yx593r37q"
-      },
-      "volume": "04"
-    },
-    "058": {
-      "title": "Les Témoins !!",
-      "last_updated": "1775769934",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ne7brlqdny5"
-      },
-      "volume": "04"
-    },
-    "059": {
-      "title": "Tempête de sable !!",
-      "last_updated": "1775769926",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqv8wz4n"
-      },
-      "volume": "04"
-    },
-    "060": {
-      "title": "La Dernière Chance !!",
-      "last_updated": "1775769946",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/md7oda8wdyp"
-      },
-      "volume": "04"
-    },
-    "061": {
-      "title": "La Voie à suivre !!",
-      "last_updated": "1775769936",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/dl7pra8e64o"
-      },
-      "volume": "04"
-    },
-    "062": {
-      "title": "Pris au piège !!",
-      "last_updated": "1775769935",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq2aj4l"
-      },
-      "volume": "04"
-    },
-    "063": {
-      "title": "Un nouveau visage !!",
-      "last_updated": "1775769942",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/wl7llaogp7x"
-      },
-      "volume": "04"
-    },
-    "064": {
-      "title": "Le Message du Hokage…",
-      "last_updated": "1775769944",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8k278"
-      },
-      "volume": "04"
-    },
-    "065": {
-      "title": "Au péril de sa vie… !!",
-      "last_updated": "1775769943",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqma2xo72"
-      },
-      "volume": "04"
-    },
-    "066": {
-      "title": "L'Imploration de Sakura",
-      "last_updated": "1775769948",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qrmw7k"
-      },
-      "volume": "04"
-    },
-    "067": {
-      "title": "Le Pouvoir occulte !!",
-      "last_updated": "1775769955",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/pg732dlgz4r"
-      },
-      "volume": "04"
-    },
-    "068": {
-      "title": "Le Sang des Uchiwa !!",
-      "last_updated": "1775769950",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3al9eyp"
-      },
-      "volume": "04"
-    },
-    "069": {
-      "title": "Un terrifiant visiteur !!",
-      "last_updated": "1775769964",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/n87w89mxz7x"
-      },
-      "volume": "04"
-    },
-    "070": {
-      "title": "Pour qui sonne le glas…?!",
-      "last_updated": "1775769963",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5n837j"
-      },
-      "volume": "04"
-    },
-    "071": {
-      "title": "Le Mur infranchissable… !!",
-      "last_updated": "1775769968",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/a846q3d5wyx"
-      },
-      "volume": "04"
-    },
-    "072": {
-      "title": "Les Rivales… !!",
-      "last_updated": "1775772762",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/wl7llaaaq7x"
-      },
-      "volume": "04"
-    },
-    "072.1": {
-      "title": "BONUS : Une photo de Kakashi...!!",
-      "last_updated": "1775772939",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ne7brll6jy5"
-      },
-      "volume": "04"
-    },
-    "073": {
-      "title": "Défaite par abandon…?!",
-      "last_updated": "1775769990",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/o24ad2j834l"
-      },
-      "volume": "05"
-    },
-    "074": {
-      "title": "La Sixième Rencontre… Suspense !!",
-      "last_updated": "1775769990",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8gx78"
-      },
-      "volume": "05"
-    },
-    "075": {
-      "title": "Naruto, toujours plus loin… !!",
-      "last_updated": "1775769987",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/wl7llao2p7x"
-      },
-      "volume": "05"
-    },
-    "076": {
-      "title": "Retournements de situation !!",
-      "last_updated": "1775769979",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/m9yx593837q"
-      },
-      "volume": "05"
-    },
-    "077": {
-      "title": "Naruto, fin tacticien !!",
-      "last_updated": "1775769969",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqv8jz4n"
-      },
-      "volume": "05"
-    },
-    "078": {
-      "title": "Neji et Hinata",
-      "last_updated": "1775769971",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/dl7pra8d64o"
-      },
-      "volume": "05"
-    },
-    "079": {
-      "title": "Le Sang des Hyûga",
-      "last_updated": "1775769985",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/md7oda8qdyp"
-      },
-      "volume": "05"
-    },
-    "080": {
-      "title": "Au-delà de ses limites… !!",
-      "last_updated": "1775769986",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/na7k2a8vq78"
-      },
-      "volume": "05"
-    },
-    "081": {
-      "title": "Gaara entre en lice…",
-      "last_updated": "1775769986",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq28j4l"
-      },
-      "volume": "05"
-    },
-    "082": {
-      "title": "Le Secret de Lee !!",
-      "last_updated": "1775769989",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8g278"
-      },
-      "volume": "05"
-    },
-    "083": {
-      "title": "Failles dans la muraille parfaite ?!",
-      "last_updated": "1775769980",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/ljyqma2ro72"
-      },
-      "volume": "05"
-    },
-    "084": {
-      "title": "Un génie de l'effort… !!",
-      "last_updated": "1775769984",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/wl7llao2q7x"
-      },
-      "volume": "05"
-    },
-    "085": {
-      "title": "Le moment est venu… !!",
-      "last_updated": "1775769988",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qrrl7k"
-      },
-      "volume": "05"
-    },
-    "086": {
-      "title": "Un ninja formidable… !!",
-      "last_updated": "1775770005",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/n87w89mmg7x"
-      },
-      "volume": "05"
-    },
-    "087": {
-      "title": "Conclusion de la phase éliminatoire… !!",
-      "last_updated": "1775770005",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/lqyewdmmqyd"
-      },
-      "volume": "05"
-    },
-    "088": {
-      "title": "Où est Sasuke… ?",
-      "last_updated": "1775769996",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3allgyp"
-      },
-      "volume": "05"
-    },
-    "089": {
-      "title": "La Requête de Naruto… !!",
-      "last_updated": "1775769996",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/pg732dllj4r"
-      },
-      "volume": "05"
-    },
-    "090": {
-      "title": "On fait comment pour l'entraînement ?!",
-      "last_updated": "1775772780",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/n87w899ng7x"
-      },
-      "volume": "05"
-    },
-    "090.1": {
-      "title": "BONUS : De Karakuri à Naruto !!",
-      "last_updated": "1775770028",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmwwj7j"
-      },
-      "volume": "05"
-    },
-    "091": {
-      "title": "Mon nouveau prof !!",
-      "last_updated": "1775775507",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/agyvgxnq9y8"
-      },
-      "volume": "06"
-    },
-    "092": {
-      "title": "Konoha, le son, le sable, et… !!",
-      "last_updated": "1775778022",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/pg732d6k34r"
-      },
-      "volume": "06"
-    },
-    "093": {
-      "title": "Chacun son rythme… !!",
-      "last_updated": "1775770015",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/bp45jmqqqy5"
-      },
-      "volume": "06"
-    },
-    "094": {
-      "title": "La Clé… !!",
-      "last_updated": "1775772775",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/lqyewddlqyd"
-      },
-      "volume": "06"
-    },
-    "095": {
-      "title": "Rencontre au portail… !!",
-      "last_updated": "1775770021",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/agyvgxrrjy8"
-      },
-      "volume": "06"
-    },
-    "096": {
-      "title": "Une visite inopinée !!",
-      "last_updated": "1775770032",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5933q7q"
-      },
-      "volume": "06"
-    },
-    "097": {
-      "title": "Pourquoi j'existe… !!",
-      "last_updated": "1775770025",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9249m233m7n"
-      },
-      "volume": "06"
-    },
-    "098": {
-      "title": "Un fier perdant !!",
-      "last_updated": "1775770017",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqv88m4n"
-      },
-      "volume": "06"
-    },
-    "099": {
-      "title": "L'Heure de l'épreuve… Enfin !",
-      "last_updated": "1775770042",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/na7k2a88b78"
-      },
-      "volume": "06"
-    },
     "100": {
       "title": "Jusqu'au bout de la vaillance… !!",
+      "volume": "06",
       "last_updated": "1775770047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llaooq7x"
-      },
-      "volume": "06"
+      }
     },
     "101": {
       "title": "Une autre, encore… !!",
+      "volume": "06",
       "last_updated": "1775770034",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e88x78"
-      },
-      "volume": "06"
+      }
     },
     "102": {
       "title": "L'Oiseau en cage… !!",
+      "volume": "06",
       "last_updated": "1775770054",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m232m7n"
-      },
-      "volume": "06"
+      }
     },
     "103": {
       "title": "Le Raté !!",
+      "volume": "06",
       "last_updated": "1775772881",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3aa5gyp"
-      },
-      "volume": "06"
+      }
     },
     "104": {
       "title": "La Force de changer… !!",
+      "volume": "06",
       "last_updated": "1775770044",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89m9g7x"
-      },
-      "volume": "06"
+      }
     },
     "105": {
       "title": "L'oiseau s'est envolé !!",
+      "volume": "06",
       "last_updated": "1775772843",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqqq94l"
-      },
-      "volume": "06"
+      }
     },
     "106": {
       "title": "L'Élimination de Sasuke… ?!",
+      "volume": "06",
       "last_updated": "1775774197",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brllbgy5"
-      },
-      "volume": "06"
+      }
     },
     "107": {
       "title": "Motivation : Zéro !!",
+      "volume": "06",
       "last_updated": "1775770045",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3alagyp"
-      },
-      "volume": "06"
+      }
     },
     "108": {
       "title": "Manœuvres pour la victoire… ?!",
+      "volume": "06",
       "last_updated": "1775770039",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732dldj4r"
-      },
-      "volume": "06"
-    },
-    "108.1": {
-      "title": "BONUS : Les personnages, tailles et caractères",
-      "last_updated": "1775770031",
-      "groups": {
-        "Chromatique": "/proxy/api/imgchest/chapter/a846q3d3oyx"
-      },
-      "volume": "06"
+      }
     },
     "109": {
       "title": "Danse, Konoha… !!",
+      "volume": "013",
       "last_updated": "1775771807",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8reme54b"
-      },
-      "volume": "013"
+      }
     },
     "110": {
       "title": "L'heure approche… !!",
+      "volume": "013",
       "last_updated": "1775770050",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmwmj7j"
-      },
-      "volume": "013"
+      }
     },
     "111": {
       "title": "Sasuke vs Gaara… !!",
+      "volume": "013",
       "last_updated": "1775770544",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5n5d7j"
-      },
-      "volume": "013"
+      }
     },
     "112": {
       "title": "Le Taijutsu de Sasuke… !!",
+      "volume": "013",
       "last_updated": "1775770052",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx5939q7q"
-      },
-      "volume": "013"
+      }
     },
     "113": {
       "title": "Retard justifié… !!",
+      "volume": "013",
       "last_updated": "1775770036",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdmdqyd"
-      },
-      "volume": "013"
+      }
     },
     "114": {
       "title": "L'Assaut… !!",
+      "volume": "013",
       "last_updated": "1775770064",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7oda8aryp"
-      },
-      "volume": "013"
+      }
     },
     "115": {
       "title": "La Fin de l'examen… !!",
+      "volume": "013",
       "last_updated": "1775770041",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmqmqy5"
-      },
-      "volume": "013"
+      }
     },
     "116": {
       "title": "La Chute de Konoha… !!",
+      "volume": "013",
       "last_updated": "1775770051",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2j224l"
-      },
-      "volume": "013"
+      }
     },
     "117": {
       "title": "Type A… !!",
+      "volume": "013",
       "last_updated": "1775770053",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqv8vm4n"
-      },
-      "volume": "013"
+      }
     },
     "118": {
       "title": "Retarder l'adversaire…!!",
+      "volume": "014",
       "last_updated": "1775770062",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pra8ap4o"
-      },
-      "volume": "014"
+      }
     },
     "119": {
       "title": "Ma vie à moi…!!",
+      "volume": "014",
       "last_updated": "1775770055",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2a8ab78"
-      },
-      "volume": "014"
+      }
     },
     "120": {
       "title": "Hokage contre Hokage !!",
+      "volume": "014",
       "last_updated": "1775770176",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx593dq7q"
-      },
-      "volume": "014"
+      }
     },
     "121": {
       "title": "Effroyables expériences…!!",
+      "volume": "014",
       "last_updated": "1775772747",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvvvm4n"
-      },
-      "volume": "014"
+      }
     },
     "122": {
       "title": "Pilier après pilier !!",
+      "volume": "014",
       "last_updated": "1775770146",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq2q94l"
-      },
-      "volume": "014"
+      }
     },
     "123": {
       "title": "Le Dernier Sceau",
+      "volume": "014",
       "last_updated": "1775774206",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llaab37x"
-      },
-      "volume": "014"
+      }
     },
     "124": {
       "title": "Un combat éternel…!!",
+      "volume": "014",
       "last_updated": "1775771829",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl55kg7j"
-      },
-      "volume": "014"
+      }
     },
     "125": {
       "title": "Le Réveil…!!",
+      "volume": "014",
       "last_updated": "1775774227",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx599o67q"
-      },
-      "volume": "014"
+      }
     },
     "126": {
       "title": "Négligence…!!",
+      "volume": "014",
       "last_updated": "1775770538",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8ex78"
-      },
-      "volume": "014"
+      }
     },
     "127": {
       "title": "\"Vivant\"…!!",
+      "volume": "015",
       "last_updated": "1775770249",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qr2l7k"
-      },
-      "volume": "015"
+      }
     },
     "128": {
       "title": "Dépasser ses limites…!!",
+      "volume": "015",
       "last_updated": "1775774184",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q33b2yx"
-      },
-      "volume": "015"
+      }
     },
     "129": {
       "title": "Douleur…!!",
+      "volume": "015",
       "last_updated": "1775770165",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732dloj4r"
-      },
-      "volume": "015"
+      }
     },
     "130": {
       "title": "L'Amour…!!",
+      "volume": "015",
       "last_updated": "1775770327",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brlqnjy5"
-      },
-      "volume": "015"
+      }
     },
     "131": {
       "title": "\"Gaara\"…!!",
+      "volume": "015",
       "last_updated": "1775778009",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx59dxk7q"
-      },
-      "volume": "015"
+      }
     },
     "132": {
       "title": "Ténèbres et Lumière",
+      "volume": "015",
       "last_updated": "1775770171",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89mng7x"
-      },
-      "volume": "015"
+      }
     },
     "133": {
       "title": "La Véritable Force…!!",
+      "volume": "015",
       "last_updated": "1775772754",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odaaaryp"
-      },
-      "volume": "015"
+      }
     },
     "134": {
       "title": "Le Répertoire ninpô de Naruto !!",
+      "volume": "015",
       "last_updated": "1775770149",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q3dooyx"
-      },
-      "volume": "015"
+      }
     },
     "135": {
       "title": "Un choc de titans !!",
+      "volume": "015",
       "last_updated": "1775770075",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8rem654b"
-      },
-      "volume": "015"
+      }
     },
     "136": {
       "title": "Le Coup de grâce…!!",
+      "volume": "016",
       "last_updated": "1775774230",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmm9vy5"
-      },
-      "volume": "016"
+      }
     },
     "137": {
       "title": "Les Shinobis de Konoha…!!",
+      "volume": "016",
       "last_updated": "1775770557",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2j624l"
-      },
-      "volume": "016"
+      }
     },
     "138": {
       "title": "La Bataille de Konoha, dernier acte…!!",
+      "volume": "016",
       "last_updated": "1775772760",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7praaap4o"
-      },
-      "volume": "016"
+      }
     },
     "139": {
       "title": "Son nom est…!!",
+      "volume": "016",
       "last_updated": "1775772841",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmmqj7j"
-      },
-      "volume": "016"
+      }
     },
     "140": {
       "title": "Ils approchent…!!",
+      "volume": "016",
       "last_updated": "1775771806",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmwpj7j"
-      },
-      "volume": "016"
+      }
     },
     "141": {
       "title": "Itachi Uchiwa !!",
+      "volume": "016",
       "last_updated": "1775770260",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732dl8g4r"
-      },
-      "volume": "016"
+      }
     },
     "142": {
       "title": "Kakashi versus Itachi !!",
+      "volume": "016",
       "last_updated": "1775770561",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx593lp7q"
-      },
-      "volume": "016"
+      }
     },
     "143": {
       "title": "L'Héritier",
+      "volume": "016",
       "last_updated": "1775778008",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q3ovvyx"
-      },
-      "volume": "016"
+      }
     },
     "144": {
       "title": "Les Poursuivants",
+      "volume": "016",
       "last_updated": "1775770174",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q3d6oyx"
-      },
-      "volume": "016"
+      }
     },
     "145": {
       "title": "Souvenirs de l'indicible",
+      "volume": "017",
       "last_updated": "1775770332",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3al6xyp"
-      },
-      "volume": "017"
+      }
     },
     "146": {
       "title": "Avec la haine…!!",
+      "volume": "017",
       "last_updated": "1775770537",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmq6qy5"
-      },
-      "volume": "017"
+      }
     },
     "147": {
       "title": "Mon combat !!",
+      "volume": "017",
       "last_updated": "1775778009",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxjzzy8"
-      },
-      "volume": "017"
+      }
     },
     "148": {
       "title": "La Puissance d'Itachi !!",
+      "volume": "017",
       "last_updated": "1775772755",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qq2l7k"
-      },
-      "volume": "017"
+      }
     },
     "149": {
       "title": "Légendaire…!!",
+      "volume": "017",
       "last_updated": "1775770545",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2jmd4l"
-      },
-      "volume": "017"
+      }
     },
     "150": {
       "title": "Reprise de l'entraînement…?!",
+      "volume": "017",
       "last_updated": "1775770665",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732dlqg4r"
-      },
-      "volume": "017"
+      }
     },
     "151": {
       "title": "Tournant décisif…!!",
+      "volume": "017",
       "last_updated": "1775770604",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmqrny5"
-      },
-      "volume": "017"
+      }
     },
     "152": {
       "title": "2e phase",
+      "volume": "017",
       "last_updated": "1775770556",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2jod4l"
-      },
-      "volume": "017"
+      }
     },
     "153": {
       "title": "Les Enquêteurs !!",
+      "volume": "017",
       "last_updated": "1775770256",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mja8697d"
-      },
-      "volume": "017"
+      }
     },
     "154": {
       "title": "Objectif atteint !!",
+      "volume": "018",
       "last_updated": "1775772847",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5eeex78"
-      },
-      "volume": "018"
+      }
     },
     "155": {
       "title": "La 3e Phase",
+      "volume": "018",
       "last_updated": "1775770349",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89m8x7x"
-      },
-      "volume": "018"
+      }
     },
     "156": {
       "title": "Le Marché !!",
+      "volume": "018",
       "last_updated": "1775770572",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qrda7k"
-      },
-      "volume": "018"
+      }
     },
     "157": {
       "title": "Réponse ?!",
+      "volume": "018",
       "last_updated": "1775772849",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvvzm4n"
-      },
-      "volume": "018"
+      }
     },
     "158": {
       "title": "Je ne pardonnerai pas !!",
+      "volume": "018",
       "last_updated": "1775770325",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmqnny5"
-      },
-      "volume": "018"
+      }
     },
     "159": {
       "title": "Le Pari…!!",
+      "volume": "018",
       "last_updated": "1775770568",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq2jz4l"
-      },
-      "volume": "018"
+      }
     },
     "160": {
       "title": "Le Pendentif de la mort… !!",
+      "volume": "018",
       "last_updated": "1775770604",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2jld4l"
-      },
-      "volume": "018"
+      }
     },
     "161": {
       "title": "La Décision de Tsunade !!",
+      "volume": "018",
       "last_updated": "1775773435",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2aakb78"
-      },
-      "volume": "018"
+      }
     },
     "162": {
       "title": "Cœur docile…!!",
+      "volume": "018",
       "last_updated": "1775771829",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8reeop4b"
-      },
-      "volume": "018"
+      }
     },
     "163": {
       "title": "Impérissable…!!!",
+      "volume": "019",
       "last_updated": "1775770567",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqv8mb4n"
-      },
-      "volume": "019"
+      }
     },
     "164": {
       "title": "Le Spécialiste !!",
+      "volume": "019",
       "last_updated": "1775770565",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7oda832yp"
-      },
-      "volume": "019"
+      }
     },
     "165": {
       "title": "Naruto passe à l'attaque !!",
+      "volume": "019",
       "last_updated": "1775770539",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmwzq7j"
-      },
-      "volume": "019"
+      }
     },
     "166": {
       "title": "Ce qui fait le talent d'un shinobi…!!",
+      "volume": "019",
       "last_updated": "1775770560",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q3dzzyx"
-      },
-      "volume": "019"
+      }
     },
     "167": {
       "title": "Comme promis…!!",
+      "volume": "019",
       "last_updated": "1775770560",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxraby8"
-      },
-      "volume": "019"
+      }
     },
     "168": {
       "title": "Une dernière fois",
+      "volume": "019",
       "last_updated": "1775770572",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3albxyp"
-      },
-      "volume": "019"
+      }
     },
     "169": {
       "title": "Jouer sa vie…!!",
+      "volume": "019",
       "last_updated": "1775770566",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2a8q378"
-      },
-      "volume": "019"
+      }
     },
     "170": {
       "title": "La Démesure de la légende !!",
+      "volume": "019",
       "last_updated": "1775770568",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8z378"
-      },
-      "volume": "019"
+      }
     },
     "171": {
       "title": "Le Successeur",
+      "volume": "019",
       "last_updated": "1775770564",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llao8x7x"
-      },
-      "volume": "019"
+      }
     },
     "172": {
       "title": "Retour au pays",
+      "volume": "020",
       "last_updated": "1775770578",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqma2bd72"
-      },
-      "volume": "020"
+      }
     },
     "173": {
       "title": "Ceux qui souffrent",
+      "volume": "020",
       "last_updated": "1775772758",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmaaan72"
-      },
-      "volume": "020"
+      }
     },
     "174": {
       "title": "Pensées diverses…!",
+      "volume": "020",
       "last_updated": "1775770651",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdmrmyd"
-      },
-      "volume": "020"
+      }
     },
     "175": {
       "title": "Naruto versus Sasuke !!",
+      "volume": "020",
       "last_updated": "1775770602",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5nb57j"
-      },
-      "volume": "020"
+      }
     },
     "176": {
       "title": "Rivalité",
+      "volume": "020",
       "last_updated": "1775770651",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8remw24b"
-      },
-      "volume": "020"
+      }
     },
     "177": {
       "title": "Le Quartet d'Oto",
+      "volume": "020",
       "last_updated": "1775770605",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q3dmzyx"
-      },
-      "volume": "020"
+      }
     },
     "178": {
       "title": "L'Invitation d'Oto…!!",
+      "volume": "020",
       "last_updated": "1775770605",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxrbby8"
-      },
-      "volume": "020"
+      }
     },
     "179": {
       "title": "N'oublie pas…!!",
+      "volume": "020",
       "last_updated": "1775770607",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx593bp7q"
-      },
-      "volume": "020"
+      }
     },
     "180": {
       "title": "Promis !!",
+      "volume": "020",
       "last_updated": "1775770594",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m23eb7n"
-      },
-      "volume": "020"
+      }
     },
     "181": {
       "title": "Un nouveau départ…!!",
+      "volume": "021",
       "last_updated": "1775770608",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqv8ab4n"
-      },
-      "volume": "021"
+      }
     },
     "182": {
       "title": "Rassemblement !!",
+      "volume": "021",
       "last_updated": "1775770600",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brlqjmy5"
-      },
-      "volume": "021"
+      }
     },
     "183": {
       "title": "Promesse",
+      "volume": "021",
       "last_updated": "1775770607",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llaopx7x"
-      },
-      "volume": "021"
+      }
     },
     "184": {
       "title": "Oto versus Konoha !!",
+      "volume": "021",
       "last_updated": "1775770606",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8p378"
-      },
-      "volume": "021"
+      }
     },
     "185": {
       "title": "À la poursuite d'Oto…!!",
+      "volume": "021",
       "last_updated": "1775770683",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brlqbgy5"
-      },
-      "volume": "021"
+      }
     },
     "186": {
       "title": "Désastre stratégique…!?",
+      "volume": "021",
       "last_updated": "1775770690",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7oda8olyp"
-      },
-      "volume": "021"
+      }
     },
     "187": {
       "title": "Implorer pitié !!",
+      "volume": "021",
       "last_updated": "1775770624",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732dlao4r"
-      },
-      "volume": "021"
+      }
     },
     "188": {
       "title": "Konoha-style !!",
+      "volume": "021",
       "last_updated": "1775770628",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89mpq7x"
-      },
-      "volume": "021"
+      }
     },
     "189": {
       "title": "La force en laquelle je crois…!!",
+      "volume": "021",
       "last_updated": "1775770632",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmw9k7j"
-      },
-      "volume": "021"
+      }
     },
     "190": {
       "title": "Sans pitié !!",
+      "volume": "021",
       "last_updated": "1775770624",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5n2l7j"
-      },
-      "volume": "021"
+      }
     },
     "191": {
       "title": "Amis…!!",
+      "volume": "022",
       "last_updated": "1775770636",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q3dn2yx"
-      },
-      "volume": "022"
+      }
     },
     "192": {
       "title": "Arrangements…!!",
+      "volume": "022",
       "last_updated": "1775770630",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmqvvy5"
-      },
-      "volume": "022"
+      }
     },
     "193": {
       "title": "Fini de jouer !!",
+      "volume": "022",
       "last_updated": "1775770629",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8remnw4b"
-      },
-      "volume": "022"
+      }
     },
     "194": {
       "title": "À distance !!",
+      "volume": "022",
       "last_updated": "1775770635",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx593p67q"
-      },
-      "volume": "022"
+      }
     },
     "195": {
       "title": "Trouver la faille !!",
+      "volume": "022",
       "last_updated": "1775770630",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2j9e4l"
-      },
-      "volume": "022"
+      }
     },
     "196": {
       "title": "Le Plus Puissant des ennemis !!",
+      "volume": "022",
       "last_updated": "1775770631",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m23n87n"
-      },
-      "volume": "022"
+      }
     },
     "197": {
       "title": "Prêt à mourir !!",
+      "volume": "022",
       "last_updated": "1775770633",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxrpky8"
-      },
-      "volume": "022"
+      }
     },
     "198": {
       "title": "Réincarnation…!!",
+      "volume": "022",
       "last_updated": "1775770645",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7oda8rlyp"
-      },
-      "volume": "022"
+      }
     },
     "199": {
       "title": "Désir…!!",
+      "volume": "022",
       "last_updated": "1775770647",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2a8lw78"
-      },
-      "volume": "022"
+      }
     },
     "200": {
       "title": "Prévision exacte…!!",
+      "volume": "023",
       "last_updated": "1775770667",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llaoj37x"
-      },
-      "volume": "023"
+      }
     },
     "201": {
       "title": "Prévision erronée…!!",
+      "volume": "023",
       "last_updated": "1775770665",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732dlxo4r"
-      },
-      "volume": "023"
+      }
     },
     "202": {
       "title": "Trois vœux !!",
+      "volume": "023",
       "last_updated": "1775770655",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq2v34l"
-      },
-      "volume": "023"
+      }
     },
     "203": {
       "title": "Le Secret de Sakon",
+      "volume": "023",
       "last_updated": "1775770657",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqma23x72"
-      },
-      "volume": "023"
+      }
     },
     "204": {
       "title": "Le Pouvoir d'Ukon",
+      "volume": "023",
       "last_updated": "1775770663",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5nvl7j"
-      },
-      "volume": "023"
+      }
     },
     "205": {
       "title": "La Résolution de Kiba !!",
+      "volume": "023",
       "last_updated": "1775770662",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmw6k7j"
-      },
-      "volume": "023"
+      }
     },
     "206": {
       "title": "Crise…!!",
+      "volume": "023",
       "last_updated": "1775770666",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mja8qa7d"
-      },
-      "volume": "023"
+      }
     },
     "207": {
       "title": "Sans tours ni fous",
+      "volume": "023",
       "last_updated": "1775770664",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89m5q7x"
-      },
-      "volume": "023"
+      }
     },
     "208": {
       "title": "Feinte !!",
+      "volume": "023",
       "last_updated": "1775770664",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdm5zyd"
-      },
-      "volume": "023"
+      }
     },
     "209": {
       "title": "Arrivée des renforts !!",
+      "volume": "024",
       "last_updated": "1775770681",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmqbvy5"
-      },
-      "volume": "024"
+      }
     },
     "210": {
       "title": "Le Secret de Lee !!",
+      "volume": "024",
       "last_updated": "1775770675",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2jee4l"
-      },
-      "volume": "024"
+      }
     },
     "211": {
       "title": "Irrégulier…!!",
+      "volume": "024",
       "last_updated": "1775770676",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxr8ky8"
-      },
-      "volume": "024"
+      }
     },
     "212": {
       "title": "Tournant décisif !!",
+      "volume": "024",
       "last_updated": "1775770676",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q3db2yx"
-      },
-      "volume": "024"
+      }
     },
     "213": {
       "title": "Une grande dette…!!",
+      "volume": "024",
       "last_updated": "1775770691",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pra8oj4o"
-      },
-      "volume": "024"
+      }
     },
     "214": {
       "title": "Battre en retraite…!!",
+      "volume": "024",
       "last_updated": "1775770684",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqv8d54n"
-      },
-      "volume": "024"
+      }
     },
     "215": {
       "title": "Gaara du désert…!!",
+      "volume": "024",
       "last_updated": "1775770699",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqma2ox72"
-      },
-      "volume": "024"
+      }
     },
     "216": {
       "title": "Armes et Armures…!!",
+      "volume": "024",
       "last_updated": "1775770698",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qrb67k"
-      },
-      "volume": "024"
+      }
     },
     "217": {
       "title": "Pour un être cher",
+      "volume": "024",
       "last_updated": "1775770697",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8b978"
-      },
-      "volume": "024"
+      }
     },
     "218": {
       "title": "Les Frères de la feuille !!",
+      "volume": "025",
       "last_updated": "1775770732",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq2634l"
-      },
-      "volume": "025"
+      }
     },
     "219": {
       "title": "Futur et Passé",
+      "volume": "025",
       "last_updated": "1775770702",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732dlvo4r"
-      },
-      "volume": "025"
+      }
     },
     "220": {
       "title": "Frères",
+      "volume": "025",
       "last_updated": "1775770704",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89moq7x"
-      },
-      "volume": "025"
+      }
     },
     "221": {
       "title": "Un Frère distant",
+      "volume": "025",
       "last_updated": "1775770700",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3alolyp"
-      },
-      "volume": "025"
+      }
     },
     "222": {
       "title": "Soupçons envers Itachi",
+      "volume": "025",
       "last_updated": "1775770702",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mja8oa7d"
-      },
-      "volume": "025"
+      }
     },
     "223": {
       "title": "Sasuke et son père",
+      "volume": "025",
       "last_updated": "1775770705",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdmbzyd"
-      },
-      "volume": "025"
+      }
     },
     "224": {
       "title": "Ce jour…!",
+      "volume": "025",
       "last_updated": "1775770709",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5nol7j"
-      },
-      "volume": "025"
+      }
     },
     "225": {
       "title": "Dans les ténèbres…!",
+      "volume": "025",
       "last_updated": "1775770708",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmwbk7j"
-      },
-      "volume": "025"
+      }
     },
     "226": {
       "title": "A mon cher ami",
+      "volume": "025",
       "last_updated": "1775770727",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2jbe4l"
-      },
-      "volume": "025"
+      }
     },
     "227": {
       "title": "Les Mille Oiseaux contre l'Orbe Tourbillonnant !!",
+      "volume": "026",
       "last_updated": "1775770727",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q3d22yx"
-      },
-      "volume": "026"
+      }
     },
     "228": {
       "title": "Le Pressentiment de Kakashi",
+      "volume": "026",
       "last_updated": "1775770753",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mja8xa7d"
-      },
-      "volume": "026"
+      }
     },
     "229": {
       "title": "Liens…!!",
+      "volume": "026",
       "last_updated": "1775770724",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxroky8"
-      },
-      "volume": "026"
+      }
     },
     "230": {
       "title": "Le Réveil !!",
+      "volume": "026",
       "last_updated": "1775770721",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx593o67q"
-      },
-      "volume": "026"
+      }
     },
     "231": {
       "title": "Pouvoir spéciaux!!",
+      "volume": "026",
       "last_updated": "1775770732",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7oda8nlyp"
-      },
-      "volume": "026"
+      }
     },
     "232": {
       "title": "La Vallée de la fin",
+      "volume": "026",
       "last_updated": "1775770723",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqv8b54n"
-      },
-      "volume": "026"
+      }
     },
     "233": {
       "title": "Le Pire des dénouements…!",
+      "volume": "026",
       "last_updated": "1775770754",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3aljlyp"
-      },
-      "volume": "026"
+      }
     },
     "234": {
       "title": "Séparation…!!",
+      "volume": "026",
       "last_updated": "1775770736",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brlqmgy5"
-      },
-      "volume": "026"
+      }
     },
     "235": {
       "title": "Échec…!!",
+      "volume": "026",
       "last_updated": "1775770729",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pra82j4o"
-      },
-      "volume": "026"
+      }
     },
     "236": {
       "title": "Promesse non tenue",
+      "volume": "027",
       "last_updated": "1775770748",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq2934l"
-      },
-      "volume": "027"
+      }
     },
     "237": {
       "title": "Crétin…!!",
+      "volume": "027",
       "last_updated": "1775770735",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2a86w78"
-      },
-      "volume": "027"
+      }
     },
     "238": {
       "title": "Le Jour du départ !!",
+      "volume": "027",
       "last_updated": "1775774220",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8reejw4b"
-      },
-      "volume": "027"
+      }
     },
     "239": {
       "title": "Début de mission…!!",
+      "volume": "027",
       "last_updated": "1775770755",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732dlno4r"
-      },
-      "volume": "027"
+      }
     },
     "240": {
       "title": "Travail d'équipe !!",
+      "volume": "027",
       "last_updated": "1775770766",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2jre4l"
-      },
-      "volume": "027"
+      }
     },
     "241": {
       "title": "Un véritable héros",
+      "volume": "027",
       "last_updated": "1775774149",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732dd6j4r"
-      },
-      "volume": "027"
+      }
     },
     "242": {
       "title": "Le Ninja pleurnichard",
+      "volume": "027",
       "last_updated": "1775770763",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmqlvy5"
-      },
-      "volume": "027"
+      }
     },
     "243": {
       "title": "Le Cadeau !!",
+      "volume": "027",
       "last_updated": "1775770758",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89m3q7x"
-      },
-      "volume": "027"
+      }
     },
     "244": {
       "title": "Le Héros au Sharingan !!",
+      "volume": "027",
       "last_updated": "1775770759",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5nzl7j"
-      },
-      "volume": "027"
+      }
     },
     "245": {
       "title": "Le Retour au pays !!",
+      "volume": "028",
       "last_updated": "1775772951",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqqo94l"
-      },
-      "volume": "028"
+      }
     },
     "246": {
       "title": "Ils ont progressé !!",
+      "volume": "028",
       "last_updated": "1775770762",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmwgk7j"
-      },
-      "volume": "028"
+      }
     },
     "247": {
       "title": "Intrusion au village du Sable",
+      "volume": "028",
       "last_updated": "1775770765",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q3dj2yx"
-      },
-      "volume": "028"
+      }
     },
     "248": {
       "title": "Suna face à l'agression…!!",
+      "volume": "028",
       "last_updated": "1775770764",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxrkky8"
-      },
-      "volume": "028"
+      }
     },
     "249": {
       "title": "Kazekage…!!",
+      "volume": "028",
       "last_updated": "1775771799",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqv8954n"
-      },
-      "volume": "028"
+      }
     },
     "250": {
       "title": "Première mission pour nouvelle équipe !!",
+      "volume": "028",
       "last_updated": "1775770842",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m23r87n"
-      },
-      "volume": "028"
+      }
     },
     "251": {
       "title": "En route pour Suna…!!",
+      "volume": "028",
       "last_updated": "1775772840",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl55pd7j"
-      },
-      "volume": "028"
+      }
     },
     "252": {
       "title": "Penser, poursuivre…!!",
+      "volume": "028",
       "last_updated": "1775771798",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq2k34l"
-      },
-      "volume": "028"
+      }
     },
     "253": {
       "title": "Précieux renforts…!!",
+      "volume": "028",
       "last_updated": "1775778013",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad26zw4l"
-      },
-      "volume": "028"
+      }
     },
     "254": {
       "title": "Frères…!!",
+      "volume": "029",
       "last_updated": "1775771803",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2a8jw78"
-      },
-      "volume": "029"
+      }
     },
     "255": {
       "title": "En approche…!!",
+      "volume": "029",
       "last_updated": "1775771840",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q33kgyx"
-      },
-      "volume": "029"
+      }
     },
     "256": {
       "title": "L'ennemi barre la route !!",
+      "volume": "029",
       "last_updated": "1775771825",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qqpd7k"
-      },
-      "volume": "029"
+      }
     },
     "257": {
       "title": "L'Expérience de Kakashi",
+      "volume": "029",
       "last_updated": "1775771821",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmaade72"
-      },
-      "volume": "029"
+      }
     },
     "258": {
       "title": "Gaï versus Kisame !!",
+      "volume": "029",
       "last_updated": "1775774164",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m22mb7n"
-      },
-      "volume": "029"
+      }
     },
     "259": {
       "title": "Le Pouvoir d'Itachi !",
+      "volume": "029",
       "last_updated": "1775771802",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmqggy5"
-      },
-      "volume": "029"
+      }
     },
     "260": {
       "title": "Kakashi versus Itachi !!",
+      "volume": "029",
       "last_updated": "1775772851",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx599nq7q"
-      },
-      "volume": "029"
+      }
     },
     "261": {
       "title": "Le Réceptacle !!",
+      "volume": "029",
       "last_updated": "1775770863",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8remad4b"
-      },
-      "volume": "029"
+      }
     },
     "262": {
       "title": "Rafale de sentiments !!",
+      "volume": "029",
       "last_updated": "1775771824",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732ddjv4r"
-      },
-      "volume": "029"
+      }
     },
     "263": {
       "title": "Cri de colère…!!",
+      "volume": "030",
       "last_updated": "1775771835",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewddpxyd"
-      },
-      "volume": "030"
+      }
     },
     "264": {
       "title": "L'Art de Sasori…!!",
+      "volume": "030",
       "last_updated": "1775771818",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3aadkyp"
-      },
-      "volume": "030"
+      }
     },
     "265": {
       "title": "Chiyo et Sakura",
+      "volume": "030",
       "last_updated": "1775771820",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaa2q7d"
-      },
-      "volume": "030"
+      }
     },
     "266": {
       "title": "Le Visage de Sasori…!!",
+      "volume": "030",
       "last_updated": "1775771825",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w899r37x"
-      },
-      "volume": "030"
+      }
     },
     "267": {
       "title": "Décision forte…!!",
+      "volume": "030",
       "last_updated": "1775771826",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmmro7j"
-      },
-      "volume": "030"
+      }
     },
     "268": {
       "title": "Marionnettiste contre Marionnettiste !!",
+      "volume": "030",
       "last_updated": "1775771830",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmmzxy5"
-      },
-      "volume": "030"
+      }
     },
     "269": {
       "title": "Ce que l'on peut faire !!",
+      "volume": "030",
       "last_updated": "1775771833",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad22vg4l"
-      },
-      "volume": "030"
+      }
     },
     "270": {
       "title": "Mauvais calcul…!!",
+      "volume": "030",
       "last_updated": "1775771846",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx5992m7q"
-      },
-      "volume": "030"
+      }
     },
     "271": {
       "title": "La Force de l'ignorance…",
+      "volume": "030",
       "last_updated": "1775771842",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvvxw4n"
-      },
-      "volume": "030"
+      }
     },
     "272": {
       "title": "Chiyo contre Sasori…!!",
+      "volume": "031",
       "last_updated": "1775771866",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brllvky5"
-      },
-      "volume": "031"
+      }
     },
     "273": {
       "title": "Bataille finale !!",
+      "volume": "031",
       "last_updated": "1775771859",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7praa984o"
-      },
-      "volume": "031"
+      }
     },
     "274": {
       "title": "Rêve inaccompli",
+      "volume": "031",
       "last_updated": "1775771858",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odaaxayp"
-      },
-      "volume": "031"
+      }
     },
     "275": {
       "title": "Récompense…",
+      "volume": "031",
       "last_updated": "1775771861",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5eev578"
-      },
-      "volume": "031"
+      }
     },
     "276": {
       "title": "Un nouveau Sharingan !!",
+      "volume": "031",
       "last_updated": "1775774157",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llaawq7x"
-      },
-      "volume": "031"
+      }
     },
     "277": {
       "title": "Extrême esthétisme !!",
+      "volume": "031",
       "last_updated": "1775772949",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaavn7d"
-      },
-      "volume": "031"
+      }
     },
     "278": {
       "title": "La Mort de Gaara",
+      "volume": "031",
       "last_updated": "1775771860",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqq3n4l"
-      },
-      "volume": "031"
+      }
     },
     "279": {
       "title": "Un étrange pouvoir…!!",
+      "volume": "031",
       "last_updated": "1775771863",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmaaze72"
-      },
-      "volume": "031"
+      }
     },
     "280": {
       "title": "Testament !!",
+      "volume": "031",
       "last_updated": "1775771864",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaakq7d"
-      },
-      "volume": "031"
+      }
     },
     "281": {
       "title": "Sur les traces de Sasuke !!",
+      "volume": "032",
       "last_updated": "1775771870",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qqad7k"
-      },
-      "volume": "032"
+      }
     },
     "282": {
       "title": "Le Retour de l'unité Kakashi",
+      "volume": "032",
       "last_updated": "1775771864",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3aa8kyp"
-      },
-      "volume": "032"
+      }
     },
     "283": {
       "title": "On recrute !!",
+      "volume": "032",
       "last_updated": "1775771869",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732ddwv4r"
-      },
-      "volume": "032"
+      }
     },
     "284": {
       "title": "Un nouveau camarade…!!",
+      "volume": "032",
       "last_updated": "1775771871",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w899g37x"
-      },
-      "volume": "032"
+      }
     },
     "285": {
       "title": "L'Homme de \"La Racine\" !!",
+      "volume": "032",
       "last_updated": "1775774152",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmaakn72"
-      },
-      "volume": "032"
+      }
     },
     "286": {
       "title": "Naruto, Sasuke et Sakura",
+      "volume": "032",
       "last_updated": "1775771879",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q33lgyx"
-      },
-      "volume": "032"
+      }
     },
     "287": {
       "title": "Sans titre",
+      "volume": "032",
       "last_updated": "1775771876",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8reeqp4b"
-      },
-      "volume": "032"
+      }
     },
     "288": {
       "title": "Sentiments indéchiffrables",
+      "volume": "032",
       "last_updated": "1775771897",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odaaeayp"
-      },
-      "volume": "032"
+      }
     },
     "289": {
       "title": "L'Espion d'Akatsuki !!",
+      "volume": "032",
       "last_updated": "1775771885",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx599mm7q"
-      },
-      "volume": "032"
+      }
     },
     "290": {
       "title": "Trahison et dénouement",
+      "volume": "033",
       "last_updated": "1775774185",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qqnl7k"
-      },
-      "volume": "033"
+      }
     },
     "291": {
       "title": "Le Levier de la colère !!",
+      "volume": "033",
       "last_updated": "1775771878",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmm2xy5"
-      },
-      "volume": "033"
+      }
     },
     "292": {
       "title": "Troisième queue…!!",
+      "volume": "033",
       "last_updated": "1775771888",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxxvwy8"
-      },
-      "volume": "033"
+      }
     },
     "293": {
       "title": "Perte de contrôle !!",
+      "volume": "033",
       "last_updated": "1775771898",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2aadk78"
-      },
-      "volume": "033"
+      }
     },
     "294": {
       "title": "Quatrième queue…!!",
+      "volume": "033",
       "last_updated": "1775772955",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx599dq7q"
-      },
-      "volume": "033"
+      }
     },
     "295": {
       "title": "Vers Kyûbi…!!",
+      "volume": "033",
       "last_updated": "1775771887",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m22dv7n"
-      },
-      "volume": "033"
+      }
     },
     "296": {
       "title": "Une conclusion dans les larmes",
+      "volume": "033",
       "last_updated": "1775771890",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvv3w4n"
-      },
-      "volume": "033"
+      }
     },
     "297": {
       "title": "La Mission de Saï !!",
+      "volume": "033",
       "last_updated": "1775771891",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brll2ky5"
-      },
-      "volume": "033"
+      }
     },
     "298": {
       "title": "Mission top secret…!!",
+      "volume": "033",
       "last_updated": "1775771892",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7praak84o"
-      },
-      "volume": "033"
+      }
     },
     "299": {
       "title": "La Source de ta force…!!",
+      "volume": "033",
       "last_updated": "1775771898",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqqbn4l"
-      },
-      "volume": "033"
+      }
     },
     "300": {
       "title": "Le Livre de Saï !!",
+      "volume": "034",
       "last_updated": "1775774150",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvvqb4n"
-      },
-      "volume": "034"
+      }
     },
     "301": {
       "title": "Saï et Sasuke !!",
+      "volume": "034",
       "last_updated": "1775771899",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llaa367x"
-      },
-      "volume": "034"
+      }
     },
     "302": {
       "title": "Infiltration…!!",
+      "volume": "034",
       "last_updated": "1775771905",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llaa3p7x"
-      },
-      "volume": "034"
+      }
     },
     "303": {
       "title": "La Trahison de Saï !!",
+      "volume": "034",
       "last_updated": "1775771909",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qqjw7k"
-      },
-      "volume": "034"
+      }
     },
     "304": {
       "title": "Les Dessous de la trahison !!",
+      "volume": "034",
       "last_updated": "1775771997",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732ddbz4r"
-      },
-      "volume": "034"
+      }
     },
     "305": {
       "title": "Mes Liens avec toi",
+      "volume": "034",
       "last_updated": "1775771912",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5eeq278"
-      },
-      "volume": "034"
+      }
     },
     "306": {
       "title": "Les Retrouvailles…!!",
+      "volume": "034",
       "last_updated": "1775771908",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmaa8o72"
-      },
-      "volume": "034"
+      }
     },
     "307": {
       "title": "Caprice…!!",
+      "volume": "034",
       "last_updated": "1775771911",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3aaxeyp"
-      },
-      "volume": "034"
+      }
     },
     "308": {
       "title": "La Puissance de Sasuke !!",
+      "volume": "034",
       "last_updated": "1775771915",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaa3b7d"
-      },
-      "volume": "034"
+      }
     },
     "309": {
       "title": "Entretien avec Kyûbi !!",
+      "volume": "034",
       "last_updated": "1775771936",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl55d37j"
-      },
-      "volume": "034"
+      }
     },
     "310": {
       "title": "Titre",
+      "volume": "035",
       "last_updated": "1775774209",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqq634l"
-      },
-      "volume": "035"
+      }
     },
     "311": {
       "title": "Surnom",
+      "volume": "035",
       "last_updated": "1775771991",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brll5ny5"
-      },
-      "volume": "035"
+      }
     },
     "312": {
       "title": "Menace",
+      "volume": "035",
       "last_updated": "1775771993",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7praav64o"
-      },
-      "volume": "035"
+      }
     },
     "313": {
       "title": "Un nouveau duo !!",
+      "volume": "035",
       "last_updated": "1775771952",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmm32y5"
-      },
-      "volume": "035"
+      }
     },
     "314": {
       "title": "L'Offensive d'Akatsuki…!!",
+      "volume": "035",
       "last_updated": "1775773464",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brllrmy5"
-      },
-      "volume": "035"
+      }
     },
     "315": {
       "title": "Un entraînement spécial !!",
+      "volume": "035",
       "last_updated": "1775773491",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732dd3g4r"
-      },
-      "volume": "035"
+      }
     },
     "316": {
       "title": "C'est parti pour l'entraînement !!",
+      "volume": "035",
       "last_updated": "1775775445",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmakvo72"
-      },
-      "volume": "035"
+      }
     },
     "317": {
       "title": "Les Prémices du cauchemar !!",
+      "volume": "035",
       "last_updated": "1775773524",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaar97d"
-      },
-      "volume": "035"
+      }
     },
     "318": {
       "title": "Un exercice qui porte ses fruits !!",
+      "volume": "035",
       "last_updated": "1775771986",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx599j37q"
-      },
-      "volume": "035"
+      }
     },
     "319": {
       "title": "Motivation !!",
+      "volume": "035",
       "last_updated": "1775771967",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxx29y8"
-      },
-      "volume": "035"
+      }
     },
     "320": {
       "title": "Tête mise à prix…!!",
+      "volume": "036",
       "last_updated": "1775771988",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m22v27n"
-      },
-      "volume": "036"
+      }
     },
     "321": {
       "title": "Éloquence",
+      "volume": "036",
       "last_updated": "1775772015",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqqdj4l"
-      },
-      "volume": "036"
+      }
     },
     "322": {
       "title": "Immortel",
+      "volume": "036",
       "last_updated": "1775773493",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3aazxyp"
-      },
-      "volume": "036"
+      }
     },
     "323": {
       "title": "Le Jugement divin !!",
+      "volume": "036",
       "last_updated": "1775772007",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odaa9dyp"
-      },
-      "volume": "036"
+      }
     },
     "324": {
       "title": "L'Analyse de Shikamaru !!",
+      "volume": "036",
       "last_updated": "1775772009",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2aaoq78"
-      },
-      "volume": "036"
+      }
     },
     "325": {
       "title": "Au pied du mur…!",
+      "volume": "036",
       "last_updated": "1775773469",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odaad2yp"
-      },
-      "volume": "036"
+      }
     },
     "326": {
       "title": "Soif de douleur…!!",
+      "volume": "036",
       "last_updated": "1775774170",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732ddxo4r"
-      },
-      "volume": "036"
+      }
     },
     "327": {
       "title": "Au cœur du désespoir",
+      "volume": "036",
       "last_updated": "1775772030",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5ee9278"
-      },
-      "volume": "036"
+      }
     },
     "328": {
       "title": "L'Unité 10",
+      "volume": "036",
       "last_updated": "1775773465",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7praar34o"
-      },
-      "volume": "036"
+      }
     },
     "329": {
       "title": "Tel est l'objectif…!!",
+      "volume": "036",
       "last_updated": "1775772046",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaa9b7d"
-      },
-      "volume": "036"
+      }
     },
     "330": {
       "title": "Triste nouvelle",
+      "volume": "037",
       "last_updated": "1775773528",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w8992x7x"
-      },
-      "volume": "037"
+      }
     },
     "331": {
       "title": "L'unité 10 se met en route…!!",
+      "volume": "037",
       "last_updated": "1775776383",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmqzj7j"
-      },
-      "volume": "037"
+      }
     },
     "332": {
       "title": "Le Combat de Shikamaru !!",
+      "volume": "037",
       "last_updated": "1775775431",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl55q57j"
-      },
-      "volume": "037"
+      }
     },
     "333": {
       "title": "Compatibilité…!!",
+      "volume": "037",
       "last_updated": "1775773521",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8ree824b"
-      },
-      "volume": "037"
+      }
     },
     "334": {
       "title": "Transformation lugubre…!!",
+      "volume": "037",
       "last_updated": "1775773553",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx599lp7q"
-      },
-      "volume": "037"
+      }
     },
     "335": {
       "title": "Un effroyable secret !!",
+      "volume": "037",
       "last_updated": "1775773549",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q33zzyx"
-      },
-      "volume": "037"
+      }
     },
     "336": {
       "title": "Sinistre rebondissement…!!",
+      "volume": "037",
       "last_updated": "1775774191",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7praaoj4o"
-      },
-      "volume": "037"
+      }
     },
     "337": {
       "title": "Le Génie de Shikamaru…!!",
+      "volume": "037",
       "last_updated": "1775774198",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m22b87n"
-      },
-      "volume": "037"
+      }
     },
     "338": {
       "title": "Qui lance une malédiction…",
+      "volume": "037",
       "last_updated": "1775773580",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7praaw34o"
-      },
-      "volume": "037"
+      }
     },
     "339": {
       "title": "Nouvelle technique…!!",
+      "volume": "037",
       "last_updated": "1775773582",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odaa32yp"
-      },
-      "volume": "037"
+      }
     },
     "340": {
       "title": "Un pont dangereux",
+      "volume": "038",
       "last_updated": "1775773622",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qqda7k"
-      },
-      "volume": "038"
+      }
     },
     "341": {
       "title": "Le Fruit de l'entraînement…!!",
+      "volume": "038",
       "last_updated": "1775773610",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3aabxyp"
-      },
-      "volume": "038"
+      }
     },
     "342": {
       "title": "Le Roi…!!",
+      "volume": "038",
       "last_updated": "1775774143",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewddrmyd"
-      },
-      "volume": "038"
+      }
     },
     "343": {
       "title": "Cœur de glace…",
+      "volume": "038",
       "last_updated": "1775774170",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w8995q7x"
-      },
-      "volume": "038"
+      }
     },
     "344": {
       "title": "Face au serpent…",
+      "volume": "038",
       "last_updated": "1775774171",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdd5zyd"
-      },
-      "volume": "038"
+      }
     },
     "345": {
       "title": "Rituel…!!",
+      "volume": "038",
       "last_updated": "1775774180",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad22ee4l"
-      },
-      "volume": "038"
+      }
     },
     "346": {
       "title": "Le Secret de la nouvelle technique !!",
+      "volume": "038",
       "last_updated": "1775774181",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxx8ky8"
-      },
-      "volume": "038"
+      }
     },
     "347": {
       "title": "Détour !!",
+      "volume": "038",
       "last_updated": "1775774183",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx599a67q"
-      },
-      "volume": "038"
+      }
     },
     "348": {
       "title": "Le Suivant !!",
+      "volume": "038",
       "last_updated": "1775774189",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvvd54n"
-      },
-      "volume": "038"
+      }
     },
     "349": {
       "title": "Le Repaire nord",
+      "volume": "038",
       "last_updated": "1775774197",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2aabw78"
-      },
-      "volume": "038"
+      }
     },
     "350": {
       "title": "Une nouvelle détonante…!!",
+      "volume": "039",
       "last_updated": "1775774224",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmaaox72"
-      },
-      "volume": "039"
+      }
     },
     "351": {
       "title": "Entretien avec le prisonnier !",
+      "volume": "039",
       "last_updated": "1775774204",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5eeb978"
-      },
-      "volume": "039"
+      }
     },
     "352": {
       "title": "L'Objectif",
+      "volume": "039",
       "last_updated": "1775774203",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qqb67k"
-      },
-      "volume": "039"
+      }
     },
     "353": {
       "title": "Le Rassemblement d'Akatsuki…!!",
+      "volume": "039",
       "last_updated": "1775774207",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732ddvo4r"
-      },
-      "volume": "039"
+      }
     },
     "354": {
       "title": "Ceux qui font bouger les choses",
+      "volume": "039",
       "last_updated": "1775774207",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaaoa7d"
-      },
-      "volume": "039"
+      }
     },
     "355": {
       "title": "Par où…?",
+      "volume": "039",
       "last_updated": "1775774210",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w899oq7x"
-      },
-      "volume": "039"
+      }
     },
     "356": {
       "title": "Le Choc…!!",
+      "volume": "039",
       "last_updated": "1775774219",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl55ol7j"
-      },
-      "volume": "039"
+      }
     },
     "357": {
       "title": "Deidara vs Sasuke !!",
+      "volume": "039",
       "last_updated": "1775774213",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewddbzyd"
-      },
-      "volume": "039"
+      }
     },
     "358": {
       "title": "Acculé par le C2 !!",
+      "volume": "039",
       "last_updated": "1775774219",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad22be4l"
-      },
-      "volume": "039"
+      }
     },
     "359": {
       "title": "Ce regard…!!",
+      "volume": "039",
       "last_updated": "1775774216",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmmbk7j"
-      },
-      "volume": "039"
+      }
     },
     "360": {
       "title": "Garuda C4",
+      "volume": "040",
       "last_updated": "1775774232",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q3322yx"
-      },
-      "volume": "040"
+      }
     },
     "361": {
       "title": "Talon d'Achille…!!",
+      "volume": "040",
       "last_updated": "1775774223",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m22q87n"
-      },
-      "volume": "040"
+      }
     },
     "362": {
       "title": "L'Art ultime !!",
+      "volume": "040",
       "last_updated": "1775774228",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brllmgy5"
-      },
-      "volume": "040"
+      }
     },
     "363": {
       "title": "La Mort de Sasuke…!!",
+      "volume": "040",
       "last_updated": "1775774235",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7praa2j4o"
-      },
-      "volume": "040"
+      }
     },
     "364": {
       "title": "La Cible…!!!",
+      "volume": "040",
       "last_updated": "1775774231",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2aa6w78"
-      },
-      "volume": "040"
+      }
     },
     "365": {
       "title": "À la poursuite d'Itachi !",
+      "volume": "040",
       "last_updated": "1775774244",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llaav37x"
-      },
-      "volume": "040"
+      }
     },
     "366": {
       "title": "Frères",
+      "volume": "040",
       "last_updated": "1775774235",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqq934l"
-      },
-      "volume": "040"
+      }
     },
     "367": {
       "title": "Itachi et Sasuke",
+      "volume": "040",
       "last_updated": "1775774237",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5eea978"
-      },
-      "volume": "040"
+      }
     },
     "368": {
       "title": "Récolte d'informations",
+      "volume": "040",
       "last_updated": "1775774243",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3aajlyp"
-      },
-      "volume": "040"
+      }
     },
     "369": {
       "title": "Au sujet de Pain",
+      "volume": "040",
       "last_updated": "1775774241",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qqw67k"
-      },
-      "volume": "040"
+      }
     },
     "370": {
       "title": "Mauvais Pressentiment",
+      "volume": "041",
       "last_updated": "1775774251",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmaalx72"
-      },
-      "volume": "041"
+      }
     },
     "371": {
       "title": "Vieille Connaissance… !!",
+      "volume": "041",
       "last_updated": "1775774242",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaaxa7d"
-      },
-      "volume": "041"
+      }
     },
     "372": {
       "title": "Le Pays en larmes",
+      "volume": "041",
       "last_updated": "1775774245",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732ddno4r"
-      },
-      "volume": "041"
+      }
     },
     "373": {
       "title": "À l'époque de l'apprentissage… !!",
+      "volume": "041",
       "last_updated": "1775774249",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewddezyd"
-      },
-      "volume": "041"
+      }
     },
     "374": {
       "title": "Vers le statut de dieu !!",
+      "volume": "041",
       "last_updated": "1775774253",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl55zl7j"
-      },
-      "volume": "041"
+      }
     },
     "375": {
       "title": "Les Deux Ermites… !!",
+      "volume": "041",
       "last_updated": "1775774254",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmmgk7j"
-      },
-      "volume": "041"
+      }
     },
     "376": {
       "title": "L'Enfant de la prophétie",
+      "volume": "041",
       "last_updated": "1775774254",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8reedw4b"
-      },
-      "volume": "041"
+      }
     },
     "377": {
       "title": "Mode \"ermite\" !!",
+      "volume": "041",
       "last_updated": "1775774266",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmmlvy5"
-      },
-      "volume": "041"
+      }
     },
     "378": {
       "title": "Un contre un… !!",
+      "volume": "041",
       "last_updated": "1775774257",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad22re4l"
-      },
-      "volume": "041"
+      }
     },
     "379": {
       "title": "Le Choix de Jiraya !!",
+      "volume": "041",
       "last_updated": "1775774260",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q33j2yx"
-      },
-      "volume": "041"
+      }
     },
     "380": {
       "title": "Reliquat… !!",
+      "volume": "042",
       "last_updated": "1775774271",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxxkky8"
-      },
-      "volume": "042"
+      }
     },
     "381": {
       "title": "L'Identité de Pain… !!",
+      "volume": "042",
       "last_updated": "1775774265",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m22r87n"
-      },
-      "volume": "042"
+      }
     },
     "382": {
       "title": "Le Véritable Choix !!",
+      "volume": "042",
       "last_updated": "1775774262",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx599w67q"
-      },
-      "volume": "042"
+      }
     },
     "383": {
       "title": "Dénouement… !!",
+      "volume": "042",
       "last_updated": "1775774267",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brllagy5"
-      },
-      "volume": "042"
+      }
     },
     "384": {
       "title": "Deux Chemins…",
+      "volume": "042",
       "last_updated": "1775774283",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llaaq37x"
-      },
-      "volume": "042"
+      }
     },
     "385": {
       "title": "Le Secret du Kaléidoscope Hypnotique… !!",
+      "volume": "042",
       "last_updated": "1775774268",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7praa3j4o"
-      },
-      "volume": "042"
+      }
     },
     "386": {
       "title": "Le Retour de la lumière… !!",
+      "volume": "042",
       "last_updated": "1775774268",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2aajw78"
-      },
-      "volume": "042"
+      }
     },
     "387": {
       "title": "Réalité… !!",
+      "volume": "042",
       "last_updated": "1775774271",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqqk34l"
-      },
-      "volume": "042"
+      }
     },
     "388": {
       "title": "Différence de force… !!",
+      "volume": "042",
       "last_updated": "1775774275",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmaawx72"
-      },
-      "volume": "042"
+      }
     },
     "389": {
       "title": "Retournement !!",
+      "volume": "042",
       "last_updated": "1775774276",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5eel978"
-      },
-      "volume": "042"
+      }
     },
     "390": {
       "title": "La Dernière Technique… !!",
+      "volume": "043",
       "last_updated": "1775774289",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732ddeo4r"
-      },
-      "volume": "043"
+      }
     },
     "391": {
       "title": "Grondement de tonnerre… !!",
+      "volume": "043",
       "last_updated": "1775774278",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qqk67k"
-      },
-      "volume": "043"
+      }
     },
     "392": {
       "title": "Susanô… !!",
+      "volume": "043",
       "last_updated": "1775774279",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaada7d"
-      },
-      "volume": "043"
+      }
     },
     "393": {
       "title": "Mes yeux… !!",
+      "volume": "043",
       "last_updated": "1775774280",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w899aq7x"
-      },
-      "volume": "043"
+      }
     },
     "394": {
       "title": "La Victoire de Sasuke",
+      "volume": "043",
       "last_updated": "1775774284",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewddxzyd"
-      },
-      "volume": "043"
+      }
     },
     "395": {
       "title": "Le Mystère de Tobi",
+      "volume": "043",
       "last_updated": "1775774288",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8reeaw4b"
-      },
-      "volume": "043"
+      }
     },
     "396": {
       "title": "Présentations",
+      "volume": "043",
       "last_updated": "1775774288",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmmgvy5"
-      },
-      "volume": "043"
+      }
     },
     "397": {
       "title": "Celui qui sait",
+      "volume": "043",
       "last_updated": "1775774284",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmmnk7j"
-      },
-      "volume": "043"
+      }
     },
     "398": {
       "title": "Le Konoha des premiers temps",
+      "volume": "043",
       "last_updated": "1775774307",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvvr54n"
-      },
-      "volume": "043"
+      }
     },
     "399": {
       "title": "Au commencement !!",
+      "volume": "043",
       "last_updated": "1775774297",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad225e4l"
-      },
-      "volume": "043"
+      }
     },
     "400": {
       "title": "En enfer",
+      "volume": "043",
       "last_updated": "1775774298",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxx5ky8"
-      },
-      "volume": "043"
+      }
     },
     "401": {
       "title": "Illusion",
+      "volume": "043",
       "last_updated": "1775774300",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx599667q"
-      },
-      "volume": "043"
+      }
     },
     "402": {
       "title": "Dernières Paroles",
+      "volume": "043",
       "last_updated": "1775774297",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q3382yx"
-      },
-      "volume": "043"
+      }
     },
     "403": {
       "title": "Larmes",
+      "volume": "044",
       "last_updated": "1775774315",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odaa2lyp"
-      },
-      "volume": "044"
+      }
     },
     "404": {
       "title": "« Le Faucon » et « Akatsuki »",
+      "volume": "044",
       "last_updated": "1775774302",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7praalj4o"
-      },
-      "volume": "044"
+      }
     },
     "405": {
       "title": "Ceux qui restent",
+      "volume": "044",
       "last_updated": "1775774303",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqqr34l"
-      },
-      "volume": "044"
+      }
     },
     "406": {
       "title": "La Clé du futur",
+      "volume": "044",
       "last_updated": "1775774308",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llaan37x"
-      },
-      "volume": "044"
+      }
     },
     "407": {
       "title": "À l'attention de Naruto",
+      "volume": "044",
       "last_updated": "1775774310",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5eex978"
-      },
-      "volume": "044"
+      }
     },
     "408": {
       "title": "La Proposition de Fukasaku",
+      "volume": "044",
       "last_updated": "1775774311",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmaajx72"
-      },
-      "volume": "044"
+      }
     },
     "409": {
       "title": "Traditions d'ermite",
+      "volume": "044",
       "last_updated": "1775774318",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5eexe78"
-      },
-      "volume": "044"
+      }
     },
     "410": {
       "title": "La Bataille du col d'Unraï !!",
+      "volume": "044",
       "last_updated": "1775774325",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmaajk72"
-      },
-      "volume": "044"
+      }
     },
     "411": {
       "title": "Hachibi contre Sasuke !!",
+      "volume": "044",
       "last_updated": "1775774320",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llaano7x"
-      },
-      "volume": "044"
+      }
     },
     "412": {
       "title": "Frissons inouïs",
+      "volume": "044",
       "last_updated": "1775774321",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qqgn7k"
-      },
-      "volume": "044"
+      }
     },
     "413": {
       "title": "Effondrement",
+      "volume": "045",
       "last_updated": "1775774338",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaabj7d"
-      },
-      "volume": "045"
+      }
     },
     "414": {
       "title": "Le Taureau déchaîné",
+      "volume": "045",
       "last_updated": "1775774329",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl55gv7j"
-      },
-      "volume": "045"
+      }
     },
     "415": {
       "title": "De nouveaux pouvoirs !!",
+      "volume": "045",
       "last_updated": "1775774328",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w899kb7x"
-      },
-      "volume": "045"
+      }
     },
     "416": {
       "title": "Récits héroïques d'ermites shinobis",
+      "volume": "045",
       "last_updated": "1775774327",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdd8kyd"
-      },
-      "volume": "045"
+      }
     },
     "417": {
       "title": "Le Raikage entre en action !!",
+      "volume": "045",
       "last_updated": "1775774330",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8reegd4b"
-      },
-      "volume": "045"
+      }
     },
     "418": {
       "title": "Naruto, l'ermite",
+      "volume": "045",
       "last_updated": "1775774336",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad22ww4l"
-      },
-      "volume": "045"
+      }
     },
     "419": {
       "title": "Le Raid !!",
+      "volume": "045",
       "last_updated": "1775778015",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2nxw4l"
-      },
-      "volume": "045"
+      }
     },
     "420": {
       "title": "Konoha, théâtre de guerre !!",
+      "volume": "045",
       "last_updated": "1775774345",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx599zk7q"
-      },
-      "volume": "045"
+      }
     },
     "421": {
       "title": "Rappelez Naruto !!",
+      "volume": "045",
       "last_updated": "1775778007",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7lla5zo7x"
-      },
-      "volume": "045"
+      }
     },
     "422": {
       "title": "Kakashi vs Pain !!",
+      "volume": "045",
       "last_updated": "1775778017",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxjdzy8"
-      },
-      "volume": "045"
+      }
     },
     "423": {
       "title": "Pouvoirs surnaturels !!",
+      "volume": "046",
       "last_updated": "1775774351",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m22oa7n"
-      },
-      "volume": "046"
+      }
     },
     "424": {
       "title": "La Décision !!",
+      "volume": "046",
       "last_updated": "1775774344",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odaa69yp"
-      },
-      "volume": "046"
+      }
     },
     "425": {
       "title": "Kakashi Hatake",
+      "volume": "046",
       "last_updated": "1775774356",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmmob7j"
-      },
-      "volume": "046"
+      }
     },
     "426": {
       "title": "Naruto et Konoha !!",
+      "volume": "046",
       "last_updated": "1775774348",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmaank72"
-      },
-      "volume": "046"
+      }
     },
     "427": {
       "title": "Retrouvailles",
+      "volume": "046",
       "last_updated": "1775774346",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llaaeo7x"
-      },
-      "volume": "046"
+      }
     },
     "428": {
       "title": "L'Entretien !!",
+      "volume": "046",
       "last_updated": "1775778003",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvkgl4n"
-      },
-      "volume": "046"
+      }
     },
     "429": {
       "title": "Souffrance",
+      "volume": "046",
       "last_updated": "1775774351",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732ddz34r"
-      },
-      "volume": "046"
+      }
     },
     "430": {
       "title": "Le Retour de Naruto !!",
+      "volume": "046",
       "last_updated": "1775778018",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmpvb7j"
-      },
-      "volume": "046"
+      }
     },
     "431": {
       "title": "L'Éruption Naruto !!",
+      "volume": "046",
       "last_updated": "1775774354",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdd9kyd"
-      },
-      "volume": "046"
+      }
     },
     "432": {
       "title": "L'Orbe Shuriken, revisité !!",
+      "volume": "046",
       "last_updated": "1775778010",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3a5r6yp"
-      },
-      "volume": "046"
+      }
     },
     "433": {
       "title": "L'Échec du Senjutsu…?!",
+      "volume": "047",
       "last_updated": "1775778028",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdnjkyd"
-      },
-      "volume": "047"
+      }
     },
     "434": {
       "title": "Naruto vs Tendô !!",
+      "volume": "047",
       "last_updated": "1775774358",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8reebd4b"
-      },
-      "volume": "047"
+      }
     },
     "435": {
       "title": "Attraction Céleste",
+      "volume": "047",
       "last_updated": "1775774360",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmmagy5"
-      },
-      "volume": "047"
+      }
     },
     "436": {
       "title": "Paix",
+      "volume": "047",
       "last_updated": "1775774369",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odabz9yp"
-      },
-      "volume": "047"
+      }
     },
     "437": {
       "title": "Déclaration",
+      "volume": "047",
       "last_updated": "1775774367",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brl6gvy5"
-      },
-      "volume": "047"
+      }
     },
     "438": {
       "title": "Le Sceau brisé !!",
+      "volume": "047",
       "last_updated": "1775774368",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prangk4o"
-      },
-      "volume": "047"
+      }
     },
     "439": {
       "title": "Naissance de l'Astre divin",
+      "volume": "047",
       "last_updated": "1775774366",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvzgl4n"
-      },
-      "volume": "047"
+      }
     },
     "440": {
       "title": "Conversation avec Hokage le 4e !!",
+      "volume": "047",
       "last_updated": "1775778004",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brlngvy5"
-      },
-      "volume": "047"
+      }
     },
     "441": {
       "title": "Orbe Shuriken contre Répulsion Céleste !!",
+      "volume": "047",
       "last_updated": "1775774365",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m2kxa7n"
-      },
-      "volume": "047"
+      }
     },
     "442": {
       "title": "Le Dernier Pari !!",
+      "volume": "047",
       "last_updated": "1775774384",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqoz84l"
-      },
-      "volume": "047"
+      }
     },
     "443": {
       "title": "Face-à-face !!",
+      "volume": "048",
       "last_updated": "1775775434",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llawzo7x"
-      },
-      "volume": "048"
+      }
     },
     "444": {
       "title": "Réponse",
+      "volume": "048",
       "last_updated": "1775774376",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3anr6yp"
-      },
-      "volume": "048"
+      }
     },
     "445": {
       "title": "Au sommet du monde",
+      "volume": "048",
       "last_updated": "1775774374",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmakgk72"
-      },
-      "volume": "048"
+      }
     },
     "446": {
       "title": "Ces deux-là, et nul autre",
+      "volume": "048",
       "last_updated": "1775774379",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaezj7d"
-      },
-      "volume": "048"
+      }
     },
     "447": {
       "title": "La Foi",
+      "volume": "048",
       "last_updated": "1775774381",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89nzb7x"
-      },
-      "volume": "048"
+      }
     },
     "448": {
       "title": "Souvenirs… !!",
+      "volume": "048",
       "last_updated": "1775776414",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdljkyd"
-      },
-      "volume": "048"
+      }
     },
     "449": {
       "title": "Fleur d'espoir",
+      "volume": "048",
       "last_updated": "1775774382",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5p6v7j"
-      },
-      "volume": "048"
+      }
     },
     "450": {
       "title": "Hourras au village !!",
+      "volume": "048",
       "last_updated": "1775774389",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmqvb7j"
-      },
-      "volume": "048"
+      }
     },
     "451": {
       "title": "Le Cas Sasuke !!",
+      "volume": "048",
       "last_updated": "1775774387",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmokgy5"
-      },
-      "volume": "048"
+      }
     },
     "452": {
       "title": "L'Étau Danzô se resserre !!",
+      "volume": "048",
       "last_updated": "1775774388",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8re6pd4b"
-      },
-      "volume": "048"
+      }
     },
     "453": {
       "title": "Veille de conseil… !!",
+      "volume": "048",
       "last_updated": "1775778020",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89qzb7x"
-      },
-      "volume": "048"
+      }
     },
     "454": {
       "title": "Les Kage entrent en scène… !!",
+      "volume": "049",
       "last_updated": "1775778018",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pra5gk4o"
-      },
-      "volume": "049"
+      }
     },
     "455": {
       "title": "Le Lien… !!",
+      "volume": "049",
       "last_updated": "1775774401",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pranjk4o"
-      },
-      "volume": "049"
+      }
     },
     "456": {
       "title": "Le Départ de Naruto… !!",
+      "volume": "049",
       "last_updated": "1775774398",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m2kza7n"
-      },
-      "volume": "049"
+      }
     },
     "457": {
       "title": "Le Conseil des cinq Kage… !!",
+      "volume": "049",
       "last_updated": "1775778014",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7oda5z9yp"
-      },
-      "volume": "049"
+      }
     },
     "458": {
       "title": "Tensions au sommet… !",
+      "volume": "049",
       "last_updated": "1775774397",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx59nkk7q"
-      },
-      "volume": "049"
+      }
     },
     "459": {
       "title": "La Résolution de Sakura !!",
+      "volume": "049",
       "last_updated": "1775778005",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqnz84l"
-      },
-      "volume": "049"
+      }
     },
     "460": {
       "title": "Sasuke dans la nasse… !",
+      "volume": "049",
       "last_updated": "1775774414",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2akzm78"
-      },
-      "volume": "049"
+      }
     },
     "461": {
       "title": "Les Nuages vs Le Faucon !!",
+      "volume": "049",
       "last_updated": "1775776423",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5em5x78"
-      },
-      "volume": "049"
+      }
     },
     "462": {
       "title": "Le Nindô de Sasuke… !!",
+      "volume": "049",
       "last_updated": "1775775460",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjae9b7d"
-      },
-      "volume": "049"
+      }
     },
     "463": {
       "title": "Sasuke vs le Raikage !!",
+      "volume": "049",
       "last_updated": "1775778013",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qnln7k"
-      },
-      "volume": "049"
+      }
     },
     "464": {
       "title": "La Puissance des Ténèbres… !!",
+      "volume": "050",
       "last_updated": "1775775431",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llawxo7x"
-      },
-      "volume": "050"
+      }
     },
     "465": {
       "title": "Assaut sur le Conseil !!",
+      "volume": "050",
       "last_updated": "1775778006",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqma5gk72"
-      },
-      "volume": "050"
+      }
     },
     "466": {
       "title": "Combat dans la nasse !!",
+      "volume": "050",
       "last_updated": "1775774418",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5emde78"
-      },
-      "volume": "050"
+      }
     },
     "467": {
       "title": "Déclaration de guerre",
+      "volume": "050",
       "last_updated": "1775778019",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8re2pd4b"
-      },
-      "volume": "050"
+      }
     },
     "468": {
       "title": "Hachibi et Kyûbi",
+      "volume": "050",
       "last_updated": "1775774416",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqop84l"
-      },
-      "volume": "050"
+      }
     },
     "469": {
       "title": "Sakura déclare sa flamme",
+      "volume": "050",
       "last_updated": "1775775455",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3anveyp"
-      },
-      "volume": "050"
+      }
     },
     "470": {
       "title": "Killer Bee vs Kisame !!",
+      "volume": "050",
       "last_updated": "1775774423",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3ang6yp"
-      },
-      "volume": "050"
+      }
     },
     "471": {
       "title": "Hachibi, version 2 !!",
+      "volume": "050",
       "last_updated": "1775778016",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q36rvyx"
-      },
-      "volume": "050"
+      }
     },
     "472": {
       "title": "Duel à mort dans la prison aqueuse !!",
+      "volume": "050",
       "last_updated": "1775774439",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732do934r"
-      },
-      "volume": "050"
+      }
     },
     "473": {
       "title": "My Brutha",
+      "volume": "050",
       "last_updated": "1775775450",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llaw9p7x"
-      },
-      "volume": "050"
+      }
     },
     "474": {
       "title": "La Résolution du Hokage… !!",
+      "volume": "051",
       "last_updated": "1775775456",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5em9278"
-      },
-      "volume": "051"
+      }
     },
     "475": {
       "title": "Madara dévoile son jeu !!",
+      "volume": "051",
       "last_updated": "1775778010",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5enoe78"
-      },
-      "volume": "051"
+      }
     },
     "476": {
       "title": "Sasuke vs Danzô… !!",
+      "volume": "051",
       "last_updated": "1775776364",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqodj4l"
-      },
-      "volume": "051"
+      }
     },
     "477": {
       "title": "Ne prononce plus son nom !",
+      "volume": "051",
       "last_updated": "1775778012",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jm6kgy5"
-      },
-      "volume": "051"
+      }
     },
     "478": {
       "title": "Le Susanô de Sasuke… !!",
+      "volume": "051",
       "last_updated": "1775775482",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmop2y5"
-      },
-      "volume": "051"
+      }
     },
     "479": {
       "title": "Izanagi",
+      "volume": "051",
       "last_updated": "1775775478",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmqjr7j"
-      },
-      "volume": "051"
+      }
     },
     "480": {
       "title": "Sacrifice",
+      "volume": "051",
       "last_updated": "1775775463",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdl23yd"
-      },
-      "volume": "051"
+      }
     },
     "481": {
       "title": "Le Trépas de Danzô !!",
+      "volume": "051",
       "last_updated": "1775775461",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732dorz4r"
-      },
-      "volume": "051"
+      }
     },
     "482": {
       "title": "Rien qu'une fois…",
+      "volume": "051",
       "last_updated": "1775776381",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5pld7j"
-      },
-      "volume": "051"
+      }
     },
     "483": {
       "title": "Maître et disciple à nouveau !!",
+      "volume": "051",
       "last_updated": "1775775476",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5pe37j"
-      },
-      "volume": "051"
+      }
     },
     "484": {
       "title": "Réalités multiples",
+      "volume": "052",
       "last_updated": "1775775506",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvzwz4n"
-      },
-      "volume": "052"
+      }
     },
     "485": {
       "title": "Si loin, si proche…",
+      "volume": "052",
       "last_updated": "1775775483",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad26q34l"
-      },
-      "volume": "052"
+      }
     },
     "486": {
       "title": "Passe d'armes",
+      "volume": "052",
       "last_updated": "1775775487",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q3owwyx"
-      },
-      "volume": "052"
+      }
     },
     "487": {
       "title": "Le fracas des armes… !!",
+      "volume": "052",
       "last_updated": "1775775479",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8re6vo4b"
-      },
-      "volume": "052"
+      }
     },
     "488": {
       "title": "Aux quatre coins du monde",
+      "volume": "052",
       "last_updated": "1775775496",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx59nr37q"
-      },
-      "volume": "052"
+      }
     },
     "489": {
       "title": "La Guerre embrase le monde shinobi… !!",
+      "volume": "052",
       "last_updated": "1775775509",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2akmq78"
-      },
-      "volume": "052"
+      }
     },
     "490": {
       "title": "La Vérité sur Kyûbi !!",
+      "volume": "052",
       "last_updated": "1775775497",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m2kw27n"
-      },
-      "volume": "052"
+      }
     },
     "491": {
       "title": "Le Confinement des Réceptacles !!",
+      "volume": "052",
       "last_updated": "1775775500",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brl6dny5"
-      },
-      "volume": "052"
+      }
     },
     "492": {
       "title": "Salutations",
+      "volume": "052",
       "last_updated": "1775775505",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqoaj4l"
-      },
-      "volume": "052"
+      }
     },
     "493": {
       "title": "Naruto des Ténèbres !!",
+      "volume": "052",
       "last_updated": "1775775502",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prane64o"
-      },
-      "volume": "052"
+      }
     },
     "494": {
       "title": "Killer Bee et Motoï",
+      "volume": "052",
       "last_updated": "1775775514",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqmakxo72"
-      },
-      "volume": "052"
+      }
     },
     "495": {
       "title": "L'Anéantissement du Naruto obscur !!",
+      "volume": "053",
       "last_updated": "1775775525",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3an9eyp"
-      },
-      "volume": "053"
+      }
     },
     "496": {
       "title": "Retrouvailles avec Kyûbi !!",
+      "volume": "053",
       "last_updated": "1775775517",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3q2mw7k"
-      },
-      "volume": "053"
+      }
     },
     "497": {
       "title": "Kyûbi vs Naruto !!",
+      "volume": "053",
       "last_updated": "1775775523",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaewb7d"
-      },
-      "volume": "053"
+      }
     },
     "498": {
       "title": "La Chevelure rousse de maman",
+      "volume": "053",
       "last_updated": "1775775528",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdlg3yd"
-      },
-      "volume": "053"
+      }
     },
     "499": {
       "title": "Un nouveau sceau !!",
+      "volume": "053",
       "last_updated": "1775775527",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89nxz7x"
-      },
-      "volume": "053"
+      }
     },
     "500": {
       "title": "La Naissance de Naruto",
+      "volume": "053",
       "last_updated": "1775778011",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjavzj7d"
-      },
-      "volume": "053"
+      }
     },
     "501": {
       "title": "Le Raid de Kyûbi !!",
+      "volume": "053",
       "last_updated": "1775775529",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmq5r7j"
-      },
-      "volume": "053"
+      }
     },
     "502": {
       "title": "Le Dernier Combat du 4e Hokage!!",
+      "volume": "053",
       "last_updated": "1775775527",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5p837j"
-      },
-      "volume": "053"
+      }
     },
     "503": {
       "title": "Minato et l'Emprisonnement des Morts !!",
+      "volume": "053",
       "last_updated": "1775775542",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8re65o4b"
-      },
-      "volume": "053"
+      }
     },
     "504": {
       "title": "Merci",
+      "volume": "053",
       "last_updated": "1775776384",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaejn7d"
-      },
-      "volume": "053"
+      }
     },
     "505": {
       "title": "Libération du chakra de Kyûbi !!",
+      "volume": "054",
       "last_updated": "1775775555",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad26834l"
-      },
-      "volume": "054"
+      }
     },
     "506": {
       "title": "Gaï vs Kisame !!",
+      "volume": "054",
       "last_updated": "1775775547",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxn99y8"
-      },
-      "volume": "054"
+      }
     },
     "507": {
       "title": "Une vie de mensonges… !!",
+      "volume": "054",
       "last_updated": "1775775558",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvzjz4n"
-      },
-      "volume": "054"
+      }
     },
     "508": {
       "title": "Comment meurt un shinobi",
+      "volume": "054",
       "last_updated": "1775775551",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m2kp27n"
-      },
-      "volume": "054"
+      }
     },
     "509": {
       "title": "Un pont pour la paix",
+      "volume": "054",
       "last_updated": "1775775550",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx59n837q"
-      },
-      "volume": "054"
+      }
     },
     "510": {
       "title": "Une technique stupéfiante !!",
+      "volume": "054",
       "last_updated": "1775775562",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brl6kny5"
-      },
-      "volume": "054"
+      }
     },
     "511": {
       "title": "Rentrons !",
+      "volume": "054",
       "last_updated": "1775775564",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7prand64o"
-      },
-      "volume": "054"
+      }
     },
     "512": {
       "title": "La Vérité de Zetsu !!",
+      "volume": "054",
       "last_updated": "1775776367",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3q23l7k"
-      },
-      "volume": "054"
+      }
     },
     "513": {
       "title": "Kabuto vs Tsuchikage !!",
+      "volume": "054",
       "last_updated": "1775775575",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqo8j4l"
-      },
-      "volume": "054"
+      }
     },
     "514": {
       "title": "Les Desseins de Kabuto !",
+      "volume": "054",
       "last_updated": "1775776389",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2akvq78"
-      },
-      "volume": "054"
+      }
     },
     "515": {
       "title": "Le Début de la Grande Guerre !",
+      "volume": "055",
       "last_updated": "1775776371",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaelb7d"
-      },
-      "volume": "055"
+      }
     },
     "516": {
       "title": "Le Discours de Gaara",
+      "volume": "055",
       "last_updated": "1775775580",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llaw2p7x"
-      },
-      "volume": "055"
+      }
     },
     "517": {
       "title": "La « Guerre » vue par Omoï !!",
+      "volume": "055",
       "last_updated": "1775776400",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxngjy8"
-      },
-      "volume": "055"
+      }
     },
     "518": {
       "title": "L'Offensive des unités d'attaque-surprise !!",
+      "volume": "055",
       "last_updated": "1775776365",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3an3gyp"
-      },
-      "volume": "055"
+      }
     },
     "519": {
       "title": "L'Orbe des Démons à Queues",
+      "volume": "055",
       "last_updated": "1775778016",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2a5xm78"
-      },
-      "volume": "055"
+      }
     },
     "520": {
       "title": "Le Secret de la Réincarnation des Âmes",
+      "volume": "055",
       "last_updated": "1775778056",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m2lza7n"
-      },
-      "volume": "055"
+      }
     },
     "521": {
       "title": "L'armée passe à l'attaque !!",
+      "volume": "055",
       "last_updated": "1775776382",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdlwqyd"
-      },
-      "volume": "055"
+      }
     },
     "522": {
       "title": "Je suis déjà mort",
+      "volume": "055",
       "last_updated": "1775776388",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8re6r54b"
-      },
-      "volume": "055"
+      }
     },
     "523": {
       "title": "Les Sept Ninjas Spadassins Légendaires !!",
+      "volume": "055",
       "last_updated": "1775776391",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmojqy5"
-      },
-      "volume": "055"
+      }
     },
     "524": {
       "title": "Des choses à protéger",
+      "volume": "055",
       "last_updated": "1775776436",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad26d24l"
-      },
-      "volume": "055"
+      }
     },
     "525": {
       "title": "Les Kage ressuscités !!",
+      "volume": "056",
       "last_updated": "1775776415",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brl6rjy5"
-      },
-      "volume": "056"
+      }
     },
     "526": {
       "title": "Lutte acharnée pour le bataillon de Darui !!",
+      "volume": "056",
       "last_updated": "1775776404",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvzqm4n"
-      },
-      "volume": "056"
+      }
     },
     "527": {
       "title": "Le Mot tabou",
+      "volume": "056",
       "last_updated": "1775776408",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pranrp4o"
-      },
-      "volume": "056"
+      }
     },
     "528": {
       "title": "« Désolé »",
+      "volume": "056",
       "last_updated": "1775776409",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odabdryp"
-      },
-      "volume": "056"
+      }
     },
     "529": {
       "title": "Des liens en or",
+      "volume": "056",
       "last_updated": "1775776409",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2ak2b78"
-      },
-      "volume": "056"
+      }
     },
     "530": {
       "title": "La Détermination de Chôji",
+      "volume": "056",
       "last_updated": "1775776420",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llawlq7x"
-      },
-      "volume": "056"
+      }
     },
     "531": {
       "title": "L'Équipe Asuma de nouveau réunie !",
+      "volume": "056",
       "last_updated": "1775776417",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqox94l"
-      },
-      "volume": "056"
+      }
     },
     "532": {
       "title": "La Conclusion du combat « Mifune vs Hanzô » !!",
+      "volume": "056",
       "last_updated": "1775776435",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7llawdx7x"
-      },
-      "volume": "056"
+      }
     },
     "533": {
       "title": "Le Serment",
+      "volume": "056",
       "last_updated": "1775776438",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5emj378"
-      },
-      "volume": "056"
+      }
     },
     "534": {
       "title": "Les Adieux au trio « Ino-Shika-Chô » !!",
+      "volume": "056",
       "last_updated": "1775776447",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqomz4l"
-      },
-      "volume": "056"
+      }
     },
     "535": {
       "title": "Le Message d'Iruka",
+      "volume": "057",
       "last_updated": "1775776452",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjaer97d"
-      },
-      "volume": "057"
+      }
     },
     "536": {
       "title": "Naruto part en guerre… !!",
+      "volume": "057",
       "last_updated": "1775776437",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3anzxyp"
-      },
-      "volume": "057"
+      }
     },
     "537": {
       "title": "La Tombée de la nuit… !!",
+      "volume": "057",
       "last_updated": "1775776440",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3q2oa7k"
-      },
-      "volume": "057"
+      }
     },
     "538": {
       "title": "L'Interrogatoire",
+      "volume": "057",
       "last_updated": "1775778041",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brlnwvy5"
-      },
-      "volume": "057"
+      }
     },
     "539": {
       "title": "Une nuit sanglante… !!",
+      "volume": "057",
       "last_updated": "1775776442",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdlomyd"
-      },
-      "volume": "057"
+      }
     },
     "540": {
       "title": "La Stratégie de Madara !!",
+      "volume": "057",
       "last_updated": "1775776446",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5pq57j"
-      },
-      "volume": "057"
+      }
     },
     "541": {
       "title": "Le Raikage vs Naruto !?",
+      "volume": "057",
       "last_updated": "1775776455",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmqkq7j"
-      },
-      "volume": "057"
+      }
     },
     "542": {
       "title": "Le plus Puissant Tandem de tous les temps !!",
+      "volume": "057",
       "last_updated": "1775776458",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmoeny5"
-      },
-      "volume": "057"
+      }
     },
     "543": {
       "title": "Des paroles inoubliables",
+      "volume": "057",
       "last_updated": "1775776462",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxnaby8"
-      },
-      "volume": "057"
+      }
     },
     "544": {
       "title": "Les Deux Soleils !!",
+      "volume": "057",
       "last_updated": "1775776476",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad26od4l"
-      },
-      "volume": "057"
+      }
     },
     "545": {
       "title": "Une armée d'immortels !!",
+      "volume": "058",
       "last_updated": "1775776472",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q3ozzyx"
-      },
-      "volume": "058"
+      }
     },
     "546": {
       "title": "Anciens Kage contre nouveaux Kage !!",
+      "volume": "058",
       "last_updated": "1775776459",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m2k5b7n"
-      },
-      "volume": "058"
+      }
     },
     "547": {
       "title": "La Véritable Valeur !!",
+      "volume": "058",
       "last_updated": "1775776472",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7odab32yp"
-      },
-      "volume": "058"
+      }
     },
     "548": {
       "title": "Naruto vs Itachi !!",
+      "volume": "058",
       "last_updated": "1775776481",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2akq378"
-      },
-      "volume": "058"
+      }
     },
     "549": {
       "title": "La Question d'Itachi !!",
+      "volume": "058",
       "last_updated": "1775778042",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pra5jk4o"
-      },
-      "volume": "058"
+      }
     },
     "550": {
       "title": "« Les Déités Célestes »",
+      "volume": "058",
       "last_updated": "1775776484",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqojz4l"
-      },
-      "volume": "058"
+      }
     },
     "551": {
       "title": "Il faut arrêter Nagato !!",
+      "volume": "058",
       "last_updated": "1775776493",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjae597d"
-      },
-      "volume": "058"
+      }
     },
     "552": {
       "title": "La Condition pour devenir Hokage… !!",
+      "volume": "058",
       "last_updated": "1775776494",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3anbxyp"
-      },
-      "volume": "058"
+      }
     },
     "553": {
       "title": "Arrivée sur le front principal !!",
+      "volume": "058",
       "last_updated": "1775776492",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3q2da7k"
-      },
-      "volume": "058"
+      }
     },
     "554": {
       "title": "Les Limites de l'Orbe Shuriken… !!",
+      "volume": "058",
       "last_updated": "1775776496",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732doqg4r"
-      },
-      "volume": "058"
+      }
     },
     "555": {
       "title": "Contradiction",
+      "volume": "058",
       "last_updated": "1775777084",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pran2j4o"
-      },
-      "volume": "058"
+      }
     },
     "556": {
       "title": "Gaara vs le 2° Mizukage !!",
+      "volume": "059",
       "last_updated": "1775776506",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89nbx7x"
-      },
-      "volume": "059"
+      }
     },
     "557": {
       "title": "Les Brumes du Tyran !!",
+      "volume": "059",
       "last_updated": "1775778046",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7oda5g9yp"
-      },
-      "volume": "059"
+      }
     },
     "558": {
       "title": "L'Atout de Kabuto… !!",
+      "volume": "059",
       "last_updated": "1775778057",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732d6934r"
-      },
-      "volume": "059"
+      }
     },
     "559": {
       "title": "L'Arrivée des renforts… !!",
+      "volume": "059",
       "last_updated": "1775776504",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdlrmyd"
-      },
-      "volume": "059"
+      }
     },
     "560": {
       "title": "Madara Uchiwa",
+      "volume": "059",
       "last_updated": "1775776511",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmq3q7j"
-      },
-      "volume": "059"
+      }
     },
     "561": {
       "title": "Le Pouvoir d'un nom",
+      "volume": "059",
       "last_updated": "1775776512",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8re6w24b"
-      },
-      "volume": "059"
+      }
     },
     "562": {
       "title": "La Dignité retrouvée",
+      "volume": "059",
       "last_updated": "1775776512",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jmorny5"
-      },
-      "volume": "059"
+      }
     },
     "563": {
       "title": "Côte à côte… !!",
+      "volume": "059",
       "last_updated": "1775776532",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q3omzyx"
-      },
-      "volume": "059"
+      }
     },
     "564": {
       "title": "L'Homme qui n'était personne",
+      "volume": "059",
       "last_updated": "1775778045",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2a5zm78"
-      },
-      "volume": "059"
+      }
     },
     "565": {
       "title": "Réceptacles contre Réceptacles !!",
+      "volume": "059",
       "last_updated": "1775778047",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqnp84l"
-      },
-      "volume": "059"
+      }
     },
     "566": {
       "title": "La Pupille et le Fauve",
+      "volume": "060",
       "last_updated": "1775778058",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5ende78"
-      },
-      "volume": "060"
+      }
     },
     "567": {
       "title": "Le Réceptacle du village des Feuilles",
+      "volume": "060",
       "last_updated": "1775776549",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx59nbp7q"
-      },
-      "volume": "060"
+      }
     },
     "568": {
       "title": "Yonbi, roi des Singes Ermites",
+      "volume": "060",
       "last_updated": "1775778049",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qn5n7k"
-      },
-      "volume": "060"
+      }
     },
     "569": {
       "title": "La Meilleure des preuves !!",
+      "volume": "060",
       "last_updated": "1775778049",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7lla5xo7x"
-      },
-      "volume": "060"
+      }
     },
     "570": {
       "title": "Kurama",
+      "volume": "060",
       "last_updated": "1775778045",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqma59k72"
-      },
-      "volume": "060"
+      }
     },
     "571": {
       "title": "Mode Bijû !!",
+      "volume": "060",
       "last_updated": "1775778048",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3a5g6yp"
-      },
-      "volume": "060"
+      }
     },
     "572": {
       "title": "Neuf noms",
+      "volume": "060",
       "last_updated": "1775778050",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjavmj7d"
-      },
-      "volume": "060"
+      }
     },
     "573": {
       "title": "Chemin de clarté",
+      "volume": "060",
       "last_updated": "1775778053",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdn3kyd"
-      },
-      "volume": "060"
+      }
     },
     "574": {
       "title": "L'Œil rivé sur les ténèbres",
+      "volume": "060",
       "last_updated": "1775778051",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5m9v7j"
-      },
-      "volume": "060"
+      }
     },
     "575": {
       "title": "Une volonté de pierre",
+      "volume": "060",
       "last_updated": "1775778052",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmpdb7j"
-      },
-      "volume": "060"
+      }
     },
     "576": {
       "title": "Le Chemin des retrouvailles",
+      "volume": "061",
       "last_updated": "1775778060",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxj6zy8"
-      },
-      "volume": "061"
+      }
     },
     "577": {
       "title": "Une lame de haine",
+      "volume": "061",
       "last_updated": "1775778054",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8re2xd4b"
-      },
-      "volume": "061"
+      }
     },
     "578": {
       "title": "Faiblesse et Désespoir !!",
+      "volume": "061",
       "last_updated": "1775778055",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jm6xgy5"
-      },
-      "volume": "061"
+      }
     },
     "579": {
       "title": "Frères unis dans le combat !!",
+      "volume": "061",
       "last_updated": "1775778051",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2npw4l"
-      },
-      "volume": "061"
+      }
     },
     "580": {
       "title": "Du temps entre frères",
+      "volume": "061",
       "last_updated": "1775778055",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q36avyx"
-      },
-      "volume": "061"
+      }
     },
     "581": {
       "title": "Chacun son Konoha",
+      "volume": "061",
       "last_updated": "1775778062",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pra5qk4o"
-      },
-      "volume": "061"
+      }
     },
     "582": {
       "title": "Rien du tout",
+      "volume": "061",
       "last_updated": "1775778062",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7oda5l9yp"
-      },
-      "volume": "061"
+      }
     },
     "583": {
       "title": "Qui es-tu ?",
+      "volume": "061",
       "last_updated": "1775778063",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2a5rm78"
-      },
-      "volume": "061"
+      }
     },
     "584": {
       "title": "Kabuto Yakushi",
+      "volume": "061",
       "last_updated": "1775778061",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brlnpvy5"
-      },
-      "volume": "061"
+      }
     },
     "585": {
       "title": "Pour m'accomplir moi-même",
+      "volume": "061",
       "last_updated": "1775778082",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3a526yp"
-      },
-      "volume": "061"
+      }
     },
     "586": {
       "title": "L'Activation d'Izanami",
+      "volume": "061",
       "last_updated": "1775778075",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5en3e78"
-      },
-      "volume": "061"
+      }
     },
     "587": {
       "title": "À 9 heures…",
+      "volume": "061",
       "last_updated": "1775778076",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqma5qk72"
-      },
-      "volume": "061"
+      }
     },
     "588": {
       "title": "Le Fardeau",
+      "volume": "062",
       "last_updated": "1775778097",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qnzn7k"
-      },
-      "volume": "062"
+      }
     },
     "589": {
       "title": "La Révocation d'Edotensei",
+      "volume": "062",
       "last_updated": "1775778085",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjavnj7d"
-      },
-      "volume": "062"
+      }
     },
     "590": {
       "title": "Je t'aimerai toujours",
+      "volume": "062",
       "last_updated": "1775778088",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmplb7j"
-      },
-      "volume": "062"
+      }
     },
     "591": {
       "title": "La Faille",
+      "volume": "062",
       "last_updated": "1775778087",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732d6p34r"
-      },
-      "volume": "062"
+      }
     },
     "592": {
       "title": "Le Troisième Pouvoir",
+      "volume": "062",
       "last_updated": "1775778091",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8re2zd4b"
-      },
-      "volume": "062"
+      }
     },
     "593": {
       "title": "Orochimaru ressuscité",
+      "volume": "062",
       "last_updated": "1775778086",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89qvb7x"
-      },
-      "volume": "062"
+      }
     },
     "594": {
       "title": "Le Créateur",
+      "volume": "062",
       "last_updated": "1775778095",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2ngw4l"
-      },
-      "volume": "062"
+      }
     },
     "595": {
       "title": "Fissure",
+      "volume": "062",
       "last_updated": "1775778100",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdnvkyd"
-      },
-      "volume": "062"
+      }
     },
     "596": {
       "title": "Une seule technique",
+      "volume": "062",
       "last_updated": "1775778089",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5m3v7j"
-      },
-      "volume": "062"
+      }
     },
     "597": {
       "title": "Les Arcanes du Ninjutsu spatio-temporel",
+      "volume": "062",
       "last_updated": "1775778104",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jm68gy5"
-      },
-      "volume": "062"
+      }
     },
     "598": {
       "title": "Pulvérisation !!!!",
+      "volume": "063",
       "last_updated": "1775778112",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pra5zk4o"
-      },
-      "volume": "063"
+      }
     },
     "599": {
       "title": "Obito Uchiwa",
+      "volume": "063",
       "last_updated": "1775778096",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brlnxvy5"
-      },
-      "volume": "063"
+      }
     },
     "600": {
       "title": "Pourquoi ?",
+      "volume": "063",
       "last_updated": "1775778091",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q36xvyx"
-      },
-      "volume": "063"
+      }
     },
     "601": {
       "title": "Obito et Madara",
+      "volume": "063",
       "last_updated": "1775778094",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxjezy8"
-      },
-      "volume": "063"
+      }
     },
     "602": {
       "title": "Vivant",
+      "volume": "063",
       "last_updated": "1775778092",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx59dgk7q"
-      },
-      "volume": "063"
+      }
     },
     "603": {
       "title": "Rééducation",
+      "volume": "063",
       "last_updated": "1775778094",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvkll4n"
-      },
-      "volume": "063"
+      }
     },
     "604": {
       "title": "Funestes Retrouvailles",
+      "volume": "063",
       "last_updated": "1775778102",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m2lja7n"
-      },
-      "volume": "063"
+      }
     },
     "605": {
       "title": "Enfer",
+      "volume": "063",
       "last_updated": "1775778099",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2a5wm78"
-      },
-      "volume": "063"
+      }
     },
     "606": {
       "title": "Monde onirique",
+      "volume": "063",
       "last_updated": "1775778101",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5enwe78"
-      },
-      "volume": "063"
+      }
     },
     "607": {
       "title": "Aucune espèce d'importance",
+      "volume": "063",
       "last_updated": "1775778100",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7lla5mo7x"
-      },
-      "volume": "063"
+      }
     },
     "608": {
       "title": "La Décision de Kakashi !!",
+      "volume": "064",
       "last_updated": "1775778142",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5enw578"
-      },
-      "volume": "064"
+      }
     },
     "609": {
       "title": "La Fin",
+      "volume": "064",
       "last_updated": "1775778101",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqma5dk72"
-      },
-      "volume": "064"
+      }
     },
     "610": {
       "title": "Jûbi",
+      "volume": "064",
       "last_updated": "1775778113",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqnln4l"
-      },
-      "volume": "064"
+      }
     },
     "611": {
       "title": "Arrivée",
+      "volume": "064",
       "last_updated": "1775778114",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7lla5m67x"
-      },
-      "volume": "064"
+      }
     },
     "612": {
       "title": "L'Art de l'Alliance Shinobi",
+      "volume": "064",
       "last_updated": "1775778117",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqma5de72"
-      },
-      "volume": "064"
+      }
     },
     "613": {
       "title": "La Tête",
+      "volume": "064",
       "last_updated": "1775778119",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qnpd7k"
-      },
-      "volume": "064"
+      }
     },
     "614": {
       "title": "Pour toi",
+      "volume": "064",
       "last_updated": "1775778124",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjav2q7d"
-      },
-      "volume": "064"
+      }
     },
     "615": {
       "title": "Reliés",
+      "volume": "064",
       "last_updated": "1775778122",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3a5dkyp"
-      },
-      "volume": "064"
+      }
     },
     "616": {
       "title": "La Danse des shinobis",
+      "volume": "064",
       "last_updated": "1775778137",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732d6jv4r"
-      },
-      "volume": "064"
+      }
     },
     "617": {
       "title": "La Danse des shinobis, acte 2",
+      "volume": "064",
       "last_updated": "1775778127",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89qr37x"
-      },
-      "volume": "064"
+      }
     },
     "618": {
       "title": "Le Temps des réponses",
+      "volume": "065",
       "last_updated": "1775778152",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxjwwy8"
-      },
-      "volume": "065"
+      }
     },
     "619": {
       "title": "Un clan possédé par le mal",
+      "volume": "065",
       "last_updated": "1775778130",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdnpxyd"
-      },
-      "volume": "065"
+      }
     },
     "620": {
       "title": "Senju Hashirama",
+      "volume": "065",
       "last_updated": "1775778129",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmpro7j"
-      },
-      "volume": "065"
+      }
     },
     "621": {
       "title": "Hashirama et Madara",
+      "volume": "065",
       "last_updated": "1775778127",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8re2op4b"
-      },
-      "volume": "065"
+      }
     },
     "622": {
       "title": "Objectif atteint",
+      "volume": "065",
       "last_updated": "1775778134",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jm6zxy5"
-      },
-      "volume": "065"
+      }
     },
     "623": {
       "title": "Vue d'ensemble",
+      "volume": "065",
       "last_updated": "1775778134",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q36kgyx"
-      },
-      "volume": "065"
+      }
     },
     "624": {
       "title": "Égalité",
+      "volume": "065",
       "last_updated": "1775778133",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2nvg4l"
-      },
-      "volume": "065"
+      }
     },
     "625": {
       "title": "Le Véritable rêve",
+      "volume": "065",
       "last_updated": "1775778135",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx59d2m7q"
-      },
-      "volume": "065"
+      }
     },
     "626": {
       "title": "Hashirama et Madara, acte 2",
+      "volume": "065",
       "last_updated": "1775778140",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m2lgv7n"
-      },
-      "volume": "065"
+      }
     },
     "627": {
       "title": "La Réponse de Sasuke",
+      "volume": "065",
       "last_updated": "1775778151",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvkxw4n"
-      },
-      "volume": "065"
+      }
     },
     "628": {
       "title": "Ici et à partir de maintenant",
+      "volume": "066",
       "last_updated": "1775778161",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brlnvky5"
-      },
-      "volume": "066"
+      }
     },
     "629": {
       "title": "Trou béant",
+      "volume": "066",
       "last_updated": "1775778154",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqn3n4l"
-      },
-      "volume": "066"
+      }
     },
     "630": {
       "title": "Combler",
+      "volume": "066",
       "last_updated": "1775778155",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qnad7k"
-      },
-      "volume": "066"
+      }
     },
     "631": {
       "title": "L'Équipe 7",
+      "volume": "066",
       "last_updated": "1775778138",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pra5984o"
-      },
-      "volume": "066"
+      }
     },
     "632": {
       "title": "Combat côte à côte",
+      "volume": "066",
       "last_updated": "1775778157",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2a5ek78"
-      },
-      "volume": "066"
+      }
     },
     "633": {
       "title": "Vers l'avant",
+      "volume": "066",
       "last_updated": "1775778153",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5env578"
-      },
-      "volume": "066"
+      }
     },
     "634": {
       "title": "Protection mutuelle",
+      "volume": "066",
       "last_updated": "1775778153",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqma5ze72"
-      },
-      "volume": "066"
+      }
     },
     "635": {
       "title": "Un vent nouveau",
+      "volume": "066",
       "last_updated": "1775778165",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdn6xyd"
-      },
-      "volume": "066"
+      }
     },
     "636": {
       "title": "L'Obito d'aujourd'hui",
+      "volume": "066",
       "last_updated": "1775778166",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jm62xy5"
-      },
-      "volume": "066"
+      }
     },
     "637": {
       "title": "Le Réceptacle de Jûbi",
+      "volume": "066",
       "last_updated": "1775778156",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3a58kyp"
-      },
-      "volume": "066"
+      }
     },
     "638": {
       "title": "Obito, réceptacle de Jûbi",
+      "volume": "067",
       "last_updated": "1775778181",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89qg37x"
-      },
-      "volume": "067"
+      }
     },
     "639": {
       "title": "L'Assaut",
+      "volume": "067",
       "last_updated": "1775778173",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pra5k84o"
-      },
-      "volume": "067"
+      }
     },
     "640": {
       "title": "Enfin !",
+      "volume": "067",
       "last_updated": "1775778164",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmpxo7j"
-      },
-      "volume": "067"
+      }
     },
     "641": {
       "title": "Fer de lance",
+      "volume": "067",
       "last_updated": "1775778163",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5mjg7j"
-      },
-      "volume": "067"
+      }
     },
     "642": {
       "title": "La Brèche",
+      "volume": "067",
       "last_updated": "1775778171",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brln2ky5"
-      },
-      "volume": "067"
+      }
     },
     "643": {
       "title": "Poings joints",
+      "volume": "067",
       "last_updated": "1775778166",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2nag4l"
-      },
-      "volume": "067"
+      }
     },
     "644": {
       "title": "Je sais",
+      "volume": "067",
       "last_updated": "1775778170",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvk3w4n"
-      },
-      "volume": "067"
+      }
     },
     "645": {
       "title": "Deux Puissances",
+      "volume": "067",
       "last_updated": "1775778172",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m2ldv7n"
-      },
-      "volume": "067"
+      }
     },
     "646": {
       "title": "L'Arbre divin",
+      "volume": "067",
       "last_updated": "1775778197",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89qe37x"
-      },
-      "volume": "067"
+      }
     },
     "647": {
       "title": "Regrets",
+      "volume": "067",
       "last_updated": "1775781614",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7oda5eayp"
-      },
-      "volume": "067"
+      }
     },
     "648": {
       "title": "Rêve de shinobis",
+      "volume": "068",
       "last_updated": "1775778190",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2a5dk78"
-      },
-      "volume": "068"
+      }
     },
     "649": {
       "title": "La Volonté des shinobis",
+      "volume": "068",
       "last_updated": "1775778180",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7lla5367x"
-      },
-      "volume": "068"
+      }
     },
     "650": {
       "title": "Au pays des songes",
+      "volume": "068",
       "last_updated": "1775778188",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3a5xkyp"
-      },
-      "volume": "068"
+      }
     },
     "651": {
       "title": "Comblés",
+      "volume": "068",
       "last_updated": "1775778182",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqnbn4l"
-      },
-      "volume": "068"
+      }
     },
     "652": {
       "title": "L'Empreinte de Naruto",
+      "volume": "068",
       "last_updated": "1775778200",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qnjd7k"
-      },
-      "volume": "068"
+      }
     },
     "653": {
       "title": "Je te regarde",
+      "volume": "068",
       "last_updated": "1775778192",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjav3q7d"
-      },
-      "volume": "068"
+      }
     },
     "654": {
       "title": "Je suis Obito Uchiwa",
+      "volume": "068",
       "last_updated": "1775778201",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxj2wy8"
-      },
-      "volume": "068"
+      }
     },
     "655": {
       "title": "Sillons",
+      "volume": "068",
       "last_updated": "1775778191",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732d6bv4r"
-      },
-      "volume": "068"
+      }
     },
     "656": {
       "title": "Substitution",
+      "volume": "068",
       "last_updated": "1775778193",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdnqxyd"
-      },
-      "volume": "068"
+      }
     },
     "657": {
       "title": "Madara Uchiwa est de retour",
+      "volume": "068",
       "last_updated": "1775778195",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5mwg7j"
-      },
-      "volume": "068"
+      }
     },
     "658": {
       "title": "Les Bijūs contre Madara…!!",
+      "volume": "069",
       "last_updated": "1775779041",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmp2o7j"
-      },
-      "volume": "069"
+      }
     },
     "659": {
       "title": "Les Limbes… !",
+      "volume": "069",
       "last_updated": "1775778202",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2n3g4l"
-      },
-      "volume": "069"
+      }
     },
     "660": {
       "title": "Véritable Cœur",
+      "volume": "069",
       "last_updated": "1775778198",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8re23p4b"
-      },
-      "volume": "069"
+      }
     },
     "661": {
       "title": "Un monde qui a échoué",
+      "volume": "069",
       "last_updated": "1775778204",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q36pgyx"
-      },
-      "volume": "069"
+      }
     },
     "662": {
       "title": "Le Rideau tombe",
+      "volume": "069",
       "last_updated": "1775778277",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brln5ky5"
-      },
-      "volume": "069"
+      }
     },
     "663": {
       "title": "Quoi qu'il m'en coûte !",
+      "volume": "069",
       "last_updated": "1775802654",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2agbb78"
-      },
-      "volume": "069"
+      }
     },
     "664": {
       "title": "Le Père",
+      "volume": "069",
       "last_updated": "1775778234",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdnaxyd"
-      },
-      "volume": "069"
+      }
     },
     "665": {
       "title": "Celui que je suis désormais…",
+      "volume": "069",
       "last_updated": "1775778250",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24ad2nqg4l"
-      },
-      "volume": "069"
+      }
     },
     "666": {
       "title": "Les Kaléidoscopes",
+      "volume": "069",
       "last_updated": "1775778206",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m2lvv7n"
-      },
-      "volume": "069"
+      }
     },
     "667": {
       "title": "Le Crépuscule de jade",
+      "volume": "069",
       "last_updated": "1775778212",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7k2a5ok78"
-      },
-      "volume": "069"
+      }
     },
     "668": {
       "title": "Un printemps écarlate",
+      "volume": "069",
       "last_updated": "1775778207",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7oda59ayp"
-      },
-      "volume": "069"
+      }
     },
     "669": {
       "title": "La Levée des verrous psychiques… !!",
+      "volume": "070",
       "last_updated": "1775779039",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvknw4n"
-      },
-      "volume": "070"
+      }
     },
     "670": {
       "title": "L'Homme du commencement",
+      "volume": "070",
       "last_updated": "1775780033",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q369oyx"
-      },
-      "volume": "070"
+      }
     },
     "671": {
       "title": "Naruto et l'Ermite Rikudô… !",
+      "volume": "070",
       "last_updated": "1775781618",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4j5en9578"
-      },
-      "volume": "070"
+      }
     },
     "672": {
       "title": "Gaï de la nuit",
+      "volume": "070",
       "last_updated": "1775802655",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqj694l"
-      },
-      "volume": "070"
+      }
     },
     "673": {
       "title": "À nous deux",
+      "volume": "070",
       "last_updated": "1775779069",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7brlnlny5"
-      },
-      "volume": "070"
+      }
     },
     "674": {
       "title": "Le Rinnegan de Sasuke",
+      "volume": "070",
       "last_updated": "1775781628",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqn934l"
-      },
-      "volume": "070"
+      }
     },
     "675": {
       "title": "Ton rêve d'aujourd'hui",
+      "volume": "070",
       "last_updated": "1775781629",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7lla5v37x"
-      },
-      "volume": "070"
+      }
     },
     "676": {
       "title": "Le Rêve éternel",
+      "volume": "070",
       "last_updated": "1775802655",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7lla8bq7x"
-      },
-      "volume": "070"
+      }
     },
     "677": {
       "title": "Les Arcanes lunaires infinis",
+      "volume": "070",
       "last_updated": "1775779067",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nqvkvz4n"
-      },
-      "volume": "070"
+      }
     },
     "678": {
       "title": "Ma volonté",
+      "volume": "070",
       "last_updated": "1775779052",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8re2eo4b"
-      },
-      "volume": "070"
+      }
     },
     "679": {
       "title": "Au commencement",
+      "volume": "070",
       "last_updated": "1775779059",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxjx9y8"
-      },
-      "volume": "070"
+      }
     },
     "680": {
       "title": "À nouveau",
+      "volume": "071",
       "last_updated": "1775781649",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjavxa7d"
-      },
-      "volume": "071"
+      }
     },
     "681": {
       "title": "Les Larmes de Kaguya",
+      "volume": "071",
       "last_updated": "1775778231",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2xqndn4l"
-      },
-      "volume": "071"
+      }
     },
     "682": {
       "title": "T'avais encore jamais vu ça, hein ?!",
+      "volume": "071",
       "last_updated": "1775778232",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqma5ve72"
-      },
-      "volume": "071"
+      }
     },
     "683": {
       "title": "Un rêve en commun",
+      "volume": "071",
       "last_updated": "1775778249",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jm6pxy5"
-      },
-      "volume": "071"
+      }
     },
     "684": {
       "title": "Une bonne fois pour toutes !!",
+      "volume": "071",
       "last_updated": "1775779060",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx59d937q"
-      },
-      "volume": "071"
+      }
     },
     "685": {
       "title": "Maximum",
+      "volume": "071",
       "last_updated": "1775778233",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w89ql37x"
-      },
-      "volume": "071"
+      }
     },
     "686": {
       "title": "Ceux qui restent",
+      "volume": "071",
       "last_updated": "1775778237",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mjav9q7d"
-      },
-      "volume": "071"
+      }
     },
     "687": {
       "title": "Quoi qu'il advienne !",
+      "volume": "071",
       "last_updated": "1775780704",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732d6qg4r"
-      },
-      "volume": "071"
+      }
     },
     "688": {
       "title": "Sharingans… !!",
+      "volume": "071",
       "last_updated": "1775778257",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvgxjqwy8"
-      },
-      "volume": "071"
+      }
     },
     "689": {
       "title": "Je vous adore !",
+      "volume": "071",
       "last_updated": "1775781635",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qnw67k"
-      },
-      "volume": "071"
+      }
     },
     "690": {
       "title": "Ninja",
+      "volume": "071",
       "last_updated": "1775781646",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg732d6no4r"
-      },
-      "volume": "071"
+      }
     },
     "691": {
       "title": "Félicitations !!",
+      "volume": "072",
       "last_updated": "1775779057",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yx59drm7q"
-      },
-      "volume": "072"
+      }
     },
     "692": {
       "title": "Révolution !!",
+      "volume": "072",
       "last_updated": "1775781637",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyr3a5jlyp"
-      },
-      "volume": "072"
+      }
     },
     "693": {
       "title": "La Même Issue",
+      "volume": "072",
       "last_updated": "1775779072",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7oda5adyp"
-      },
-      "volume": "072"
+      }
     },
     "694": {
       "title": "Naruto et Sasuke, acte I",
+      "volume": "072",
       "last_updated": "1775779072",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pra5a64o"
-      },
-      "volume": "072"
+      }
     },
     "695": {
       "title": "Naruto et Sasuke, acte II",
+      "volume": "072",
       "last_updated": "1775779070",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9249m2l227n"
-      },
-      "volume": "072"
+      }
     },
     "696": {
       "title": "Naruto et Sasuke, acte III",
+      "volume": "072",
       "last_updated": "1775779993",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmp8j7j"
-      },
-      "volume": "072"
+      }
     },
     "697": {
       "title": "Naruto et Sasuke, acte IV",
+      "volume": "072",
       "last_updated": "1775779061",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846q363wyx"
-      },
-      "volume": "072"
+      }
     },
     "698": {
       "title": "Naruto et Sasuke, acte V",
+      "volume": "072",
       "last_updated": "1775779060",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45jm6m2y5"
-      },
-      "volume": "072"
+      }
     },
     "699": {
       "title": "Le Signe de réconciliation",
+      "volume": "072",
       "last_updated": "1775781630",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7lla5vx7x"
-      },
-      "volume": "072"
+      }
     },
     "700": {
       "title": "Naruto Uzumaki !!",
+      "volume": "072",
       "last_updated": "1775780717",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyewdnrmyd"
-      },
-      "volume": "072"
+      }
+    },
+    "001": {
+      "title": "Naruto Uzumaki !!",
+      "volume": "01",
+      "last_updated": "1775769896",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pra8984o"
+      }
+    },
+    "002": {
+      "title": "Konoha-Maru !!",
+      "volume": "01",
+      "last_updated": "1775769843",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmw2r7j"
+      }
+    },
+    "003": {
+      "title": "Sasuke Uchiwa !!",
+      "volume": "01",
+      "last_updated": "1775769847",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewdmq3yd"
+      }
+    },
+    "004": {
+      "title": "Kakashi Hatake !!",
+      "volume": "01",
+      "last_updated": "1775769835",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7oda8xayp"
+      }
+    },
+    "005": {
+      "title": "L'inattention est la pire ennemie !",
+      "volume": "01",
+      "last_updated": "1775769841",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846q3dlwyx"
+      }
+    },
+    "006": {
+      "title": "Non ! Pas Sasuke !",
+      "volume": "01",
+      "last_updated": "1775769836",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8v278"
+      }
+    },
+    "007": {
+      "title": "La Conclusion de Kakashi",
+      "volume": "01",
+      "last_updated": "1775769837",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732dlwz4r"
+      }
+    },
+    "008": {
+      "title": "Recalés !!",
+      "volume": "01",
+      "last_updated": "1775769839",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24ad2ja34l"
+      }
+    },
+    "009": {
+      "title": "Un client embarrassant",
+      "volume": "01",
+      "last_updated": "1775769838",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq23n4l"
+      }
+    },
+    "010": {
+      "title": "Au suivant !",
+      "volume": "01",
+      "last_updated": "1775769833",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8v578"
+      }
+    },
+    "011": {
+      "title": "Débarquement !",
+      "volume": "01",
+      "last_updated": "1775769840",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8remqo4b"
+      }
+    },
+    "012": {
+      "title": "C'est la fin !",
+      "volume": "01",
+      "last_updated": "1775769834",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w89mez7x"
+      }
+    },
+    "013": {
+      "title": "Un vrai ninja !",
+      "volume": "01",
+      "last_updated": "1775769839",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq23j4l"
+      }
+    },
+    "014": {
+      "title": "La Botte secrète",
+      "volume": "01",
+      "last_updated": "1775769840",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jmq22y5"
+      }
+    },
+    "015": {
+      "title": "Le Sharingan est de retour !",
+      "volume": "01",
+      "last_updated": "1775769831",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llaorp7x"
+      }
+    },
+    "016": {
+      "title": "Qui es-tu ?",
+      "volume": "01",
+      "last_updated": "1775769832",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llaor67x"
+      }
+    },
+    "017": {
+      "title": "Les Préparatifs avant la bataille…",
+      "volume": "01",
+      "last_updated": "1775769831",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2a8ek78"
+      }
+    },
+    "017.1": {
+      "title": "BONUS : Les origines de Naruto !!",
+      "volume": "01",
+      "last_updated": "1775769887",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqma2ze72"
+      }
+    },
+    "018": {
+      "title": "Début de l'entraînement !",
+      "volume": "02",
+      "last_updated": "1775769868",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx593m37q"
+      }
+    },
+    "019": {
+      "title": "Le Symbole du courage !",
+      "volume": "02",
+      "last_updated": "1775769846",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3al8eyp"
+      }
+    },
+    "020": {
+      "title": "Le Héros du pays !",
+      "volume": "02",
+      "last_updated": "1775769849",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5nw37j"
+      }
+    },
+    "021": {
+      "title": "Rencontre dans la forêt…",
+      "volume": "02",
+      "last_updated": "1775769845",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qraw7k"
+      }
+    },
+    "022": {
+      "title": "Apparition d'un redoutable ennemi !!",
+      "volume": "02",
+      "last_updated": "1775769842",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqma2zo72"
+      }
+    },
+    "023": {
+      "title": "Deux attaques-surprises !!",
+      "volume": "02",
+      "last_updated": "1775769848",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mja8kb7d"
+      }
+    },
+    "024": {
+      "title": "Vitesse !",
+      "volume": "02",
+      "last_updated": "1775769848",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgxrv9y8"
+      }
+    },
+    "025": {
+      "title": "Se battre pour ses rêves !!",
+      "volume": "02",
+      "last_updated": "1775769879",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2a8dq78"
+      }
+    },
+    "026": {
+      "title": "Le Sharingan inefficace !!",
+      "volume": "02",
+      "last_updated": "1775769875",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq2bj4l"
+      }
+    },
+    "027": {
+      "title": "Le Réveil de la bête.",
+      "volume": "02",
+      "last_updated": "1775769876",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llao3p7x"
+      }
+    },
+    "028": {
+      "title": "Kyûbi, le démon-renard à 9 queues…!",
+      "volume": "02",
+      "last_updated": "1775769877",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8q278"
+      }
+    },
+    "029": {
+      "title": "L'Être cher… !",
+      "volume": "02",
+      "last_updated": "1775769882",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qrjw7k"
+      }
+    },
+    "030": {
+      "title": "L'Avenir…!",
+      "volume": "02",
+      "last_updated": "1775769871",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqma28o72"
+      }
+    },
+    "031": {
+      "title": "À chacun son combat…!",
+      "volume": "02",
+      "last_updated": "1775769878",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w89mlz7x"
+      }
+    },
+    "032": {
+      "title": "Une arme nommée « Shinobi »…",
+      "volume": "02",
+      "last_updated": "1775769884",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732dlbz4r"
+      }
+    },
+    "033": {
+      "title": "Le Pont des héros ?",
+      "volume": "02",
+      "last_updated": "1775769878",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mja83b7d"
+      }
+    },
+    "034": {
+      "title": "Des intrus ?!",
+      "volume": "02",
+      "last_updated": "1775769880",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5nd37j"
+      }
+    },
+    "035": {
+      "title": "Iruka vs Kakashi ?!",
+      "volume": "02",
+      "last_updated": "1775769883",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewdma3yd"
+      }
+    },
+    "036": {
+      "title": "La Détresse de Sakura…",
+      "volume": "02",
+      "last_updated": "1775769881",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8rem3o4b"
+      }
+    },
+    "036.1": {
+      "title": "BONUS : Le village et son histoire",
+      "volume": "02",
+      "last_updated": "1775769880",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmwer7j"
+      }
+    },
+    "037": {
+      "title": "Sharingan vs Taijutsu… !",
+      "volume": "03",
+      "last_updated": "1775769903",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jmq32y5"
+      }
+    },
+    "038": {
+      "title": "Start… !",
+      "volume": "03",
+      "last_updated": "1775769887",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846q3dpwyx"
+      }
+    },
+    "039": {
+      "title": "Les Rivaux !",
+      "volume": "03",
+      "last_updated": "1775769883",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgxr29y8"
+      }
+    },
+    "040": {
+      "title": "La Première Épreuve !!",
+      "volume": "03",
+      "last_updated": "1775769891",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqv8nz4n"
+      }
+    },
+    "041": {
+      "title": "La Tentation du démon… !?",
+      "volume": "03",
+      "last_updated": "1775769892",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249m23v27n"
+      }
+    },
+    "042": {
+      "title": "Chacun son combat… !",
+      "volume": "03",
+      "last_updated": "1775769886",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx593j37q"
+      }
+    },
+    "043": {
+      "title": "La Dixième Question…",
+      "volume": "03",
+      "last_updated": "1775769916",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qrxw7k"
+      }
+    },
+    "044": {
+      "title": "Mise à l'épreuve… !",
+      "volume": "03",
+      "last_updated": "1775769900",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7oda89dyp"
+      }
+    },
+    "045": {
+      "title": "La Seconde Épreuve !!",
+      "volume": "03",
+      "last_updated": "1775769905",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2a8oq78"
+      }
+    },
+    "046": {
+      "title": "Le Mot de passe… !!",
+      "volume": "03",
+      "last_updated": "1775769914",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3alveyp"
+      }
+    },
+    "047": {
+      "title": "Le Prédateur !!",
+      "volume": "03",
+      "last_updated": "1775769917",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mja89b7d"
+      }
+    },
+    "048": {
+      "title": "La Cible !",
+      "volume": "03",
+      "last_updated": "1775769921",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732dlrz4r"
+      }
+    },
+    "049": {
+      "title": "Le Poltron… !!",
+      "volume": "03",
+      "last_updated": "1775769924",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w89mdz7x"
+      }
+    },
+    "050": {
+      "title": "À moi de jouer !!",
+      "volume": "03",
+      "last_updated": "1775769931",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jmqp2y5"
+      }
+    },
+    "051": {
+      "title": "Le Fauve resplendissant… !!",
+      "volume": "03",
+      "last_updated": "1775769927",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8remvo4b"
+      }
+    },
+    "052": {
+      "title": "La Condition d'utilisation !!",
+      "volume": "03",
+      "last_updated": "1775769930",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24ad2jq34l"
+      }
+    },
+    "053": {
+      "title": "La Détermination de Sakura !!",
+      "volume": "03",
+      "last_updated": "1775769925",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5ne37j"
+      }
+    },
+    "054": {
+      "title": "Sakura et Ino",
+      "volume": "03",
+      "last_updated": "1775769919",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmwjr7j"
+      }
+    },
+    "054.1": {
+      "title": "BONUS : Les anecdotes de Konoha : CHEZ ICHIRAKU...",
+      "volume": "03",
+      "last_updated": "1775769902",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewdm23yd"
+      }
+    },
+    "055": {
+      "title": "Offensive générale !!",
+      "volume": "04",
+      "last_updated": "1775769951",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgxrq9y8"
+      }
+    },
+    "056": {
+      "title": "De nouveaux pouvoirs !!",
+      "volume": "04",
+      "last_updated": "1775769933",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249m23w27n"
+      }
+    },
+    "057": {
+      "title": "Dix heures avant l'échéance !!",
+      "volume": "04",
+      "last_updated": "1775769931",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx593r37q"
+      }
+    },
+    "058": {
+      "title": "Les Témoins !!",
+      "volume": "04",
+      "last_updated": "1775769934",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brlqdny5"
+      }
+    },
+    "059": {
+      "title": "Tempête de sable !!",
+      "volume": "04",
+      "last_updated": "1775769926",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqv8wz4n"
+      }
+    },
+    "060": {
+      "title": "La Dernière Chance !!",
+      "volume": "04",
+      "last_updated": "1775769946",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7oda8wdyp"
+      }
+    },
+    "061": {
+      "title": "La Voie à suivre !!",
+      "volume": "04",
+      "last_updated": "1775769936",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pra8e64o"
+      }
+    },
+    "062": {
+      "title": "Pris au piège !!",
+      "volume": "04",
+      "last_updated": "1775769935",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq2aj4l"
+      }
+    },
+    "063": {
+      "title": "Un nouveau visage !!",
+      "volume": "04",
+      "last_updated": "1775769942",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llaogp7x"
+      }
+    },
+    "064": {
+      "title": "Le Message du Hokage…",
+      "volume": "04",
+      "last_updated": "1775769944",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8k278"
+      }
+    },
+    "065": {
+      "title": "Au péril de sa vie… !!",
+      "volume": "04",
+      "last_updated": "1775769943",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqma2xo72"
+      }
+    },
+    "066": {
+      "title": "L'Imploration de Sakura",
+      "volume": "04",
+      "last_updated": "1775769948",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qrmw7k"
+      }
+    },
+    "067": {
+      "title": "Le Pouvoir occulte !!",
+      "volume": "04",
+      "last_updated": "1775769955",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732dlgz4r"
+      }
+    },
+    "068": {
+      "title": "Le Sang des Uchiwa !!",
+      "volume": "04",
+      "last_updated": "1775769950",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3al9eyp"
+      }
+    },
+    "069": {
+      "title": "Un terrifiant visiteur !!",
+      "volume": "04",
+      "last_updated": "1775769964",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w89mxz7x"
+      }
+    },
+    "070": {
+      "title": "Pour qui sonne le glas…?!",
+      "volume": "04",
+      "last_updated": "1775769963",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zl5n837j"
+      }
+    },
+    "071": {
+      "title": "Le Mur infranchissable… !!",
+      "volume": "04",
+      "last_updated": "1775769968",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846q3d5wyx"
+      }
+    },
+    "072": {
+      "title": "Les Rivales… !!",
+      "volume": "04",
+      "last_updated": "1775772762",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llaaaq7x"
+      }
+    },
+    "072.1": {
+      "title": "BONUS : Une photo de Kakashi...!!",
+      "volume": "04",
+      "last_updated": "1775772939",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brll6jy5"
+      }
+    },
+    "073": {
+      "title": "Défaite par abandon…?!",
+      "volume": "05",
+      "last_updated": "1775769990",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24ad2j834l"
+      }
+    },
+    "074": {
+      "title": "La Sixième Rencontre… Suspense !!",
+      "volume": "05",
+      "last_updated": "1775769990",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8gx78"
+      }
+    },
+    "075": {
+      "title": "Naruto, toujours plus loin… !!",
+      "volume": "05",
+      "last_updated": "1775769987",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llao2p7x"
+      }
+    },
+    "076": {
+      "title": "Retournements de situation !!",
+      "volume": "05",
+      "last_updated": "1775769979",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx593837q"
+      }
+    },
+    "077": {
+      "title": "Naruto, fin tacticien !!",
+      "volume": "05",
+      "last_updated": "1775769969",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqv8jz4n"
+      }
+    },
+    "078": {
+      "title": "Neji et Hinata",
+      "volume": "05",
+      "last_updated": "1775769971",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pra8d64o"
+      }
+    },
+    "079": {
+      "title": "Le Sang des Hyûga",
+      "volume": "05",
+      "last_updated": "1775769985",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7oda8qdyp"
+      }
+    },
+    "080": {
+      "title": "Au-delà de ses limites… !!",
+      "volume": "05",
+      "last_updated": "1775769986",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2a8vq78"
+      }
+    },
+    "081": {
+      "title": "Gaara entre en lice…",
+      "volume": "05",
+      "last_updated": "1775769986",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xq28j4l"
+      }
+    },
+    "082": {
+      "title": "Le Secret de Lee !!",
+      "volume": "05",
+      "last_updated": "1775769989",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5e8g278"
+      }
+    },
+    "083": {
+      "title": "Failles dans la muraille parfaite ?!",
+      "volume": "05",
+      "last_updated": "1775769980",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqma2ro72"
+      }
+    },
+    "084": {
+      "title": "Un génie de l'effort… !!",
+      "volume": "05",
+      "last_updated": "1775769984",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llao2q7x"
+      }
+    },
+    "085": {
+      "title": "Le moment est venu… !!",
+      "volume": "05",
+      "last_updated": "1775769988",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3qrrl7k"
+      }
+    },
+    "086": {
+      "title": "Un ninja formidable… !!",
+      "volume": "05",
+      "last_updated": "1775770005",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w89mmg7x"
+      }
+    },
+    "087": {
+      "title": "Conclusion de la phase éliminatoire… !!",
+      "volume": "05",
+      "last_updated": "1775770005",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewdmmqyd"
+      }
+    },
+    "088": {
+      "title": "Où est Sasuke… ?",
+      "volume": "05",
+      "last_updated": "1775769996",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3allgyp"
+      }
+    },
+    "089": {
+      "title": "La Requête de Naruto… !!",
+      "volume": "05",
+      "last_updated": "1775769996",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732dllj4r"
+      }
+    },
+    "090": {
+      "title": "On fait comment pour l'entraînement ?!",
+      "volume": "05",
+      "last_updated": "1775772780",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w899ng7x"
+      }
+    },
+    "090.1": {
+      "title": "BONUS : De Karakuri à Naruto !!",
+      "volume": "05",
+      "last_updated": "1775770028",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzmwwj7j"
+      }
+    },
+    "091": {
+      "title": "Mon nouveau prof !!",
+      "volume": "06",
+      "last_updated": "1775775507",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgxnq9y8"
+      }
+    },
+    "092": {
+      "title": "Konoha, le son, le sable, et… !!",
+      "volume": "06",
+      "last_updated": "1775778022",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732d6k34r"
+      }
+    },
+    "093": {
+      "title": "Chacun son rythme… !!",
+      "volume": "06",
+      "last_updated": "1775770015",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jmqqqy5"
+      }
+    },
+    "094": {
+      "title": "La Clé… !!",
+      "volume": "06",
+      "last_updated": "1775772775",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewddlqyd"
+      }
+    },
+    "095": {
+      "title": "Rencontre au portail… !!",
+      "volume": "06",
+      "last_updated": "1775770021",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgxrrjy8"
+      }
+    },
+    "096": {
+      "title": "Une visite inopinée !!",
+      "volume": "06",
+      "last_updated": "1775770032",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5933q7q"
+      }
+    },
+    "097": {
+      "title": "Pourquoi j'existe… !!",
+      "volume": "06",
+      "last_updated": "1775770025",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249m233m7n"
+      }
+    },
+    "098": {
+      "title": "Un fier perdant !!",
+      "volume": "06",
+      "last_updated": "1775770017",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqv88m4n"
+      }
+    },
+    "099": {
+      "title": "L'Heure de l'épreuve… Enfin !",
+      "volume": "06",
+      "last_updated": "1775770042",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2a88b78"
+      }
+    },
+    "108.1": {
+      "title": "BONUS : Les personnages, tailles et caractères",
+      "volume": "06",
+      "last_updated": "1775770031",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846q3d3oyx"
+      }
     }
   }
 }
