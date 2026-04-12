@@ -1,0 +1,2209 @@
+{
+  "title": "Kuroko's Basket",
+  "description": "Kuroko's Basket ( 黒子のバスケ, Kuroko no basuke? ) est un shōnen manga écrit et dessiné par Tadatoshi Fujimaki. Il est pré-publié dans l'hebdomadaire Weekly Shōnen Jump de l'éditeur Shūeisha entre décembre 2008 et septembre 2014, et est compilé en un total de trente tomes. Une suite, Kuroko's Basket: Last Game ( 黒子のバスケ EXTRA GAME? ), est publiée entre décembre 2014 et mars 2016 dans le magazine Shōnen Jump NEXT! et compte deux tomes. La version française est éditée en intégralité par Kazé.",
+  "artist": "Tadatoshi Fujimaki",
+  "author": "Tadatoshi Fujimaki",
+  "cover": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/Logo_Kuroko%27s_Basket.png/250px-Logo_Kuroko%27s_Basket.png",
+  "chapters": {
+    "001": {
+      "title": "Quart-temps : Kuroko, c'est moi.",
+      "last_updated": "1775858650",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkvvn72"
+      },
+      "volume": "001"
+    },
+    "002": {
+      "title": "Quart-temps : Lundi, 8h40, sur le toit.",
+      "last_updated": "1775858575",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prnvvp4o"
+      },
+      "volume": "001"
+    },
+    "003": {
+      "title": "Quart-temps : Je suis très sérieux.",
+      "last_updated": "1775858578",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2komb78"
+      },
+      "volume": "001"
+    },
+    "004": {
+      "title": "Quart-temps : Méfiez-vous des apparences...",
+      "last_updated": "1775858568",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prnvep4o"
+      },
+      "volume": "001"
+    },
+    "005": {
+      "title": "Quart-temps : Ce n'est pas un minet.",
+      "last_updated": "1775858561",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mje9wn7d"
+      },
+      "volume": "001"
+    },
+    "006": {
+      "title": "Quart-temps : Vous êtes trop fort pour nous ? Parfait.",
+      "last_updated": "1775858569",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgn2qjy8"
+      },
+      "volume": "001"
+    },
+    "007": {
+      "title": "Quart-temps : Je compte sur vous pour contre-attaquer !",
+      "last_updated": "1775858570",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8nldg7x"
+      },
+      "volume": "001"
+    },
+    "008": {
+      "title": "Quart-temps : J'y retourne",
+      "last_updated": "1775858572",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlpded7j"
+      },
+      "volume": "002"
+    },
+    "009": {
+      "title": "Quart-temps : J'ai fait une promesse",
+      "last_updated": "1775858565",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3nv9gyp"
+      },
+      "volume": "002"
+    },
+    "010": {
+      "title": "Quart-temps : \"Aide moi et le ciel t'aidera\"",
+      "last_updated": "1775858553",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd32xml7k"
+      },
+      "volume": "002"
+    },
+    "011": {
+      "title": "Quart-temps : Ton basket",
+      "last_updated": "1775858572",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzqejj7j"
+      },
+      "volume": "002"
+    },
+    "012": {
+      "title": "Quart-temps : Achetez-en si vous pouvez!♥",
+      "last_updated": "1775858573",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mkvwm7n"
+      },
+      "volume": "002"
+    },
+    "013": {
+      "title": "Quart-temps : C'est parti!",
+      "last_updated": "1775858559",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xodd94l"
+      },
+      "volume": "002"
+    },
+    "014": {
+      "title": "Quart-temps : Laisse moi te dire deux choses...",
+      "last_updated": "1775858554",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2koob78"
+      },
+      "volume": "002"
+    },
+    "015": {
+      "title": "Quart-temps : Beaucoup plus fort que toi",
+      "last_updated": "1775858571",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5m99x78"
+      },
+      "volume": "002"
+    },
+    "016": {
+      "title": "Quart-temps : Showtime",
+      "last_updated": "1775858577",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732orgj4r"
+      },
+      "volume": "002"
+    },
+    "017": {
+      "title": "Quart-temps : Vous ne trouvez pas ça grisant?",
+      "last_updated": "1775858577",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jo3pqy5"
+      },
+      "volume": "003"
+    },
+    "018": {
+      "title": "Quart-temps : Voyons ce qu'ils donnent...",
+      "last_updated": "1775858575",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7br65djy5"
+      },
+      "volume": "003"
+    },
+    "019": {
+      "title": "Quart-temps : Les choses sont très claires",
+      "last_updated": "1775858553",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llw99q7x"
+      },
+      "volume": "003"
+    },
+    "020": {
+      "title": "Quart-temps : Tout va bien se passer",
+      "last_updated": "1775858576",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqznwm4n"
+      },
+      "volume": "003"
+    },
+    "021": {
+      "title": "Quart-temps : C'est du passé, tout ça.",
+      "last_updated": "1775858567",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qopwoyx"
+      },
+      "volume": "003"
+    },
+    "022": {
+      "title": "Quart-temps : Ne vous faites pas de bile!",
+      "last_updated": "1775858580",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odb9wryp"
+      },
+      "volume": "003"
+    },
+    "023": {
+      "title": "Quart-temps : Tout pour vaincre!",
+      "last_updated": "1775858565",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r63v54b"
+      },
+      "volume": "003"
+    },
+    "024": {
+      "title": "Quart-temps : Une set de DVD",
+      "last_updated": "1775858576",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5njrq7q"
+      },
+      "volume": "003"
+    },
+    "025": {
+      "title": "Quart-temps : On va vite le savoir...",
+      "last_updated": "1775858574",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewla2qyd"
+      },
+      "volume": "003"
+    },
+    "026": {
+      "title": "Quart-temps : Ce serait embarrassant",
+      "last_updated": "1775858606",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkvxn72"
+      },
+      "volume": "004"
+    },
+    "027": {
+      "title": "Quart-temps : Rompu à toutes les batailles",
+      "last_updated": "1775858586",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd32x6l7k"
+      },
+      "volume": "004"
+    },
+    "028": {
+      "title": "Quart-temps : Navré pour toi...",
+      "last_updated": "1775858589",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3nvmgyp"
+      },
+      "volume": "004"
+    },
+    "029": {
+      "title": "Quart-temps : Il ne s'agit pas de ça !",
+      "last_updated": "1775858594",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mje9ln7d"
+      },
+      "volume": "004"
+    },
+    "030": {
+      "title": "Quart-temps : Signe astrologique: Lion",
+      "last_updated": "1775858604",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732or5j4r"
+      },
+      "volume": "004"
+    },
+    "031": {
+      "title": "Quart-temps : Je vais gagner !!",
+      "last_updated": "1775858599",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8nlxg7x"
+      },
+      "volume": "004"
+    },
+    "032": {
+      "title": "Quart-temps : \"La victoire\" pour toi, c'est quoi?",
+      "last_updated": "1775858629",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2kovb78"
+      },
+      "volume": "004"
+    },
+    "033": {
+      "title": "Quart-temps : On fonce !!!",
+      "last_updated": "1775858638",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlpd8d7j"
+      },
+      "volume": "004"
+    },
+    "034": {
+      "title": "Quart-temps : Mettre toutes les chances de son côté",
+      "last_updated": "1775858629",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llw92q7x"
+      },
+      "volume": "004"
+    },
+    "035": {
+      "title": "Quart-temps : Le pari !",
+      "last_updated": "1775858639",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xod2z4l"
+      },
+      "volume": "005"
+    },
+    "036": {
+      "title": "Quart-temps : Il faudra qu'on remette ça",
+      "last_updated": "1775858608",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewlagqyd"
+      },
+      "volume": "005"
+    },
+    "037": {
+      "title": "Quart-temps : Pas de victoire pour les cancres !",
+      "last_updated": "1775858609",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzqe5j7j"
+      },
+      "volume": "005"
+    },
+    "038": {
+      "title": "Quart-temps : Me voilà !",
+      "last_updated": "1775858607",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jo35qy5"
+      },
+      "volume": "005"
+    },
+    "039": {
+      "title": "Quart-temps : Comme deux gouttes d'eau",
+      "last_updated": "1775858614",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r63554b"
+      },
+      "volume": "005"
+    },
+    "040": {
+      "title": "Quart-temps : Laisse-moi rire...",
+      "last_updated": "1775858622",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqznjm4n"
+      },
+      "volume": "005"
+    },
+    "041": {
+      "title": "Quart-temps : ...à gorge déployée",
+      "last_updated": "1775858631",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5m9gx78"
+      },
+      "volume": "005"
+    },
+    "042": {
+      "title": "Quart-temps : Mise en bouche",
+      "last_updated": "1775862561",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r6v8w4b"
+      },
+      "volume": "005"
+    },
+    "043": {
+      "title": "Quart-temps : Je l'ai récupérée !",
+      "last_updated": "1775858630",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgn29jy8"
+      },
+      "volume": "005"
+    },
+    "044": {
+      "title": "Quart-temps : Ce n'est pas son genre",
+      "last_updated": "1775858630",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qop5oyx"
+      },
+      "volume": "006"
+    },
+    "045": {
+      "title": "Quart-temps : Quand faut y aller...",
+      "last_updated": "1775858627",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5nj8q7q"
+      },
+      "volume": "006"
+    },
+    "046": {
+      "title": "Quart-temps : Pas si mal...",
+      "last_updated": "1775858626",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odb9qryp"
+      },
+      "volume": "006"
+    },
+    "047": {
+      "title": "Quart-temps : Fais confiance !",
+      "last_updated": "1775858624",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mkvpm7n"
+      },
+      "volume": "006"
+    },
+    "048": {
+      "title": "Quart-temps : Un ramassis de tarés",
+      "last_updated": "1775858622",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prnvdp4o"
+      },
+      "volume": "006"
+    },
+    "049": {
+      "title": "Quart-temps : Qu'on en finisse",
+      "last_updated": "1775858628",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xod894l"
+      },
+      "volume": "006"
+    },
+    "050": {
+      "title": "Quart-temps : Ton basket",
+      "last_updated": "1775858635",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5m98378"
+      },
+      "volume": "006"
+    },
+    "051": {
+      "title": "Quart-temps : Ne jamais abandonner !!",
+      "last_updated": "1775858637",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkv2d72"
+      },
+      "volume": "006"
+    },
+    "052": {
+      "title": "Quart-temps : Vers de nouveaux défis",
+      "last_updated": "1775858652",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd32xra7k"
+      },
+      "volume": "006"
+    },
+    "053": {
+      "title": "Quart-temps : On peut savoir qui tu es ?",
+      "last_updated": "1775858669",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mje9897d"
+      },
+      "volume": "007"
+    },
+    "054": {
+      "title": "Quart-temps : Un gars vraiment pénible",
+      "last_updated": "1775858661",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8nlmx7x"
+      },
+      "volume": "007"
+    },
+    "055": {
+      "title": "Quart-temps : Au mérite",
+      "last_updated": "1775858671",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzqewq7j"
+      },
+      "volume": "007"
+    },
+    "056": {
+      "title": "Quart-temps : Tourner la page",
+      "last_updated": "1775862544",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xoam34l"
+      },
+      "volume": "007"
+    },
+    "057": {
+      "title": "Quart-temps : On dit pas \"je veux\" !",
+      "last_updated": "1775858656",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r63m24b"
+      },
+      "volume": "007"
+    },
+    "058": {
+      "title": "Quart-temps : Comptez sur moi !",
+      "last_updated": "1775858672",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jo3qny5"
+      },
+      "volume": "007"
+    },
+    "059": {
+      "title": "Quart-temps : C'est parti !",
+      "last_updated": "1775858663",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qopdzyx"
+      },
+      "volume": "007"
+    },
+    "060": {
+      "title": "Quart-temps : Ne me fais pas rire",
+      "last_updated": "1775858684",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgn2rby8"
+      },
+      "volume": "007"
+    },
+    "061": {
+      "title": "Quart-temps : Essaie de sauter",
+      "last_updated": "1775862565",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mkw587n"
+      },
+      "volume": "007"
+    },
+    "062": {
+      "title": "Quart-temps : Ce qu'il me reste à faire",
+      "last_updated": "1775862575",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odbw3lyp"
+      },
+      "volume": "008"
+    },
+    "063": {
+      "title": "Quart-temps : Le temps d'une vie",
+      "last_updated": "1775858676",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqzn8b4n"
+      },
+      "volume": "008"
+    },
+    "064": {
+      "title": "Quart-temps : Immature !",
+      "last_updated": "1775858682",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prnv834o"
+      },
+      "volume": "008"
+    },
+    "065": {
+      "title": "Quart-temps : Qui mieux que moi ?!",
+      "last_updated": "1775858679",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llw9ax7x"
+      },
+      "volume": "008"
+    },
+    "066": {
+      "title": "Quart-temps : Mise en garde",
+      "last_updated": "1775858677",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7br65qmy5"
+      },
+      "volume": "008"
+    },
+    "067": {
+      "title": "Quart-temps : J'arrête",
+      "last_updated": "1775858677",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odb982yp"
+      },
+      "volume": "008"
+    },
+    "068": {
+      "title": "Quart-temps : Tout est possible",
+      "last_updated": "1775862554",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzqjkk7j"
+      },
+      "volume": "008"
+    },
+    "069": {
+      "title": "Quart-temps : Que se passera-t-il ?",
+      "last_updated": "1775862567",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llwg837x"
+      },
+      "volume": "008"
+    },
+    "070": {
+      "title": "Quart-temps : Sous-estimé",
+      "last_updated": "1775858683",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkvad72"
+      },
+      "volume": "008"
+    },
+    "071": {
+      "title": "Quart-temps : Effrayants",
+      "last_updated": "1775858703",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mje9a97d"
+      },
+      "volume": "009"
+    },
+    "072": {
+      "title": "Quart-temps : L'évidence même !",
+      "last_updated": "1775862553",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgnqaky8"
+      },
+      "volume": "009"
+    },
+    "073": {
+      "title": "Quart-temps : La monnaie de leur pièce",
+      "last_updated": "1775858688",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732ordg4r"
+      },
+      "volume": "009"
+    },
+    "074": {
+      "title": "Quart-temps : Dans la rue",
+      "last_updated": "1775858694",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlpd557j"
+      },
+      "volume": "009"
+    },
+    "075": {
+      "title": "Quart-temps : Une rencontre inattendue",
+      "last_updated": "1775858702",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jo3mny5"
+      },
+      "volume": "009"
+    },
+    "076": {
+      "title": "Quart-temps : Son grand frère, je dirais...",
+      "last_updated": "1775858697",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r63e24b"
+      },
+      "volume": "009"
+    },
+    "077": {
+      "title": "Quart-temps : Ma décision est prise !",
+      "last_updated": "1775862551",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlpeql7j"
+      },
+      "volume": "009"
+    },
+    "078": {
+      "title": "Quart-temps : Viens donc en découdre",
+      "last_updated": "1775858693",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzqemq7j"
+      },
+      "volume": "009"
+    },
+    "079": {
+      "title": "Quart-temps : Rendez-vous à la Winter Cup",
+      "last_updated": "1775858711",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24ad632d4l"
+      },
+      "volume": "009"
+    },
+    "080": {
+      "title": "Quart-temps : Regarde-moi",
+      "last_updated": "1775862554",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8nd2q7x"
+      },
+      "volume": "009"
+    },
+    "081": {
+      "title": "Quart-temps : Renaissance",
+      "last_updated": "1775858722",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5nj9p7q"
+      },
+      "volume": "010"
+    },
+    "082": {
+      "title": "Quart-temps : Prendre du fun",
+      "last_updated": "1775862549",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewl2ozyd"
+      },
+      "volume": "010"
+    },
+    "083": {
+      "title": "Quart-temps : Déclaration",
+      "last_updated": "1775858720",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7br65lmy5"
+      },
+      "volume": "010"
+    },
+    "084": {
+      "title": "Quart-temps : Enfin !",
+      "last_updated": "1775858714",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prnva34o"
+      },
+      "volume": "010"
+    },
+    "085": {
+      "title": "Quart-temps : Une fois suffit",
+      "last_updated": "1775858723",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odb9a2yp"
+      },
+      "volume": "010"
+    },
+    "086": {
+      "title": "Quart-temps : Une seule réponse possible",
+      "last_updated": "1775858721",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2koa378"
+      },
+      "volume": "010"
+    },
+    "087": {
+      "title": "Quart-temps : Un plus gros problème encore",
+      "last_updated": "1775862572",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5mkz978"
+      },
+      "volume": "010"
+    },
+    "088": {
+      "title": "Quart-temps : Courons !",
+      "last_updated": "1775858741",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5m9m378"
+      },
+      "volume": "010"
+    },
+    "089": {
+      "title": "Quart-temps : On t'attendait",
+      "last_updated": "1775858744",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3nvnxyp"
+      },
+      "volume": "010"
+    },
+    "090": {
+      "title": "Quart-temps : Commençons !!",
+      "last_updated": "1775858729",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llw9wx7x"
+      },
+      "volume": "011"
+    },
+    "091": {
+      "title": "Quart-temps : Il y a un moment que je les ai dépassées",
+      "last_updated": "1775858732",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkvkd72"
+      },
+      "volume": "011"
+    },
+    "092": {
+      "title": "Quart-temps : Fin du match",
+      "last_updated": "1775858729",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd32x2a7k"
+      },
+      "volume": "011"
+    },
+    "093": {
+      "title": "Quart-temps : J'en ai bien l'intention",
+      "last_updated": "1775858731",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732orog4r"
+      },
+      "volume": "011"
+    },
+    "094": {
+      "title": "Quart-temps : Il est temps de récurer tout ça !",
+      "last_updated": "1775862543",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llwgd37x"
+      },
+      "volume": "011"
+    },
+    "095": {
+      "title": "Quart-temps : Fondons-le ensemble !",
+      "last_updated": "1775858736",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mje9e97d"
+      },
+      "volume": "011"
+    },
+    "096": {
+      "title": "Quart-temps : Abandonne !",
+      "last_updated": "1775862546",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2kmqw78"
+      },
+      "volume": "011"
+    },
+    "097": {
+      "title": "Quart-temps : Le basket-ball du lycée Seirin",
+      "last_updated": "1775858743",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r63624b"
+      },
+      "volume": "011"
+    },
+    "098": {
+      "title": "Quart-temps : Content de vous avoir rencontrés",
+      "last_updated": "1775858728",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8nlnx7x"
+      },
+      "volume": "011"
+    },
+    "099": {
+      "title": "Quart-temps : Je serai vite de retour",
+      "last_updated": "1775862550",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkxex72"
+      },
+      "volume": "011"
+    },
+    "100": {
+      "title": "Quart-temps : Comment ne pas s'enflammer ?",
+      "last_updated": "1775858763",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgn2nby8"
+      },
+      "volume": "012"
+    },
+    "101": {
+      "title": "Quart-temps : Quel que soit le prix à payer",
+      "last_updated": "1775858745",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mkvkb7n"
+      },
+      "volume": "012"
+    },
+    "102": {
+      "title": "Quart-temps : Voilà pourquoi je suis revenu",
+      "last_updated": "1775858750",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5njnp7q"
+      },
+      "volume": "012"
+    },
+    "103": {
+      "title": "Quart-temps : Ce match, je vais le perdre",
+      "last_updated": "1775858751",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqznzb4n"
+      },
+      "volume": "012"
+    },
+    "104": {
+      "title": "Quart-temps : C'est là qu'est le piège",
+      "last_updated": "1775858758",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odb9b2yp"
+      },
+      "volume": "012"
+    },
+    "105": {
+      "title": "Quart-temps : Confiance",
+      "last_updated": "1775862555",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3n9zlyp"
+      },
+      "volume": "012"
+    },
+    "106": {
+      "title": "Quart-temps : Je le sens",
+      "last_updated": "1775858759",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llw95x7x"
+      },
+      "volume": "012"
+    },
+    "107": {
+      "title": "Quart-temps : Ras le bol",
+      "last_updated": "1775862539",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5mkj978"
+      },
+      "volume": "012"
+    },
+    "108": {
+      "title": "Quart-temps : Lents à en pleurer",
+      "last_updated": "1775858800",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xodnz4l"
+      },
+      "volume": "012"
+    },
+    "109": {
+      "title": "Quart-temps : Ça fait un bail",
+      "last_updated": "1775858776",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5m9n378"
+      },
+      "volume": "013"
+    },
+    "110": {
+      "title": "Quart-temps : On compte sur votre indulgence",
+      "last_updated": "1775862548",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732og3o4r"
+      },
+      "volume": "013"
+    },
+    "111": {
+      "title": "Quart-temps : Sur-le-champ",
+      "last_updated": "1775858771",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mje9v97d"
+      },
+      "volume": "013"
+    },
+    "112": {
+      "title": "Quart-temps : L'ouverture de la Winter Cup",
+      "last_updated": "1775858775",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewlanmyd"
+      },
+      "volume": "013"
+    },
+    "113": {
+      "title": "Quart-temps : Désolé pour l'attente",
+      "last_updated": "1775858772",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8nlqx7x"
+      },
+      "volume": "013"
+    },
+    "114": {
+      "title": "Quart-temps : Je le jure",
+      "last_updated": "1775858769",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732or6g4r"
+      },
+      "volume": "013"
+    },
+    "115": {
+      "title": "Quart-temps : Prenez l'avantage !!",
+      "last_updated": "1775862555",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24ad6qoe4l"
+      },
+      "volume": "013"
+    },
+    "116": {
+      "title": "Quart-temps : Grave erreur",
+      "last_updated": "1775858772",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r63224b"
+      },
+      "volume": "013"
+    },
+    "117": {
+      "title": "Quart-temps : Au sommet de sa forme",
+      "last_updated": "1775858804",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llw96x7x"
+      },
+      "volume": "013"
+    },
+    "118": {
+      "title": "Quart-temps : Il ne supporte pas de perdre",
+      "last_updated": "1775862561",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jopevy5"
+      },
+      "volume": "014"
+    },
+    "119": {
+      "title": "Quart-temps : Sur la même longueur d'onde",
+      "last_updated": "1775862567",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xoaj34l"
+      },
+      "volume": "014"
+    },
+    "120": {
+      "title": "Quart-temps : Vain efforts",
+      "last_updated": "1775858780",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgn2jby8"
+      },
+      "volume": "014"
+    },
+    "121": {
+      "title": "Quart-temps : À mon tour maintenant",
+      "last_updated": "1775858778",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qop6zyx"
+      },
+      "volume": "014"
+    },
+    "122": {
+      "title": "Quart-temps : Je me charge de lui",
+      "last_updated": "1775858781",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mkvlb7n"
+      },
+      "volume": "014"
+    },
+    "123": {
+      "title": "Quart-temps : Grisé",
+      "last_updated": "1775858789",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqznkb4n"
+      },
+      "volume": "014"
+    },
+    "124": {
+      "title": "Quart-temps : Encore une fois",
+      "last_updated": "1775858797",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7br65nmy5"
+      },
+      "volume": "014"
+    },
+    "125": {
+      "title": "Quart-temps : Renversement de situation",
+      "last_updated": "1775858793",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odb952yp"
+      },
+      "volume": "014"
+    },
+    "126": {
+      "title": "Quart-temps : Soyons amis",
+      "last_updated": "1775858807",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k2ko5378"
+      },
+      "volume": "014"
+    },
+    "127": {
+      "title": "Quart-temps : À bout de ressources",
+      "last_updated": "1775858815",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xodg34l"
+      },
+      "volume": "015"
+    },
+    "128": {
+      "title": "Quart-temps : C'est maintenant qu'on doit gagner !",
+      "last_updated": "1775858794",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xodgz4l"
+      },
+      "volume": "015"
+    },
+    "129": {
+      "title": "Quart-temps : C'est toujours mieux que de perdre aujourd'hui",
+      "last_updated": "1775858799",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llw9637x"
+      },
+      "volume": "015"
+    },
+    "130": {
+      "title": "Quart-temps : 4e et dernier quart-temps !!",
+      "last_updated": "1775858811",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mje96a7d"
+      },
+      "volume": "015"
+    },
+    "131": {
+      "title": "Quart-temps : J'ai confiance",
+      "last_updated": "1775858812",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8nljq7x"
+      },
+      "volume": "015"
+    },
+    "132": {
+      "title": "Quart-temps : Personne ne peut arrêter Aomine",
+      "last_updated": "1775858805",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkv6d72"
+      },
+      "volume": "015"
+    },
+    "133": {
+      "title": "Quart-temps : Merci",
+      "last_updated": "1775862198",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jop6ny5"
+      },
+      "volume": "015"
+    },
+    "134": {
+      "title": "Quart-temps : Le plus fort de tous",
+      "last_updated": "1775858809",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd32xe67k"
+      },
+      "volume": "015"
+    },
+    "135": {
+      "title": "Quart-temps : On a tous confiance",
+      "last_updated": "1775858834",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkv6x72"
+      },
+      "volume": "015"
+    },
+    "136": {
+      "title": "Quart-temps : Je vais gagner !!",
+      "last_updated": "1775862165",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3nv6lyp"
+      },
+      "volume": "016"
+    },
+    "137": {
+      "title": "Quart-temps : Je ne perdrai pas !!",
+      "last_updated": "1775858809",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732or8o4r"
+      },
+      "volume": "016"
+    },
+    "138": {
+      "title": "Quart-temps : J'ai cru en eux",
+      "last_updated": "1775858816",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24ad63me4l"
+      },
+      "volume": "016"
+    },
+    "139": {
+      "title": "Quart-temps : Fin du match !!",
+      "last_updated": "1775862169",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewlazzyd"
+      },
+      "volume": "016"
+    },
+    "140": {
+      "title": "Quart-temps : Je suis vraiment content",
+      "last_updated": "1775858845",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3nv3lyp"
+      },
+      "volume": "016"
+    },
+    "141": {
+      "title": "Quart-temps : Nice to Meet You!",
+      "last_updated": "1775858953",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r639w4b"
+      },
+      "volume": "016"
+    },
+    "142": {
+      "title": "Quart-temps : Apprends-moi à tirer",
+      "last_updated": "1775862165",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qop92yx"
+      },
+      "volume": "016"
+    },
+    "143": {
+      "title": "Quart-temps : C'est lourd de sens",
+      "last_updated": "1775862197",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r6v224b"
+      },
+      "volume": "016"
+    },
+    "144": {
+      "title": "Quart-temps : Vivement le prochain match",
+      "last_updated": "1775862186",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8ndqx7x"
+      },
+      "volume": "016"
+    },
+    "145": {
+      "title": "Quart-temps : Début de match !!",
+      "last_updated": "1775858888",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jo3nvy5"
+      },
+      "volume": "017"
+    },
+    "146": {
+      "title": "Quart-temps : On les laisse pas passer !",
+      "last_updated": "1775862183",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewl2nmyd"
+      },
+      "volume": "017"
+    },
+    "147": {
+      "title": "Quart-temps : Je protégerai mon équipe !",
+      "last_updated": "1775858822",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5njq67q"
+      },
+      "volume": "017"
+    },
+    "148": {
+      "title": "Quart-temps : Premiers points !",
+      "last_updated": "1775858854",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45jo3jvy5"
+      },
+      "volume": "017"
+    },
+    "149": {
+      "title": "Quart-temps : Vous n'êtes pas de taille !",
+      "last_updated": "1775858825",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mkv987n"
+      },
+      "volume": "017"
+    },
+    "150": {
+      "title": "Quart-temps : Compte sur nous !!",
+      "last_updated": "1775858839",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prnvrj4o"
+      },
+      "volume": "017"
+    },
+    "151": {
+      "title": "Quart-temps : J'ai envie de t'écrabouiller",
+      "last_updated": "1775858837",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odb9dlyp"
+      },
+      "volume": "017"
+    },
+    "152": {
+      "title": "Quart-temps : Il faut briser le Bouclier de Zeus",
+      "last_updated": "1775858856",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r63rw4b"
+      },
+      "volume": "017"
+    },
+    "153": {
+      "title": "Quart-temps : Y a pas photo !",
+      "last_updated": "1775858842",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xodx34l"
+      },
+      "volume": "017"
+    },
+    "154": {
+      "title": "Quart-temps : J'ai compris !",
+      "last_updated": "1775858860",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlpdll7j"
+      },
+      "volume": "018"
+    },
+    "155": {
+      "title": "Quart-temps : Je vais tous vous pulvériser !",
+      "last_updated": "1775858849",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732or2o4r"
+      },
+      "volume": "018"
+    },
+    "156": {
+      "title": "Quart-temps : Vous ne faites pas le poids !",
+      "last_updated": "1775858850",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mje9ja7d"
+      },
+      "volume": "018"
+    },
+    "157": {
+      "title": "Quart-temps : Gagne-moi ce match !",
+      "last_updated": "1775858857",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8nl8q7x"
+      },
+      "volume": "018"
+    },
+    "158": {
+      "title": "Quart-temps : Je ne veux pas perdre !",
+      "last_updated": "1775858869",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7prnvwj4o"
+      },
+      "volume": "018"
+    },
+    "159": {
+      "title": "Quart-temps : Où il est ?",
+      "last_updated": "1775858862",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgn2gky8"
+      },
+      "volume": "018"
+    },
+    "160": {
+      "title": "Quart-temps : J'aime trop ce sport",
+      "last_updated": "1775858873",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xodm34l"
+      },
+      "volume": "018"
+    },
+    "161": {
+      "title": "Quart-temps : Tu nous sous-estimes, et ça va te coûter cher !",
+      "last_updated": "1775858855",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewlawzyd"
+      },
+      "volume": "018"
+    },
+    "162": {
+      "title": "Quart-temps : T'es qui toi ?!",
+      "last_updated": "1775858868",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzqezk7j"
+      },
+      "volume": "018"
+    },
+    "163": {
+      "title": "Quart-temps : La lumière de Seirin",
+      "last_updated": "1775858899",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqznq54n"
+      },
+      "volume": "019"
+    },
+    "164": {
+      "title": "Quart-temps : Un spectacle à ne pas manquer",
+      "last_updated": "1775858878",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732or3o4r"
+      },
+      "volume": "019"
+    },
+    "165": {
+      "title": "Quart-temps : J'arrête les frais",
+      "last_updated": "1775858878",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkvex72"
+      },
+      "volume": "019"
+    },
+    "166": {
+      "title": "Quart-temps : Vaincre !!!",
+      "last_updated": "1775858871",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7odb93lyp"
+      },
+      "volume": "019"
+    },
+    "167": {
+      "title": "Quart-temps : Le moment de vérité !!",
+      "last_updated": "1775862550",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjewra7d"
+      },
+      "volume": "019"
+    },
+    "168": {
+      "title": "Quart-temps : C'est fini !!",
+      "last_updated": "1775858876",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5m9j978"
+      },
+      "volume": "019"
+    },
+    "169": {
+      "title": "Quart-temps : Ça veut dire ce que ça veut dire",
+      "last_updated": "1775862166",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd32xo67k"
+      },
+      "volume": "019"
+    },
+    "170": {
+      "title": "Quart-temps : Histoire de tuer le temps",
+      "last_updated": "1775858894",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8nl2q7x"
+      },
+      "volume": "019"
+    },
+    "171": {
+      "title": "Quart-temps : C'est à moi",
+      "last_updated": "1775862192",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5m9z978"
+      },
+      "volume": "019"
+    },
+    "172": {
+      "title": "Quart-temps : Ne te mets pas en travers de ma route !",
+      "last_updated": "1775862179",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlpdql7j"
+      },
+      "volume": "020"
+    },
+    "173": {
+      "title": "Quart-temps : Oublie direct !",
+      "last_updated": "1775858892",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r638w4b"
+      },
+      "volume": "020"
+    },
+    "174": {
+      "title": "Quart-temps : Je les prends",
+      "last_updated": "1775858929",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8nlbq7x"
+      },
+      "volume": "020"
+    },
+    "175": {
+      "title": "Quart-temps : Le goût de la défaite",
+      "last_updated": "1775862175",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732og6g4r"
+      },
+      "volume": "020"
+    },
+    "176": {
+      "title": "Quart-temps : C'est aussi simple que ça",
+      "last_updated": "1775862203",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24ad6qnd4l"
+      },
+      "volume": "020"
+    },
+    "177": {
+      "title": "Quart-temps : Je n'en vois aucun !",
+      "last_updated": "1775862183",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7llw9837x"
+      },
+      "volume": "020"
+    },
+    "178": {
+      "title": "Quart-temps : Tu vas vite comprendre",
+      "last_updated": "1775862206",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qow6zyx"
+      },
+      "volume": "020"
+    },
+    "179": {
+      "title": "Quart-temps : Ils n'ont pas encore abandonné",
+      "last_updated": "1775862203",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgnqjby8"
+      },
+      "volume": "020"
+    },
+    "180": {
+      "title": "Quart-temps : Ils sont comme vous deux",
+      "last_updated": "1775862570",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846qowz2yx"
+      },
+      "volume": "020"
+    },
+    "181": {
+      "title": "Quart-temps : Je vous les offrirai",
+      "last_updated": "1775862564",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqzwm54n"
+      },
+      "volume": "021"
+    },
+    "182": {
+      "title": "Quart-temps : Hors de portée",
+      "last_updated": "1775862543",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd32mo67k"
+      },
+      "volume": "021"
+    },
+    "183": {
+      "title": "Quart-temps : C'est parti !",
+      "last_updated": "1775862552",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5nrl67q"
+      },
+      "volume": "021"
+    },
+    "184": {
+      "title": "Quart-temps : La course en tête !",
+      "last_updated": "1775862574",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqmkxbx72"
+      },
+      "volume": "021"
+    },
+    "185": {
+      "title": "Quart-temps : En rire ou en en pleurer",
+      "last_updated": "1775862571",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd32md67k"
+      },
+      "volume": "021"
+    },
+    "186": {
+      "title": "Quart-temps : À toi de jouer",
+      "last_updated": "1775862573",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjew5a7d"
+      },
+      "volume": "021"
+    },
+    "187": {
+      "title": "Quart-temps : Camarade",
+      "last_updated": "1775862574",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr3n9blyp"
+      },
+      "volume": "021"
+    },
+    "188": {
+      "title": "Quart-temps : Ça va sans dire",
+      "last_updated": "1775862572",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg732ogqo4r"
+      },
+      "volume": "021"
+    },
+    "189": {
+      "title": "Quart-temps : La véritable lumière",
+      "last_updated": "1775862580",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8ndbq7x"
+      },
+      "volume": "021"
+    },
+    "190": {
+      "title": "Quart-temps : Raison de plus pour se donner à fond",
+      "last_updated": "1775998452",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846q6mdgyx"
+      },
+      "volume": "022"
+    },
+    "191": {
+      "title": "Quart-temps : Je le vois !",
+      "last_updated": "1775998446",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqka8w4n"
+      },
+      "volume": "022"
+    },
+    "192": {
+      "title": "Quart-temps : Tu as quelque chose à redire à ça ?",
+      "last_updated": "1775998442",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5db3m7q"
+      },
+      "volume": "022"
+    },
+    "193": {
+      "title": "Quart-temps : Ne nous sous-estimez pas !!",
+      "last_updated": "1775998448",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brnjqky5"
+      },
+      "volume": "022"
+    },
+    "194": {
+      "title": "Quart-temps : Pour vaincre Kaijô !!",
+      "last_updated": "1775998436",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgjbrwy8"
+      },
+      "volume": "022"
+    },
+    "195": {
+      "title": "Quart-temps : C'est maintenant que tout va se jouer",
+      "last_updated": "1775998452",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5nz8578"
+      },
+      "volume": "022"
+    },
+    "196": {
+      "title": "Quart-temps : On ne peut pas se permettre la moindre seconde d'inattention",
+      "last_updated": "1775998444",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pr5b884o"
+      },
+      "volume": "022"
+    },
+    "197": {
+      "title": "Quart-temps : Ils vont se faire bouffer",
+      "last_updated": "1775998437",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mle3v7n"
+      },
+      "volume": "022"
+    },
+    "198": {
+      "title": "Quart-temps : Cette fois-ci",
+      "last_updated": "1775998458",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5nz8278"
+      },
+      "volume": "022"
+    },
+    "199": {
+      "title": "Quart-temps : C'est pas gagné",
+      "last_updated": "1775998457",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqm5b2o72"
+      },
+      "volume": "023"
+    },
+    "200": {
+      "title": "Quart-temps : J'ai vu ce que je voulais voir",
+      "last_updated": "1775998453",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3ndrw7k"
+      },
+      "volume": "023"
+    },
+    "201": {
+      "title": "Quart-temps : Comme prévu",
+      "last_updated": "1775998448",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqm5b2e72"
+      },
+      "volume": "023"
+    },
+    "202": {
+      "title": "Quart-temps : J'étais loin de penser...",
+      "last_updated": "1775998447",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7od5k8ayp"
+      },
+      "volume": "023"
+    },
+    "203": {
+      "title": "Quart-temps : Un joueur exceptionnel",
+      "last_updated": "1775998456",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr35bleyp"
+      },
+      "volume": "023"
+    },
+    "204": {
+      "title": "Quart-temps : Ce jour-là, le ciel était bleu",
+      "last_updated": "1775998439",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45j6rqxy5"
+      },
+      "volume": "023"
+    },
+    "205": {
+      "title": "Quart-temps : Je ne sais plus quoi faire",
+      "last_updated": "1775998434",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewnrgxyd"
+      },
+      "volume": "023"
+    },
+    "206": {
+      "title": "Quart-temps : Tout dépend de lui",
+      "last_updated": "1775998445",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzp35o7j"
+      },
+      "volume": "023"
+    },
+    "207": {
+      "title": "Quart-temps : Bienvenue",
+      "last_updated": "1775998454",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlmb8g7j"
+      },
+      "volume": "023"
+    },
+    "208": {
+      "title": "Quart-temps : Ça va, je gère !",
+      "last_updated": "1775998456",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ll58op7x"
+      },
+      "volume": "024"
+    },
+    "209": {
+      "title": "Quart-temps : Tu peux le faire !",
+      "last_updated": "1775998451",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xnj2n4l"
+      },
+      "volume": "024"
+    },
+    "210": {
+      "title": "Quart-temps : Je savais que ça finirait comme ça !",
+      "last_updated": "1775998454",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ll58o67x"
+      },
+      "volume": "024"
+    },
+    "211": {
+      "title": "Quart-temps : À la prochaine !",
+      "last_updated": "1775998443",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r2wmp4b"
+      },
+      "volume": "024"
+    },
+    "212": {
+      "title": "Quart-temps : Je me sens invincible !",
+      "last_updated": "1775998440",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adnljg4l"
+      },
+      "volume": "024"
+    },
+    "213": {
+      "title": "Quart-temps : Comme des lions",
+      "last_updated": "1775998449",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xnj2j4l"
+      },
+      "volume": "024"
+    },
+    "214": {
+      "title": "Quart-temps : Je suis impatient d'y être",
+      "last_updated": "1775998450",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k25g8k78"
+      },
+      "volume": "024"
+    },
+    "215": {
+      "title": "Quart-temps : Courage !",
+      "last_updated": "1775998466",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlmb537j"
+      },
+      "volume": "024"
+    },
+    "216": {
+      "title": "Quart-temps : Désolé",
+      "last_updated": "1775998475",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzp3mr7j"
+      },
+      "volume": "024"
+    },
+    "217": {
+      "title": "Quart-temps : Allez, faut y aller !",
+      "last_updated": "1775998476",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r2weo4b"
+      },
+      "volume": "024"
+    },
+    "218": {
+      "title": "Quart-temps : Au moins pour cette fois",
+      "last_updated": "1775998486",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846q6m3wyx"
+      },
+      "volume": "025"
+    },
+    "219": {
+      "title": "Quart-temps : Merci du fond du cœur",
+      "last_updated": "1775998474",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45j6rm2y5"
+      },
+      "volume": "025"
+    },
+    "220": {
+      "title": "Quart-temps : J'ai oublié",
+      "last_updated": "1775998477",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adnl234l"
+      },
+      "volume": "025"
+    },
+    "221": {
+      "title": "Quart-temps : Tetsuya",
+      "last_updated": "1775998480",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mle227n"
+      },
+      "volume": "025"
+    },
+    "222": {
+      "title": "Quart-temps : À compter d'aujourd'hui",
+      "last_updated": "1775998481",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqkavz4n"
+      },
+      "volume": "025"
+    },
+    "223": {
+      "title": "Quart-temps : Je me sens vraiment nul",
+      "last_updated": "1775998478",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgjbx9y8"
+      },
+      "volume": "025"
+    },
+    "224": {
+      "title": "Quart-temps : Je les envie",
+      "last_updated": "1775998482",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5db937q"
+      },
+      "volume": "025"
+    },
+    "225": {
+      "title": "Quart-temps : Qu'est-ce que tu lui veux ?",
+      "last_updated": "1775998484",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brnjlny5"
+      },
+      "volume": "025"
+    },
+    "226": {
+      "title": "Quart-temps : À quoi bon être vainqueur ?",
+      "last_updated": "1775998476",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pr5ba64o"
+      },
+      "volume": "025"
+    },
+    "227": {
+      "title": "Quart-temps : Kuroko, c'est moi.",
+      "last_updated": "1775998489",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ll58ap7x"
+      },
+      "volume": "025"
+    },
+    "228": {
+      "title": "Quart-temps : Comme un des nôtres",
+      "last_updated": "1775998497",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3ndqw7k"
+      },
+      "volume": "026"
+    },
+    "229": {
+      "title": "Quart-temps : Allez, j'y vais !",
+      "last_updated": "1775998484",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xnjqj4l"
+      },
+      "volume": "026"
+    },
+    "230": {
+      "title": "Quart-temps : Que le meilleur gagne !",
+      "last_updated": "1775998491",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k25gaq78"
+      },
+      "volume": "026"
+    },
+    "231": {
+      "title": "Quart-temps : C'est parti !",
+      "last_updated": "1775998488",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5nze278"
+      },
+      "volume": "026"
+    },
+    "232": {
+      "title": "Quart-temps : Le coup d'envoi de la finale",
+      "last_updated": "1775998490",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyr35baeyp"
+      },
+      "volume": "026"
+    },
+    "233": {
+      "title": "Quart-temps : Il y va pas un peu fort ?",
+      "last_updated": "1775998485",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqm5bao72"
+      },
+      "volume": "026"
+    },
+    "234": {
+      "title": "Quart-temps : L'issue du duel ne fait aucun doute !",
+      "last_updated": "1775998494",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewnrl3yd"
+      },
+      "volume": "026"
+    },
+    "235": {
+      "title": "Quart-temps : Je crois qu'on pouvait pas rêver mieux",
+      "last_updated": "1775998495",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlmbp37j"
+      },
+      "volume": "026"
+    },
+    "236": {
+      "title": "Quart-temps : Ça ne marche plus ?",
+      "last_updated": "1775998502",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjv5ab7d"
+      },
+      "volume": "026"
+    },
+    "237": {
+      "title": "Quart-temps : Vous n'êtes pas un peu naïfs ?",
+      "last_updated": "1775998503",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7326qdz4r"
+      },
+      "volume": "027"
+    },
+    "238": {
+      "title": "Quart-temps : Il te rappelle personne, ce mec ?",
+      "last_updated": "1775998496",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8qbnz7x"
+      },
+      "volume": "027"
+    },
+    "239": {
+      "title": "Quart-temps : Tu me plais de plus en plus",
+      "last_updated": "1775998499",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzp3qr7j"
+      },
+      "volume": "027"
+    },
+    "240": {
+      "title": "Quart-temps : On sait ce qu'on fait !",
+      "last_updated": "1775998509",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r2w6o4b"
+      },
+      "volume": "027"
+    },
+    "241": {
+      "title": "Quart-temps : Je suis deg...",
+      "last_updated": "1775998512",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adnl634l"
+      },
+      "volume": "027"
+    },
+    "242": {
+      "title": "Quart-temps : Je vais te montrer un truc cool !",
+      "last_updated": "1775998515",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5dbn37q"
+      },
+      "volume": "027"
+    },
+    "243": {
+      "title": "Quart-temps : J'ai d'ores et déjà gagné",
+      "last_updated": "1775998520",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mlek27n"
+      },
+      "volume": "027"
+    },
+    "244": {
+      "title": "Quart-temps : Il n'y a pas de quoi s'extasier",
+      "last_updated": "1775998514",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqkazz4n"
+      },
+      "volume": "027"
+    },
+    "245": {
+      "title": "Quart-temps : Le miracle n'aura pas lieu",
+      "last_updated": "1775998539",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pr5bn64o"
+      },
+      "volume": "027"
+    },
+    "246": {
+      "title": "Quart-temps : Ce n'est pas fini, Seirin",
+      "last_updated": "1775998525",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brnj6ny5"
+      },
+      "volume": "028"
+    },
+    "247": {
+      "title": "Quart-temps : Non !",
+      "last_updated": "1775998518",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7od5kbdyp"
+      },
+      "volume": "028"
+    },
+    "248": {
+      "title": "Quart-temps : Hors de question de céder mon titre",
+      "last_updated": "1775998521",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k25gkq78"
+      },
+      "volume": "028"
+    },
+    "249": {
+      "title": "Quart-temps : Vous avez encore rien vu !",
+      "last_updated": "1775998524",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xnjoj4l"
+      },
+      "volume": "028"
+    },
+    "250": {
+      "title": "Quart-temps : Résigné",
+      "last_updated": "1775998523",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ll58wp7x"
+      },
+      "volume": "028"
+    },
+    "251": {
+      "title": "Quart-temps : On a encore besoin de toi",
+      "last_updated": "1775998528",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5nzm278"
+      },
+      "volume": "028"
+    },
+    "252": {
+      "title": "Quart-temps : Dribble buse",
+      "last_updated": "1775998526",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqm5bko72"
+      },
+      "volume": "028"
+    },
+    "253": {
+      "title": "Quart-temps : Laisser-moi m'occuper de lui",
+      "last_updated": "1775998527",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9ryd3nd2w7k"
+      },
+      "volume": "028"
+    },
+    "254": {
+      "title": "Quart-temps : Je fais pas le poids",
+      "last_updated": "1775998546",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mjv5eb7d"
+      },
+      "volume": "028"
+    },
+    "255": {
+      "title": "Quart-temps : Donner le meilleur de moi-même",
+      "last_updated": "1775998540",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7326qoz4r"
+      },
+      "volume": "029"
+    },
+    "256": {
+      "title": "Quart-temps : Dépasser mes limites",
+      "last_updated": "1775998533",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w8qbqz7x"
+      },
+      "volume": "029"
+    },
+    "257": {
+      "title": "Quart-temps : À nous deux, Rakuzan !",
+      "last_updated": "1775998530",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyewnrn3yd"
+      },
+      "volume": "029"
+    },
+    "258": {
+      "title": "Quart-temps : Je ne chercherai pas à te retenir",
+      "last_updated": "1775998532",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zlmbm37j"
+      },
+      "volume": "029"
+    },
+    "259": {
+      "title": "Quart-temps : Ton shoot, il passera pas !",
+      "last_updated": "1775998536",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gzp3pr7j"
+      },
+      "volume": "029"
+    },
+    "260": {
+      "title": "Quart-temps : Je vous préviens les gars",
+      "last_updated": "1775998537",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8r2w2o4b"
+      },
+      "volume": "029"
+    },
+    "261": {
+      "title": "Quart-temps : Ça nous suffit",
+      "last_updated": "1775998534",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45j6r62y5"
+      },
+      "volume": "029"
+    },
+    "262": {
+      "title": "Quart-temps : Tu devrais laisser tomber",
+      "last_updated": "1775998538",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24adnln34l"
+      },
+      "volume": "029"
+    },
+    "263": {
+      "title": "Quart-temps : Arrêtez-le !!",
+      "last_updated": "1775998554",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvgjbj9y8"
+      },
+      "volume": "029"
+    },
+    "264": {
+      "title": "Quart-temps : La première fois",
+      "last_updated": "1775998547",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846q6m6wyx"
+      },
+      "volume": "030"
+    },
+    "265": {
+      "title": "Quart-temps : On ne peut pas se le permettre",
+      "last_updated": "1775998541",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yx5dbd37q"
+      },
+      "volume": "030"
+    },
+    "266": {
+      "title": "Quart-temps : Qui es tu ?",
+      "last_updated": "1775998543",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9249mlel27n"
+      },
+      "volume": "030"
+    },
+    "267": {
+      "title": "Quart-temps : Ça faisait un bail",
+      "last_updated": "1775998546",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nqkakz4n"
+      },
+      "volume": "030"
+    },
+    "268": {
+      "title": "Quart-temps : Comment faire ?!",
+      "last_updated": "1775998546",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7brnjnny5"
+      },
+      "volume": "030"
+    },
+    "269": {
+      "title": "Quart-temps : Pas question de baisser les bras !!",
+      "last_updated": "1775998547",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pr5b564o"
+      },
+      "volume": "030"
+    },
+    "270": {
+      "title": "Quart-temps : C'était toi !!",
+      "last_updated": "1775998547",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7od5k5dyp"
+      },
+      "volume": "030"
+    },
+    "271": {
+      "title": "Quart-temps : L'équipe qui réussira à vaincre Rakuzan n'est pas encore née !!",
+      "last_updated": "1775998549",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7k25g5q78"
+      },
+      "volume": "030"
+    },
+    "272": {
+      "title": "Quart-temps : On donne tout !",
+      "last_updated": "1775998550",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2xnjnj4l"
+      },
+      "volume": "030"
+    },
+    "273": {
+      "title": "Quart-temps : Dernière action",
+      "last_updated": "1775998551",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ll585p7x"
+      },
+      "volume": "030"
+    },
+    "274": {
+      "title": "Quart-temps : Le match est terminé !",
+      "last_updated": "1775998552",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqm5b5o72"
+      },
+      "volume": "030"
+    },
+    "275": {
+      "title": "Quart-temps : Encore et encore !",
+      "last_updated": "1775998560",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4j5nzn278"
+      },
+      "volume": "030"
+    }
+  }
+}
