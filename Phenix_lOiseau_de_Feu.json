@@ -1,0 +1,721 @@
+{
+  "title": "Phenix l'Oiseau de Feu",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "001": {
+      "title": "L’aube",
+      "last_updated": "1778330315",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pw5zd3yo"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Les temps futurs",
+      "last_updated": "1778330363",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe5d2dy2"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Postface",
+      "last_updated": "1778327284",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z6g5zyx"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Les Frontispices",
+      "last_updated": "1778327246",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydonpra7k"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "Yamato",
+      "last_updated": "1778330213",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zqmkn54j"
+      },
+      "volume": "02"
+    },
+    "006": {
+      "title": "Un monde étrange",
+      "last_updated": "1778327404",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz5dlx7p"
+      },
+      "volume": "02"
+    },
+    "007": {
+      "title": "Le phénix",
+      "last_updated": "1778330402",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7336jlg7r"
+      },
+      "volume": "02"
+    },
+    "008": {
+      "title": "Postface",
+      "last_updated": "1778327307",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld5moxyx"
+      },
+      "volume": "02"
+    },
+    "009": {
+      "title": "Les Frontispices",
+      "last_updated": "1778327222",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/92495ljpbyn"
+      },
+      "volume": "02"
+    },
+    "010": {
+      "title": "Résurrection Année 2482",
+      "last_updated": "1778327278",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvaje9by8"
+      },
+      "volume": "03"
+    },
+    "011": {
+      "title": "Résurrection Année 2483",
+      "last_updated": "1778327308",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyeonpmm4d"
+      },
+      "volume": "03"
+    },
+    "012": {
+      "title": "Résurrection Année 3030",
+      "last_updated": "1778327266",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45e6dqn45"
+      },
+      "volume": "03"
+    },
+    "013": {
+      "title": "Résurrection Année 2484",
+      "last_updated": "1778327322",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mrv2894d"
+      },
+      "volume": "03"
+    },
+    "014": {
+      "title": "Résurrection Année 3009",
+      "last_updated": "1778327273",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gkprwq7j"
+      },
+      "volume": "03"
+    },
+    "015": {
+      "title": "Résurrection Année 2484",
+      "last_updated": "1778327371",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jjnw8348"
+      },
+      "volume": "03"
+    },
+    "016": {
+      "title": "Résurrection Année 2917",
+      "last_updated": "1778327198",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny882l52yb"
+      },
+      "volume": "03"
+    },
+    "017": {
+      "title": "Résurrection Année 3344",
+      "last_updated": "1778327206",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aonk8dyl"
+      },
+      "volume": "03"
+    },
+    "018": {
+      "title": "La robe de plumes célestes",
+      "last_updated": "1778327284",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w2qrmx7x"
+      },
+      "volume": "03"
+    },
+    "019": {
+      "title": "Le mal du pays",
+      "last_updated": "1778327202",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45e6d5n45"
+      },
+      "volume": "03"
+    },
+    "020": {
+      "title": "Prologue - Genèse",
+      "last_updated": "1778327253",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mnl2z7l"
+      },
+      "volume": "03"
+    },
+    "021": {
+      "title": "Caïn et la tour de la connaissance",
+      "last_updated": "1778327245",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o35jq27p"
+      },
+      "volume": "03"
+    },
+    "022": {
+      "title": "Les moopies",
+      "last_updated": "1778327268",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bonxkmy5"
+      },
+      "volume": "03"
+    },
+    "023": {
+      "title": "Les gens d’Edena",
+      "last_updated": "1778327239",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxldg8pyq"
+      },
+      "volume": "03"
+    },
+    "024": {
+      "title": "Le départ",
+      "last_updated": "1778327227",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kq5wv378"
+      },
+      "volume": "03"
+    },
+    "025": {
+      "title": "Vers le pays natal",
+      "last_updated": "1778327228",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nmkljbyn"
+      },
+      "volume": "03"
+    },
+    "026": {
+      "title": "L’astronaute Makimura",
+      "last_updated": "1778327266",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny882lm2yb"
+      },
+      "volume": "03"
+    },
+    "027": {
+      "title": "La planète aux faux être vivants",
+      "last_updated": "1778327248",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aonkjdyl"
+      },
+      "volume": "03"
+    },
+    "028": {
+      "title": "Zudarban, le marchand du cosmos",
+      "last_updated": "1778327267",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z6gdzyx"
+      },
+      "volume": "03"
+    },
+    "029": {
+      "title": "La fuite",
+      "last_updated": "1778327307",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxldg3pyq"
+      },
+      "volume": "03"
+    },
+    "030": {
+      "title": "Le jugement dernier",
+      "last_updated": "1778327333",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/92495lj3byn"
+      },
+      "volume": "03"
+    },
+    "031": {
+      "title": "Postface - Intermission",
+      "last_updated": "1778327337",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nmkl8byn"
+      },
+      "volume": "03"
+    },
+    "032": {
+      "title": "Les Frontispices",
+      "last_updated": "1778327283",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pw5z83yo"
+      },
+      "volume": "03"
+    },
+    "033": {
+      "title": "Introduction",
+      "last_updated": "1778327357",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mnlqz7l"
+      },
+      "volume": "04"
+    },
+    "034": {
+      "title": "Prologue - Qui se situe dans une avenue de la ville impériale",
+      "last_updated": "1778327327",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o35j827p"
+      },
+      "volume": "04"
+    },
+    "035": {
+      "title": "Qui se déroule dans la résidence du seigneur Kiyomori",
+      "last_updated": "1778327290",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kq5w8378"
+      },
+      "volume": "04"
+    },
+    "036": {
+      "title": "Qui se déroule sur le pont de la 5e avenue",
+      "last_updated": "1778327296",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld5maxyx"
+      },
+      "volume": "04"
+    },
+    "037": {
+      "title": "Où on se rend dans la retraite du tengu du mont Kurama",
+      "last_updated": "1778327316",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld5ma3yx"
+      },
+      "volume": "04"
+    },
+    "038": {
+      "title": "Où on voit toute la noble gent des Taira réunie pour les salutations du Nouvel An",
+      "last_updated": "1778327317",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mnlq37l"
+      },
+      "volume": "04"
+    },
+    "039": {
+      "title": "Où Benta fait irruption dans la résidence",
+      "last_updated": "1778327341",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jjnwe948"
+      },
+      "volume": "04"
+    },
+    "040": {
+      "title": "Au cours duquel l’oiseau de feu est présenté à Kiyomori",
+      "last_updated": "1778327327",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe5daxy2"
+      },
+      "volume": "04"
+    },
+    "041": {
+      "title": "Où l’on voit brûler Rokuhara",
+      "last_updated": "1778327343",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz5dal7p"
+      },
+      "volume": "04"
+    },
+    "042": {
+      "title": "Qui est celui du trépas de Kiyomori",
+      "last_updated": "1778327341",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mrv2aa4d"
+      },
+      "volume": "04"
+    },
+    "043": {
+      "title": "Chez Hidehira Fujiwara, à Hiraizumi-En-Oshu",
+      "last_updated": "1778327363",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7336jdo7r"
+      },
+      "volume": "04"
+    },
+    "044": {
+      "title": "Où Yoshinaka fait irruption dans Kyoto",
+      "last_updated": "1778327334",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyeonpdz4d"
+      },
+      "volume": "04"
+    },
+    "045": {
+      "title": "Au cours duquel a lieu la bataille de la rivière Uji",
+      "last_updated": "1778327338",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w2qr9q7x"
+      },
+      "volume": "04"
+    },
+    "046": {
+      "title": "Mort d’un général dans la pinède d’Awazu",
+      "last_updated": "1778327359",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zqmk5l4j"
+      },
+      "volume": "04"
+    },
+    "047": {
+      "title": "Au camp retranché du val d’Ichinotani",
+      "last_updated": "1778327382",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gkprmk7j"
+      },
+      "volume": "04"
+    },
+    "048": {
+      "title": "Où la montée périlleuse à l’assaut de Yashima",
+      "last_updated": "1778327329",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny882lewyb"
+      },
+      "volume": "04"
+    },
+    "049": {
+      "title": "La bataille de Dan-No-Ura au cours de laquelle se retrouvent nos héros",
+      "last_updated": "1778327357",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45e6dmv45"
+      },
+      "volume": "04"
+    },
+    "050": {
+      "title": "Où l’on voit Yoshitsuné fuir la capitale",
+      "last_updated": "1778327388",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aonk2eyl"
+      },
+      "volume": "04"
+    },
+    "051": {
+      "title": "Dénouement",
+      "last_updated": "1778327362",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvajexky8"
+      },
+      "volume": "04"
+    },
+    "052": {
+      "title": "Postface",
+      "last_updated": "1778327385",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxldg96yq"
+      },
+      "volume": "04"
+    },
+    "053": {
+      "title": "Les Frontispices",
+      "last_updated": "1778327378",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nmklv5yn"
+      },
+      "volume": "04"
+    },
+    "054": {
+      "title": "L’espace",
+      "last_updated": "1778331877",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/92495lgl8yn"
+      },
+      "volume": "05"
+    },
+    "055": {
+      "title": "La vie",
+      "last_updated": "1778330276",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pw5znjyo"
+      },
+      "volume": "05"
+    },
+    "056": {
+      "title": "Le soleil (1)",
+      "last_updated": "1778330386",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jjnwm948"
+      },
+      "volume": "05"
+    },
+    "057": {
+      "title": "Postface",
+      "last_updated": "1778327386",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kq5wkw78"
+      },
+      "volume": "05"
+    },
+    "058": {
+      "title": "Les Frontispices",
+      "last_updated": "1778327353",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mnlo37l"
+      },
+      "volume": "05"
+    },
+    "059": {
+      "title": "Le soleil (2)",
+      "last_updated": "1778332106",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nmkxk5yn"
+      },
+      "volume": "06"
+    },
+    "060": {
+      "title": "Postface - L’Aube – Version Manga Shonen – 1er épisode",
+      "last_updated": "1778327366",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mrv2ea4d"
+      },
+      "volume": "06"
+    },
+    "061": {
+      "title": "Postface - L’Aube – Version Manga Shonen – 2e épisode",
+      "last_updated": "1778327353",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydonp267k"
+      },
+      "volume": "06"
+    },
+    "062": {
+      "title": "Postface - L’Aube – Version Manga Shonen – 3e épisode",
+      "last_updated": "1778327358",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz5dnl7p"
+      },
+      "volume": "06"
+    },
+    "063": {
+      "title": "Postface - L’Aube – Version Manga Shonen – 4e épisode",
+      "last_updated": "1778327370",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7336joo7r"
+      },
+      "volume": "06"
+    },
+    "064": {
+      "title": "Postface - L’Aube – Version Manga Shonen – 5e épisode",
+      "last_updated": "1778327372",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w2qrnq7x"
+      },
+      "volume": "06"
+    },
+    "065": {
+      "title": "Postface - L’Aube – Version Manga Shonen – 6e épisode",
+      "last_updated": "1778327375",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyeonplz4d"
+      },
+      "volume": "06"
+    },
+    "066": {
+      "title": "Postface - L’Aube – Version Manga Shonen – 7e épisode",
+      "last_updated": "1778327367",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gkprqk7j"
+      },
+      "volume": "06"
+    },
+    "067": {
+      "title": "Postface - L’Aube – Version Manga Shonen – 7e épisode",
+      "last_updated": "1778327373",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny882l6wyb"
+      },
+      "volume": "06"
+    },
+    "068": {
+      "title": "Postface - L’Aube – Version Manga Shonen – 8e épisode",
+      "last_updated": "1778327380",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aonk6eyl"
+      },
+      "volume": "06"
+    },
+    "069": {
+      "title": "Postface - L’Égypte – 1er épisode",
+      "last_updated": "1778327376",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45e6dov45"
+      },
+      "volume": "06"
+    },
+    "070": {
+      "title": "Postface - L’Égypte – 2e épisode",
+      "last_updated": "1778327397",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mnln37l"
+      },
+      "volume": "06"
+    },
+    "071": {
+      "title": "Postface - L’Égypte – 3e épisode",
+      "last_updated": "1778327394",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pw5z5jyo"
+      },
+      "volume": "06"
+    },
+    "072": {
+      "title": "Postface - L’Égypte – 4e épisode",
+      "last_updated": "1778327383",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z6go2yx"
+      },
+      "volume": "06"
+    },
+    "073": {
+      "title": "Postface - L’Égypte – 5e épisode",
+      "last_updated": "1778327384",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvajenky8"
+      },
+      "volume": "06"
+    },
+    "074": {
+      "title": "Postface - L’Égypte – 6e épisode",
+      "last_updated": "1778327389",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/92495ljk8yn"
+      },
+      "volume": "06"
+    },
+    "075": {
+      "title": "Postface - La Grèce – 1er épisode",
+      "last_updated": "1778327396",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld5m53yx"
+      },
+      "volume": "06"
+    },
+    "076": {
+      "title": "Postface - La Grèce – 2e épisode",
+      "last_updated": "1778327398",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydonpn67k"
+      },
+      "volume": "06"
+    },
+    "077": {
+      "title": "Postface - La Grèce – 3e épisode",
+      "last_updated": "1778327393",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bonxngy5"
+      },
+      "volume": "06"
+    },
+    "078": {
+      "title": "Postface - La Grèce – 4e épisode",
+      "last_updated": "1778330196",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydona5w7k"
+      },
+      "volume": "06"
+    },
+    "079": {
+      "title": "Postface - La Grèce – 5e épisode",
+      "last_updated": "1778327391",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxldgn6yq"
+      },
+      "volume": "06"
+    },
+    "080": {
+      "title": "Postface - L’extraordinaire histoire de Daia et du Prince",
+      "last_updated": "1778330202",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz5d5l7p"
+      },
+      "volume": "06"
+    },
+    "081": {
+      "title": "Postface - La Grèce – 6e épisode",
+      "last_updated": "1778327394",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o35j5l7p"
+      },
+      "volume": "06"
+    },
+    "082": {
+      "title": "Postface - La Grèce – 7e épisode",
+      "last_updated": "1778327395",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kq5w5w78"
+      },
+      "volume": "06"
+    },
+    "083": {
+      "title": "Postface - La Grèce – 8e épisode",
+      "last_updated": "1778327392",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nmklz5yn"
+      },
+      "volume": "06"
+    },
+    "084": {
+      "title": "Postface - Rome – 1er épisode",
+      "last_updated": "1778331758",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxld2d6yq"
+      },
+      "volume": "06"
+    },
+    "085": {
+      "title": "Postface - Rome – 2e épisode",
+      "last_updated": "1778327399",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7336j6o7r"
+      },
+      "volume": "06"
+    },
+    "086": {
+      "title": "Postface - Rome – 3e épisode",
+      "last_updated": "1778327398",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jjnwn948"
+      },
+      "volume": "06"
+    },
+    "087": {
+      "title": "Postface - Rome – 5e épisode",
+      "last_updated": "1778327399",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mrv2va4d"
+      },
+      "volume": "06"
+    },
+    "088": {
+      "title": "Postface - Rome – 6e épisode",
+      "last_updated": "1778330189",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/92495ljl8yn"
+      },
+      "volume": "06"
+    },
+    "089": {
+      "title": "Les Frontispices",
+      "last_updated": "1778327480",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyeonpnz4d"
+      },
+      "volume": "06"
+    }
+  }
+}
