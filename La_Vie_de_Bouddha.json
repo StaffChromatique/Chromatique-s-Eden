@@ -1,0 +1,529 @@
+{
+  "title": "La Vie de Bouddha",
+  "description": "Bouddha ( ブッダ, Budda? , titré La Vie de Bouddha en édition française de luxe ) est un manga d' Osamu Tezuka. Il a été prépublié dans le magazine Comic Tom entre septembre 1972 et décembre 1983 [ 1 ] et publié en 14 volumes reliés par l'éditeur Ushio Shuppan entre avril 1983 et octobre 1984. Il fut réédité en 7 tomes au format bunko par Kōdansha entre février 2011 et mai 2011 [ 2 ]. La série fut éditée par Tonkam en 8 volumes entre octobre 1997 et février 1999 [ 3 ], puis rééditée en version de luxe entre juillet 2004 et août 2006 [ 4 ]. À l'occasion des 90 ans d'Osamu Tezuka, une version de luxe en 4 volumes est sortie entre le 31 octobre 2018 et le 27 mars 2019, aux éditions Delcourt /Tonkam.",
+  "artist": "Osamu Tezuka",
+  "author": "Osamu Tezuka",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/20px-Flag_of_Japan.svg.png",
+  "chapters": {
+    "001": {
+      "title": "Les brahmanes",
+      "last_updated": "1778360888",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aonmo2yl"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Tatta, le petit vagabond",
+      "last_updated": "1778360860",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bon3rjy5"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Le général Boudhaï",
+      "last_updated": "1778360845",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o35vdr7p"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "L'annonciation",
+      "last_updated": "1778360789",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gkp8zj7j"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "Chaprah",
+      "last_updated": "1778360876",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45e6neq45"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "Le trophée du roi",
+      "last_updated": "1778360839",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/92495l9mmyn"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "La nativité",
+      "last_updated": "1778360825",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyeonzoq4d"
+      },
+      "volume": "01"
+    },
+    "008": {
+      "title": "La compétition",
+      "last_updated": "1778360822",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z69qoyx"
+      },
+      "volume": "01"
+    },
+    "009": {
+      "title": "À la recherche du remède secret",
+      "last_updated": "1778360824",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvajlgjy8"
+      },
+      "volume": "01"
+    },
+    "010": {
+      "title": "La prophétie",
+      "last_updated": "1778360821",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mrv6rn4d"
+      },
+      "volume": "01"
+    },
+    "011": {
+      "title": "Le jour du jugement",
+      "last_updated": "1778360820",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aonmd2yl"
+      },
+      "volume": "01"
+    },
+    "012": {
+      "title": "Le ravin de la mort",
+      "last_updated": "1778360812",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydoneol7k"
+      },
+      "volume": "01"
+    },
+    "013": {
+      "title": "Le jeune prince",
+      "last_updated": "1778360852",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jjn65x48"
+      },
+      "volume": "01"
+    },
+    "014": {
+      "title": "Les jardins de la contemplation",
+      "last_updated": "1778360828",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nmk6qmyn"
+      },
+      "volume": "01"
+    },
+    "015": {
+      "title": "Les rapides",
+      "last_updated": "1778360905",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld56lqyx"
+      },
+      "volume": "01"
+    },
+    "016": {
+      "title": "Yashodara",
+      "last_updated": "1778360837",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pw56rpyo"
+      },
+      "volume": "01"
+    },
+    "017": {
+      "title": "Miguéla",
+      "last_updated": "1778360874",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zqmrqd4j"
+      },
+      "volume": "01"
+    },
+    "018": {
+      "title": "Les quatre portes",
+      "last_updated": "1778360857",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz56zg7p"
+      },
+      "volume": "01"
+    },
+    "019": {
+      "title": "Rahula",
+      "last_updated": "1778360853",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gkp8kj7j"
+      },
+      "volume": "01"
+    },
+    "020": {
+      "title": "Les cinq ascètes",
+      "last_updated": "1778360833",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kq5n2b78"
+      },
+      "volume": "01"
+    },
+    "021": {
+      "title": "Le matin du départ",
+      "last_updated": "1778360819",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxldq5qyq"
+      },
+      "volume": "01"
+    },
+    "022": {
+      "title": "La mort de Bandaka",
+      "last_updated": "1778360890",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mngx97l"
+      },
+      "volume": "01"
+    },
+    "023": {
+      "title": "Les austérités",
+      "last_updated": "1778360867",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg733683j7r"
+      },
+      "volume": "02"
+    },
+    "024": {
+      "title": "La loi de la jungle",
+      "last_updated": "1778360900",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny882985yb"
+      },
+      "volume": "02"
+    },
+    "025": {
+      "title": "La vieille femme et le petit",
+      "last_updated": "1778360938",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe56mny2"
+      },
+      "volume": "02"
+    },
+    "026": {
+      "title": "Le général Sukhanda",
+      "last_updated": "1778360946",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pw56wpyo"
+      },
+      "volume": "02"
+    },
+    "027": {
+      "title": "La rencontre au mont Pandava",
+      "last_updated": "1778360897",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jjn6jx48"
+      },
+      "volume": "02"
+    },
+    "028": {
+      "title": "La forêt d'Uruvéla",
+      "last_updated": "1778361004",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mngjz7l"
+      },
+      "volume": "02"
+    },
+    "029": {
+      "title": "Le châtiment",
+      "last_updated": "1778360869",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld568xyx"
+      },
+      "volume": "02"
+    },
+    "030": {
+      "title": "La mort d'Asaji",
+      "last_updated": "1778360873",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe56bdy2"
+      },
+      "volume": "02"
+    },
+    "031": {
+      "title": "Sujata",
+      "last_updated": "1778360915",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jjn6z348"
+      },
+      "volume": "02"
+    },
+    "032": {
+      "title": "Le prince Luly",
+      "last_updated": "1778360887",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydoneda7k"
+      },
+      "volume": "02"
+    },
+    "033": {
+      "title": "L'histoire de Yatara",
+      "last_updated": "1778361006",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz56bx7p"
+      },
+      "volume": "02"
+    },
+    "034": {
+      "title": "Le guerrier et l'aventurier",
+      "last_updated": "1778360981",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mrv6594d"
+      },
+      "volume": "03"
+    },
+    "035": {
+      "title": "Les duellistes",
+      "last_updated": "1778360914",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvajlbby8"
+      },
+      "volume": "03"
+    },
+    "036": {
+      "title": "Le combat",
+      "last_updated": "1778360929",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z69mzyx"
+      },
+      "volume": "03"
+    },
+    "037": {
+      "title": "La crise",
+      "last_updated": "1778360931",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8829w2yb"
+      },
+      "volume": "03"
+    },
+    "038": {
+      "title": "Le parc des gazelles",
+      "last_updated": "1778360917",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45e6nrn45"
+      },
+      "volume": "03"
+    },
+    "039": {
+      "title": "L'histoire de Seb le zébu",
+      "last_updated": "1778360948",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nmk6abyn"
+      },
+      "volume": "03"
+    },
+    "040": {
+      "title": "L'humiliation du prince Luly",
+      "last_updated": "1778360937",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/92495l9ebyn"
+      },
+      "volume": "03"
+    },
+    "041": {
+      "title": "Ananda entre en scène",
+      "last_updated": "1778360946",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bon3jmy5"
+      },
+      "volume": "03"
+    },
+    "042": {
+      "title": "L'inspecteur Pampass",
+      "last_updated": "1778360921",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kq5ng378"
+      },
+      "volume": "03"
+    },
+    "043": {
+      "title": "Rita",
+      "last_updated": "1778360971",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mng5z7l"
+      },
+      "volume": "03"
+    },
+    "044": {
+      "title": "Angulimala",
+      "last_updated": "1778360943",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jjn6p348"
+      },
+      "volume": "03"
+    },
+    "045": {
+      "title": "Le temple du feu sacré",
+      "last_updated": "1778360961",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz56kx7p"
+      },
+      "volume": "03"
+    },
+    "046": {
+      "title": "La conversion de Kashyapa",
+      "last_updated": "1778360947",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydone9a7k"
+      },
+      "volume": "03"
+    },
+    "047": {
+      "title": "La rivière aux crocodiles",
+      "last_updated": "1778361085",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvajloby8"
+      },
+      "volume": "03"
+    },
+    "048": {
+      "title": "L'enseignement au mont \"Tête d'éléphant\"",
+      "last_updated": "1778360979",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gkp89q7j"
+      },
+      "volume": "03"
+    },
+    "049": {
+      "title": "Le monastère de la bambouseraie",
+      "last_updated": "1778360999",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45e6nvn45"
+      },
+      "volume": "04"
+    },
+    "050": {
+      "title": "Le prince incarcéré",
+      "last_updated": "1778360978",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aonm9dyl"
+      },
+      "volume": "04"
+    },
+    "051": {
+      "title": "Shariputra et Maudgalayayana",
+      "last_updated": "1778360980",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bon39my5"
+      },
+      "volume": "04"
+    },
+    "052": {
+      "title": "La foule mécontente",
+      "last_updated": "1778360976",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kq5np378"
+      },
+      "volume": "04"
+    },
+    "053": {
+      "title": "Le marais de la mort",
+      "last_updated": "1778360952",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pw56p3yo"
+      },
+      "volume": "04"
+    },
+    "054": {
+      "title": "Visaka la démente",
+      "last_updated": "1778360969",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld56jxyx"
+      },
+      "volume": "04"
+    },
+    "055": {
+      "title": "Bouddha retrouve le prince Luly",
+      "last_updated": "1778360990",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mrv6q94d"
+      },
+      "volume": "04"
+    },
+    "056": {
+      "title": "Deux déterminations s'affrontent",
+      "last_updated": "1778360977",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg73368xg7r"
+      },
+      "volume": "04"
+    },
+    "057": {
+      "title": "Le jour de la libération",
+      "last_updated": "1778360979",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w2qj5x7x"
+      },
+      "volume": "04"
+    },
+    "058": {
+      "title": "Le complot de Dévadatta",
+      "last_updated": "1778360993",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zqmrv54j"
+      },
+      "volume": "04"
+    },
+    "059": {
+      "title": "Naradatta",
+      "last_updated": "1778360970",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8829k2yb"
+      },
+      "volume": "04"
+    },
+    "060": {
+      "title": "Le monastère de Jétavana",
+      "last_updated": "1778360989",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxldqapyq"
+      },
+      "volume": "04"
+    },
+    "061": {
+      "title": "Guet-apens",
+      "last_updated": "1778361006",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/92495l9bbyn"
+      },
+      "volume": "04"
+    },
+    "062": {
+      "title": "La fin du clan des Shakya",
+      "last_updated": "1778361020",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kq5nl378"
+      },
+      "volume": "04"
+    },
+    "063": {
+      "title": "Une triste nouvelle",
+      "last_updated": "1778360987",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bon3zmy5"
+      },
+      "volume": "04"
+    },
+    "064": {
+      "title": "Dévadatta",
+      "last_updated": "1778361002",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pw56m3yo"
+      },
+      "volume": "04"
+    },
+    "065": {
+      "title": "Le sourire du roi Ajasé",
+      "last_updated": "1778360998",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o35vr27p"
+      },
+      "volume": "04"
+    }
+  }
+}
