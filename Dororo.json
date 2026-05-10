@@ -1,5 +1,5 @@
 {
-  "title": "Dororo",
+  "title": "Dororo - Edition couleur",
   "description": "Dororo ( どろろ? ) est un shōnen manga d' Osamu Tezuka prépublié dans le magazine Weekly Shōnen Sunday de l'éditeur Shōgakukan entre août 1967 et juillet 1968. Après une interruption, le manga reprend dans le magazine Bōken-ō des éditions Akita Shoten et se termine en octobre 1969 [ 1 ], [ 2 ]. L'édition française a été publiée par Akata en 2006 [ 3 ].",
   "artist": "Osamu Tezuka",
   "author": "Osamu Tezuka",
@@ -7,179 +7,179 @@
   "chapters": {
     "001": {
       "title": "Par où tout commence",
+      "volume": "01",
       "last_updated": "1778362612",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/92495lmvvyn"
-      },
-      "volume": "01"
+      }
     },
     "002": {
       "title": "Hyakkimaru, l'enfant-des-cent-démons",
+      "volume": "01",
       "last_updated": "1778362661",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gkpz2o7j"
-      },
-      "volume": "01"
+      }
     },
     "003": {
       "title": "Où Hyakkimaru rencontre le musicien aveugle",
+      "volume": "01",
       "last_updated": "1778362637",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w2q8e37x"
-      },
-      "volume": "01"
+      }
     },
     "004": {
       "title": "Où nos héros font la rencontre de Gamin-Clochette",
+      "volume": "01",
       "last_updated": "1778362614",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yxld5jmyq"
-      },
-      "volume": "01"
+      }
     },
     "005": {
       "title": "Dame Bandaï",
+      "volume": "01",
       "last_updated": "1778362638",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zqmlwg4j"
-      },
-      "volume": "01"
+      }
     },
     "006": {
       "title": "Le masque-tumeur",
+      "volume": "01",
       "last_updated": "1778362609",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45e6j3x45"
-      },
-      "volume": "01"
+      }
     },
     "007": {
       "title": "Où Dororo se remémore son passé pitoyable",
+      "volume": "01",
       "last_updated": "1778364435",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nmkqnwyn"
-      },
-      "volume": "01"
+      }
     },
     "008": {
       "title": "Où nos amis font connaissance avec un sabre enchanté",
+      "volume": "01",
       "last_updated": "1778362645",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyrz53xk7p"
-      },
-      "volume": "01"
+      }
     },
     "009": {
       "title": "Où Hyakki et Dororo se heurtent à «Banmon», la porte de bois",
+      "volume": "01",
       "last_updated": "1778362692",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24aond3gyl"
-      },
-      "volume": "01"
+      }
     },
     "009.1": {
       "title": "Galerie d'illustrations",
+      "volume": "01",
       "last_updated": "1778362605",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqe5m8ey2"
-      },
-      "volume": "01"
+      }
     },
     "010": {
       "title": "Où Dororo affronte Fudô-sans-visage",
+      "volume": "02",
       "last_updated": "1778364430",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2mnxdn7l"
-      },
-      "volume": "02"
+      }
     },
     "011": {
       "title": "Où nos amis rencontrent Sabamé «œil de maquereau»",
+      "volume": "02",
       "last_updated": "1778362662",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7o35d9a7p"
-      },
-      "volume": "02"
+      }
     },
     "012": {
       "title": "Où Hyakki et Dororo apprennent à résister aux tourments de l'enfer",
+      "volume": "02",
       "last_updated": "1778362632",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7kq52ok78"
-      },
-      "volume": "02"
+      }
     },
     "013": {
       "title": "Où Dororo croise deux requins",
+      "volume": "02",
       "last_updated": "1778362615",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg73362bv7r"
-      },
-      "volume": "02"
+      }
     },
     "014": {
       "title": "Shiranui, celui qui aimait les requins",
+      "volume": "02",
       "last_updated": "1778362621",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7bonr5ky5"
-      },
-      "volume": "02"
+      }
     },
     "015": {
       "title": "Où nos amis ont une surprise au cap Sans-Pitié",
+      "volume": "02",
       "last_updated": "1778362623",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvajg2wy8"
-      },
-      "volume": "02"
+      }
     },
     "016": {
       "title": "Midoro, la jument maudite",
+      "volume": "02",
       "last_updated": "1778362636",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mrvj3q4d"
-      },
-      "volume": "02"
+      }
     },
     "017": {
       "title": "L'étang de Donburi-Bara",
+      "volume": "02",
       "last_updated": "1778362649",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny882r3pyb"
-      },
-      "volume": "02"
+      }
     },
     "018": {
       "title": "Le révérend Shikényûdô",
+      "volume": "02",
       "last_updated": "1778362622",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7ld5l96yx"
-      },
-      "volume": "02"
+      }
     },
     "019": {
       "title": "Nué, le tigre-serpent",
+      "volume": "02",
       "last_updated": "1778362628",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyeonwqx4d"
-      },
-      "volume": "02"
+      }
     },
     "019.1": {
       "title": "Postface de Tezuka",
+      "volume": "02",
       "last_updated": "1778362570",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9rydon3jd7k"
-      },
-      "volume": "02"
+      }
     },
     "019.2": {
       "title": "Dororo... Vers le côté sombre de Tezuka, par Xavier Hébert",
+      "volume": "02",
       "last_updated": "1778362604",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pw5rv8yo"
-      },
-      "volume": "02"
+      }
     }
   }
 }
