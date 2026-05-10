@@ -1,0 +1,1673 @@
+{
+  "title": "Shadows House",
+  "description": "Shadows House ( シャドーハウス, Shadō Hausu? , litt. la « Maison de Shadow » ou « Maison des Ombres » par double sens ) est une série de manga écrite et illustrée par le duo So-ma-to.",
+  "artist": "So-ma-to",
+  "author": "So-ma-to",
+  "cover": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Shadows_House_logo_EN.webp/250px-Shadows_House_logo_EN.webp.png",
+  "chapters": {
+    "001": {
+      "title": "Kate et Emilico",
+      "last_updated": "1778429504",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld63l3yx"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Quand une poupée est cassée",
+      "last_updated": "1778429522",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mr63ja4d"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Le règlement",
+      "last_updated": "1778429515",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydoej367k"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Le bonhomme de suie",
+      "last_updated": "1778429524",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w2je8q7x"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "Fringale",
+      "last_updated": "1778429502",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jj6q5948"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "Son miroir",
+      "last_updated": "1778429518",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz6x3l7p"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "Un autre visage",
+      "last_updated": "1778429525",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyeozqwz4d"
+      },
+      "volume": "01"
+    },
+    "008": {
+      "title": "En dehors de la chambre",
+      "last_updated": "1778429537",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z9lq2yx"
+      },
+      "volume": "01"
+    },
+    "009": {
+      "title": "Le souffle-suie",
+      "last_updated": "1778429531",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zqrwll4j"
+      },
+      "volume": "01"
+    },
+    "010": {
+      "title": "Salissure tenace",
+      "last_updated": "1778429523",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7338b2o7r"
+      },
+      "volume": "01"
+    },
+    "011": {
+      "title": "Une paire avant l'exhibition",
+      "last_updated": "1778429514",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe68mxy2"
+      },
+      "volume": "01"
+    },
+    "012": {
+      "title": "Une vie noire de suie",
+      "last_updated": "1778429549",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld63doyx"
+      },
+      "volume": "01"
+    },
+    "013": {
+      "title": "Le cours",
+      "last_updated": "1778429542",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bo32ogy5"
+      },
+      "volume": "02"
+    },
+    "014": {
+      "title": "Le revenant",
+      "last_updated": "1778429539",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nm63q5yn"
+      },
+      "volume": "02"
+    },
+    "015": {
+      "title": "La poupée qui bougeait",
+      "last_updated": "1778429538",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxlqm56yq"
+      },
+      "volume": "02"
+    },
+    "016": {
+      "title": "Le jour du bain",
+      "last_updated": "1778429539",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aomadeyl"
+      },
+      "volume": "02"
+    },
+    "017": {
+      "title": "La porte-étoile",
+      "last_updated": "1778429536",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/924959dm8yn"
+      },
+      "volume": "02"
+    },
+    "018": {
+      "title": "La ronde nocturne",
+      "last_updated": "1778429531",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45en2jv45"
+      },
+      "volume": "02"
+    },
+    "019": {
+      "title": "Pensées inutiles",
+      "last_updated": "1778429547",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe68eky2"
+      },
+      "volume": "02"
+    },
+    "020": {
+      "title": "Une ombre bien amicale",
+      "last_updated": "1778429544",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kqndqw78"
+      },
+      "volume": "02"
+    },
+    "021": {
+      "title": "La veille au soir",
+      "last_updated": "1778429537",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvalvgky8"
+      },
+      "volume": "02"
+    },
+    "022": {
+      "title": "Cinq nouvelles paires",
+      "last_updated": "1778429526",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gk82zk7j"
+      },
+      "volume": "02"
+    },
+    "023": {
+      "title": "Le classement",
+      "last_updated": "1778429530",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny889qrwyb"
+      },
+      "volume": "02"
+    },
+    "024": {
+      "title": "Noms",
+      "last_updated": "1778429548",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pw6kwjyo"
+      },
+      "volume": "02"
+    },
+    "025": {
+      "title": "Critères de notation",
+      "last_updated": "1778429546",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mgbm37l"
+      },
+      "volume": "03"
+    },
+    "026": {
+      "title": "Une collection dépareillée",
+      "last_updated": "1778429541",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o3ve3l7p"
+      },
+      "volume": "03"
+    },
+    "027": {
+      "title": "Le labyrinthe du parc",
+      "last_updated": "1778429543",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jj6qj948"
+      },
+      "volume": "03"
+    },
+    "028": {
+      "title": "Panoramas",
+      "last_updated": "1778429542",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mgbm87l"
+      },
+      "volume": "03"
+    },
+    "029": {
+      "title": "Une carte incomplète",
+      "last_updated": "1778429540",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe68exy2"
+      },
+      "volume": "03"
+    },
+    "030": {
+      "title": "Points noirs",
+      "last_updated": "1778429545",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jj6qje48"
+      },
+      "volume": "03"
+    },
+    "031": {
+      "title": "L'erreur fatale",
+      "last_updated": "1778429546",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydoejon7k"
+      },
+      "volume": "03"
+    },
+    "032": {
+      "title": "Attention aux détails",
+      "last_updated": "1778429546",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz6xz67p"
+      },
+      "volume": "03"
+    },
+    "033": {
+      "title": "Première place",
+      "last_updated": "1778429548",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mr63rj4d"
+      },
+      "volume": "03"
+    },
+    "034": {
+      "title": "Rester soi-même",
+      "last_updated": "1778429550",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7338b337r"
+      },
+      "volume": "03"
+    },
+    "035": {
+      "title": "Figures invisibles",
+      "last_updated": "1778429551",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w2je2b7x"
+      },
+      "volume": "03"
+    },
+    "036": {
+      "title": "L'examinateur",
+      "last_updated": "1778429553",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gk82kb7j"
+      },
+      "volume": "03"
+    },
+    "037": {
+      "title": "Les visages",
+      "last_updated": "1778429553",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zqrwqv4j"
+      },
+      "volume": "04"
+    },
+    "038": {
+      "title": "Qualification",
+      "last_updated": "1778429550",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyeozqok4d"
+      },
+      "volume": "04"
+    },
+    "039": {
+      "title": "La plus misérable",
+      "last_updated": "1778429552",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45en2eg45"
+      },
+      "volume": "04"
+    },
+    "040": {
+      "title": "La suie de l'angoisse",
+      "last_updated": "1778429554",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aomaowyl"
+      },
+      "volume": "04"
+    },
+    "041": {
+      "title": "Fleurs et cage à oiseaux",
+      "last_updated": "1778429557",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvalvbzy8"
+      },
+      "volume": "04"
+    },
+    "042": {
+      "title": "Résolutions",
+      "last_updated": "1778429555",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z9lzvyx"
+      },
+      "volume": "04"
+    },
+    "043": {
+      "title": "La dernière paire",
+      "last_updated": "1778429557",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bo32jvy5"
+      },
+      "volume": "04"
+    },
+    "044": {
+      "title": "En route vers l'âge adulte",
+      "last_updated": "1778429558",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/924959deayn"
+      },
+      "volume": "04"
+    },
+    "045": {
+      "title": "L'heure du bilan",
+      "last_updated": "1778429556",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxlqmbkyq"
+      },
+      "volume": "04"
+    },
+    "046": {
+      "title": "Poupée vivante",
+      "last_updated": "1778429556",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nm63alyn"
+      },
+      "volume": "04"
+    },
+    "047": {
+      "title": "La maladie de la suie",
+      "last_updated": "1778429558",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pw6kbkyo"
+      },
+      "volume": "04"
+    },
+    "048": {
+      "title": "Dans l'ombre du quotidien",
+      "last_updated": "1778429565",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld638oyx"
+      },
+      "volume": "04"
+    },
+    "049": {
+      "title": "Le pouvoir de la suie",
+      "last_updated": "1778429560",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o3vek97p"
+      },
+      "volume": "04"
+    },
+    "050": {
+      "title": "La lettre",
+      "last_updated": "1778429584",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45en2rg45"
+      },
+      "volume": "04"
+    },
+    "051": {
+      "title": "John et Shawn",
+      "last_updated": "1778429573",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyeozqrk4d"
+      },
+      "volume": "05"
+    },
+    "052": {
+      "title": "Les quatre paires de porte-étoiles",
+      "last_updated": "1778429569",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz6xb67p"
+      },
+      "volume": "05"
+    },
+    "053": {
+      "title": "La joyeuse communion",
+      "last_updated": "1778429567",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe68bky2"
+      },
+      "volume": "05"
+    },
+    "054": {
+      "title": "Les rivaux",
+      "last_updated": "1778429571",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w2jebb7x"
+      },
+      "volume": "05"
+    },
+    "055": {
+      "title": "L'accident de Rosemarie",
+      "last_updated": "1778429575",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny889qwdyb"
+      },
+      "volume": "05"
+    },
+    "056": {
+      "title": "Le grand ménage",
+      "last_updated": "1778429568",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jj6qze48"
+      },
+      "volume": "05"
+    },
+    "057": {
+      "title": "Ce qui est fait est fait",
+      "last_updated": "1778429571",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mr635j4d"
+      },
+      "volume": "05"
+    },
+    "058": {
+      "title": "Les suspects potentiels",
+      "last_updated": "1778429570",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydoejdn7k"
+      },
+      "volume": "05"
+    },
+    "059": {
+      "title": "Exploration",
+      "last_updated": "1778429572",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zqrwbv4j"
+      },
+      "volume": "05"
+    },
+    "060": {
+      "title": "Le groupe de recherche",
+      "last_updated": "1778429573",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gk823b7j"
+      },
+      "volume": "05"
+    },
+    "061": {
+      "title": "Les camarades de promotion",
+      "last_updated": "1778429570",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7338bq37r"
+      },
+      "volume": "05"
+    },
+    "062": {
+      "title": "Sous le ciel étoilé",
+      "last_updated": "1778429584",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvalvpzy8"
+      },
+      "volume": "05"
+    },
+    "063": {
+      "title": "Une réunion extraordinaire",
+      "last_updated": "1778429587",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kqndpm78"
+      },
+      "volume": "06"
+    },
+    "064": {
+      "title": "Des agrégats",
+      "last_updated": "1778429583",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nm63olyn"
+      },
+      "volume": "06"
+    },
+    "065": {
+      "title": "De l'appel",
+      "last_updated": "1778429578",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aomalwyl"
+      },
+      "volume": "06"
+    },
+    "066": {
+      "title": "Des fiançailles",
+      "last_updated": "1778429579",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z9lmvyx"
+      },
+      "volume": "06"
+    },
+    "067": {
+      "title": "Qui est l'ombre à la robe ?",
+      "last_updated": "1778429586",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bo329vy5"
+      },
+      "volume": "06"
+    },
+    "068": {
+      "title": "Le coupable démasqué",
+      "last_updated": "1778429582",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/924959dnayn"
+      },
+      "volume": "06"
+    },
+    "069": {
+      "title": "Le mobile",
+      "last_updated": "1778429581",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxlqmpkyq"
+      },
+      "volume": "06"
+    },
+    "070": {
+      "title": "L'ultime cours",
+      "last_updated": "1778429585",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o3vep97p"
+      },
+      "volume": "06"
+    },
+    "071": {
+      "title": "L'appel et l'accueil",
+      "last_updated": "1778429586",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld63poyx"
+      },
+      "volume": "06"
+    },
+    "072": {
+      "title": "La gentillesse",
+      "last_updated": "1778429587",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jj6qpe48"
+      },
+      "volume": "06"
+    },
+    "073": {
+      "title": "Les trois branches",
+      "last_updated": "1778429592",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mr63pj4d"
+      },
+      "volume": "06"
+    },
+    "074": {
+      "title": "La valeur de l'amitié",
+      "last_updated": "1778429610",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7338ba37r"
+      },
+      "volume": "06"
+    },
+    "075": {
+      "title": "La promesse",
+      "last_updated": "1778429611",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aoma9wyl"
+      },
+      "volume": "07"
+    },
+    "076": {
+      "title": "Une blessure trop profonde",
+      "last_updated": "1778429623",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bo32zvy5"
+      },
+      "volume": "07"
+    },
+    "077": {
+      "title": "Des choix sans solution",
+      "last_updated": "1778429601",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny889qndyb"
+      },
+      "volume": "07"
+    },
+    "078": {
+      "title": "Leur solution",
+      "last_updated": "1778429600",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gk829b7j"
+      },
+      "volume": "07"
+    },
+    "079": {
+      "title": "Ceux qui combattent",
+      "last_updated": "1778429591",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz6xk67p"
+      },
+      "volume": "07"
+    },
+    "080": {
+      "title": "Le quotidien",
+      "last_updated": "1778429615",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z9lnvyx"
+      },
+      "volume": "07"
+    },
+    "081": {
+      "title": "La nouvelle cheffe",
+      "last_updated": "1778429596",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w2jepb7x"
+      },
+      "volume": "07"
+    },
+    "082": {
+      "title": "Le groupe d'Emilico",
+      "last_updated": "1778429601",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45en2vg45"
+      },
+      "volume": "07"
+    },
+    "083": {
+      "title": "Une question épineuse",
+      "last_updated": "1778429618",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nm63dlyn"
+      },
+      "volume": "07"
+    },
+    "084": {
+      "title": "L'infraction au règlement",
+      "last_updated": "1778429597",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyeozqkk4d"
+      },
+      "volume": "07"
+    },
+    "085": {
+      "title": "Le café spécial",
+      "last_updated": "1778429620",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pw6kmkyo"
+      },
+      "volume": "07"
+    },
+    "086": {
+      "title": "Le plan du responsable",
+      "last_updated": "1778429642",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jj6q2e48"
+      },
+      "volume": "07"
+    },
+    "087": {
+      "title": "Inspection",
+      "last_updated": "1778429629",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kqndlm78"
+      },
+      "volume": "08"
+    },
+    "088": {
+      "title": "Évaluation",
+      "last_updated": "1778429608",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvalv8zy8"
+      },
+      "volume": "08"
+    },
+    "089": {
+      "title": "Flatteries",
+      "last_updated": "1778429619",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxlqmakyq"
+      },
+      "volume": "08"
+    },
+    "090": {
+      "title": "Une chance à saisir",
+      "last_updated": "1778429617",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/924959dbayn"
+      },
+      "volume": "08"
+    },
+    "091": {
+      "title": "Kate",
+      "last_updated": "1778429626",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mgbv87l"
+      },
+      "volume": "08"
+    },
+    "092": {
+      "title": "Poupée voilée ①",
+      "last_updated": "1778429627",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld63joyx"
+      },
+      "volume": "08"
+    },
+    "093": {
+      "title": "Poupée voilée ②",
+      "last_updated": "1778429624",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o3ver97p"
+      },
+      "volume": "08"
+    },
+    "094": {
+      "title": "Les informateurs",
+      "last_updated": "1778429630",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe683ky2"
+      },
+      "volume": "08"
+    },
+    "095": {
+      "title": "Depuis ce jour",
+      "last_updated": "1778429639",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mr63qj4d"
+      },
+      "volume": "08"
+    },
+    "096": {
+      "title": "Désormais",
+      "last_updated": "1778429636",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydoej8n7k"
+      },
+      "volume": "08"
+    },
+    "097": {
+      "title": "Digne de confiance",
+      "last_updated": "1778429648",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz6xw67p"
+      },
+      "volume": "08"
+    },
+    "098": {
+      "title": "Les pièges se tendent",
+      "last_updated": "1778429643",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w2je5b7x"
+      },
+      "volume": "09"
+    },
+    "099": {
+      "title": "Des visiteurs inattendus",
+      "last_updated": "1778429638",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7338bx37r"
+      },
+      "volume": "09"
+    },
+    "100": {
+      "title": "La réunion des cinq paires",
+      "last_updated": "1778429641",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny889qkdyb"
+      },
+      "volume": "09"
+    },
+    "101": {
+      "title": "Les liens d'amitié",
+      "last_updated": "1778429637",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zqrwvv4j"
+      },
+      "volume": "09"
+    },
+    "102": {
+      "title": "Souvenirs",
+      "last_updated": "1778429637",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gk826b7j"
+      },
+      "volume": "09"
+    },
+    "103": {
+      "title": "La veille du grand jour",
+      "last_updated": "1778429640",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aomaewyl"
+      },
+      "volume": "09"
+    },
+    "104": {
+      "title": "Le nom d'une inconnue",
+      "last_updated": "1778429640",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45en2bg45"
+      },
+      "volume": "09"
+    },
+    "105": {
+      "title": "Promesse sous les étoiles",
+      "last_updated": "1778429642",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z9lbvyx"
+      },
+      "volume": "09"
+    },
+    "106": {
+      "title": "Mon nom",
+      "last_updated": "1778429654",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvalvozy8"
+      },
+      "volume": "09"
+    },
+    "107": {
+      "title": "Monologue",
+      "last_updated": "1778429649",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxlqmokyq"
+      },
+      "volume": "10"
+    },
+    "108": {
+      "title": "Enfance",
+      "last_updated": "1778429650",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nm63blyn"
+      },
+      "volume": "10"
+    },
+    "109": {
+      "title": "Shadows House",
+      "last_updated": "1778429646",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bo32bvy5"
+      },
+      "volume": "10"
+    },
+    "110": {
+      "title": "Étranges coutumes",
+      "last_updated": "1778429650",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pw6kokyo"
+      },
+      "volume": "10"
+    },
+    "111": {
+      "title": "Les ombres de la forêt",
+      "last_updated": "1778429651",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o3veo97p"
+      },
+      "volume": "10"
+    },
+    "112": {
+      "title": "L'arrivée au manoir",
+      "last_updated": "1778429648",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kqndbm78"
+      },
+      "volume": "10"
+    },
+    "113": {
+      "title": "La formation d'une paire",
+      "last_updated": "1778429652",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe68oky2"
+      },
+      "volume": "10"
+    },
+    "114": {
+      "title": "Tel est ton nom",
+      "last_updated": "1778429655",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mgb6n7l"
+      },
+      "volume": "10"
+    },
+    "115": {
+      "title": "Emilico",
+      "last_updated": "1778429672",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld63b6yx"
+      },
+      "volume": "10"
+    },
+    "116": {
+      "title": "Premier service",
+      "last_updated": "1778429663",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jj6qb548"
+      },
+      "volume": "11"
+    },
+    "117": {
+      "title": "Rapport de forces",
+      "last_updated": "1778429656",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe68oey2"
+      },
+      "volume": "11"
+    },
+    "118": {
+      "title": "La réunion des roses",
+      "last_updated": "1778429657",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydoejbd7k"
+      },
+      "volume": "11"
+    },
+    "119": {
+      "title": "L'amorce d'une révolution",
+      "last_updated": "1778429658",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz6xok7p"
+      },
+      "volume": "11"
+    },
+    "120": {
+      "title": "Bipolarisation",
+      "last_updated": "1778429665",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7338bvv7r"
+      },
+      "volume": "11"
+    },
+    "121": {
+      "title": "Les proies",
+      "last_updated": "1778429664",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w2jeo37x"
+      },
+      "volume": "11"
+    },
+    "122": {
+      "title": "Duel",
+      "last_updated": "1778429665",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zqrwog4j"
+      },
+      "volume": "11"
+    },
+    "123": {
+      "title": "Mauvaise décision",
+      "last_updated": "1778429666",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyeozqbx4d"
+      },
+      "volume": "11"
+    },
+    "124": {
+      "title": "En toute sincérité",
+      "last_updated": "1778429686",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z9ljgyx"
+      },
+      "volume": "11"
+    },
+    "125": {
+      "title": "Douceur et amertume",
+      "last_updated": "1778429677",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gk82bo7j"
+      },
+      "volume": "12"
+    },
+    "126": {
+      "title": "La force tranquille",
+      "last_updated": "1778429671",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny889qdpyb"
+      },
+      "volume": "12"
+    },
+    "127": {
+      "title": "Une main bienveillante ①",
+      "last_updated": "1778429669",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45en2lx45"
+      },
+      "volume": "12"
+    },
+    "128": {
+      "title": "Une main bienveillante ②",
+      "last_updated": "1778429684",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bo32mky5"
+      },
+      "volume": "12"
+    },
+    "129": {
+      "title": "Incognito",
+      "last_updated": "1778429670",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvalvkwy8"
+      },
+      "volume": "12"
+    },
+    "130": {
+      "title": "Mauvaise expérience",
+      "last_updated": "1778429674",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxlqmwmyq"
+      },
+      "volume": "12"
+    },
+    "131": {
+      "title": "Une hypothèse à prouver",
+      "last_updated": "1778429691",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld63v6yx"
+      },
+      "volume": "12"
+    },
+    "132": {
+      "title": "Fourberie",
+      "last_updated": "1778429681",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/924959drvyn"
+      },
+      "volume": "12"
+    },
+    "133": {
+      "title": "Une existence unique",
+      "last_updated": "1778429698",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pw6k28yo"
+      },
+      "volume": "12"
+    },
+    "134": {
+      "title": "Cœur",
+      "last_updated": "1778429699",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o3vena7p"
+      },
+      "volume": "13"
+    },
+    "135": {
+      "title": "Le maître et son serviteur",
+      "last_updated": "1778429690",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mgb9n7l"
+      },
+      "volume": "13"
+    },
+    "136": {
+      "title": "Pour elle",
+      "last_updated": "1778429682",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nm639wyn"
+      },
+      "volume": "13"
+    },
+    "137": {
+      "title": "L'épave",
+      "last_updated": "1778429694",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jj6qa548"
+      },
+      "volume": "13"
+    },
+    "138": {
+      "title": "Passage de relais",
+      "last_updated": "1778429689",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz6xjk7p"
+      },
+      "volume": "13"
+    },
+    "139": {
+      "title": "Recoupements",
+      "last_updated": "1778429692",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe68ley2"
+      },
+      "volume": "13"
+    },
+    "140": {
+      "title": "Un plan presque parfait",
+      "last_updated": "1778429694",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydoejwd7k"
+      },
+      "volume": "13"
+    },
+    "141": {
+      "title": "Le mobile du crime",
+      "last_updated": "1778429696",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mr63xq4d"
+      },
+      "volume": "13"
+    },
+    "142": {
+      "title": "Une leçon bien apprise",
+      "last_updated": "1778429712",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7338bnv7r"
+      },
+      "volume": "13"
+    },
+    "143": {
+      "title": "Un combat inégal",
+      "last_updated": "1778429711",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gk82go7j"
+      },
+      "volume": "14"
+    },
+    "144": {
+      "title": "Une raison de vaincre",
+      "last_updated": "1778429708",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/924959d6vyn"
+      },
+      "volume": "14"
+    },
+    "145": {
+      "title": "Le prix de la victoire",
+      "last_updated": "1778429701",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qb4zqrwzg4j"
+      },
+      "volume": "14"
+    },
+    "146": {
+      "title": "L'aveu",
+      "last_updated": "1778429703",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyeozqex4d"
+      },
+      "volume": "14"
+    },
+    "147": {
+      "title": "Une cicatrice indélébile",
+      "last_updated": "1778429702",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny889qapyb"
+      },
+      "volume": "14"
+    },
+    "148": {
+      "title": "Du fond du cœur",
+      "last_updated": "1778429706",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45en2gx45"
+      },
+      "volume": "14"
+    },
+    "149": {
+      "title": "Lewis",
+      "last_updated": "1778429710",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvalv5wy8"
+      },
+      "volume": "14"
+    },
+    "150": {
+      "title": "La résolution",
+      "last_updated": "1778429707",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z9l8gyx"
+      },
+      "volume": "14"
+    },
+    "151": {
+      "title": "Un visage souriant",
+      "last_updated": "1778429705",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aoma5gyl"
+      },
+      "volume": "14"
+    },
+    "152": {
+      "title": "En vérité",
+      "last_updated": "1778429709",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxlqm6myq"
+      },
+      "volume": "14"
+    },
+    "153": {
+      "title": "Le résultat des votes",
+      "last_updated": "1778433140",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bo32aky5"
+      },
+      "volume": "14"
+    },
+    "154": {
+      "title": "Devoirs et responsabilités",
+      "last_updated": "1778429734",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kqndjk78"
+      },
+      "volume": "15"
+    },
+    "155": {
+      "title": "Une illusion passagère",
+      "last_updated": "1778429713",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nm63rwyn"
+      },
+      "volume": "15"
+    },
+    "156": {
+      "title": "Un moment de répit",
+      "last_updated": "1778429717",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o3vema7p"
+      },
+      "volume": "15"
+    },
+    "157": {
+      "title": "Âme sœur",
+      "last_updated": "1778429722",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jj6ql548"
+      },
+      "volume": "15"
+    },
+    "158": {
+      "title": "Attaque sur le manoir",
+      "last_updated": "1778429719",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mgbkn7l"
+      },
+      "volume": "15"
+    },
+    "159": {
+      "title": "Un parfum de péché",
+      "last_updated": "1778431187",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mgd2z7l"
+      },
+      "volume": "15"
+    },
+    "160": {
+      "title": "Margaret",
+      "last_updated": "1778429729",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7338bev7r"
+      },
+      "volume": "15"
+    },
+    "161": {
+      "title": "Noblesse de cœur",
+      "last_updated": "1778429727",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz6xek7p"
+      },
+      "volume": "15"
+    },
+    "162": {
+      "title": "Hors de contrôle",
+      "last_updated": "1778429726",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydoejkd7k"
+      },
+      "volume": "15"
+    },
+    "163": {
+      "title": "Le langage des fleurs",
+      "last_updated": "1778429723",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe68wey2"
+      },
+      "volume": "15"
+    },
+    "164": {
+      "title": "Le fragment de grâce",
+      "last_updated": "1778429749",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mr63dq4d"
+      },
+      "volume": "15"
+    },
+    "165": {
+      "title": "Drame et opportunités",
+      "last_updated": "1778442645",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/bp45enqz245"
+      },
+      "volume": "16"
+    },
+    "166": {
+      "title": "Les moyens et les objectifs",
+      "last_updated": "1778429732",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w2jea37x"
+      },
+      "volume": "16"
+    },
+    "167": {
+      "title": "Les responsables disciplinaires",
+      "last_updated": "1778429770",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe68jey2"
+      },
+      "volume": "16"
+    },
+    "168": {
+      "title": "Manigances",
+      "last_updated": "1778429735",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyeozqxx4d"
+      },
+      "volume": "16"
+    },
+    "169": {
+      "title": "Cinq nouvelles paires",
+      "last_updated": "1778442642",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny889mooyb"
+      },
+      "volume": "16"
+    },
+    "170": {
+      "title": "En coulisses",
+      "last_updated": "1778429738",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny889qgpyb"
+      },
+      "volume": "16"
+    },
+    "171": {
+      "title": "King",
+      "last_updated": "1778429771",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mr63bq4d"
+      },
+      "volume": "16"
+    },
+    "172": {
+      "title": "La première épreuve",
+      "last_updated": "1778431152",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w2jlxx7x"
+      },
+      "volume": "16"
+    },
+    "173": {
+      "title": "Coalition",
+      "last_updated": "1778433136",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxlqjokyq"
+      },
+      "volume": "16"
+    },
+    "174": {
+      "title": "Le secret des nouveaux",
+      "last_updated": "1778429739",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z9legyx"
+      },
+      "volume": "16"
+    },
+    "175": {
+      "title": "Face au mur",
+      "last_updated": "1778431159",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyvalv3wy8"
+      },
+      "volume": "16"
+    },
+    "176": {
+      "title": "Conditionnement et éveil",
+      "last_updated": "1778431185",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/agyval29by8"
+      },
+      "volume": "17"
+    },
+    "177": {
+      "title": "L'épreuve d'Oliver",
+      "last_updated": "1778429740",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/m9yxlqmemyq"
+      },
+      "volume": "17"
+    },
+    "178": {
+      "title": "Chacun son combat",
+      "last_updated": "1778429741",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/924959d8vyn"
+      },
+      "volume": "17"
+    },
+    "179": {
+      "title": "La vraie nature de la malédiction",
+      "last_updated": "1778429773",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz6xqk7p"
+      },
+      "volume": "17"
+    },
+    "180": {
+      "title": "Manigances",
+      "last_updated": "1778434388",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz69re7p"
+      },
+      "volume": "17"
+    },
+    "181": {
+      "title": "Épreuve de rattrapage",
+      "last_updated": "1778429768",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld63n6yx"
+      },
+      "volume": "17"
+    },
+    "182": {
+      "title": "Professeure et disciple",
+      "last_updated": "1778431190",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jj698348"
+      },
+      "volume": "17"
+    },
+    "183": {
+      "title": "Souvenirs du cirque",
+      "last_updated": "1778431188",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ljyqe6v2dy2"
+      },
+      "volume": "17"
+    },
+    "184": {
+      "title": "Les deux intruses",
+      "last_updated": "1778429775",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7338bmv7r"
+      },
+      "volume": "17"
+    },
+    "185": {
+      "title": "L'opération continue",
+      "last_updated": "1778431177",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z9p5zyx"
+      },
+      "volume": "17"
+    },
+    "186": {
+      "title": "Le front commun",
+      "last_updated": "1778429781",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/vj4jj6qx548"
+      },
+      "volume": "17"
+    },
+    "187": {
+      "title": "Doute",
+      "last_updated": "1778433133",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/5xy2mgbrn7l"
+      },
+      "volume": "18"
+    },
+    "188": {
+      "title": "Alliés et ennemis",
+      "last_updated": "1778431193",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/lqyeozamm4d"
+      },
+      "volume": "18"
+    },
+    "189": {
+      "title": "La cérémonie d'unification",
+      "last_updated": "1778429777",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w2jek37x"
+      },
+      "volume": "18"
+    },
+    "190": {
+      "title": "Fanatisme",
+      "last_updated": "1778442644",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aomjv3yl"
+      },
+      "volume": "18"
+    },
+    "191": {
+      "title": "Souvenirs fragmentés",
+      "last_updated": "1778431189",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9rydoexra7k"
+      },
+      "volume": "18"
+    },
+    "192": {
+      "title": "Le monstre",
+      "last_updated": "1778431186",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/md7o3v9q27p"
+      },
+      "volume": "18"
+    },
+    "193": {
+      "title": "Au terme de l'opération",
+      "last_updated": "1778433169",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kqnobm78"
+      },
+      "volume": "18"
+    },
+    "194": {
+      "title": "Sous la surface",
+      "last_updated": "1778431192",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ej7mr69894d"
+      },
+      "volume": "18"
+    },
+    "195": {
+      "title": "Remaniement",
+      "last_updated": "1778431182",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/9p4nm6njbyn"
+      },
+      "volume": "18"
+    },
+    "196": {
+      "title": "Monsieur Christopher",
+      "last_updated": "1778431181",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/ne7bo35kmy5"
+      },
+      "volume": "18"
+    },
+    "197": {
+      "title": "Anthony",
+      "last_updated": "1778431196",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/na7kqnov378"
+      },
+      "volume": "18"
+    },
+    "198": {
+      "title": "Monologue",
+      "last_updated": "1778431192",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/924959vpbyn"
+      },
+      "volume": "19"
+    },
+    "199": {
+      "title": "Parcours",
+      "last_updated": "1778431193",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/n87w2jlmx7x"
+      },
+      "volume": "19"
+    },
+    "200": {
+      "title": "Shadows House",
+      "last_updated": "1778431178",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aom38dyl"
+      },
+      "volume": "19"
+    },
+    "201": {
+      "title": "Perte",
+      "last_updated": "1778431193",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/pg7338rlg7r"
+      },
+      "volume": "19"
+    },
+    "202": {
+      "title": "Les compagnons restants",
+      "last_updated": "1778431191",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/6eyrz6vlx7p"
+      },
+      "volume": "19"
+    },
+    "203": {
+      "title": "Tromperie",
+      "last_updated": "1778431184",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/dl7pw6vd3yo"
+      },
+      "volume": "19"
+    },
+    "204": {
+      "title": "À votre service",
+      "last_updated": "1778431187",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/wl7ld69oxyx"
+      },
+      "volume": "19"
+    },
+    "205": {
+      "title": "Déchéance",
+      "last_updated": "1778431201",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/a846z9pdzyx"
+      },
+      "volume": "19"
+    },
+    "206": {
+      "title": "Conflit intérieur",
+      "last_updated": "1778431199",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/qe4gk8ewq7j"
+      },
+      "volume": "19"
+    },
+    "207": {
+      "title": "Le grand rassemblement",
+      "last_updated": "1778431199",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/xny8893m2yb"
+      },
+      "volume": "19"
+    },
+    "208": {
+      "title": "Le sens de la justice",
+      "last_updated": "1778431207",
+      "groups": {
+        "Chromatique": "/proxy/api/imgchest/chapter/o24aom3jdyl"
+      },
+      "volume": "19"
+    }
+  }
+}
