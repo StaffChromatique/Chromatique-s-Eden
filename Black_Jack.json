@@ -1,337 +1,337 @@
 {
-  "title": "Black Jack",
-  "description": "Black Jack ( ブラック・ジャック, Burakku Jakku? ) est un manga de Osamu Tezuka qui relate les aventures du médecin Black Jack. Il est prépublié entre 1973 et 1983 dans le magazine Weekly Shōnen Champion, puis compilé en un total de dix-sept tomes par Akita Shoten. La version française est initialement publiée aux éditions Glénat, mais sa publication a été interrompue. Elle est reprise par les éditions Asuka dans une collection comptant dix-sept volumes, puis par Kazé en version Deluxe [ 1 ].",
-  "artist": "Kenji Yamamoto",
+  "title": "Black Jack - Edition couleur",
+  "description": "Chirurgien sans diplôme opérant dans la clandestinité, personnage ténébreux, génial et hors-la-loi, Black Jack passe sa vie à sauver celle des autres. Tezuka, lui-même médecin, s'exprime à travers son personnage. Chaque nouveau cas est, pour l'auteur, l'occasion de dévoiler un regard acéré, sans concessions sur la nature humaine… et pourtant profondément humaniste, malgré son apparente dureté. Chaque épisode de Black Jack est une fable noire et superbe sur la condition humaine.\nNote : Cette version se base sur l'édition deluxe de Akata. En raison des spécificités de cette série, le numéro des chapitres peut différer avec d'autres éditions.",
+  "artist": "Osamu Tezuka",
   "author": "Osamu Tezuka",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/20px-Flag_of_Japan.svg.png",
+  "cover": "https://cdn.imgchest.com/files/948ab20e5bac.png",
   "chapters": {
     "001": {
       "title": "Où est le docteur ?",
+      "volume": "01",
       "last_updated": "1778369889",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny882wpwyb"
-      },
-      "volume": "01"
+      }
     },
     "002": {
       "title": "La première tempête du printemps",
+      "volume": "01",
       "last_updated": "1778369860",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gkpkok7j"
-      },
-      "volume": "01"
+      }
     },
     "003": {
       "title": "Le tératome",
+      "volume": "01",
       "last_updated": "1778369871",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yxldlz6yq"
-      },
-      "volume": "01"
+      }
     },
     "004": {
       "title": "La tumeur à face humaine",
+      "volume": "01",
       "last_updated": "1778369884",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9rydondl67k"
-      },
-      "volume": "01"
+      }
     },
     "005": {
       "title": "Telle une perle parfois",
+      "volume": "01",
       "last_updated": "1778369879",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/vj4jjnzo948"
-      },
-      "volume": "01"
+      }
     },
     "006": {
       "title": "Retrouvailles",
+      "volume": "01",
       "last_updated": "1778369885",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qb4zqmb6l4j"
-      },
-      "volume": "01"
+      }
     },
     "007": {
       "title": "Cette peinture est sans vie",
+      "volume": "01",
       "last_updated": "1778369876",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2mnjz37l"
-      },
-      "volume": "01"
+      }
     },
     "008": {
       "title": "Une étoile de magnitude six",
+      "volume": "01",
       "last_updated": "1778369885",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/n87w2qbzq7x"
-      },
-      "volume": "01"
+      }
     },
     "009": {
       "title": "Black Queen",
+      "volume": "01",
       "last_updated": "1778369864",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846z6zv2yx"
-      },
-      "volume": "01"
+      }
     },
     "010": {
       "title": "U-18 le savait",
+      "volume": "01",
       "last_updated": "1778369897",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/92495l5o8yn"
-      },
-      "volume": "01"
+      }
     },
     "011": {
       "title": "Les jambes d'une fourmi",
+      "volume": "01",
       "last_updated": "1778369872",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45e6eav45"
-      },
-      "volume": "01"
+      }
     },
     "012": {
       "title": "Deux amours",
+      "volume": "01",
       "last_updated": "1778369976",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/qe4gkp3vk7j"
-      },
-      "volume": "01"
+      }
     },
     "013": {
       "title": "L'aiguille",
+      "volume": "02",
       "last_updated": "1778369876",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvajamky8"
-      },
-      "volume": "02"
+      }
     },
     "014": {
       "title": "Amour maternel",
+      "volume": "02",
       "last_updated": "1778369878",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pw5bgjyo"
-      },
-      "volume": "02"
+      }
     },
     "015": {
       "title": "L'épaulard",
+      "volume": "02",
       "last_updated": "1778369881",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7ld58z3yx"
-      },
-      "volume": "02"
+      }
     },
     "016": {
       "title": "Chacun pour soi",
+      "volume": "02",
       "last_updated": "1778369874",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7kq5gxw78"
-      },
-      "volume": "02"
+      }
     },
     "017": {
       "title": "Dans l'abri souterrain",
+      "volume": "02",
       "last_updated": "1778369872",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24aonozeyl"
-      },
-      "volume": "02"
+      }
     },
     "018": {
       "title": "Dirty Jack",
+      "volume": "02",
       "last_updated": "1778369880",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mrv5za4d"
-      },
-      "volume": "02"
+      }
     },
     "019": {
       "title": "Où es-tu mon ami ?",
+      "volume": "02",
       "last_updated": "1778369869",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/xny8828bwyb"
-      },
-      "volume": "02"
+      }
     },
     "020": {
       "title": "Kidnapping",
+      "volume": "02",
       "last_updated": "1778369880",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/lqyeonrjz4d"
-      },
-      "volume": "02"
+      }
     },
     "021": {
       "title": "Soins à la chaîne",
+      "volume": "02",
       "last_updated": "1778369870",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nmkm55yn"
-      },
-      "volume": "02"
+      }
     },
     "022": {
       "title": "Entraide",
+      "volume": "02",
       "last_updated": "1778369875",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ne7bonjggy5"
-      },
-      "volume": "02"
+      }
     },
     "023": {
       "title": "Le stradivarius",
+      "volume": "02",
       "last_updated": "1778369877",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7o35kzl7p"
-      },
-      "volume": "02"
+      }
     },
     "024": {
       "title": "Pinoko en veut",
+      "volume": "02",
       "last_updated": "1778369883",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqe5bgxy2"
-      },
-      "volume": "02"
+      }
     },
     "025": {
       "title": "L'hôpital en otage",
+      "volume": "02",
       "last_updated": "1778369882",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/pg7336qko7r"
-      },
-      "volume": "02"
+      }
     },
     "026": {
       "title": "L'acupuncteur aveugle",
+      "volume": "02",
       "last_updated": "1778369897",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/bp45e6rkv45"
-      },
-      "volume": "02"
+      }
     },
     "027": {
       "title": "Le fils déshérité",
+      "volume": "03",
       "last_updated": "1778369902",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/o24aonlxeyl"
-      },
-      "volume": "03"
+      }
     },
     "028": {
       "title": "Tout le monde rétrécit !",
+      "volume": "03",
       "last_updated": "1778369900",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/a846z6mr2yx"
-      },
-      "volume": "03"
+      }
     },
     "029": {
       "title": "Les dingos",
+      "volume": "03",
       "last_updated": "1778369901",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/m9yxldbx6yq"
-      },
-      "volume": "03"
+      }
     },
     "030": {
       "title": "C'est votre faute !",
+      "volume": "03",
       "last_updated": "1778369896",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/agyvajbzky8"
-      },
-      "volume": "03"
+      }
     },
     "031": {
       "title": "Le rouge-gorge et le garçon",
+      "volume": "03",
       "last_updated": "1778369900",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9p4nmkag5yn"
-      },
-      "volume": "03"
+      }
     },
     "032": {
       "title": "L'enfant venu du ciel",
+      "volume": "03",
       "last_updated": "1778369898",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/92495lex8yn"
-      },
-      "volume": "03"
+      }
     },
     "033": {
       "title": "Black Jack hospitalisé",
+      "volume": "03",
       "last_updated": "1778369900",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/5xy2mnjp37l"
-      },
-      "volume": "03"
+      }
     },
     "034": {
       "title": "Une femme",
+      "volume": "03",
       "last_updated": "1778369899",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/dl7pw5bjjyo"
-      },
-      "volume": "03"
+      }
     },
     "035": {
       "title": "Les deux médecins en noir",
+      "volume": "03",
       "last_updated": "1778369896",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/md7o35kgl7p"
-      },
-      "volume": "03"
+      }
     },
     "036": {
       "title": "Les internes",
+      "volume": "03",
       "last_updated": "1778369902",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/na7kq5gzw78"
-      },
-      "volume": "03"
+      }
     },
     "037": {
       "title": "Une vieille femme se souvient",
+      "volume": "03",
       "last_updated": "1778369901",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/wl7ld58x3yx"
-      },
-      "volume": "03"
+      }
     },
     "038": {
       "title": "Pinoko amoureuse",
+      "volume": "03",
       "last_updated": "1778369911",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ej7mrv5ma4d"
-      },
-      "volume": "03"
+      }
     },
     "039": {
       "title": "Opiniâtreté",
+      "volume": "03",
       "last_updated": "1778369913",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/ljyqe5b9xy2"
-      },
-      "volume": "03"
+      }
     },
     "040": {
       "title": "Relation singulière",
+      "volume": "03",
       "last_updated": "1778369911",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/9rydond567k"
-      },
-      "volume": "03"
+      }
     },
     "041": {
       "title": "Le bébé de la consigne automatique",
+      "volume": "03",
       "last_updated": "1778369912",
       "groups": {
         "Chromatique": "/proxy/api/imgchest/chapter/6eyrz5bgl7p"
-      },
-      "volume": "03"
+      }
     }
   }
 }
